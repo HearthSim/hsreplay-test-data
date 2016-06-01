@@ -1,0 +1,10 @@
+{
+  "skip" : "False",
+  "description": "Testing an invalid power.log",
+  "event" : {
+  },
+  "context" : {},
+  "expected_response_is_replay_id" : "False",
+  "expected_response_string" : "{'log': ['Raw log data must contain a single GameState CREATE_GAME token.']}",
+  "expected_replay_assertions" : {}
+}

@@ -1,5 +1,5 @@
 {
-  "skip" : "False",
+  "skip" : "True",
   "description": "Testing an invalid power.log",
   "event" : {
   },

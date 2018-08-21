@@ -1,0 +1,302 @@
+D 13:59:18.4388879 GameState.DebugPrintPower() - CREATE_GAME
+D 13:59:18.4388879 GameState.DebugPrintPower() -     GameEntity EntityID=1
+D 13:59:18.4388879 GameState.DebugPrintPower() -         tag=CARDTYPE value=GAME
+D 13:59:18.4388879 GameState.DebugPrintPower() -         tag=ZONE value=PLAY
+D 13:59:18.4388879 GameState.DebugPrintPower() -         tag=ENTITY_ID value=1
+D 13:59:18.4388879 GameState.DebugPrintPower() -         tag=937 value=2909
+D 13:59:18.4388879 GameState.DebugPrintPower() -         tag=1018 value=209
+D 13:59:18.4388879 GameState.DebugPrintPower() -         tag=1019 value=8
+D 13:59:18.4388879 GameState.DebugPrintPower() -         tag=PUZZLE_MODE value=1
+D 13:59:18.4388879 GameState.DebugPrintPower() -     Player EntityID=2 PlayerID=1 GameAccountId=[hi=144115193835963207 lo=130951313]
+D 13:59:18.4388879 GameState.DebugPrintPower() -         tag=CONTROLLER value=1
+D 13:59:18.4388879 GameState.DebugPrintPower() -         tag=CARDTYPE value=PLAYER
+D 13:59:18.4393873 GameState.DebugPrintPower() -         tag=PLAYER_ID value=1
+D 13:59:18.4393873 GameState.DebugPrintPower() -         tag=HERO_ENTITY value=11
+D 13:59:18.4393873 GameState.DebugPrintPower() -         tag=MAXHANDSIZE value=10
+D 13:59:18.4393873 GameState.DebugPrintPower() -         tag=STARTHANDSIZE value=4
+D 13:59:18.4393873 GameState.DebugPrintPower() -         tag=TEAM_ID value=1
+D 13:59:18.4393873 GameState.DebugPrintPower() -         tag=ZONE value=PLAY
+D 13:59:18.4393873 GameState.DebugPrintPower() -         tag=ENTITY_ID value=2
+D 13:59:18.4393873 GameState.DebugPrintPower() -         tag=MAXRESOURCES value=10
+D 13:59:18.4393873 GameState.DebugPrintPower() -     Player EntityID=3 PlayerID=2 GameAccountId=[hi=0 lo=0]
+D 13:59:18.4393873 GameState.DebugPrintPower() -         tag=CONTROLLER value=2
+D 13:59:18.4393873 GameState.DebugPrintPower() -         tag=CARDTYPE value=PLAYER
+D 13:59:18.4393873 GameState.DebugPrintPower() -         tag=PLAYER_ID value=2
+D 13:59:18.4393873 GameState.DebugPrintPower() -         tag=HERO_ENTITY value=8
+D 13:59:18.4393873 GameState.DebugPrintPower() -         tag=MAXHANDSIZE value=10
+D 13:59:18.4393873 GameState.DebugPrintPower() -         tag=STARTHANDSIZE value=4
+D 13:59:18.4393873 GameState.DebugPrintPower() -         tag=TEAM_ID value=2
+D 13:59:18.4393873 GameState.DebugPrintPower() -         tag=ZONE value=PLAY
+D 13:59:18.4393873 GameState.DebugPrintPower() -         tag=ENTITY_ID value=3
+D 13:59:18.4393873 GameState.DebugPrintPower() -         tag=MAXRESOURCES value=10
+D 13:59:18.4393873 GameState.DebugPrintPower() - FULL_ENTITY - Creating ID=4 CardID=CS2_027
+D 13:59:18.4393873 GameState.DebugPrintPower() -     tag=CONTROLLER value=1
+D 13:59:18.4393873 GameState.DebugPrintPower() -     tag=CARDTYPE value=SPELL
+D 13:59:18.4393873 GameState.DebugPrintPower() -     tag=COST value=1
+D 13:59:18.4393873 GameState.DebugPrintPower() -     tag=ZONE value=SETASIDE
+D 13:59:18.4393873 GameState.DebugPrintPower() -     tag=ENTITY_ID value=4
+D 13:59:18.4393873 GameState.DebugPrintPower() -     tag=FACTION value=NEUTRAL
+D 13:59:18.4393873 GameState.DebugPrintPower() -     tag=RARITY value=FREE
+D 13:59:18.4393873 GameState.DebugPrintPower() -     tag=TAG_LAST_KNOWN_COST_IN_HAND value=1
+D 13:59:18.4393873 GameState.DebugPrintPower() - FULL_ENTITY - Creating ID=5 CardID=
+D 13:59:18.4393873 GameState.DebugPrintPower() -     tag=ZONE value=SETASIDE
+D 13:59:18.4393873 GameState.DebugPrintPower() -     tag=CONTROLLER value=2
+D 13:59:18.4393873 GameState.DebugPrintPower() -     tag=ENTITY_ID value=5
+D 13:59:18.4393873 GameState.DebugPrintPower() - FULL_ENTITY - Creating ID=6 CardID=HERO_04
+D 13:59:18.4398847 GameState.DebugPrintPower() -     tag=CONTROLLER value=1
+D 13:59:18.4398847 GameState.DebugPrintPower() -     tag=CARDTYPE value=HERO
+D 13:59:18.4398847 GameState.DebugPrintPower() -     tag=HEALTH value=30
+D 13:59:18.4398847 GameState.DebugPrintPower() -     tag=ZONE value=SETASIDE
+D 13:59:18.4398847 GameState.DebugPrintPower() -     tag=ENTITY_ID value=6
+D 13:59:18.4398847 GameState.DebugPrintPower() -     tag=FACTION value=NEUTRAL
+D 13:59:18.4398847 GameState.DebugPrintPower() -     tag=RARITY value=FREE
+D 13:59:18.4398847 GameState.DebugPrintPower() -     tag=HERO_POWER value=472
+D 13:59:18.4398847 GameState.DebugPrintPower() -     tag=REVEALED value=1
+D 13:59:18.4398847 GameState.DebugPrintPower() -     tag=1037 value=1
+D 13:59:18.4398847 GameState.DebugPrintPower() - FULL_ENTITY - Creating ID=7 CardID=CS2_101
+D 13:59:18.4398847 GameState.DebugPrintPower() -     tag=CONTROLLER value=1
+D 13:59:18.4398847 GameState.DebugPrintPower() -     tag=CARDTYPE value=HERO_POWER
+D 13:59:18.4398847 GameState.DebugPrintPower() -     tag=COST value=2
+D 13:59:18.4398847 GameState.DebugPrintPower() -     tag=ZONE value=SETASIDE
+D 13:59:18.4398847 GameState.DebugPrintPower() -     tag=ENTITY_ID value=7
+D 13:59:18.4398847 GameState.DebugPrintPower() -     tag=FACTION value=NEUTRAL
+D 13:59:18.4398847 GameState.DebugPrintPower() -     tag=RARITY value=FREE
+D 13:59:18.4398847 GameState.DebugPrintPower() -     tag=CREATOR value=6
+D 13:59:18.4398847 GameState.DebugPrintPower() -     tag=TAG_LAST_KNOWN_COST_IN_HAND value=2
+D 13:59:18.4398847 GameState.DebugPrintPower() -     tag=1037 value=1
+D 13:59:18.4398847 GameState.DebugPrintPower() - FULL_ENTITY - Creating ID=8 CardID=BOTA_BOSS_15h
+D 13:59:18.4398847 GameState.DebugPrintPower() -     tag=CONTROLLER value=2
+D 13:59:18.4398847 GameState.DebugPrintPower() -     tag=CARDTYPE value=HERO
+D 13:59:18.4398847 GameState.DebugPrintPower() -     tag=HEALTH value=30
+D 13:59:18.4398847 GameState.DebugPrintPower() -     tag=ZONE value=PLAY
+D 13:59:18.4398847 GameState.DebugPrintPower() -     tag=ENTITY_ID value=8
+D 13:59:18.4398847 GameState.DebugPrintPower() -     tag=IMMUNE value=1
+D 13:59:18.4398847 GameState.DebugPrintPower() -     tag=CANT_BE_ATTACKED value=1
+D 13:59:18.4398847 GameState.DebugPrintPower() -     tag=CANT_BE_TARGETED value=1
+D 13:59:18.4398847 GameState.DebugPrintPower() -     tag=HERO_POWER value=52181
+D 13:59:18.4403845 GameState.DebugPrintPower() -     tag=HIDE_STATS value=1
+D 13:59:18.4403845 GameState.DebugPrintPower() -     tag=DONT_SHOW_IMMUNE value=1
+D 13:59:18.4403845 GameState.DebugPrintPower() -     tag=APPEAR_FUNCTIONALLY_DEAD value=1
+D 13:59:18.4403845 GameState.DebugPrintPower() - FULL_ENTITY - Creating ID=9 CardID=BOTA_BOSS_15p
+D 13:59:18.4403845 GameState.DebugPrintPower() -     tag=CONTROLLER value=2
+D 13:59:18.4403845 GameState.DebugPrintPower() -     tag=CARDTYPE value=HERO_POWER
+D 13:59:18.4403845 GameState.DebugPrintPower() -     tag=TAG_SCRIPT_DATA_NUM_1 value=29
+D 13:59:18.4403845 GameState.DebugPrintPower() -     tag=ZONE value=PLAY
+D 13:59:18.4403845 GameState.DebugPrintPower() -     tag=ENTITY_ID value=9
+D 13:59:18.4403845 GameState.DebugPrintPower() -     tag=CREATOR value=8
+D 13:59:18.4403845 GameState.DebugPrintPower() -     tag=1037 value=2
+D 13:59:18.4403845 GameState.DebugPrintPower() - FULL_ENTITY - Creating ID=10 CardID=BOTA_611
+D 13:59:18.4403845 GameState.DebugPrintPower() -     tag=CONTROLLER value=1
+D 13:59:18.4403845 GameState.DebugPrintPower() -     tag=CARDTYPE value=SPELL
+D 13:59:18.4403845 GameState.DebugPrintPower() -     tag=COST value=1
+D 13:59:18.4403845 GameState.DebugPrintPower() -     tag=ZONE value=GRAVEYARD
+D 13:59:18.4403845 GameState.DebugPrintPower() -     tag=ENTITY_ID value=10
+D 13:59:18.4403845 GameState.DebugPrintPower() -     tag=CREATOR value=1
+D 13:59:18.4403845 GameState.DebugPrintPower() -     tag=TAG_LAST_KNOWN_COST_IN_HAND value=1
+D 13:59:18.4403845 GameState.DebugPrintPower() - FULL_ENTITY - Creating ID=11 CardID=HERO_04
+D 13:59:18.4403845 GameState.DebugPrintPower() -     tag=CONTROLLER value=1
+D 13:59:18.4403845 GameState.DebugPrintPower() -     tag=CARDTYPE value=HERO
+D 13:59:18.4403845 GameState.DebugPrintPower() -     tag=DAMAGE value=20
+D 13:59:18.4403845 GameState.DebugPrintPower() -     tag=HEALTH value=30
+D 13:59:18.4403845 GameState.DebugPrintPower() -     tag=ZONE value=PLAY
+D 13:59:18.4403845 GameState.DebugPrintPower() -     tag=ENTITY_ID value=11
+D 13:59:18.4403845 GameState.DebugPrintPower() -     tag=FACTION value=NEUTRAL
+D 13:59:18.4403845 GameState.DebugPrintPower() -     tag=RARITY value=FREE
+D 13:59:18.4403845 GameState.DebugPrintPower() -     tag=LINKED_ENTITY value=6
+D 13:59:18.4403845 GameState.DebugPrintPower() -     tag=CREATOR value=10
+D 13:59:18.4403845 GameState.DebugPrintPower() -     tag=HERO_POWER value=472
+D 13:59:18.4403845 GameState.DebugPrintPower() -     tag=1037 value=1
+D 13:59:18.4403845 GameState.DebugPrintPower() - FULL_ENTITY - Creating ID=12 CardID=CS2_101
+D 13:59:18.4408850 GameState.DebugPrintPower() -     tag=CONTROLLER value=1
+D 13:59:18.4408850 GameState.DebugPrintPower() -     tag=CARDTYPE value=HERO_POWER
+D 13:59:18.4408850 GameState.DebugPrintPower() -     tag=COST value=2
+D 13:59:18.4408850 GameState.DebugPrintPower() -     tag=ZONE value=PLAY
+D 13:59:18.4408850 GameState.DebugPrintPower() -     tag=ENTITY_ID value=12
+D 13:59:18.4408850 GameState.DebugPrintPower() -     tag=FACTION value=NEUTRAL
+D 13:59:18.4408850 GameState.DebugPrintPower() -     tag=RARITY value=FREE
+D 13:59:18.4408850 GameState.DebugPrintPower() -     tag=CREATOR value=10
+D 13:59:18.4408850 GameState.DebugPrintPower() -     tag=TAG_LAST_KNOWN_COST_IN_HAND value=2
+D 13:59:18.4408850 GameState.DebugPrintPower() -     tag=1037 value=1
+D 13:59:18.4408850 GameState.DebugPrintPower() - TAG_CHANGE Entity=1 tag=STATE value=RUNNING 
+D 13:59:18.4408850 GameState.DebugPrintPower() - TAG_CHANGE Entity=2 tag=PLAYSTATE value=PLAYING 
+D 13:59:18.4408850 GameState.DebugPrintPower() - TAG_CHANGE Entity=3 tag=PLAYSTATE value=PLAYING 
+D 13:59:18.4408850 GameState.DebugPrintPower() - BLOCK_START BlockType=TRIGGER Entity=1 EffectCardId= EffectIndex=0 Target=0 SubOption=-1 TriggerKeyword=PUZZLE_MODE
+D 13:59:18.4408850 GameState.DebugPrintPower() -     TAG_CHANGE Entity=3 tag=CURRENT_PLAYER value=1 
+D 13:59:18.4408850 GameState.DebugPrintPower() -     TAG_CHANGE Entity=3 tag=FIRST_PLAYER value=1 
+D 13:59:18.4408850 GameState.DebugPrintPower() -     TAG_CHANGE Entity=1 tag=TURN value=1 
+D 13:59:18.4408850 GameState.DebugPrintPower() -     TAG_CHANGE Entity=1 tag=END_TURN_BUTTON_ALTERNATIVE_APPEARANCE value=1 
+D 13:59:18.4408850 GameState.DebugPrintPower() -     TAG_CHANGE Entity=1 tag=TURN_INDICATOR_ALTERNATIVE_APPEARANCE value=3 
+D 13:59:18.4408850 GameState.DebugPrintPower() -     TAG_CHANGE Entity=1 tag=CONCEDE_BUTTON_ALTERNATIVE_TEXT value=1 
+D 13:59:18.4408850 GameState.DebugPrintPower() -     TAG_CHANGE Entity=1 tag=HIDE_RESTART_BUTTON value=1 
+D 13:59:18.4408850 GameState.DebugPrintPower() -     TAG_CHANGE Entity=1 tag=HIDE_OUT_OF_CARDS_WARNING value=1 
+D 13:59:18.4408850 GameState.DebugPrintPower() -     TAG_CHANGE Entity=1 tag=SUPPRESS_JOBS_DONE_VO value=1 
+D 13:59:18.4408850 GameState.DebugPrintPower() -     TAG_CHANGE Entity=2 tag=NUM_TURNS_LEFT value=1 
+D 13:59:18.4408850 GameState.DebugPrintPower() -     TAG_CHANGE Entity=3 tag=NUM_TURNS_LEFT value=1 
+D 13:59:18.4408850 GameState.DebugPrintPower() -     TAG_CHANGE Entity=1 tag=NEXT_STEP value=MAIN_READY 
+D 13:59:18.4408850 GameState.DebugPrintPower() - BLOCK_END
+D 13:59:18.4603867 GameState.DebugPrintGame() - BuildNumber=25770
+D 13:59:18.4603867 GameState.DebugPrintGame() - GameType=GT_VS_AI
+D 13:59:18.4603867 GameState.DebugPrintGame() - FormatType=FT_WILD
+D 13:59:18.4603867 GameState.DebugPrintGame() - ScenarioID=2909
+D 13:59:18.4603867 GameState.DebugPrintGame() - PlayerID=1, PlayerName=StrafeMaster#11778
+D 13:59:18.4603867 GameState.DebugPrintGame() - PlayerID=2, PlayerName=The Innkeeper
+D 13:59:18.9573424 GameState.DebugPrintPowerList() - Count=30
+D 13:59:18.9573424 GameState.DebugPrintPower() - TAG_CHANGE Entity=GameEntity tag=STEP value=MAIN_READY 
+D 13:59:18.9573424 GameState.DebugPrintPower() - BLOCK_START BlockType=TRIGGER Entity=Boomnician Breena EffectCardId= EffectIndex=-1 Target=0 SubOption=-1 TriggerKeyword=0
+D 13:59:18.9573424 GameState.DebugPrintPower() -     TAG_CHANGE Entity=GameEntity tag=NUM_TURNS_IN_PLAY value=1 
+D 13:59:18.9573424 GameState.DebugPrintPower() -     TAG_CHANGE Entity=StrafeMaster#11778 tag=NUM_TURNS_IN_PLAY value=1 
+D 13:59:18.9573424 GameState.DebugPrintPower() -     TAG_CHANGE Entity=Boomnician Breena tag=NUM_TURNS_IN_PLAY value=1 
+D 13:59:18.9573424 GameState.DebugPrintPower() -     TAG_CHANGE Entity=[entityName=Boomnician Breena id=8 zone=PLAY zonePos=0 cardId=BOTA_BOSS_15h player=2] tag=NUM_TURNS_IN_PLAY value=1 
+D 13:59:18.9573424 GameState.DebugPrintPower() -     TAG_CHANGE Entity=[entityName=Firework Volley id=9 zone=PLAY zonePos=0 cardId=BOTA_BOSS_15p player=2] tag=NUM_TURNS_IN_PLAY value=1 
+D 13:59:18.9573424 GameState.DebugPrintPower() -     TAG_CHANGE Entity=[entityName=Uther Lightbringer id=11 zone=PLAY zonePos=0 cardId=HERO_04 player=1] tag=NUM_TURNS_IN_PLAY value=1 
+D 13:59:18.9573424 GameState.DebugPrintPower() -     TAG_CHANGE Entity=[entityName=Reinforce id=12 zone=PLAY zonePos=0 cardId=CS2_101 player=1] tag=NUM_TURNS_IN_PLAY value=1 
+D 13:59:18.9573424 GameState.DebugPrintPower() -     TAG_CHANGE Entity=Boomnician Breena tag=RESOURCES value=1 
+D 13:59:18.9573424 GameState.DebugPrintPower() -     TAG_CHANGE Entity=GameEntity tag=NEXT_STEP value=MAIN_START_TRIGGERS 
+D 13:59:18.9573424 GameState.DebugPrintPower() - BLOCK_END
+D 13:59:18.9573424 GameState.DebugPrintPower() - TAG_CHANGE Entity=GameEntity tag=STEP value=MAIN_START_TRIGGERS
+D 13:59:18.9573424 GameState.DebugPrintPower() - BLOCK_START BlockType=TRIGGER Entity=GameEntity EffectCardId= EffectIndex=3 Target=0 SubOption=-1 TriggerKeyword=0
+D 13:59:18.9573424 GameState.DebugPrintPower() - BLOCK_END
+D 13:59:18.9573424 GameState.DebugPrintPower() - BLOCK_START BlockType=TRIGGER Entity=Boomnician Breena EffectCardId= EffectIndex=-1 Target=0 SubOption=-1 TriggerKeyword=0
+D 13:59:18.9573424 GameState.DebugPrintPower() -     TAG_CHANGE Entity=GameEntity tag=NEXT_STEP value=MAIN_START
+D 13:59:18.9578426 GameState.DebugPrintPower() - BLOCK_END
+D 13:59:18.9578426 GameState.DebugPrintPower() - TAG_CHANGE Entity=GameEntity tag=STEP value=MAIN_START
+D 13:59:18.9578426 GameState.DebugPrintPower() - BLOCK_START BlockType=TRIGGER Entity=Boomnician Breena EffectCardId= EffectIndex=-1 Target=0 SubOption=-1 TriggerKeyword=0
+D 13:59:18.9578426 GameState.DebugPrintPower() -     TAG_CHANGE Entity=Boomnician Breena tag=467 value=1
+D 13:59:18.9578426 GameState.DebugPrintPower() -     BLOCK_START BlockType=TRIGGER Entity=GameEntity EffectCardId= EffectIndex=2 Target=0 SubOption=-1 TriggerKeyword=0
+D 13:59:18.9578426 GameState.DebugPrintPower() -         TAG_CHANGE Entity=Boomnician Breena tag=467 value=0
+D 13:59:18.9578426 GameState.DebugPrintPower() -     BLOCK_END
+D 13:59:18.9578426 GameState.DebugPrintPower() -     TAG_CHANGE Entity=GameEntity tag=NEXT_STEP value=MAIN_ACTION
+D 13:59:18.9578426 GameState.DebugPrintPower() - BLOCK_END
+D 13:59:18.9578426 GameState.DebugPrintPower() - TAG_CHANGE Entity=GameEntity tag=STEP value=MAIN_ACTION
+D 13:59:18.9578426 GameState.DebugPrintPower() - BLOCK_START BlockType=TRIGGER Entity=Boomnician Breena EffectCardId= EffectIndex=-1 Target=0 SubOption=-1 TriggerKeyword=0
+D 13:59:18.9578426 GameState.DebugPrintPower() -     TAG_CHANGE Entity=GameEntity tag=NEXT_STEP value=MAIN_END
+D 13:59:18.9578426 GameState.DebugPrintPower() - BLOCK_END
+D 13:59:19.6541471 GameState.DebugPrintPowerList() - Count=68
+D 13:59:19.6541471 GameState.DebugPrintPower() - TAG_CHANGE Entity=GameEntity tag=STEP value=MAIN_END
+D 13:59:19.6541471 GameState.DebugPrintPower() - BLOCK_START BlockType=TRIGGER Entity=StrafeMaster#11778 EffectCardId= EffectIndex=-1 Target=0 SubOption=-1 TriggerKeyword=0
+D 13:59:19.6541471 GameState.DebugPrintPower() - BLOCK_END
+D 13:59:19.6541471 GameState.DebugPrintPower() - BLOCK_START BlockType=TRIGGER Entity=Boomnician Breena EffectCardId= EffectIndex=-1 Target=0 SubOption=-1 TriggerKeyword=0
+D 13:59:19.6541471 GameState.DebugPrintPower() -     TAG_CHANGE Entity=GameEntity tag=NEXT_STEP value=MAIN_CLEANUP
+D 13:59:19.6541471 GameState.DebugPrintPower() - BLOCK_END
+D 13:59:19.6541471 GameState.DebugPrintPower() - BLOCK_START BlockType=TRIGGER Entity=Boomnician Breena EffectCardId= EffectIndex=-1 Target=0 SubOption=-1 TriggerKeyword=0
+D 13:59:19.6541471 GameState.DebugPrintPower() - BLOCK_END
+D 13:59:19.6541471 GameState.DebugPrintPower() - TAG_CHANGE Entity=GameEntity tag=STEP value=MAIN_CLEANUP
+D 13:59:19.6541471 GameState.DebugPrintPower() - BLOCK_START BlockType=TRIGGER Entity=Boomnician Breena EffectCardId= EffectIndex=-1 Target=0 SubOption=-1 TriggerKeyword=0
+D 13:59:19.6541471 GameState.DebugPrintPower() -     TAG_CHANGE Entity=GameEntity tag=NEXT_STEP value=MAIN_NEXT
+D 13:59:19.6541471 GameState.DebugPrintPower() - BLOCK_END
+D 13:59:19.6541471 GameState.DebugPrintPower() - TAG_CHANGE Entity=GameEntity tag=STEP value=MAIN_NEXT
+D 13:59:19.6541471 GameState.DebugPrintPower() - BLOCK_START BlockType=TRIGGER Entity=GameEntity EffectCardId= EffectIndex=1 Target=0 SubOption=-1 TriggerKeyword=0
+D 13:59:19.6541471 GameState.DebugPrintPower() -     TAG_CHANGE Entity=Boomnician Breena tag=CURRENT_PLAYER value=0
+D 13:59:19.6541471 GameState.DebugPrintPower() -     TAG_CHANGE Entity=StrafeMaster#11778 tag=CURRENT_PLAYER value=1
+D 13:59:19.6541471 GameState.DebugPrintPower() -     TAG_CHANGE Entity=GameEntity tag=TURN value=2
+D 13:59:19.6541471 GameState.DebugPrintPower() -     TAG_CHANGE Entity=GameEntity tag=NEXT_STEP value=MAIN_READY
+D 13:59:19.6541471 GameState.DebugPrintPower() - BLOCK_END
+D 13:59:19.6541471 GameState.DebugPrintPower() - TAG_CHANGE Entity=GameEntity tag=STEP value=MAIN_READY
+D 13:59:19.6541471 GameState.DebugPrintPower() - BLOCK_START BlockType=TRIGGER Entity=GameEntity EffectCardId= EffectIndex=8 Target=0 SubOption=-1 TriggerKeyword=0
+D 13:59:19.6541471 GameState.DebugPrintPower() -     FULL_ENTITY - Creating ID=13 CardID=BOTA_701
+D 13:59:19.6541471 GameState.DebugPrintPower() -         tag=CONTROLLER value=1
+D 13:59:19.6541471 GameState.DebugPrintPower() -         tag=CARDTYPE value=SPELL
+D 13:59:19.6541471 GameState.DebugPrintPower() -         tag=ZONE value=SECRET
+D 13:59:19.6541471 GameState.DebugPrintPower() -         tag=ENTITY_ID value=13
+D 13:59:19.6541471 GameState.DebugPrintPower() -         tag=CLASS value=NEUTRAL
+D 13:59:19.6541471 GameState.DebugPrintPower() -         tag=CREATOR value=1
+D 13:59:19.6541471 GameState.DebugPrintPower() -         tag=349 value=1
+D 13:59:19.6541471 GameState.DebugPrintPower() -         tag=PUZZLE value=1
+D 13:59:19.6541471 GameState.DebugPrintPower() -         tag=PUZZLE_TYPE value=3
+D 13:59:19.6541471 GameState.DebugPrintPower() -     TAG_CHANGE Entity=GameEntity tag=TAG_SCRIPT_DATA_ENT_1 value=13
+D 13:59:19.6541471 GameState.DebugPrintPower() - BLOCK_END
+D 13:59:19.6541471 GameState.DebugPrintPower() - BLOCK_START BlockType=TRIGGER Entity=StrafeMaster#11778 EffectCardId= EffectIndex=-1 Target=0 SubOption=-1 TriggerKeyword=0
+D 13:59:19.6541471 GameState.DebugPrintPower() -     TAG_CHANGE Entity=GameEntity tag=NUM_TURNS_IN_PLAY value=2
+D 13:59:19.6541471 GameState.DebugPrintPower() -     TAG_CHANGE Entity=StrafeMaster#11778 tag=NUM_TURNS_IN_PLAY value=2
+D 13:59:19.6541471 GameState.DebugPrintPower() -     TAG_CHANGE Entity=Boomnician Breena tag=NUM_TURNS_IN_PLAY value=2
+D 13:59:19.6541471 GameState.DebugPrintPower() -     TAG_CHANGE Entity=[entityName=Boomnician Breena id=8 zone=PLAY zonePos=0 cardId=BOTA_BOSS_15h player=2] tag=NUM_TURNS_IN_PLAY value=2
+D 13:59:19.6546681 GameState.DebugPrintPower() -     TAG_CHANGE Entity=[entityName=Firework Volley id=9 zone=PLAY zonePos=0 cardId=BOTA_BOSS_15p player=2] tag=NUM_TURNS_IN_PLAY value=2
+D 13:59:19.6546681 GameState.DebugPrintPower() -     TAG_CHANGE Entity=[entityName=Uther Lightbringer id=11 zone=PLAY zonePos=0 cardId=HERO_04 player=1] tag=NUM_TURNS_IN_PLAY value=2
+D 13:59:19.6546681 GameState.DebugPrintPower() -     TAG_CHANGE Entity=[entityName=Reinforce id=12 zone=PLAY zonePos=0 cardId=CS2_101 player=1] tag=NUM_TURNS_IN_PLAY value=2
+D 13:59:19.6546681 GameState.DebugPrintPower() -     TAG_CHANGE Entity=StrafeMaster#11778 tag=RESOURCES value=1
+D 13:59:19.6546681 GameState.DebugPrintPower() -     TAG_CHANGE Entity=13 tag=EXHAUSTED value=1
+D 13:59:19.6546681 GameState.DebugPrintPower() -     TAG_CHANGE Entity=GameEntity tag=NEXT_STEP value=MAIN_START_TRIGGERS
+D 13:59:19.6546681 GameState.DebugPrintPower() - BLOCK_END
+D 13:59:19.6546681 GameState.DebugPrintPower() - TAG_CHANGE Entity=GameEntity tag=STEP value=MAIN_START_TRIGGERS
+D 13:59:19.6546681 GameState.DebugPrintPower() - BLOCK_START BlockType=TRIGGER Entity=GameEntity EffectCardId= EffectIndex=3 Target=0 SubOption=-1 TriggerKeyword=0
+D 13:59:19.6546681 GameState.DebugPrintPower() - BLOCK_END
+D 13:59:19.6546681 GameState.DebugPrintPower() - BLOCK_START BlockType=TRIGGER Entity=GameEntity EffectCardId= EffectIndex=4 Target=0 SubOption=-1 TriggerKeyword=0
+D 13:59:19.6546681 GameState.DebugPrintPower() -     TAG_CHANGE Entity=13 tag=PUZZLE_PROGRESS_TOTAL value=8
+D 13:59:19.6546681 GameState.DebugPrintPower() -     TAG_CHANGE Entity=13 tag=PUZZLE_PROGRESS value=1
+D 13:59:19.6546681 GameState.DebugPrintPower() -     TAG_CHANGE Entity=GameEntity tag=MISSION_EVENT value=10
+D 13:59:19.6546681 GameState.DebugPrintPower() -     FULL_ENTITY - Creating ID=14 CardID=BOTA_611
+D 13:59:19.6546681 GameState.DebugPrintPower() -         tag=CONTROLLER value=1
+D 13:59:19.6546681 GameState.DebugPrintPower() -         tag=CARDTYPE value=SPELL
+D 13:59:19.6546681 GameState.DebugPrintPower() -         tag=COST value=1
+D 13:59:19.6546681 GameState.DebugPrintPower() -         tag=ZONE value=SETASIDE
+D 13:59:19.6546681 GameState.DebugPrintPower() -         tag=ENTITY_ID value=14
+D 13:59:19.6546681 GameState.DebugPrintPower() -         tag=CREATOR value=1
+D 13:59:19.6546681 GameState.DebugPrintPower() -         tag=TAG_LAST_KNOWN_COST_IN_HAND value=1
+D 13:59:19.6546681 GameState.DebugPrintPower() -     TAG_CHANGE Entity=14 tag=ZONE value=PLAY
+D 13:59:19.6546681 GameState.DebugPrintPower() -     BLOCK_START BlockType=POWER Entity=14 EffectCardId= EffectIndex=0 Target=0 SubOption=-1
+D 13:59:19.6546681 GameState.DebugPrintPower() -         TAG_CHANGE Entity=StrafeMaster#11778 tag=RESOURCES value=9
+D 13:59:19.6546681 GameState.DebugPrintPower() -         FULL_ENTITY - Creating ID=15 CardID=OG_198
+D 13:59:19.6546681 GameState.DebugPrintPower() -             tag=CONTROLLER value=1
+D 13:59:19.6546681 GameState.DebugPrintPower() -             tag=CARDTYPE value=SPELL
+D 13:59:19.6546681 GameState.DebugPrintPower() -             tag=ZONE value=HAND
+D 13:59:19.6551412 GameState.DebugPrintPower() -             tag=ENTITY_ID value=15
+D 13:59:19.6551412 GameState.DebugPrintPower() -             tag=RARITY value=EPIC
+D 13:59:19.6551412 GameState.DebugPrintPower() -             tag=ZONE_POSITION value=1
+D 13:59:19.6551412 GameState.DebugPrintPower() -             tag=CREATOR value=14
+D 13:59:19.6551412 GameState.DebugPrintPower() -             tag=1037 value=1
+D 13:59:19.6551412 GameState.DebugPrintPower() -         FULL_ENTITY - Creating ID=16 CardID=CS2_089
+D 13:59:19.6551412 GameState.DebugPrintPower() -             tag=CONTROLLER value=1
+D 13:59:19.6551412 GameState.DebugPrintPower() -             tag=CARDTYPE value=SPELL
+D 13:59:19.6551412 GameState.DebugPrintPower() -             tag=COST value=2
+D 13:59:19.6551412 GameState.DebugPrintPower() -             tag=ZONE value=HAND
+D 13:59:19.6551412 GameState.DebugPrintPower() -             tag=ENTITY_ID value=16
+D 13:59:19.6551412 GameState.DebugPrintPower() -             tag=FACTION value=NEUTRAL
+D 13:59:19.6551412 GameState.DebugPrintPower() -             tag=RARITY value=FREE
+D 13:59:19.6551412 GameState.DebugPrintPower() -             tag=ZONE_POSITION value=2
+D 13:59:19.6551412 GameState.DebugPrintPower() -             tag=CREATOR value=14
+D 13:59:19.6551412 GameState.DebugPrintPower() -             tag=TAG_LAST_KNOWN_COST_IN_HAND value=2
+D 13:59:19.6551412 GameState.DebugPrintPower() -             tag=1037 value=1
+D 13:59:19.6551412 GameState.DebugPrintPower() -     BLOCK_END
+D 13:59:19.6551412 GameState.DebugPrintPower() -     TAG_CHANGE Entity=14 tag=ZONE value=GRAVEYARD
+D 13:59:19.6551412 GameState.DebugPrintPower() -     TAG_CHANGE Entity=GameEntity tag=PUZZLE_NAME value=51058
+D 13:59:19.6551412 GameState.DebugPrintPower() - BLOCK_END
+D 13:59:19.6551412 GameState.DebugPrintPower() - BLOCK_START BlockType=TRIGGER Entity=StrafeMaster#11778 EffectCardId= EffectIndex=-1 Target=0 SubOption=-1 TriggerKeyword=0
+D 13:59:19.6551412 GameState.DebugPrintPower() -     TAG_CHANGE Entity=GameEntity tag=NEXT_STEP value=MAIN_START
+D 13:59:19.6551412 GameState.DebugPrintPower() - BLOCK_END
+D 13:59:19.6551412 GameState.DebugPrintPower() - TAG_CHANGE Entity=GameEntity tag=STEP value=MAIN_START
+D 13:59:19.6551412 GameState.DebugPrintPower() - BLOCK_START BlockType=TRIGGER Entity=StrafeMaster#11778 EffectCardId= EffectIndex=-1 Target=0 SubOption=-1 TriggerKeyword=0
+D 13:59:19.6551412 GameState.DebugPrintPower() -     TAG_CHANGE Entity=StrafeMaster#11778 tag=467 value=1
+D 13:59:19.6551412 GameState.DebugPrintPower() -     BLOCK_START BlockType=TRIGGER Entity=GameEntity EffectCardId= EffectIndex=2 Target=0 SubOption=-1 TriggerKeyword=0
+D 13:59:19.6551412 GameState.DebugPrintPower() -         TAG_CHANGE Entity=StrafeMaster#11778 tag=467 value=0
+D 13:59:19.6551412 GameState.DebugPrintPower() -     BLOCK_END
+D 13:59:19.6551412 GameState.DebugPrintPower() -     TAG_CHANGE Entity=GameEntity tag=NEXT_STEP value=MAIN_ACTION
+D 13:59:19.6551412 GameState.DebugPrintPower() - BLOCK_END
+D 13:59:19.6551412 GameState.DebugPrintPower() - TAG_CHANGE Entity=GameEntity tag=STEP value=MAIN_ACTION
+D 13:59:19.6551412 GameState.DebugPrintPower() - BLOCK_START BlockType=TRIGGER Entity=StrafeMaster#11778 EffectCardId= EffectIndex=-1 Target=0 SubOption=-1 TriggerKeyword=0
+D 13:59:19.6551412 GameState.DebugPrintPower() -     TAG_CHANGE Entity=GameEntity tag=NEXT_STEP value=MAIN_END
+D 13:59:19.6551412 GameState.DebugPrintPower() - BLOCK_END
+D 13:59:19.7196424 GameState.DebugPrintOptions() - id=2
+D 13:59:19.7196424 GameState.DebugPrintOptions() -   option 0 type=END_TURN mainEntity= error=INVALID errorParam=
+D 13:59:19.7196424 GameState.DebugPrintOptions() -   option 1 type=POWER mainEntity=[entityName=Forbidden Healing id=15 zone=HAND zonePos=1 cardId=OG_198 player=1] error=NONE errorParam=
+D 13:59:19.7196424 GameState.DebugPrintOptions() -     target 0 entity=[entityName=Uther Lightbringer id=11 zone=PLAY zonePos=0 cardId=HERO_04 player=1] error=NONE errorParam=
+D 13:59:19.7196424 GameState.DebugPrintOptions() -     target 1 entity=[entityName=Boomnician Breena id=8 zone=PLAY zonePos=0 cardId=BOTA_BOSS_15h player=2] error=REQ_ENEMY_TARGET_NOT_IMMUNE errorParam=
+D 13:59:19.7196424 GameState.DebugPrintOptions() -   option 2 type=POWER mainEntity=[entityName=Holy Light id=16 zone=HAND zonePos=2 cardId=CS2_089 player=1] error=NONE errorParam=
+D 13:59:19.7196424 GameState.DebugPrintOptions() -     target 0 entity=[entityName=Uther Lightbringer id=11 zone=PLAY zonePos=0 cardId=HERO_04 player=1] error=NONE errorParam=
+D 13:59:19.7196424 GameState.DebugPrintOptions() -     target 1 entity=[entityName=Boomnician Breena id=8 zone=PLAY zonePos=0 cardId=BOTA_BOSS_15h player=2] error=REQ_ENEMY_TARGET_NOT_IMMUNE errorParam=
+D 13:59:19.7196424 GameState.DebugPrintOptions() -   option 3 type=POWER mainEntity=[entityName=Reinforce id=12 zone=PLAY zonePos=0 cardId=CS2_101 player=1] error=NONE errorParam=
+D 13:59:19.7196424 GameState.DebugPrintOptions() -   option 4 type=POWER mainEntity=[entityName=Boomnician Breena id=8 zone=PLAY zonePos=0 cardId=BOTA_BOSS_15h player=2] error=REQ_YOUR_TURN errorParam=
+D 13:59:19.7196424 GameState.DebugPrintOptions() -   option 5 type=POWER mainEntity=[entityName=Firework Volley id=9 zone=PLAY zonePos=0 cardId=BOTA_BOSS_15p player=2] error=REQ_YOUR_TURN errorParam=
+D 13:59:19.7196424 GameState.DebugPrintOptions() -   option 6 type=POWER mainEntity=[entityName=Uther Lightbringer id=11 zone=PLAY zonePos=0 cardId=HERO_04 player=1] error=REQ_ATTACK_GREATER_THAN_0 errorParam=
+D 14:00:26.0875549 GameState.DebugPrintPowerList() - Count=10
+D 14:00:26.0875549 GameState.DebugPrintPower() - TAG_CHANGE Entity=StrafeMaster#11778 tag=PLAYSTATE value=CONCEDED
+D 14:00:26.0875549 GameState.DebugPrintPower() - TAG_CHANGE Entity=StrafeMaster#11778 tag=PLAYSTATE value=LOST
+D 14:00:26.0875549 GameState.DebugPrintPower() - TAG_CHANGE Entity=Boomnician Breena tag=PLAYSTATE value=WON
+D 14:00:26.0875549 GameState.DebugPrintPower() - TAG_CHANGE Entity=GameEntity tag=NEXT_STEP value=FINAL_WRAPUP
+D 14:00:26.0880886 GameState.DebugPrintPower() - TAG_CHANGE Entity=GameEntity tag=STEP value=FINAL_WRAPUP
+D 14:00:26.0880886 GameState.DebugPrintPower() - BLOCK_START BlockType=TRIGGER Entity=GameEntity EffectCardId= EffectIndex=-1 Target=0 SubOption=-1 TriggerKeyword=0
+D 14:00:26.0880886 GameState.DebugPrintPower() -     TAG_CHANGE Entity=GameEntity tag=NEXT_STEP value=FINAL_GAMEOVER
+D 14:00:26.0880886 GameState.DebugPrintPower() - BLOCK_END
+D 14:00:26.0880886 GameState.DebugPrintPower() - TAG_CHANGE Entity=GameEntity tag=STEP value=FINAL_GAMEOVER
+D 14:00:26.0880886 GameState.DebugPrintPower() - TAG_CHANGE Entity=GameEntity tag=STATE value=COMPLETE
+D 14:00:26.1540475 GameState.DebugPrintPowerList() - Count=1
+D 14:00:26.1540475 GameState.DebugPrintPower() - TAG_CHANGE Entity=StrafeMaster#11778 tag=GOLD_REWARD_STATE value=2

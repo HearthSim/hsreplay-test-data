@@ -1,0 +1,397 @@
+<HSReplay build="25770" version="1.6">
+  <Game id="21757958" type="1" format="1" scenarioID="2943" reconnecting="true" ts="2018-08-21T12:53:36.453663-07:00">
+    <GameEntity id="1">
+      <Tag tag="202" value="1" GameTagName="CARDTYPE"/>
+      <Tag tag="4" value="12" GameTagName="TAG_SCRIPT_DATA_ENT_1"/>
+      <Tag tag="19" value="10" GameTagName="STEP" StepName="MAIN_ACTION"/>
+      <Tag tag="20" value="2" GameTagName="TURN"/>
+      <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+      <Tag tag="53" value="1" GameTagName="ENTITY_ID"/>
+      <Tag tag="198" value="12" GameTagName="NEXT_STEP"/>
+      <Tag tag="204" value="2" GameTagName="STATE"/>
+      <Tag tag="271" value="2" GameTagName="NUM_TURNS_IN_PLAY"/>
+      <Tag tag="937" value="2943"/>
+      <Tag tag="985" value="1" GameTagName="CONCEDE_BUTTON_ALTERNATIVE_TEXT"/>
+      <Tag tag="990" value="1" GameTagName="HIDE_RESTART_BUTTON"/>
+      <Tag tag="1000" value="1" GameTagName="END_TURN_BUTTON_ALTERNATIVE_APPEARANCE"/>
+      <Tag tag="1018" value="202"/>
+      <Tag tag="1019" value="7"/>
+      <Tag tag="1026" value="52228" GameTagName="PUZZLE_NAME"/>
+      <Tag tag="1027" value="2" GameTagName="TURN_INDICATOR_ALTERNATIVE_APPEARANCE"/>
+      <Tag tag="1050" value="1" GameTagName="HIDE_OUT_OF_CARDS_WARNING"/>
+      <Tag tag="1055" value="1" GameTagName="SUPPRESS_JOBS_DONE_VO"/>
+      <Tag tag="1073" value="1" GameTagName="PUZZLE_MODE"/>
+    </GameEntity>
+    <Player id="2" playerID="1" accountHi="144115193835963207" accountLo="147842578" name="Faust#12367" cardback="143">
+      <Tag tag="50" value="1" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="2" GameTagName="CARDTYPE"/>
+      <Tag tag="30" value="1" GameTagName="PLAYER_ID"/>
+      <Tag tag="17" value="1" GameTagName="PLAYSTATE"/>
+      <Tag tag="23" value="1" GameTagName="CURRENT_PLAYER"/>
+      <Tag tag="26" value="6" GameTagName="RESOURCES"/>
+      <Tag tag="27" value="14" GameTagName="HERO_ENTITY"/>
+      <Tag tag="28" value="10" GameTagName="MAXHANDSIZE"/>
+      <Tag tag="29" value="4" GameTagName="STARTHANDSIZE"/>
+      <Tag tag="31" value="1" GameTagName="TEAM_ID"/>
+      <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+      <Tag tag="53" value="2" GameTagName="ENTITY_ID"/>
+      <Tag tag="176" value="10" GameTagName="MAXRESOURCES"/>
+      <Tag tag="271" value="2" GameTagName="NUM_TURNS_IN_PLAY"/>
+      <Tag tag="272" value="1" GameTagName="NUM_TURNS_LEFT"/>
+      <Tag tag="334" value="18" GameTagName="WEAPON"/>
+      <Deck>
+        <Card id="CS2_074"/>
+        <Card id="BOT_020"/>
+        <Card id="EX1_126"/>
+        <Card id="ICC_094"/>
+        <Card id="BOT_288"/>
+        <Card id="ICC_221"/>
+        <Card id="EX1_278"/>
+        <Card id="BOT_538"/>
+        <Card id="UNG_808"/>
+        <Card id="UNG_814"/>
+        <Card id="LOOT_124"/>
+        <Card id="GIL_683"/>
+        <Card id="BOT_286"/>
+        <Card id="UNG_072"/>
+        <Card id="BOT_087"/>
+        <Card id="BOT_532"/>
+        <Card id="BOT_312"/>
+        <Card id="EX1_048"/>
+        <Card id="GIL_528"/>
+        <Card id="GIL_584"/>
+        <Card id="CS2_076"/>
+        <Card id="CS1_069"/>
+        <Card id="GIL_667"/>
+        <Card id="GIL_667"/>
+        <Card id="BOT_066"/>
+        <Card id="BOT_107"/>
+        <Card id="EX1_032"/>
+        <Card id="EX1_002"/>
+        <Card id="NEW1_004"/>
+        <Card id="ICC_314"/>
+      </Deck>
+    </Player>
+    <Player id="3" playerID="2" accountHi="0" accountLo="0" name="The Innkeeper" cardback="143">
+      <Tag tag="50" value="2" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="2" GameTagName="CARDTYPE"/>
+      <Tag tag="30" value="2" GameTagName="PLAYER_ID"/>
+      <Tag tag="17" value="1" GameTagName="PLAYSTATE"/>
+      <Tag tag="24" value="1" GameTagName="FIRST_PLAYER"/>
+      <Tag tag="26" value="1" GameTagName="RESOURCES"/>
+      <Tag tag="27" value="7" GameTagName="HERO_ENTITY"/>
+      <Tag tag="28" value="10" GameTagName="MAXHANDSIZE"/>
+      <Tag tag="29" value="4" GameTagName="STARTHANDSIZE"/>
+      <Tag tag="31" value="2" GameTagName="TEAM_ID"/>
+      <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+      <Tag tag="53" value="3" GameTagName="ENTITY_ID"/>
+      <Tag tag="176" value="10" GameTagName="MAXRESOURCES"/>
+      <Tag tag="271" value="2" GameTagName="NUM_TURNS_IN_PLAY"/>
+      <Tag tag="272" value="1" GameTagName="NUM_TURNS_LEFT"/>
+    </Player>
+    <FullEntity id="4" cardID="CS2_027" EntityName="Mirror Image">
+      <Tag tag="50" value="1" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="5" GameTagName="CARDTYPE"/>
+      <Tag tag="48" value="1" GameTagName="COST"/>
+      <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+      <Tag tag="53" value="4" GameTagName="ENTITY_ID"/>
+      <Tag tag="201" value="3" GameTagName="FACTION"/>
+      <Tag tag="203" value="2" GameTagName="RARITY"/>
+      <Tag tag="466" value="1" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+    </FullEntity>
+    <FullEntity id="5">
+      <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+      <Tag tag="50" value="2" GameTagName="CONTROLLER"/>
+      <Tag tag="53" value="5" GameTagName="ENTITY_ID"/>
+    </FullEntity>
+    <FullEntity id="6" cardID="TU4a_006" EntityName="Jaina Proudmoore">
+      <Tag tag="50" value="1" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="3" GameTagName="CARDTYPE"/>
+      <Tag tag="45" value="30" GameTagName="HEALTH"/>
+      <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+      <Tag tag="53" value="6" GameTagName="ENTITY_ID"/>
+      <Tag tag="203" value="1" GameTagName="RARITY"/>
+      <Tag tag="410" value="1" GameTagName="REVEALED"/>
+      <Tag tag="1037" value="1"/>
+    </FullEntity>
+    <FullEntity id="7" cardID="BOTA_BOSS_12h" EntityName="Lil' Stormy">
+      <Tag tag="50" value="2" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="3" GameTagName="CARDTYPE"/>
+      <Tag tag="44" value="5" GameTagName="DAMAGE"/>
+      <Tag tag="45" value="30" GameTagName="HEALTH"/>
+      <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+      <Tag tag="53" value="7" GameTagName="ENTITY_ID"/>
+      <Tag tag="271" value="2" GameTagName="NUM_TURNS_IN_PLAY"/>
+      <Tag tag="380" value="52179" GameTagName="HERO_POWER"/>
+    </FullEntity>
+    <FullEntity id="8" cardID="BOTA_BOSS_13p" EntityName="Stormsurge">
+      <Tag tag="50" value="2" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="10" GameTagName="CARDTYPE"/>
+      <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+      <Tag tag="53" value="8" GameTagName="ENTITY_ID"/>
+      <Tag tag="271" value="2" GameTagName="NUM_TURNS_IN_PLAY"/>
+      <Tag tag="313" value="7" GameTagName="CREATOR"/>
+      <Tag tag="402" value="1" GameTagName="HIDE_STATS"/>
+      <Tag tag="1037" value="2"/>
+    </FullEntity>
+    <FullEntity id="9" cardID="BOTA_318" EntityName="Light and Fire">
+      <Tag tag="50" value="1" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="5" GameTagName="CARDTYPE"/>
+      <Tag tag="48" value="1" GameTagName="COST"/>
+      <Tag tag="49" value="4" GameTagName="ZONE" ZoneName="GRAVEYARD"/>
+      <Tag tag="53" value="9" GameTagName="ENTITY_ID"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="466" value="1" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+    </FullEntity>
+    <FullEntity id="10" cardID="HERO_04" EntityName="Uther Lightbringer">
+      <Tag tag="50" value="1" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="3" GameTagName="CARDTYPE"/>
+      <Tag tag="45" value="30" GameTagName="HEALTH"/>
+      <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+      <Tag tag="53" value="10" GameTagName="ENTITY_ID"/>
+      <Tag tag="201" value="3" GameTagName="FACTION"/>
+      <Tag tag="203" value="2" GameTagName="RARITY"/>
+      <Tag tag="262" value="6" GameTagName="LINKED_ENTITY"/>
+      <Tag tag="271" value="1" GameTagName="NUM_TURNS_IN_PLAY"/>
+      <Tag tag="313" value="9" GameTagName="CREATOR"/>
+      <Tag tag="380" value="472" GameTagName="HERO_POWER"/>
+      <Tag tag="410" value="1" GameTagName="REVEALED"/>
+      <Tag tag="1037" value="1"/>
+    </FullEntity>
+    <FullEntity id="11" cardID="CS2_101" EntityName="Reinforce">
+      <Tag tag="50" value="1" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="10" GameTagName="CARDTYPE"/>
+      <Tag tag="48" value="2" GameTagName="COST"/>
+      <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+      <Tag tag="53" value="11" GameTagName="ENTITY_ID"/>
+      <Tag tag="201" value="3" GameTagName="FACTION"/>
+      <Tag tag="203" value="2" GameTagName="RARITY"/>
+      <Tag tag="271" value="1" GameTagName="NUM_TURNS_IN_PLAY"/>
+      <Tag tag="313" value="9" GameTagName="CREATOR"/>
+      <Tag tag="466" value="2" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="1037" value="1"/>
+    </FullEntity>
+    <FullEntity id="12" cardID="BOTA_702" EntityName="Lethal">
+      <Tag tag="50" value="1" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="5" GameTagName="CARDTYPE"/>
+      <Tag tag="43" value="1" GameTagName="EXHAUSTED"/>
+      <Tag tag="49" value="7" GameTagName="ZONE" ZoneName="SECRET"/>
+      <Tag tag="53" value="12" GameTagName="ENTITY_ID"/>
+      <Tag tag="199" value="12" GameTagName="CLASS"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="979" value="1" GameTagName="PUZZLE"/>
+      <Tag tag="980" value="6" GameTagName="PUZZLE_PROGRESS"/>
+      <Tag tag="981" value="7" GameTagName="PUZZLE_PROGRESS_TOTAL"/>
+      <Tag tag="982" value="2" GameTagName="PUZZLE_TYPE"/>
+    </FullEntity>
+    <FullEntity id="13" cardID="BOTA_323" EntityName="Toasted Hydra">
+      <Tag tag="50" value="1" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="5" GameTagName="CARDTYPE"/>
+      <Tag tag="48" value="6" GameTagName="COST"/>
+      <Tag tag="49" value="4" GameTagName="ZONE" ZoneName="GRAVEYARD"/>
+      <Tag tag="53" value="13" GameTagName="ENTITY_ID"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="466" value="6" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+    </FullEntity>
+    <FullEntity id="14" cardID="HERO_01" EntityName="Garrosh Hellscream">
+      <Tag tag="50" value="1" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="3" GameTagName="CARDTYPE"/>
+      <Tag tag="45" value="30" GameTagName="HEALTH"/>
+      <Tag tag="47" value="2" GameTagName="ATK"/>
+      <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+      <Tag tag="53" value="14" GameTagName="ENTITY_ID"/>
+      <Tag tag="201" value="3" GameTagName="FACTION"/>
+      <Tag tag="203" value="2" GameTagName="RARITY"/>
+      <Tag tag="262" value="10" GameTagName="LINKED_ENTITY"/>
+      <Tag tag="271" value="1" GameTagName="NUM_TURNS_IN_PLAY"/>
+      <Tag tag="313" value="13" GameTagName="CREATOR"/>
+      <Tag tag="380" value="725" GameTagName="HERO_POWER"/>
+      <Tag tag="479" value="2"/>
+      <Tag tag="1037" value="1"/>
+    </FullEntity>
+    <FullEntity id="15" cardID="CS2_102" EntityName="Armor Up!">
+      <Tag tag="50" value="1" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="10" GameTagName="CARDTYPE"/>
+      <Tag tag="48" value="2" GameTagName="COST"/>
+      <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+      <Tag tag="53" value="15" GameTagName="ENTITY_ID"/>
+      <Tag tag="201" value="3" GameTagName="FACTION"/>
+      <Tag tag="203" value="2" GameTagName="RARITY"/>
+      <Tag tag="271" value="1" GameTagName="NUM_TURNS_IN_PLAY"/>
+      <Tag tag="313" value="13" GameTagName="CREATOR"/>
+      <Tag tag="466" value="2" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="1037" value="1"/>
+    </FullEntity>
+    <FullEntity id="16" cardID="BOTA_323" EntityName="Toasted Hydra">
+      <Tag tag="50" value="1" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="5" GameTagName="CARDTYPE"/>
+      <Tag tag="48" value="6" GameTagName="COST"/>
+      <Tag tag="49" value="4" GameTagName="ZONE" ZoneName="GRAVEYARD"/>
+      <Tag tag="53" value="16" GameTagName="ENTITY_ID"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="466" value="6" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+    </FullEntity>
+    <FullEntity id="17" cardID="UNG_087" EntityName="Bittertide Hydra">
+      <Tag tag="50" value="2" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="4" GameTagName="CARDTYPE"/>
+      <Tag tag="48" value="5" GameTagName="COST"/>
+      <Tag tag="32" value="1" GameTagName="TRIGGER_VISUAL"/>
+      <Tag tag="43" value="1" GameTagName="EXHAUSTED"/>
+      <Tag tag="44" value="1" GameTagName="DAMAGE"/>
+      <Tag tag="45" value="8" GameTagName="HEALTH"/>
+      <Tag tag="47" value="8" GameTagName="ATK"/>
+      <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+      <Tag tag="53" value="17" GameTagName="ENTITY_ID"/>
+      <Tag tag="203" value="4" GameTagName="RARITY"/>
+      <Tag tag="263" value="1" GameTagName="ZONE_POSITION"/>
+      <Tag tag="313" value="16" GameTagName="CREATOR"/>
+      <Tag tag="466" value="5" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="479" value="8"/>
+      <Tag tag="1037" value="1"/>
+    </FullEntity>
+    <FullEntity id="18" cardID="ICC_064" EntityName="Blood Razor">
+      <Tag tag="50" value="1" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="7" GameTagName="CARDTYPE"/>
+      <Tag tag="48" value="4" GameTagName="COST"/>
+      <Tag tag="44" value="1" GameTagName="DAMAGE"/>
+      <Tag tag="47" value="2" GameTagName="ATK"/>
+      <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+      <Tag tag="53" value="18" GameTagName="ENTITY_ID"/>
+      <Tag tag="187" value="2" GameTagName="DURABILITY"/>
+      <Tag tag="203" value="1" GameTagName="RARITY"/>
+      <Tag tag="217" value="1" GameTagName="DEATHRATTLE"/>
+      <Tag tag="218" value="1" GameTagName="BATTLECRY"/>
+      <Tag tag="313" value="16" GameTagName="CREATOR"/>
+      <Tag tag="466" value="4" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="479" value="2"/>
+      <Tag tag="1037" value="1"/>
+    </FullEntity>
+    <FullEntity id="19" cardID="GAME_005" EntityName="The Coin">
+      <Tag tag="50" value="1" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="5" GameTagName="CARDTYPE"/>
+      <Tag tag="49" value="3" GameTagName="ZONE" ZoneName="HAND"/>
+      <Tag tag="53" value="19" GameTagName="ENTITY_ID"/>
+      <Tag tag="263" value="1" GameTagName="ZONE_POSITION"/>
+      <Tag tag="313" value="16" GameTagName="CREATOR"/>
+      <Tag tag="1037" value="1"/>
+    </FullEntity>
+    <FullEntity id="20" cardID="OG_314" EntityName="Blood To Ichor">
+      <Tag tag="50" value="1" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="5" GameTagName="CARDTYPE"/>
+      <Tag tag="48" value="1" GameTagName="COST"/>
+      <Tag tag="49" value="3" GameTagName="ZONE" ZoneName="HAND"/>
+      <Tag tag="53" value="20" GameTagName="ENTITY_ID"/>
+      <Tag tag="203" value="3" GameTagName="RARITY"/>
+      <Tag tag="263" value="2" GameTagName="ZONE_POSITION"/>
+      <Tag tag="313" value="16" GameTagName="CREATOR"/>
+      <Tag tag="466" value="1" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="1037" value="1"/>
+    </FullEntity>
+    <FullEntity id="21" cardID="CFM_716" EntityName="Sleep with the Fishes">
+      <Tag tag="50" value="1" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="5" GameTagName="CARDTYPE"/>
+      <Tag tag="48" value="2" GameTagName="COST"/>
+      <Tag tag="49" value="3" GameTagName="ZONE" ZoneName="HAND"/>
+      <Tag tag="53" value="21" GameTagName="ENTITY_ID"/>
+      <Tag tag="203" value="4" GameTagName="RARITY"/>
+      <Tag tag="263" value="3" GameTagName="ZONE_POSITION"/>
+      <Tag tag="313" value="16" GameTagName="CREATOR"/>
+      <Tag tag="466" value="2" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="1037" value="1"/>
+    </FullEntity>
+    <FullEntity id="22" cardID="EX1_400" EntityName="Whirlwind">
+      <Tag tag="50" value="1" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="5" GameTagName="CARDTYPE"/>
+      <Tag tag="48" value="1" GameTagName="COST"/>
+      <Tag tag="49" value="3" GameTagName="ZONE" ZoneName="HAND"/>
+      <Tag tag="53" value="22" GameTagName="ENTITY_ID"/>
+      <Tag tag="201" value="3" GameTagName="FACTION"/>
+      <Tag tag="203" value="2" GameTagName="RARITY"/>
+      <Tag tag="263" value="4" GameTagName="ZONE_POSITION"/>
+      <Tag tag="313" value="16" GameTagName="CREATOR"/>
+      <Tag tag="466" value="1" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="1037" value="1"/>
+    </FullEntity>
+    <FullEntity id="23" cardID="NEW1_020" EntityName="Wild Pyromancer">
+      <Tag tag="50" value="1" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="4" GameTagName="CARDTYPE"/>
+      <Tag tag="48" value="2" GameTagName="COST"/>
+      <Tag tag="32" value="1" GameTagName="TRIGGER_VISUAL"/>
+      <Tag tag="45" value="2" GameTagName="HEALTH"/>
+      <Tag tag="47" value="3" GameTagName="ATK"/>
+      <Tag tag="49" value="3" GameTagName="ZONE" ZoneName="HAND"/>
+      <Tag tag="53" value="23" GameTagName="ENTITY_ID"/>
+      <Tag tag="203" value="3" GameTagName="RARITY"/>
+      <Tag tag="263" value="5" GameTagName="ZONE_POSITION"/>
+      <Tag tag="313" value="16" GameTagName="CREATOR"/>
+      <Tag tag="466" value="2" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="479" value="3"/>
+      <Tag tag="1037" value="1"/>
+    </FullEntity>
+    <FullEntity id="24" cardID="NEW1_020" EntityName="Wild Pyromancer">
+      <Tag tag="50" value="1" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="4" GameTagName="CARDTYPE"/>
+      <Tag tag="48" value="2" GameTagName="COST"/>
+      <Tag tag="32" value="1" GameTagName="TRIGGER_VISUAL"/>
+      <Tag tag="45" value="2" GameTagName="HEALTH"/>
+      <Tag tag="47" value="3" GameTagName="ATK"/>
+      <Tag tag="49" value="3" GameTagName="ZONE" ZoneName="HAND"/>
+      <Tag tag="53" value="24" GameTagName="ENTITY_ID"/>
+      <Tag tag="203" value="3" GameTagName="RARITY"/>
+      <Tag tag="263" value="6" GameTagName="ZONE_POSITION"/>
+      <Tag tag="313" value="16" GameTagName="CREATOR"/>
+      <Tag tag="466" value="2" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="479" value="3"/>
+      <Tag tag="1037" value="1"/>
+    </FullEntity>
+    <FullEntity id="25" cardID="BRM_015" EntityName="Revenge">
+      <Tag tag="50" value="1" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="5" GameTagName="CARDTYPE"/>
+      <Tag tag="48" value="2" GameTagName="COST"/>
+      <Tag tag="49" value="3" GameTagName="ZONE" ZoneName="HAND"/>
+      <Tag tag="53" value="25" GameTagName="ENTITY_ID"/>
+      <Tag tag="203" value="3" GameTagName="RARITY"/>
+      <Tag tag="263" value="7" GameTagName="ZONE_POSITION"/>
+      <Tag tag="313" value="16" GameTagName="CREATOR"/>
+      <Tag tag="466" value="2" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="1037" value="1"/>
+    </FullEntity>
+    <FullEntity id="26" cardID="NEW1_036" EntityName="Commanding Shout">
+      <Tag tag="50" value="1" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="5" GameTagName="CARDTYPE"/>
+      <Tag tag="48" value="2" GameTagName="COST"/>
+      <Tag tag="49" value="3" GameTagName="ZONE" ZoneName="HAND"/>
+      <Tag tag="53" value="26" GameTagName="ENTITY_ID"/>
+      <Tag tag="203" value="3" GameTagName="RARITY"/>
+      <Tag tag="263" value="8" GameTagName="ZONE_POSITION"/>
+      <Tag tag="313" value="16" GameTagName="CREATOR"/>
+      <Tag tag="466" value="2" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="1037" value="1"/>
+    </FullEntity>
+    <Options id="2" ts="2018-08-21T12:53:36.570653-07:00">
+      <Option index="0" error="-1" type="2"/>
+      <Option index="1" entity="19" type="3" EntityName="The Coin"/>
+      <Option index="2" entity="20" type="3" EntityName="Blood To Ichor">
+        <Target index="0" entity="17" EntityName="Bittertide Hydra"/>
+        <Target index="1" entity="7" error="1" EntityName="Lil' Stormy"/>
+        <Target index="2" entity="14" error="1" EntityName="Garrosh Hellscream"/>
+      </Option>
+      <Option index="3" entity="21" type="3" EntityName="Sleep with the Fishes"/>
+      <Option index="4" entity="22" type="3" EntityName="Whirlwind"/>
+      <Option index="5" entity="23" type="3" EntityName="Wild Pyromancer"/>
+      <Option index="6" entity="24" type="3" EntityName="Wild Pyromancer"/>
+      <Option index="7" entity="25" type="3" EntityName="Revenge"/>
+      <Option index="8" entity="26" type="3" EntityName="Commanding Shout"/>
+      <Option index="9" entity="14" type="3" EntityName="Garrosh Hellscream">
+        <Target index="0" entity="7" EntityName="Lil' Stormy"/>
+        <Target index="1" entity="17" EntityName="Bittertide Hydra"/>
+        <Target index="2" entity="14" error="3" EntityName="Garrosh Hellscream"/>
+      </Option>
+      <Option index="10" entity="15" type="3" EntityName="Armor Up!"/>
+      <Option index="11" entity="7" error="15" type="3" EntityName="Lil' Stormy"/>
+      <Option index="12" entity="8" error="15" type="3" EntityName="Stormsurge"/>
+      <Option index="13" entity="17" error="15" type="3" EntityName="Bittertide Hydra"/>
+    </Options>
+  </Game>
+</HSReplay>
+<!-- https://hsreplay.net/replay/KcgLmXmKBrXKA7uu2EkVyD -->

@@ -1,0 +1,187 @@
+<HSReplay version="1.7" build="37060">
+  <Game id="4325422" type="23" format="1" scenarioID="3459" ts="2019-12-09T14:46:20.786302-08:00">
+    <GameEntity id="19">
+      <Tag tag="202" value="1" GameTagName="CARDTYPE"/>
+      <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+      <Tag tag="53" value="19" GameTagName="ENTITY_ID"/>
+      <Tag tag="937" value="3459"/>
+      <Tag tag="1000" value="3" GameTagName="END_TURN_BUTTON_ALTERNATIVE_APPEARANCE"/>
+      <Tag tag="1199" value="1" GameTagName="COIN_MANA_GEM"/>
+      <Tag tag="1442" value="1" GameTagName="TECH_LEVEL_MANA_GEM"/>
+      <Tag tag="1448" value="1" GameTagName="DISABLE_TURN_INDICATORS"/>
+      <Tag tag="1458" value="1" GameTagName="SUPPRESS_ALL_SUMMON_VO"/>
+      <Tag tag="1473" value="1" GameTagName="ALWAYS_USE_FAST_ACTOR_TRIGGERS"/>
+      <Tag tag="1488" value="1"/>
+    </GameEntity>
+    <Player id="20" playerID="7" accountHi="144115193835963207" accountLo="92399226" name="piedude276#1783">
+      <Tag tag="50" value="7" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="2" GameTagName="CARDTYPE"/>
+      <Tag tag="30" value="7" GameTagName="PLAYER_ID"/>
+      <Tag tag="27" value="37" GameTagName="HERO_ENTITY"/>
+      <Tag tag="28" value="10" GameTagName="MAXHANDSIZE"/>
+      <Tag tag="29" value="4" GameTagName="STARTHANDSIZE"/>
+      <Tag tag="31" value="7" GameTagName="TEAM_ID"/>
+      <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+      <Tag tag="53" value="20" GameTagName="ENTITY_ID"/>
+      <Tag tag="232" value="1" GameTagName="CANT_DRAW"/>
+      <Tag tag="740" value="15" GameTagName="OVERRIDE_EMOTE_0"/>
+      <Tag tag="741" value="16" GameTagName="OVERRIDE_EMOTE_1"/>
+      <Tag tag="742" value="17" GameTagName="OVERRIDE_EMOTE_2"/>
+      <Tag tag="743" value="18" GameTagName="OVERRIDE_EMOTE_3"/>
+      <Tag tag="744" value="19" GameTagName="OVERRIDE_EMOTE_4"/>
+      <Tag tag="745" value="20" GameTagName="OVERRIDE_EMOTE_5"/>
+      <Tag tag="1355" value="1"/>
+      <Tag tag="1360" value="2" GameTagName="NEXT_OPPONENT_PLAYER_ID"/>
+      <Tag tag="1377" value="1" GameTagName="PLAYER_TECH_LEVEL"/>
+      <Tag tag="1462" value="1"/>
+      <Tag tag="1463" value="1" GameTagName="BATTLEGROUNDS_PREMIUM_EMOTES"/>
+      <Tag tag="1492" value="106"/>
+      <Tag tag="1494" value="6"/>
+    </Player>
+    <Player id="21" playerID="15" accountHi="0" accountLo="0" name="The Innkeeper">
+      <Tag tag="50" value="15" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="2" GameTagName="CARDTYPE"/>
+      <Tag tag="30" value="15" GameTagName="PLAYER_ID"/>
+      <Tag tag="27" value="66" GameTagName="HERO_ENTITY"/>
+      <Tag tag="28" value="10" GameTagName="MAXHANDSIZE"/>
+      <Tag tag="29" value="4" GameTagName="STARTHANDSIZE"/>
+      <Tag tag="31" value="15" GameTagName="TEAM_ID"/>
+      <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+      <Tag tag="53" value="21" GameTagName="ENTITY_ID"/>
+      <Tag tag="176" value="10" GameTagName="MAXRESOURCES"/>
+      <Tag tag="232" value="1" GameTagName="CANT_DRAW"/>
+      <Tag tag="740" value="15" GameTagName="OVERRIDE_EMOTE_0"/>
+      <Tag tag="741" value="16" GameTagName="OVERRIDE_EMOTE_1"/>
+      <Tag tag="742" value="17" GameTagName="OVERRIDE_EMOTE_2"/>
+      <Tag tag="743" value="18" GameTagName="OVERRIDE_EMOTE_3"/>
+      <Tag tag="744" value="19" GameTagName="OVERRIDE_EMOTE_4"/>
+      <Tag tag="745" value="20" GameTagName="OVERRIDE_EMOTE_5"/>
+      <Tag tag="1349" value="1" GameTagName="BACON_DUMMY_PLAYER"/>
+    </Player>
+    <FullEntity id="37" cardID="TB_BaconShop_HERO_PH" EntityName="BaconPHhero">
+      <Tag tag="50" value="7" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="3" GameTagName="CARDTYPE"/>
+      <Tag tag="45" value="40" GameTagName="HEALTH"/>
+      <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+      <Tag tag="53" value="37" GameTagName="ENTITY_ID"/>
+      <Tag tag="1107" value="1" GameTagName="HIDE_WATERMARK"/>
+    </FullEntity>
+    <FullEntity id="38" cardID="TB_BaconShop_HERO_PH" EntityName="BaconPHhero">
+      <Tag tag="50" value="15" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="3" GameTagName="CARDTYPE"/>
+      <Tag tag="45" value="40" GameTagName="HEALTH"/>
+      <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+      <Tag tag="53" value="38" GameTagName="ENTITY_ID"/>
+      <Tag tag="410" value="1" GameTagName="REVEALED"/>
+      <Tag tag="1107" value="1" GameTagName="HIDE_WATERMARK"/>
+    </FullEntity>
+    <FullEntity id="65" cardID="TB_BaconShop_HERO_KelThuzad" EntityName="Kel'Thuzad">
+      <Tag tag="50" value="7" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="3" GameTagName="CARDTYPE"/>
+      <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+      <Tag tag="53" value="65" GameTagName="ENTITY_ID"/>
+      <Tag tag="201" value="3" GameTagName="FACTION"/>
+      <Tag tag="247" value="1" GameTagName="CANT_BE_DESTROYED"/>
+      <Tag tag="313" value="19" GameTagName="CREATOR"/>
+      <Tag tag="684" value="1" GameTagName="HIDE_COST"/>
+      <Tag tag="1423" value="1" GameTagName="BACON_IS_KEL_THUZAD"/>
+    </FullEntity>
+    <FullEntity id="66" cardID="TB_BaconShopBob" EntityName="Bob's Tavern">
+      <Tag tag="50" value="15" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="3" GameTagName="CARDTYPE"/>
+      <Tag tag="45" value="60" GameTagName="HEALTH"/>
+      <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+      <Tag tag="53" value="66" GameTagName="ENTITY_ID"/>
+      <Tag tag="262" value="38" GameTagName="LINKED_ENTITY"/>
+      <Tag tag="313" value="19" GameTagName="CREATOR"/>
+      <Tag tag="402" value="1" GameTagName="HIDE_STATS"/>
+      <Tag tag="682" value="1" GameTagName="HIDE_HEALTH"/>
+      <Tag tag="1107" value="1" GameTagName="HIDE_WATERMARK"/>
+    </FullEntity>
+    <FullEntity id="67" cardID="TB_BaconShop_8P_PlayerE" EntityName="BaconShop8PlayerEnchant">
+      <Tag tag="50" value="7" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="6" GameTagName="CARDTYPE"/>
+      <Tag tag="40" value="20" GameTagName="ATTACHED"/>
+      <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+      <Tag tag="53" value="67" GameTagName="ENTITY_ID"/>
+      <Tag tag="313" value="20" GameTagName="CREATOR"/>
+    </FullEntity>
+    <FullEntity id="68" cardID="TB_BaconShop_3ofKindChecke" EntityName="3ofKindCheckPlayerEnchant">
+      <Tag tag="50" value="7" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="6" GameTagName="CARDTYPE"/>
+      <Tag tag="40" value="20" GameTagName="ATTACHED"/>
+      <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+      <Tag tag="53" value="68" GameTagName="ENTITY_ID"/>
+      <Tag tag="313" value="20" GameTagName="CREATOR"/>
+    </FullEntity>
+    <TagChange entity="19" tag="204" value="2" EntityCardID="GameEntity" EntityCardName="GameEntity" StateName="RUNNING" GameTagName="STATE"/>
+    <TagChange entity="20" tag="17" value="1" EntityCardID="piedude276#1783" EntityCardName="piedude276#1783" PlayStateName="PLAYING" GameTagName="PLAYSTATE"/>
+    <TagChange entity="21" tag="17" value="1" EntityCardID="The Innkeeper" EntityCardName="The Innkeeper" PlayStateName="PLAYING" GameTagName="PLAYSTATE"/>
+    <Block entity="19" type="5" effectIndex="1" ts="2019-12-09T14:46:20.788318-08:00" block_sequence_num="1" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER"/>
+    <Block entity="19" type="5" effectIndex="2" ts="2019-12-09T14:46:20.788318-08:00" block_sequence_num="2" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER"/>
+    <Block entity="19" type="5" effectIndex="3" ts="2019-12-09T14:46:20.788318-08:00" block_sequence_num="3" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
+      <TagChange entity="21" tag="23" value="1" EntityCardID="The Innkeeper" EntityCardName="The Innkeeper" GameTagName="CURRENT_PLAYER"/>
+      <TagChange entity="21" tag="24" value="1" EntityCardID="The Innkeeper" EntityCardName="The Innkeeper" GameTagName="FIRST_PLAYER"/>
+      <TagChange entity="20" tag="272" value="1" EntityCardID="piedude276#1783" EntityCardName="piedude276#1783" GameTagName="NUM_TURNS_LEFT"/>
+      <TagChange entity="21" tag="272" value="1" EntityCardID="The Innkeeper" EntityCardName="The Innkeeper" GameTagName="NUM_TURNS_LEFT"/>
+      <TagChange entity="19" tag="10" value="60" EntityCardID="GameEntity" EntityCardName="GameEntity"/>
+      <TagChange entity="20" tag="7" value="45" EntityCardID="piedude276#1783" EntityCardName="piedude276#1783" GameTagName="TIMEOUT"/>
+      <TagChange entity="19" tag="198" value="4" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="BEGIN_MULLIGAN"/>
+      <TagChange entity="19" tag="1356" value="1" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="ALLOW_MOVE_MINION"/>
+      <TagChange entity="19" tag="1402" value="1" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="BACON_USE_FAST_ANIMATIONS"/>
+      <TagChange entity="19" tag="1424" value="1" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="BACON_HIGHLIGHT_ATTACKING_MINION_DURING_COMBAT"/>
+    </Block>
+    <TagChange entity="19" tag="19" value="4" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="BEGIN_MULLIGAN"/>
+    <Block entity="19" type="5" effectIndex="11" ts="2019-12-09T14:46:20.948339-08:00" block_sequence_num="4" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
+      <FullEntity id="87" cardID="TB_BaconShop_HERO_25" EntityName="Lich Baz'hial">
+        <Tag tag="50" value="7" GameTagName="CONTROLLER"/>
+        <Tag tag="202" value="3" GameTagName="CARDTYPE"/>
+        <Tag tag="45" value="40" GameTagName="HEALTH"/>
+        <Tag tag="49" value="3" GameTagName="ZONE" ZoneName="HAND"/>
+        <Tag tag="53" value="87" GameTagName="ENTITY_ID"/>
+        <Tag tag="201" value="3" GameTagName="FACTION"/>
+        <Tag tag="263" value="1" GameTagName="ZONE_POSITION"/>
+        <Tag tag="313" value="19" GameTagName="CREATOR"/>
+        <Tag tag="380" value="60285" GameTagName="HERO_POWER"/>
+        <Tag tag="684" value="1" GameTagName="HIDE_COST"/>
+        <Tag tag="1491" value="1" GameTagName="BACON_HERO_CAN_BE_DRAFTED"/>
+      </FullEntity>
+      <FullEntity id="88" cardID="TB_BaconShop_HERO_15" EntityName="George the Fallen">
+        <Tag tag="50" value="7" GameTagName="CONTROLLER"/>
+        <Tag tag="202" value="3" GameTagName="CARDTYPE"/>
+        <Tag tag="45" value="40" GameTagName="HEALTH"/>
+        <Tag tag="49" value="3" GameTagName="ZONE" ZoneName="HAND"/>
+        <Tag tag="53" value="88" GameTagName="ENTITY_ID"/>
+        <Tag tag="201" value="3" GameTagName="FACTION"/>
+        <Tag tag="263" value="2" GameTagName="ZONE_POSITION"/>
+        <Tag tag="313" value="19" GameTagName="CREATOR"/>
+        <Tag tag="380" value="57562" GameTagName="HERO_POWER"/>
+        <Tag tag="684" value="1" GameTagName="HIDE_COST"/>
+        <Tag tag="1491" value="1" GameTagName="BACON_HERO_CAN_BE_DRAFTED"/>
+      </FullEntity>
+      <FullEntity id="89" cardID="TB_BaconShop_HERO_40" EntityName="Sir Finley Mrrgglton">
+        <Tag tag="50" value="7" GameTagName="CONTROLLER"/>
+        <Tag tag="202" value="3" GameTagName="CARDTYPE"/>
+        <Tag tag="45" value="40" GameTagName="HEALTH"/>
+        <Tag tag="49" value="3" GameTagName="ZONE" ZoneName="HAND"/>
+        <Tag tag="53" value="89" GameTagName="ENTITY_ID"/>
+        <Tag tag="201" value="3" GameTagName="FACTION"/>
+        <Tag tag="263" value="3" GameTagName="ZONE_POSITION"/>
+        <Tag tag="313" value="19" GameTagName="CREATOR"/>
+        <Tag tag="380" value="60215" GameTagName="HERO_POWER"/>
+        <Tag tag="684" value="1" GameTagName="HIDE_COST"/>
+        <Tag tag="1491" value="1" GameTagName="BACON_HERO_CAN_BE_DRAFTED"/>
+      </FullEntity>
+      <TagChange entity="20" tag="305" value="1" EntityCardID="piedude276#1783" EntityCardName="piedude276#1783" GameTagName="MULLIGAN_STATE" MulliganStateName="INPUT"/>
+      <Choices entity="20" id="1" taskList="6" type="1" min="1" max="1" source="19" ts="2019-12-09T14:46:20.996350-08:00" EntityCardID="piedude276#1783" EntityName="piedude276#1783" SourceCardID="GameEntity" SourceName="GameEntity">
+        <Choice index="0" entity="87" EntityCardID="TB_BaconShop_HERO_25" EntityName="Lich Baz'hial"/>
+        <Choice index="1" entity="88" EntityCardID="TB_BaconShop_HERO_15" EntityName="George the Fallen"/>
+        <Choice index="2" entity="89" EntityCardID="TB_BaconShop_HERO_40" EntityName="Sir Finley Mrrgglton"/>
+      </Choices>
+    </Block>
+    <SendChoices id="1" type="1" ts="2019-12-09T14:46:33.663134-08:00">
+      <Choice index="0" entity="88" EntityCardID="TB_BaconShop_HERO_15" EntityName="George the Fallen"/>
+    </SendChoices>
+  </Game>
+</HSReplay>
+<!-- https://hsreplay.net/replay/x6bagRc6Rq7BH9Bewh2TXU -->

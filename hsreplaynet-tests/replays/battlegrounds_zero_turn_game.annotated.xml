@@ -1,0 +1,236 @@
+<HSReplay version="1.7" build="37060">
+  <Game id="2883698" type="23" format="1" scenarioID="3459" ts="2019-12-10T23:04:00.053205+09:00">
+    <GameEntity id="7">
+      <Tag tag="202" value="1" GameTagName="CARDTYPE"/>
+      <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+      <Tag tag="53" value="7" GameTagName="ENTITY_ID"/>
+      <Tag tag="937" value="3459"/>
+      <Tag tag="1000" value="3" GameTagName="END_TURN_BUTTON_ALTERNATIVE_APPEARANCE"/>
+      <Tag tag="1199" value="1" GameTagName="COIN_MANA_GEM"/>
+      <Tag tag="1442" value="1" GameTagName="TECH_LEVEL_MANA_GEM"/>
+      <Tag tag="1448" value="1" GameTagName="DISABLE_TURN_INDICATORS"/>
+      <Tag tag="1458" value="1" GameTagName="SUPPRESS_ALL_SUMMON_VO"/>
+      <Tag tag="1473" value="1" GameTagName="ALWAYS_USE_FAST_ACTOR_TRIGGERS"/>
+      <Tag tag="1488" value="1"/>
+    </GameEntity>
+    <Player id="8" playerID="3" accountHi="144115202425897799" accountLo="68684298" name="&#47561;&#44053;&#54620;&#48148;&#51648;#33605">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="2" GameTagName="CARDTYPE"/>
+      <Tag tag="30" value="3" GameTagName="PLAYER_ID"/>
+      <Tag tag="27" value="29" GameTagName="HERO_ENTITY"/>
+      <Tag tag="28" value="10" GameTagName="MAXHANDSIZE"/>
+      <Tag tag="29" value="4" GameTagName="STARTHANDSIZE"/>
+      <Tag tag="31" value="3" GameTagName="TEAM_ID"/>
+      <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+      <Tag tag="53" value="8" GameTagName="ENTITY_ID"/>
+      <Tag tag="232" value="1" GameTagName="CANT_DRAW"/>
+      <Tag tag="740" value="15" GameTagName="OVERRIDE_EMOTE_0"/>
+      <Tag tag="741" value="16" GameTagName="OVERRIDE_EMOTE_1"/>
+      <Tag tag="742" value="17" GameTagName="OVERRIDE_EMOTE_2"/>
+      <Tag tag="743" value="18" GameTagName="OVERRIDE_EMOTE_3"/>
+      <Tag tag="744" value="19" GameTagName="OVERRIDE_EMOTE_4"/>
+      <Tag tag="745" value="20" GameTagName="OVERRIDE_EMOTE_5"/>
+      <Tag tag="1355" value="1"/>
+      <Tag tag="1360" value="7" GameTagName="NEXT_OPPONENT_PLAYER_ID"/>
+      <Tag tag="1377" value="1" GameTagName="PLAYER_TECH_LEVEL"/>
+      <Tag tag="1492" value="5"/>
+      <Tag tag="1494" value="6"/>
+    </Player>
+    <Player id="9" playerID="11" accountHi="0" accountLo="0" name="&#48165;&#51032; &#49440;&#49696;&#51665;">
+      <Tag tag="50" value="11" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="2" GameTagName="CARDTYPE"/>
+      <Tag tag="30" value="11" GameTagName="PLAYER_ID"/>
+      <Tag tag="27" value="50" GameTagName="HERO_ENTITY"/>
+      <Tag tag="28" value="10" GameTagName="MAXHANDSIZE"/>
+      <Tag tag="29" value="4" GameTagName="STARTHANDSIZE"/>
+      <Tag tag="31" value="11" GameTagName="TEAM_ID"/>
+      <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+      <Tag tag="53" value="9" GameTagName="ENTITY_ID"/>
+      <Tag tag="176" value="10" GameTagName="MAXRESOURCES"/>
+      <Tag tag="232" value="1" GameTagName="CANT_DRAW"/>
+      <Tag tag="740" value="15" GameTagName="OVERRIDE_EMOTE_0"/>
+      <Tag tag="741" value="16" GameTagName="OVERRIDE_EMOTE_1"/>
+      <Tag tag="742" value="17" GameTagName="OVERRIDE_EMOTE_2"/>
+      <Tag tag="743" value="18" GameTagName="OVERRIDE_EMOTE_3"/>
+      <Tag tag="744" value="19" GameTagName="OVERRIDE_EMOTE_4"/>
+      <Tag tag="745" value="20" GameTagName="OVERRIDE_EMOTE_5"/>
+      <Tag tag="1349" value="1" GameTagName="BACON_DUMMY_PLAYER"/>
+    </Player>
+    <FullEntity id="29" cardID="TB_BaconShop_HERO_PH" EntityName="BaconPHhero">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="3" GameTagName="CARDTYPE"/>
+      <Tag tag="45" value="40" GameTagName="HEALTH"/>
+      <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+      <Tag tag="53" value="29" GameTagName="ENTITY_ID"/>
+      <Tag tag="1107" value="1" GameTagName="HIDE_WATERMARK"/>
+    </FullEntity>
+    <FullEntity id="30" cardID="TB_BaconShop_HERO_PH" EntityName="BaconPHhero">
+      <Tag tag="50" value="11" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="3" GameTagName="CARDTYPE"/>
+      <Tag tag="45" value="40" GameTagName="HEALTH"/>
+      <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+      <Tag tag="53" value="30" GameTagName="ENTITY_ID"/>
+      <Tag tag="410" value="1" GameTagName="REVEALED"/>
+      <Tag tag="1107" value="1" GameTagName="HIDE_WATERMARK"/>
+    </FullEntity>
+    <FullEntity id="49" cardID="TB_BaconShop_HERO_KelThuzad" EntityName="Kel'Thuzad">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="3" GameTagName="CARDTYPE"/>
+      <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+      <Tag tag="53" value="49" GameTagName="ENTITY_ID"/>
+      <Tag tag="201" value="3" GameTagName="FACTION"/>
+      <Tag tag="247" value="1" GameTagName="CANT_BE_DESTROYED"/>
+      <Tag tag="313" value="7" GameTagName="CREATOR"/>
+      <Tag tag="684" value="1" GameTagName="HIDE_COST"/>
+      <Tag tag="1423" value="1" GameTagName="BACON_IS_KEL_THUZAD"/>
+    </FullEntity>
+    <FullEntity id="50" cardID="TB_BaconShopBob" EntityName="Bob's Tavern">
+      <Tag tag="50" value="11" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="3" GameTagName="CARDTYPE"/>
+      <Tag tag="45" value="60" GameTagName="HEALTH"/>
+      <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+      <Tag tag="53" value="50" GameTagName="ENTITY_ID"/>
+      <Tag tag="262" value="30" GameTagName="LINKED_ENTITY"/>
+      <Tag tag="313" value="7" GameTagName="CREATOR"/>
+      <Tag tag="402" value="1" GameTagName="HIDE_STATS"/>
+      <Tag tag="682" value="1" GameTagName="HIDE_HEALTH"/>
+      <Tag tag="1107" value="1" GameTagName="HIDE_WATERMARK"/>
+    </FullEntity>
+    <FullEntity id="51" cardID="TB_BaconShop_8P_PlayerE" EntityName="BaconShop8PlayerEnchant">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="6" GameTagName="CARDTYPE"/>
+      <Tag tag="40" value="8" GameTagName="ATTACHED"/>
+      <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+      <Tag tag="53" value="51" GameTagName="ENTITY_ID"/>
+      <Tag tag="313" value="8" GameTagName="CREATOR"/>
+    </FullEntity>
+    <FullEntity id="52" cardID="TB_BaconShop_3ofKindChecke" EntityName="3ofKindCheckPlayerEnchant">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="6" GameTagName="CARDTYPE"/>
+      <Tag tag="40" value="8" GameTagName="ATTACHED"/>
+      <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+      <Tag tag="53" value="52" GameTagName="ENTITY_ID"/>
+      <Tag tag="313" value="8" GameTagName="CREATOR"/>
+    </FullEntity>
+    <TagChange entity="7" tag="204" value="2" EntityCardID="GameEntity" EntityCardName="GameEntity" StateName="RUNNING" GameTagName="STATE"/>
+    <TagChange entity="8" tag="17" value="1" EntityCardID="&#47561;&#44053;&#54620;&#48148;&#51648;#33605" EntityCardName="&#47561;&#44053;&#54620;&#48148;&#51648;#33605" PlayStateName="PLAYING" GameTagName="PLAYSTATE"/>
+    <TagChange entity="9" tag="17" value="1" EntityCardID="&#48165;&#51032; &#49440;&#49696;&#51665;" EntityCardName="&#48165;&#51032; &#49440;&#49696;&#51665;" PlayStateName="PLAYING" GameTagName="PLAYSTATE"/>
+    <Block entity="7" type="5" effectIndex="1" ts="2019-12-10T23:04:00.071205+09:00" block_sequence_num="1" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER"/>
+    <Block entity="7" type="5" effectIndex="2" ts="2019-12-10T23:04:00.072205+09:00" block_sequence_num="2" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER"/>
+    <Block entity="7" type="5" effectIndex="3" ts="2019-12-10T23:04:00.072205+09:00" block_sequence_num="3" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
+      <TagChange entity="9" tag="23" value="1" EntityCardID="&#48165;&#51032; &#49440;&#49696;&#51665;" EntityCardName="&#48165;&#51032; &#49440;&#49696;&#51665;" GameTagName="CURRENT_PLAYER"/>
+      <TagChange entity="9" tag="24" value="1" EntityCardID="&#48165;&#51032; &#49440;&#49696;&#51665;" EntityCardName="&#48165;&#51032; &#49440;&#49696;&#51665;" GameTagName="FIRST_PLAYER"/>
+      <TagChange entity="8" tag="272" value="1" EntityCardID="&#47561;&#44053;&#54620;&#48148;&#51648;#33605" EntityCardName="&#47561;&#44053;&#54620;&#48148;&#51648;#33605" GameTagName="NUM_TURNS_LEFT"/>
+      <TagChange entity="9" tag="272" value="1" EntityCardID="&#48165;&#51032; &#49440;&#49696;&#51665;" EntityCardName="&#48165;&#51032; &#49440;&#49696;&#51665;" GameTagName="NUM_TURNS_LEFT"/>
+      <TagChange entity="7" tag="10" value="60" EntityCardID="GameEntity" EntityCardName="GameEntity"/>
+      <TagChange entity="8" tag="7" value="45" EntityCardID="&#47561;&#44053;&#54620;&#48148;&#51648;#33605" EntityCardName="&#47561;&#44053;&#54620;&#48148;&#51648;#33605" GameTagName="TIMEOUT"/>
+      <TagChange entity="7" tag="198" value="4" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="BEGIN_MULLIGAN"/>
+      <TagChange entity="7" tag="1356" value="1" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="ALLOW_MOVE_MINION"/>
+      <TagChange entity="7" tag="1402" value="1" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="BACON_USE_FAST_ANIMATIONS"/>
+      <TagChange entity="7" tag="1424" value="1" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="BACON_HIGHLIGHT_ATTACKING_MINION_DURING_COMBAT"/>
+    </Block>
+    <TagChange entity="7" tag="19" value="4" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="BEGIN_MULLIGAN"/>
+    <Block entity="7" type="5" effectIndex="11" ts="2019-12-10T23:04:00.237205+09:00" block_sequence_num="4" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
+      <FullEntity id="77" cardID="TB_BaconShop_HERO_12" EntityName="The Rat King">
+        <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+        <Tag tag="202" value="3" GameTagName="CARDTYPE"/>
+        <Tag tag="45" value="40" GameTagName="HEALTH"/>
+        <Tag tag="49" value="3" GameTagName="ZONE" ZoneName="HAND"/>
+        <Tag tag="53" value="77" GameTagName="ENTITY_ID"/>
+        <Tag tag="201" value="3" GameTagName="FACTION"/>
+        <Tag tag="263" value="1" GameTagName="ZONE_POSITION"/>
+        <Tag tag="313" value="7" GameTagName="CREATOR"/>
+        <Tag tag="380" value="59839" GameTagName="HERO_POWER"/>
+        <Tag tag="684" value="1" GameTagName="HIDE_COST"/>
+        <Tag tag="1491" value="1" GameTagName="BACON_HERO_CAN_BE_DRAFTED"/>
+      </FullEntity>
+      <FullEntity id="78" cardID="TB_BaconShop_HERO_44" EntityName="Sylvanas Windrunner">
+        <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+        <Tag tag="202" value="3" GameTagName="CARDTYPE"/>
+        <Tag tag="45" value="40" GameTagName="HEALTH"/>
+        <Tag tag="49" value="3" GameTagName="ZONE" ZoneName="HAND"/>
+        <Tag tag="53" value="78" GameTagName="ENTITY_ID"/>
+        <Tag tag="201" value="3" GameTagName="FACTION"/>
+        <Tag tag="263" value="2" GameTagName="ZONE_POSITION"/>
+        <Tag tag="313" value="7" GameTagName="CREATOR"/>
+        <Tag tag="380" value="60373" GameTagName="HERO_POWER"/>
+        <Tag tag="684" value="1" GameTagName="HIDE_COST"/>
+        <Tag tag="1491" value="1" GameTagName="BACON_HERO_CAN_BE_DRAFTED"/>
+      </FullEntity>
+      <TagChange entity="8" tag="305" value="1" EntityCardID="&#47561;&#44053;&#54620;&#48148;&#51648;#33605" EntityCardName="&#47561;&#44053;&#54620;&#48148;&#51648;#33605" GameTagName="MULLIGAN_STATE" MulliganStateName="INPUT"/>
+      <Choices entity="8" id="1" taskList="6" type="1" min="1" max="1" source="7" ts="2019-12-10T23:04:00.381205+09:00" EntityCardID="&#47561;&#44053;&#54620;&#48148;&#51648;#33605" EntityName="&#47561;&#44053;&#54620;&#48148;&#51648;#33605" SourceCardID="GameEntity" SourceName="GameEntity">
+        <Choice index="0" entity="77" EntityCardID="TB_BaconShop_HERO_12" EntityName="The Rat King"/>
+        <Choice index="1" entity="78" EntityCardID="TB_BaconShop_HERO_44" EntityName="Sylvanas Windrunner"/>
+      </Choices>
+      <ChosenEntities entity="8" id="1" ts="2019-12-10T23:04:07.685205+09:00">
+        <Choice index="0" entity="77" EntityCardID="TB_BaconShop_HERO_12" EntityName="The Rat King"/>
+      </ChosenEntities>
+    </Block>
+    <TagChange entity="8" tag="305" value="2" EntityCardID="&#47561;&#44053;&#54620;&#48148;&#51648;#33605" EntityCardName="&#47561;&#44053;&#54620;&#48148;&#51648;#33605" GameTagName="MULLIGAN_STATE" MulliganStateName="DEALING"/>
+    <Block entity="8" type="5" effectIndex="0" ts="2019-12-10T23:04:07.896205+09:00" block_sequence_num="5" EntityCardID="&#47561;&#44053;&#54620;&#48148;&#51648;#33605" EntityCardName="&#47561;&#44053;&#54620;&#48148;&#51648;#33605" BlockTypeName="TRIGGER">
+      <TagChange entity="78" tag="18" value="8" EntityCardID="TB_BaconShop_HERO_44" EntityCardName="Sylvanas Windrunner" ValueReferenceCardID="&#47561;&#44053;&#54620;&#48148;&#51648;#33605" ValueReferenceCardName="&#47561;&#44053;&#54620;&#48148;&#51648;#33605" GameTagName="LAST_AFFECTED_BY"/>
+      <TagChange entity="78" tag="1068" value="4" EntityCardID="TB_BaconShop_HERO_44" EntityCardName="Sylvanas Windrunner"/>
+      <TagChange entity="78" tag="1068" value="0" EntityCardID="TB_BaconShop_HERO_44" EntityCardName="Sylvanas Windrunner"/>
+      <TagChange entity="78" tag="1037" value="3" EntityCardID="TB_BaconShop_HERO_44" EntityCardName="Sylvanas Windrunner"/>
+      <TagChange entity="78" tag="263" value="0" EntityCardID="TB_BaconShop_HERO_44" EntityCardName="Sylvanas Windrunner" GameTagName="ZONE_POSITION"/>
+      <TagChange entity="78" tag="49" value="4" EntityCardID="TB_BaconShop_HERO_44" EntityCardName="Sylvanas Windrunner" GameTagName="ZONE" ZoneName="GRAVEYARD"/>
+      <TagChange entity="77" tag="1068" value="1" EntityCardID="TB_BaconShop_HERO_12" EntityCardName="The Rat King"/>
+      <TagChange entity="77" tag="1068" value="0" EntityCardID="TB_BaconShop_HERO_12" EntityCardName="The Rat King"/>
+      <TagChange entity="77" tag="1037" value="3" EntityCardID="TB_BaconShop_HERO_12" EntityCardName="The Rat King"/>
+      <TagChange entity="77" tag="263" value="0" EntityCardID="TB_BaconShop_HERO_12" EntityCardName="The Rat King" GameTagName="ZONE_POSITION"/>
+      <TagChange entity="77" tag="49" value="1" EntityCardID="TB_BaconShop_HERO_12" EntityCardName="The Rat King" GameTagName="ZONE" ZoneName="PLAY"/>
+      <TagChange entity="77" tag="262" value="29" EntityCardID="TB_BaconShop_HERO_12" EntityCardName="The Rat King" GameTagName="LINKED_ENTITY"/>
+      <TagChange entity="29" tag="1068" value="6" EntityCardID="TB_BaconShop_HERO_PH" EntityCardName="BaconPHhero"/>
+      <TagChange entity="29" tag="1068" value="0" EntityCardID="TB_BaconShop_HERO_PH" EntityCardName="BaconPHhero"/>
+      <TagChange entity="29" tag="1037" value="3" EntityCardID="TB_BaconShop_HERO_PH" EntityCardName="BaconPHhero"/>
+      <TagChange entity="29" tag="49" value="6" EntityCardID="TB_BaconShop_HERO_PH" EntityCardName="BaconPHhero" GameTagName="ZONE" ZoneName="SETASIDE"/>
+      <TagChange entity="29" tag="410" value="1" EntityCardID="TB_BaconShop_HERO_PH" EntityCardName="BaconPHhero" GameTagName="REVEALED"/>
+      <TagChange entity="8" tag="27" value="77" EntityCardID="&#47561;&#44053;&#54620;&#48148;&#51648;#33605" EntityCardName="&#47561;&#44053;&#54620;&#48148;&#51648;#33605" GameTagName="HERO_ENTITY"/>
+      <TagChange entity="77" tag="30" value="3" EntityCardID="TB_BaconShop_HERO_12" EntityCardName="The Rat King" GameTagName="PLAYER_ID"/>
+      <TagChange entity="77" tag="1373" value="1" EntityCardID="TB_BaconShop_HERO_12" EntityCardName="The Rat King" GameTagName="PLAYER_LEADERBOARD_PLACE"/>
+      <FullEntity id="89" cardID="TB_BaconShop_HP_041a" EntityName="King of Beasts">
+        <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+        <Tag tag="202" value="10" GameTagName="CARDTYPE"/>
+        <Tag tag="32" value="1" GameTagName="TRIGGER_VISUAL"/>
+        <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+        <Tag tag="53" value="89" GameTagName="ENTITY_ID"/>
+        <Tag tag="201" value="3" GameTagName="FACTION"/>
+        <Tag tag="313" value="8" GameTagName="CREATOR"/>
+        <Tag tag="684" value="1" GameTagName="HIDE_COST"/>
+        <Tag tag="1037" value="3"/>
+        <Tag tag="1107" value="1" GameTagName="HIDE_WATERMARK"/>
+      </FullEntity>
+      <TagChange entity="8" tag="305" value="3" EntityCardID="&#47561;&#44053;&#54620;&#48148;&#51648;#33605" EntityCardName="&#47561;&#44053;&#54620;&#48148;&#51648;#33605" GameTagName="MULLIGAN_STATE" MulliganStateName="WAITING"/>
+    </Block>
+    <Block entity="8" type="5" effectIndex="1" ts="2019-12-10T23:04:07.897205+09:00" block_sequence_num="6" EntityCardID="&#47561;&#44053;&#54620;&#48148;&#51648;#33605" EntityCardName="&#47561;&#44053;&#54620;&#48148;&#51648;#33605" BlockTypeName="TRIGGER">
+      <TagChange entity="8" tag="305" value="4" EntityCardID="&#47561;&#44053;&#54620;&#48148;&#51648;#33605" EntityCardName="&#47561;&#44053;&#54620;&#48148;&#51648;#33605" GameTagName="MULLIGAN_STATE" MulliganStateName="DONE"/>
+      <TagChange entity="7" tag="198" value="6" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_READY"/>
+    </Block>
+    <TagChange entity="8" tag="17" value="8" EntityCardID="&#47561;&#44053;&#54620;&#48148;&#51648;#33605" EntityCardName="&#47561;&#44053;&#54620;&#48148;&#51648;#33605" PlayStateName="CONCEDED" GameTagName="PLAYSTATE"/>
+    <Block entity="7" type="5" effectIndex="8" ts="2019-12-10T23:04:07.957205+09:00" block_sequence_num="7" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
+      <TagChange entity="77" tag="44" value="40" EntityCardID="TB_BaconShop_HERO_12" EntityCardName="The Rat King" GameTagName="DAMAGE"/>
+      <TagChange entity="77" tag="1373" value="8" EntityCardID="TB_BaconShop_HERO_12" EntityCardName="The Rat King" GameTagName="PLAYER_LEADERBOARD_PLACE"/>
+    </Block>
+    <Block entity="7" type="6" effectIndex="0" ts="2019-12-10T23:04:07.957205+09:00" block_sequence_num="8" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="DEATHS">
+      <TagChange entity="77" tag="1068" value="4" EntityCardID="TB_BaconShop_HERO_12" EntityCardName="The Rat King"/>
+      <TagChange entity="77" tag="1068" value="0" EntityCardID="TB_BaconShop_HERO_12" EntityCardName="The Rat King"/>
+      <TagChange entity="77" tag="1037" value="0" EntityCardID="TB_BaconShop_HERO_12" EntityCardName="The Rat King"/>
+      <TagChange entity="77" tag="49" value="4" EntityCardID="TB_BaconShop_HERO_12" EntityCardName="The Rat King" GameTagName="ZONE" ZoneName="GRAVEYARD"/>
+      <TagChange entity="8" tag="17" value="3" EntityCardID="&#47561;&#44053;&#54620;&#48148;&#51648;#33605" EntityCardName="&#47561;&#44053;&#54620;&#48148;&#51648;#33605" PlayStateName="LOSING" GameTagName="PLAYSTATE"/>
+    </Block>
+    <Block entity="7" type="5" effectIndex="10" ts="2019-12-10T23:04:07.958205+09:00" block_sequence_num="9" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER"/>
+    <TagChange entity="8" tag="17" value="5" EntityCardID="&#47561;&#44053;&#54620;&#48148;&#51648;#33605" EntityCardName="&#47561;&#44053;&#54620;&#48148;&#51648;#33605" PlayStateName="LOST" GameTagName="PLAYSTATE"/>
+    <TagChange entity="9" tag="17" value="4" EntityCardID="&#48165;&#51032; &#49440;&#49696;&#51665;" EntityCardName="&#48165;&#51032; &#49440;&#49696;&#51665;" PlayStateName="WON" GameTagName="PLAYSTATE"/>
+    <TagChange entity="7" tag="198" value="14" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="FINAL_WRAPUP"/>
+    <TagChange entity="7" tag="19" value="14" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="FINAL_WRAPUP"/>
+    <Block entity="7" type="5" ts="2019-12-10T23:04:07.958205+09:00" block_sequence_num="10" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
+      <TagChange entity="7" tag="198" value="15" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="FINAL_GAMEOVER"/>
+    </Block>
+    <TagChange entity="7" tag="19" value="15" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="FINAL_GAMEOVER"/>
+    <TagChange entity="7" tag="204" value="3" EntityCardID="GameEntity" EntityCardName="GameEntity" StateName="COMPLETE" GameTagName="STATE"/>
+    <Block entity="51" type="5" effectIndex="5" ts="2019-12-10T23:04:07.958205+09:00" block_sequence_num="11" EntityCardID="TB_BaconShop_8P_PlayerE" EntityCardName="BaconShop8PlayerEnchant" BlockTypeName="TRIGGER"/>
+    <Block entity="51" type="5" effectIndex="13" ts="2019-12-10T23:04:07.958205+09:00" block_sequence_num="12" EntityCardID="TB_BaconShop_8P_PlayerE" EntityCardName="BaconShop8PlayerEnchant" BlockTypeName="TRIGGER"/>
+    <TagChange entity="8" tag="13" value="1" EntityCardID="&#47561;&#44053;&#54620;&#48148;&#51648;#33605" EntityCardName="&#47561;&#44053;&#54620;&#48148;&#51648;#33605" GameTagName="GOLD_REWARD_STATE"/>
+  </Game>
+</HSReplay>
+<!-- https://hsreplay.net/replay/hsqQadD7amU7u6cVVrde8L -->

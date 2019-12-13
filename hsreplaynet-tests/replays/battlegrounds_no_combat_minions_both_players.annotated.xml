@@ -1,0 +1,1227 @@
+<HSReplay version="1.7" build="38034">
+  <Game id="2097157" type="23" format="1" scenarioID="3459" ts="2019-12-11T21:00:11.109619-05:00">
+    <GameEntity id="4">
+      <Tag tag="202" value="1" GameTagName="CARDTYPE"/>
+      <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+      <Tag tag="53" value="4" GameTagName="ENTITY_ID"/>
+      <Tag tag="937" value="3459"/>
+      <Tag tag="1000" value="3" GameTagName="END_TURN_BUTTON_ALTERNATIVE_APPEARANCE"/>
+      <Tag tag="1199" value="1" GameTagName="COIN_MANA_GEM"/>
+      <Tag tag="1442" value="1" GameTagName="TECH_LEVEL_MANA_GEM"/>
+      <Tag tag="1448" value="1" GameTagName="DISABLE_TURN_INDICATORS"/>
+      <Tag tag="1458" value="1" GameTagName="SUPPRESS_ALL_SUMMON_VO"/>
+      <Tag tag="1473" value="1" GameTagName="ALWAYS_USE_FAST_ACTOR_TRIGGERS"/>
+      <Tag tag="1488" value="1"/>
+    </GameEntity>
+    <Player id="5" playerID="2" accountHi="144115193835963207" accountLo="162684830" name="syfZZ#1798">
+      <Tag tag="50" value="2" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="2" GameTagName="CARDTYPE"/>
+      <Tag tag="30" value="2" GameTagName="PLAYER_ID"/>
+      <Tag tag="27" value="27" GameTagName="HERO_ENTITY"/>
+      <Tag tag="28" value="10" GameTagName="MAXHANDSIZE"/>
+      <Tag tag="29" value="4" GameTagName="STARTHANDSIZE"/>
+      <Tag tag="31" value="2" GameTagName="TEAM_ID"/>
+      <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+      <Tag tag="53" value="5" GameTagName="ENTITY_ID"/>
+      <Tag tag="232" value="1" GameTagName="CANT_DRAW"/>
+      <Tag tag="740" value="15" GameTagName="OVERRIDE_EMOTE_0"/>
+      <Tag tag="741" value="16" GameTagName="OVERRIDE_EMOTE_1"/>
+      <Tag tag="742" value="17" GameTagName="OVERRIDE_EMOTE_2"/>
+      <Tag tag="743" value="18" GameTagName="OVERRIDE_EMOTE_3"/>
+      <Tag tag="744" value="19" GameTagName="OVERRIDE_EMOTE_4"/>
+      <Tag tag="745" value="20" GameTagName="OVERRIDE_EMOTE_5"/>
+      <Tag tag="1355" value="1"/>
+      <Tag tag="1360" value="3" GameTagName="NEXT_OPPONENT_PLAYER_ID"/>
+      <Tag tag="1377" value="1" GameTagName="PLAYER_TECH_LEVEL"/>
+      <Tag tag="1462" value="1"/>
+      <Tag tag="1463" value="1" GameTagName="BATTLEGROUNDS_PREMIUM_EMOTES"/>
+      <Tag tag="1492" value="66"/>
+      <Tag tag="1494" value="6"/>
+    </Player>
+    <Player id="6" playerID="10" accountHi="0" accountLo="0" name="tanddyy">
+      <Tag tag="50" value="10" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="2" GameTagName="CARDTYPE"/>
+      <Tag tag="30" value="10" GameTagName="PLAYER_ID"/>
+      <Tag tag="27" value="46" GameTagName="HERO_ENTITY"/>
+      <Tag tag="28" value="10" GameTagName="MAXHANDSIZE"/>
+      <Tag tag="29" value="4" GameTagName="STARTHANDSIZE"/>
+      <Tag tag="31" value="10" GameTagName="TEAM_ID"/>
+      <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+      <Tag tag="53" value="6" GameTagName="ENTITY_ID"/>
+      <Tag tag="176" value="10" GameTagName="MAXRESOURCES"/>
+      <Tag tag="232" value="1" GameTagName="CANT_DRAW"/>
+      <Tag tag="740" value="15" GameTagName="OVERRIDE_EMOTE_0"/>
+      <Tag tag="741" value="16" GameTagName="OVERRIDE_EMOTE_1"/>
+      <Tag tag="742" value="17" GameTagName="OVERRIDE_EMOTE_2"/>
+      <Tag tag="743" value="18" GameTagName="OVERRIDE_EMOTE_3"/>
+      <Tag tag="744" value="19" GameTagName="OVERRIDE_EMOTE_4"/>
+      <Tag tag="745" value="20" GameTagName="OVERRIDE_EMOTE_5"/>
+      <Tag tag="1349" value="1" GameTagName="BACON_DUMMY_PLAYER"/>
+    </Player>
+    <FullEntity id="27" cardID="TB_BaconShop_HERO_PH" EntityName="BaconPHhero">
+      <Tag tag="50" value="2" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="3" GameTagName="CARDTYPE"/>
+      <Tag tag="45" value="40" GameTagName="HEALTH"/>
+      <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+      <Tag tag="53" value="27" GameTagName="ENTITY_ID"/>
+      <Tag tag="1107" value="1" GameTagName="HIDE_WATERMARK"/>
+    </FullEntity>
+    <FullEntity id="28" cardID="TB_BaconShop_HERO_PH" EntityName="BaconPHhero">
+      <Tag tag="50" value="10" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="3" GameTagName="CARDTYPE"/>
+      <Tag tag="45" value="40" GameTagName="HEALTH"/>
+      <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+      <Tag tag="53" value="28" GameTagName="ENTITY_ID"/>
+      <Tag tag="410" value="1" GameTagName="REVEALED"/>
+      <Tag tag="1107" value="1" GameTagName="HIDE_WATERMARK"/>
+    </FullEntity>
+    <FullEntity id="45" cardID="TB_BaconShop_HERO_KelThuzad" EntityName="Kel'Thuzad">
+      <Tag tag="50" value="2" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="3" GameTagName="CARDTYPE"/>
+      <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+      <Tag tag="53" value="45" GameTagName="ENTITY_ID"/>
+      <Tag tag="201" value="3" GameTagName="FACTION"/>
+      <Tag tag="247" value="1" GameTagName="CANT_BE_DESTROYED"/>
+      <Tag tag="313" value="4" GameTagName="CREATOR"/>
+      <Tag tag="684" value="1" GameTagName="HIDE_COST"/>
+      <Tag tag="1423" value="1" GameTagName="BACON_IS_KEL_THUZAD"/>
+    </FullEntity>
+    <FullEntity id="46" cardID="TB_BaconShopBob" EntityName="Bob's Tavern">
+      <Tag tag="50" value="10" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="3" GameTagName="CARDTYPE"/>
+      <Tag tag="45" value="60" GameTagName="HEALTH"/>
+      <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+      <Tag tag="53" value="46" GameTagName="ENTITY_ID"/>
+      <Tag tag="262" value="28" GameTagName="LINKED_ENTITY"/>
+      <Tag tag="313" value="4" GameTagName="CREATOR"/>
+      <Tag tag="402" value="1" GameTagName="HIDE_STATS"/>
+      <Tag tag="682" value="1" GameTagName="HIDE_HEALTH"/>
+      <Tag tag="1107" value="1" GameTagName="HIDE_WATERMARK"/>
+    </FullEntity>
+    <FullEntity id="47" cardID="TB_BaconShop_8P_PlayerE" EntityName="BaconShop8PlayerEnchant">
+      <Tag tag="50" value="2" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="6" GameTagName="CARDTYPE"/>
+      <Tag tag="40" value="5" GameTagName="ATTACHED"/>
+      <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+      <Tag tag="53" value="47" GameTagName="ENTITY_ID"/>
+      <Tag tag="313" value="5" GameTagName="CREATOR"/>
+    </FullEntity>
+    <FullEntity id="48" cardID="TB_BaconShop_3ofKindChecke" EntityName="3ofKindCheckPlayerEnchant">
+      <Tag tag="50" value="2" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="6" GameTagName="CARDTYPE"/>
+      <Tag tag="40" value="5" GameTagName="ATTACHED"/>
+      <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+      <Tag tag="53" value="48" GameTagName="ENTITY_ID"/>
+      <Tag tag="313" value="5" GameTagName="CREATOR"/>
+    </FullEntity>
+    <TagChange entity="4" tag="204" value="2" EntityCardID="GameEntity" EntityCardName="GameEntity" StateName="RUNNING" GameTagName="STATE"/>
+    <TagChange entity="5" tag="17" value="1" EntityCardID="syfZZ#1798" EntityCardName="syfZZ#1798" PlayStateName="PLAYING" GameTagName="PLAYSTATE"/>
+    <TagChange entity="6" tag="17" value="1" EntityCardID="tanddyy" EntityCardName="tanddyy" PlayStateName="PLAYING" GameTagName="PLAYSTATE"/>
+    <Block entity="4" type="5" effectIndex="1" ts="2019-12-11T21:00:11.110647-05:00" block_sequence_num="1" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER"/>
+    <Block entity="4" type="5" effectIndex="2" ts="2019-12-11T21:00:11.110647-05:00" block_sequence_num="2" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER"/>
+    <Block entity="4" type="5" effectIndex="3" ts="2019-12-11T21:00:11.110647-05:00" block_sequence_num="3" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
+      <TagChange entity="6" tag="23" value="1" EntityCardID="tanddyy" EntityCardName="tanddyy" GameTagName="CURRENT_PLAYER"/>
+      <TagChange entity="6" tag="24" value="1" EntityCardID="tanddyy" EntityCardName="tanddyy" GameTagName="FIRST_PLAYER"/>
+      <TagChange entity="5" tag="272" value="1" EntityCardID="syfZZ#1798" EntityCardName="syfZZ#1798" GameTagName="NUM_TURNS_LEFT"/>
+      <TagChange entity="6" tag="272" value="1" EntityCardID="tanddyy" EntityCardName="tanddyy" GameTagName="NUM_TURNS_LEFT"/>
+      <TagChange entity="4" tag="10" value="60" EntityCardID="GameEntity" EntityCardName="GameEntity"/>
+      <TagChange entity="5" tag="7" value="45" EntityCardID="syfZZ#1798" EntityCardName="syfZZ#1798" GameTagName="TIMEOUT"/>
+      <TagChange entity="4" tag="198" value="4" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="BEGIN_MULLIGAN"/>
+      <TagChange entity="4" tag="1356" value="1" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="ALLOW_MOVE_MINION"/>
+      <TagChange entity="4" tag="1402" value="1" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="BACON_USE_FAST_ANIMATIONS"/>
+      <TagChange entity="4" tag="1424" value="1" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="BACON_HIGHLIGHT_ATTACKING_MINION_DURING_COMBAT"/>
+    </Block>
+    <TagChange entity="4" tag="19" value="4" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="BEGIN_MULLIGAN"/>
+    <Block entity="4" type="5" effectIndex="11" ts="2019-12-11T21:00:11.149602-05:00" block_sequence_num="4" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
+      <FullEntity id="75" cardID="TB_BaconShop_HERO_40" EntityName="Sir Finley Mrrgglton">
+        <Tag tag="50" value="2" GameTagName="CONTROLLER"/>
+        <Tag tag="202" value="3" GameTagName="CARDTYPE"/>
+        <Tag tag="45" value="40" GameTagName="HEALTH"/>
+        <Tag tag="49" value="3" GameTagName="ZONE" ZoneName="HAND"/>
+        <Tag tag="53" value="75" GameTagName="ENTITY_ID"/>
+        <Tag tag="201" value="3" GameTagName="FACTION"/>
+        <Tag tag="263" value="1" GameTagName="ZONE_POSITION"/>
+        <Tag tag="313" value="4" GameTagName="CREATOR"/>
+        <Tag tag="380" value="60215" GameTagName="HERO_POWER"/>
+        <Tag tag="684" value="1" GameTagName="HIDE_COST"/>
+        <Tag tag="1491" value="1" GameTagName="BACON_HERO_CAN_BE_DRAFTED"/>
+      </FullEntity>
+      <FullEntity id="76" cardID="TB_BaconShop_HERO_35" EntityName="Yogg-Saron, Hope's End">
+        <Tag tag="50" value="2" GameTagName="CONTROLLER"/>
+        <Tag tag="202" value="3" GameTagName="CARDTYPE"/>
+        <Tag tag="45" value="40" GameTagName="HEALTH"/>
+        <Tag tag="49" value="3" GameTagName="ZONE" ZoneName="HAND"/>
+        <Tag tag="53" value="76" GameTagName="ENTITY_ID"/>
+        <Tag tag="201" value="3" GameTagName="FACTION"/>
+        <Tag tag="263" value="2" GameTagName="ZONE_POSITION"/>
+        <Tag tag="313" value="4" GameTagName="CREATOR"/>
+        <Tag tag="380" value="59826" GameTagName="HERO_POWER"/>
+        <Tag tag="684" value="1" GameTagName="HIDE_COST"/>
+        <Tag tag="1491" value="1" GameTagName="BACON_HERO_CAN_BE_DRAFTED"/>
+      </FullEntity>
+      <FullEntity id="77" cardID="TB_BaconShop_HERO_28" EntityName="Infinite Toki">
+        <Tag tag="50" value="2" GameTagName="CONTROLLER"/>
+        <Tag tag="202" value="3" GameTagName="CARDTYPE"/>
+        <Tag tag="45" value="40" GameTagName="HEALTH"/>
+        <Tag tag="49" value="3" GameTagName="ZONE" ZoneName="HAND"/>
+        <Tag tag="53" value="77" GameTagName="ENTITY_ID"/>
+        <Tag tag="201" value="3" GameTagName="FACTION"/>
+        <Tag tag="263" value="3" GameTagName="ZONE_POSITION"/>
+        <Tag tag="313" value="4" GameTagName="CREATOR"/>
+        <Tag tag="380" value="58537" GameTagName="HERO_POWER"/>
+        <Tag tag="684" value="1" GameTagName="HIDE_COST"/>
+        <Tag tag="1491" value="1" GameTagName="BACON_HERO_CAN_BE_DRAFTED"/>
+      </FullEntity>
+      <TagChange entity="5" tag="305" value="1" EntityCardID="syfZZ#1798" EntityCardName="syfZZ#1798" GameTagName="MULLIGAN_STATE" MulliganStateName="INPUT"/>
+      <Choices entity="5" id="1" taskList="6" type="1" min="1" max="1" source="4" ts="2019-12-11T21:00:11.186995-05:00" EntityCardID="syfZZ#1798" EntityName="syfZZ#1798" SourceCardID="GameEntity" SourceName="GameEntity">
+        <Choice index="0" entity="75" EntityCardID="TB_BaconShop_HERO_40" EntityName="Sir Finley Mrrgglton"/>
+        <Choice index="1" entity="76" EntityCardID="TB_BaconShop_HERO_35" EntityName="Yogg-Saron, Hope's End"/>
+        <Choice index="2" entity="77" EntityCardID="TB_BaconShop_HERO_28" EntityName="Infinite Toki"/>
+      </Choices>
+      <ChosenEntities entity="5" id="1" ts="2019-12-11T21:01:11.277275-05:00">
+        <Choice index="0" entity="75" EntityCardID="TB_BaconShop_HERO_40" EntityName="Sir Finley Mrrgglton"/>
+      </ChosenEntities>
+    </Block>
+    <FullEntity id="92" cardID="TB_BaconShop_HERO_16" EntityName="A. F. Kay">
+      <Tag tag="50" value="10" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="3" GameTagName="CARDTYPE"/>
+      <Tag tag="30" value="1" GameTagName="PLAYER_ID"/>
+      <Tag tag="45" value="40" GameTagName="HEALTH"/>
+      <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+      <Tag tag="53" value="92" GameTagName="ENTITY_ID"/>
+      <Tag tag="201" value="3" GameTagName="FACTION"/>
+      <Tag tag="313" value="73" GameTagName="CREATOR"/>
+      <Tag tag="380" value="59891" GameTagName="HERO_POWER"/>
+      <Tag tag="410" value="1" GameTagName="REVEALED"/>
+      <Tag tag="684" value="1" GameTagName="HIDE_COST"/>
+      <Tag tag="1284" value="57944" GameTagName="CREATOR_DBID"/>
+      <Tag tag="1373" value="1" GameTagName="PLAYER_LEADERBOARD_PLACE"/>
+      <Tag tag="1491" value="1" GameTagName="BACON_HERO_CAN_BE_DRAFTED"/>
+    </FullEntity>
+    <TagChange entity="92" tag="262" value="25" EntityCardID="TB_BaconShop_HERO_16" EntityCardName="A. F. Kay" GameTagName="LINKED_ENTITY"/>
+    <FullEntity id="101" cardID="TB_BaconShop_HERO_27" EntityName="Sindragosa">
+      <Tag tag="50" value="10" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="3" GameTagName="CARDTYPE"/>
+      <Tag tag="30" value="7" GameTagName="PLAYER_ID"/>
+      <Tag tag="45" value="40" GameTagName="HEALTH"/>
+      <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+      <Tag tag="53" value="101" GameTagName="ENTITY_ID"/>
+      <Tag tag="201" value="3" GameTagName="FACTION"/>
+      <Tag tag="313" value="88" GameTagName="CREATOR"/>
+      <Tag tag="380" value="57945" GameTagName="HERO_POWER"/>
+      <Tag tag="410" value="1" GameTagName="REVEALED"/>
+      <Tag tag="684" value="1" GameTagName="HIDE_COST"/>
+      <Tag tag="1284" value="58435" GameTagName="CREATOR_DBID"/>
+      <Tag tag="1373" value="1" GameTagName="PLAYER_LEADERBOARD_PLACE"/>
+      <Tag tag="1491" value="1" GameTagName="BACON_HERO_CAN_BE_DRAFTED"/>
+    </FullEntity>
+    <TagChange entity="101" tag="262" value="37" EntityCardID="TB_BaconShop_HERO_27" EntityCardName="Sindragosa" GameTagName="LINKED_ENTITY"/>
+    <FullEntity id="109" cardID="TB_BaconShop_HERO_11" EntityName="Ragnaros the Firelord">
+      <Tag tag="50" value="10" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="3" GameTagName="CARDTYPE"/>
+      <Tag tag="30" value="8" GameTagName="PLAYER_ID"/>
+      <Tag tag="45" value="40" GameTagName="HEALTH"/>
+      <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+      <Tag tag="53" value="109" GameTagName="ENTITY_ID"/>
+      <Tag tag="201" value="3" GameTagName="FACTION"/>
+      <Tag tag="313" value="89" GameTagName="CREATOR"/>
+      <Tag tag="380" value="58017" GameTagName="HERO_POWER"/>
+      <Tag tag="410" value="1" GameTagName="REVEALED"/>
+      <Tag tag="684" value="1" GameTagName="HIDE_COST"/>
+      <Tag tag="1284" value="57892" GameTagName="CREATOR_DBID"/>
+      <Tag tag="1373" value="1" GameTagName="PLAYER_LEADERBOARD_PLACE"/>
+      <Tag tag="1491" value="1" GameTagName="BACON_HERO_CAN_BE_DRAFTED"/>
+    </FullEntity>
+    <TagChange entity="109" tag="262" value="39" EntityCardID="TB_BaconShop_HERO_11" EntityCardName="Ragnaros the Firelord" GameTagName="LINKED_ENTITY"/>
+    <FullEntity id="117" cardID="TB_BaconShop_HERO_30" EntityName="Nefarian">
+      <Tag tag="50" value="10" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="3" GameTagName="CARDTYPE"/>
+      <Tag tag="30" value="6" GameTagName="PLAYER_ID"/>
+      <Tag tag="45" value="40" GameTagName="HEALTH"/>
+      <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+      <Tag tag="53" value="117" GameTagName="ENTITY_ID"/>
+      <Tag tag="201" value="3" GameTagName="FACTION"/>
+      <Tag tag="313" value="85" GameTagName="CREATOR"/>
+      <Tag tag="380" value="59862" GameTagName="HERO_POWER"/>
+      <Tag tag="410" value="1" GameTagName="REVEALED"/>
+      <Tag tag="684" value="1" GameTagName="HIDE_COST"/>
+      <Tag tag="1284" value="58536" GameTagName="CREATOR_DBID"/>
+      <Tag tag="1373" value="1" GameTagName="PLAYER_LEADERBOARD_PLACE"/>
+      <Tag tag="1491" value="1" GameTagName="BACON_HERO_CAN_BE_DRAFTED"/>
+    </FullEntity>
+    <TagChange entity="117" tag="262" value="35" EntityCardID="TB_BaconShop_HERO_30" EntityCardName="Nefarian" GameTagName="LINKED_ENTITY"/>
+    <FullEntity id="125" cardID="TB_BaconShop_HERO_43" EntityName="Brann Bronzebeard">
+      <Tag tag="50" value="10" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="3" GameTagName="CARDTYPE"/>
+      <Tag tag="30" value="4" GameTagName="PLAYER_ID"/>
+      <Tag tag="45" value="40" GameTagName="HEALTH"/>
+      <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+      <Tag tag="53" value="125" GameTagName="ENTITY_ID"/>
+      <Tag tag="201" value="3" GameTagName="FACTION"/>
+      <Tag tag="313" value="80" GameTagName="CREATOR"/>
+      <Tag tag="380" value="60218" GameTagName="HERO_POWER"/>
+      <Tag tag="410" value="1" GameTagName="REVEALED"/>
+      <Tag tag="684" value="1" GameTagName="HIDE_COST"/>
+      <Tag tag="1284" value="60214" GameTagName="CREATOR_DBID"/>
+      <Tag tag="1373" value="1" GameTagName="PLAYER_LEADERBOARD_PLACE"/>
+      <Tag tag="1491" value="1" GameTagName="BACON_HERO_CAN_BE_DRAFTED"/>
+    </FullEntity>
+    <TagChange entity="125" tag="262" value="31" EntityCardID="TB_BaconShop_HERO_43" EntityCardName="Brann Bronzebeard" GameTagName="LINKED_ENTITY"/>
+    <FullEntity id="133" cardID="TB_BaconShop_HERO_12" EntityName="The Rat King">
+      <Tag tag="50" value="10" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="3" GameTagName="CARDTYPE"/>
+      <Tag tag="30" value="3" GameTagName="PLAYER_ID"/>
+      <Tag tag="45" value="40" GameTagName="HEALTH"/>
+      <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+      <Tag tag="53" value="133" GameTagName="ENTITY_ID"/>
+      <Tag tag="201" value="3" GameTagName="FACTION"/>
+      <Tag tag="313" value="78" GameTagName="CREATOR"/>
+      <Tag tag="380" value="59839" GameTagName="HERO_POWER"/>
+      <Tag tag="410" value="1" GameTagName="REVEALED"/>
+      <Tag tag="684" value="1" GameTagName="HIDE_COST"/>
+      <Tag tag="1284" value="57893" GameTagName="CREATOR_DBID"/>
+      <Tag tag="1373" value="1" GameTagName="PLAYER_LEADERBOARD_PLACE"/>
+      <Tag tag="1491" value="1" GameTagName="BACON_HERO_CAN_BE_DRAFTED"/>
+    </FullEntity>
+    <TagChange entity="133" tag="262" value="29" EntityCardID="TB_BaconShop_HERO_12" EntityCardName="The Rat King" GameTagName="LINKED_ENTITY"/>
+    <TagChange entity="5" tag="305" value="2" EntityCardID="syfZZ#1798" EntityCardName="syfZZ#1798" GameTagName="MULLIGAN_STATE" MulliganStateName="DEALING"/>
+    <Block entity="5" type="5" effectIndex="0" ts="2019-12-11T21:01:11.284747-05:00" block_sequence_num="5" EntityCardID="syfZZ#1798" EntityCardName="syfZZ#1798" BlockTypeName="TRIGGER">
+      <TagChange entity="76" tag="18" value="5" EntityCardID="TB_BaconShop_HERO_35" EntityCardName="Yogg-Saron, Hope's End" ValueReferenceCardID="syfZZ#1798" ValueReferenceCardName="syfZZ#1798" GameTagName="LAST_AFFECTED_BY"/>
+      <TagChange entity="76" tag="1068" value="4" EntityCardID="TB_BaconShop_HERO_35" EntityCardName="Yogg-Saron, Hope's End"/>
+      <TagChange entity="76" tag="1068" value="0" EntityCardID="TB_BaconShop_HERO_35" EntityCardName="Yogg-Saron, Hope's End"/>
+      <TagChange entity="77" tag="263" value="2" EntityCardID="TB_BaconShop_HERO_28" EntityCardName="Infinite Toki" GameTagName="ZONE_POSITION"/>
+      <TagChange entity="76" tag="1037" value="2" EntityCardID="TB_BaconShop_HERO_35" EntityCardName="Yogg-Saron, Hope's End"/>
+      <TagChange entity="76" tag="263" value="0" EntityCardID="TB_BaconShop_HERO_35" EntityCardName="Yogg-Saron, Hope's End" GameTagName="ZONE_POSITION"/>
+      <TagChange entity="76" tag="49" value="4" EntityCardID="TB_BaconShop_HERO_35" EntityCardName="Yogg-Saron, Hope's End" GameTagName="ZONE" ZoneName="GRAVEYARD"/>
+      <TagChange entity="77" tag="18" value="5" EntityCardID="TB_BaconShop_HERO_28" EntityCardName="Infinite Toki" ValueReferenceCardID="syfZZ#1798" ValueReferenceCardName="syfZZ#1798" GameTagName="LAST_AFFECTED_BY"/>
+      <TagChange entity="77" tag="1068" value="4" EntityCardID="TB_BaconShop_HERO_28" EntityCardName="Infinite Toki"/>
+      <TagChange entity="77" tag="1068" value="0" EntityCardID="TB_BaconShop_HERO_28" EntityCardName="Infinite Toki"/>
+      <TagChange entity="77" tag="1037" value="2" EntityCardID="TB_BaconShop_HERO_28" EntityCardName="Infinite Toki"/>
+      <TagChange entity="77" tag="263" value="0" EntityCardID="TB_BaconShop_HERO_28" EntityCardName="Infinite Toki" GameTagName="ZONE_POSITION"/>
+      <TagChange entity="77" tag="49" value="4" EntityCardID="TB_BaconShop_HERO_28" EntityCardName="Infinite Toki" GameTagName="ZONE" ZoneName="GRAVEYARD"/>
+      <TagChange entity="75" tag="1068" value="1" EntityCardID="TB_BaconShop_HERO_40" EntityCardName="Sir Finley Mrrgglton"/>
+      <TagChange entity="75" tag="1068" value="0" EntityCardID="TB_BaconShop_HERO_40" EntityCardName="Sir Finley Mrrgglton"/>
+      <TagChange entity="75" tag="1037" value="2" EntityCardID="TB_BaconShop_HERO_40" EntityCardName="Sir Finley Mrrgglton"/>
+      <TagChange entity="75" tag="263" value="0" EntityCardID="TB_BaconShop_HERO_40" EntityCardName="Sir Finley Mrrgglton" GameTagName="ZONE_POSITION"/>
+      <TagChange entity="75" tag="49" value="1" EntityCardID="TB_BaconShop_HERO_40" EntityCardName="Sir Finley Mrrgglton" GameTagName="ZONE" ZoneName="PLAY"/>
+      <TagChange entity="75" tag="262" value="27" EntityCardID="TB_BaconShop_HERO_40" EntityCardName="Sir Finley Mrrgglton" GameTagName="LINKED_ENTITY"/>
+      <TagChange entity="27" tag="1068" value="6" EntityCardID="TB_BaconShop_HERO_PH" EntityCardName="BaconPHhero"/>
+      <TagChange entity="27" tag="1068" value="0" EntityCardID="TB_BaconShop_HERO_PH" EntityCardName="BaconPHhero"/>
+      <TagChange entity="27" tag="1037" value="2" EntityCardID="TB_BaconShop_HERO_PH" EntityCardName="BaconPHhero"/>
+      <TagChange entity="27" tag="49" value="6" EntityCardID="TB_BaconShop_HERO_PH" EntityCardName="BaconPHhero" GameTagName="ZONE" ZoneName="SETASIDE"/>
+      <TagChange entity="27" tag="410" value="1" EntityCardID="TB_BaconShop_HERO_PH" EntityCardName="BaconPHhero" GameTagName="REVEALED"/>
+      <TagChange entity="5" tag="27" value="75" EntityCardID="syfZZ#1798" EntityCardName="syfZZ#1798" GameTagName="HERO_ENTITY"/>
+      <TagChange entity="75" tag="30" value="2" EntityCardID="TB_BaconShop_HERO_40" EntityCardName="Sir Finley Mrrgglton" GameTagName="PLAYER_ID"/>
+      <TagChange entity="75" tag="1373" value="1" EntityCardID="TB_BaconShop_HERO_40" EntityCardName="Sir Finley Mrrgglton" GameTagName="PLAYER_LEADERBOARD_PLACE"/>
+      <FullEntity id="139" cardID="TB_BaconShop_HP_045" EntityName="Power Up!">
+        <Tag tag="50" value="2" GameTagName="CONTROLLER"/>
+        <Tag tag="202" value="10" GameTagName="CARDTYPE"/>
+        <Tag tag="48" value="1" GameTagName="COST"/>
+        <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+        <Tag tag="53" value="139" GameTagName="ENTITY_ID"/>
+        <Tag tag="313" value="5" GameTagName="CREATOR"/>
+        <Tag tag="466" value="1" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+        <Tag tag="1037" value="2"/>
+        <Tag tag="1107" value="1" GameTagName="HIDE_WATERMARK"/>
+      </FullEntity>
+      <TagChange entity="5" tag="305" value="3" EntityCardID="syfZZ#1798" EntityCardName="syfZZ#1798" GameTagName="MULLIGAN_STATE" MulliganStateName="WAITING"/>
+    </Block>
+    <Block entity="5" type="5" effectIndex="1" ts="2019-12-11T21:01:11.285719-05:00" block_sequence_num="6" EntityCardID="syfZZ#1798" EntityCardName="syfZZ#1798" BlockTypeName="TRIGGER">
+      <TagChange entity="5" tag="305" value="4" EntityCardID="syfZZ#1798" EntityCardName="syfZZ#1798" GameTagName="MULLIGAN_STATE" MulliganStateName="DONE"/>
+      <TagChange entity="4" tag="198" value="6" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_READY"/>
+    </Block>
+    <FullEntity id="149" cardID="TB_BaconShop_HERO_22" EntityName="The Lich King">
+      <Tag tag="50" value="10" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="3" GameTagName="CARDTYPE"/>
+      <Tag tag="30" value="5" GameTagName="PLAYER_ID"/>
+      <Tag tag="45" value="40" GameTagName="HEALTH"/>
+      <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+      <Tag tag="53" value="149" GameTagName="ENTITY_ID"/>
+      <Tag tag="201" value="3" GameTagName="FACTION"/>
+      <Tag tag="313" value="83" GameTagName="CREATOR"/>
+      <Tag tag="380" value="58040" GameTagName="HERO_POWER"/>
+      <Tag tag="410" value="1" GameTagName="REVEALED"/>
+      <Tag tag="684" value="1" GameTagName="HIDE_COST"/>
+      <Tag tag="1284" value="58024" GameTagName="CREATOR_DBID"/>
+      <Tag tag="1373" value="1" GameTagName="PLAYER_LEADERBOARD_PLACE"/>
+      <Tag tag="1491" value="1" GameTagName="BACON_HERO_CAN_BE_DRAFTED"/>
+    </FullEntity>
+    <TagChange entity="149" tag="262" value="33" EntityCardID="TB_BaconShop_HERO_22" EntityCardName="The Lich King" GameTagName="LINKED_ENTITY"/>
+    <TagChange entity="4" tag="19" value="6" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_READY"/>
+    <Block entity="6" type="5" ts="2019-12-11T21:01:11.805718-05:00" block_sequence_num="7" EntityCardID="tanddyy" EntityCardName="tanddyy" BlockTypeName="TRIGGER">
+      <TagChange entity="4" tag="271" value="1" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NUM_TURNS_IN_PLAY"/>
+      <TagChange entity="5" tag="271" value="1" EntityCardID="syfZZ#1798" EntityCardName="syfZZ#1798" GameTagName="NUM_TURNS_IN_PLAY"/>
+      <TagChange entity="6" tag="271" value="1" EntityCardID="tanddyy" EntityCardName="tanddyy" GameTagName="NUM_TURNS_IN_PLAY"/>
+      <TagChange entity="46" tag="271" value="1" EntityCardID="TB_BaconShopBob" EntityCardName="Bob's Tavern" GameTagName="NUM_TURNS_IN_PLAY"/>
+      <TagChange entity="75" tag="271" value="1" EntityCardID="TB_BaconShop_HERO_40" EntityCardName="Sir Finley Mrrgglton" GameTagName="NUM_TURNS_IN_PLAY"/>
+      <TagChange entity="139" tag="271" value="1" EntityCardID="TB_BaconShop_HP_045" EntityCardName="Power Up!" GameTagName="NUM_TURNS_IN_PLAY"/>
+      <TagChange entity="6" tag="26" value="1" EntityCardID="tanddyy" EntityCardName="tanddyy" GameTagName="RESOURCES"/>
+      <TagChange entity="4" tag="198" value="17" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_START_TRIGGERS"/>
+    </Block>
+    <TagChange entity="4" tag="19" value="17" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_START_TRIGGERS"/>
+    <Block entity="4" type="5" effectIndex="6" ts="2019-12-11T21:01:11.805718-05:00" block_sequence_num="8" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
+      <TagChange entity="4" tag="19" value="12" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_END"/>
+    </Block>
+    <Block entity="6" type="5" ts="2019-12-11T21:01:11.805718-05:00" block_sequence_num="9" EntityCardID="tanddyy" EntityCardName="tanddyy" BlockTypeName="TRIGGER">
+      <TagChange entity="4" tag="198" value="9" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_START"/>
+    </Block>
+    <Block entity="5" type="5" ts="2019-12-11T21:01:11.805718-05:00" block_sequence_num="10" EntityCardID="syfZZ#1798" EntityCardName="syfZZ#1798" BlockTypeName="TRIGGER"/>
+    <Block entity="6" type="5" ts="2019-12-11T21:01:11.805718-05:00" block_sequence_num="11" EntityCardID="tanddyy" EntityCardName="tanddyy" BlockTypeName="TRIGGER">
+      <TagChange entity="4" tag="198" value="16" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_CLEANUP"/>
+    </Block>
+    <Block entity="6" type="5" ts="2019-12-11T21:01:11.805718-05:00" block_sequence_num="12" EntityCardID="tanddyy" EntityCardName="tanddyy" BlockTypeName="TRIGGER"/>
+    <TagChange entity="4" tag="19" value="16" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_CLEANUP"/>
+    <Block entity="6" type="5" ts="2019-12-11T21:01:11.805718-05:00" block_sequence_num="13" EntityCardID="tanddyy" EntityCardName="tanddyy" BlockTypeName="TRIGGER">
+      <TagChange entity="4" tag="198" value="13" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_NEXT"/>
+    </Block>
+    <TagChange entity="4" tag="19" value="13" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_NEXT"/>
+    <Block entity="4" type="5" effectIndex="5" ts="2019-12-11T21:01:11.805718-05:00" block_sequence_num="14" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
+      <TagChange entity="6" tag="1292" value="1" EntityCardID="tanddyy" EntityCardName="tanddyy"/>
+      <TagChange entity="6" tag="1292" value="0" EntityCardID="tanddyy" EntityCardName="tanddyy"/>
+      <TagChange entity="5" tag="1292" value="1" EntityCardID="syfZZ#1798" EntityCardName="syfZZ#1798"/>
+      <TagChange entity="6" tag="23" value="0" EntityCardID="tanddyy" EntityCardName="tanddyy" GameTagName="CURRENT_PLAYER"/>
+      <TagChange entity="5" tag="23" value="1" EntityCardID="syfZZ#1798" EntityCardName="syfZZ#1798" GameTagName="CURRENT_PLAYER"/>
+      <TagChange entity="4" tag="20" value="1" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="TURN"/>
+      <TagChange entity="4" tag="198" value="6" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_READY"/>
+    </Block>
+    <TagChange entity="4" tag="19" value="6" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_READY"/>
+    <Block entity="5" type="5" ts="2019-12-11T21:01:11.805718-05:00" block_sequence_num="15" EntityCardID="syfZZ#1798" EntityCardName="syfZZ#1798" BlockTypeName="TRIGGER">
+      <TagChange entity="4" tag="271" value="2" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NUM_TURNS_IN_PLAY"/>
+      <TagChange entity="5" tag="271" value="2" EntityCardID="syfZZ#1798" EntityCardName="syfZZ#1798" GameTagName="NUM_TURNS_IN_PLAY"/>
+      <TagChange entity="6" tag="271" value="2" EntityCardID="tanddyy" EntityCardName="tanddyy" GameTagName="NUM_TURNS_IN_PLAY"/>
+      <TagChange entity="46" tag="271" value="2" EntityCardID="TB_BaconShopBob" EntityCardName="Bob's Tavern" GameTagName="NUM_TURNS_IN_PLAY"/>
+      <TagChange entity="75" tag="271" value="2" EntityCardID="TB_BaconShop_HERO_40" EntityCardName="Sir Finley Mrrgglton" GameTagName="NUM_TURNS_IN_PLAY"/>
+      <TagChange entity="139" tag="271" value="2" EntityCardID="TB_BaconShop_HP_045" EntityCardName="Power Up!" GameTagName="NUM_TURNS_IN_PLAY"/>
+      <TagChange entity="4" tag="198" value="17" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_START_TRIGGERS"/>
+    </Block>
+    <TagChange entity="4" tag="19" value="17" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_START_TRIGGERS"/>
+    <Block entity="47" type="5" effectIndex="2" ts="2019-12-11T21:01:11.805718-05:00" block_sequence_num="16" EntityCardID="TB_BaconShop_8P_PlayerE" EntityCardName="BaconShop8PlayerEnchant" BlockTypeName="TRIGGER"/>
+    <Block entity="5" type="5" ts="2019-12-11T21:01:11.805718-05:00" block_sequence_num="17" EntityCardID="syfZZ#1798" EntityCardName="syfZZ#1798" BlockTypeName="TRIGGER">
+      <TagChange entity="4" tag="198" value="9" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_START"/>
+    </Block>
+    <TagChange entity="133" tag="1377" value="1" EntityCardID="TB_BaconShop_HERO_12" EntityCardName="The Rat King" GameTagName="PLAYER_TECH_LEVEL"/>
+    <TagChange entity="125" tag="1377" value="1" EntityCardID="TB_BaconShop_HERO_43" EntityCardName="Brann Bronzebeard" GameTagName="PLAYER_TECH_LEVEL"/>
+    <TagChange entity="149" tag="1377" value="1" EntityCardID="TB_BaconShop_HERO_22" EntityCardName="The Lich King" GameTagName="PLAYER_TECH_LEVEL"/>
+    <TagChange entity="117" tag="1377" value="1" EntityCardID="TB_BaconShop_HERO_30" EntityCardName="Nefarian" GameTagName="PLAYER_TECH_LEVEL"/>
+    <TagChange entity="101" tag="1377" value="1" EntityCardID="TB_BaconShop_HERO_27" EntityCardName="Sindragosa" GameTagName="PLAYER_TECH_LEVEL"/>
+    <TagChange entity="109" tag="1377" value="1" EntityCardID="TB_BaconShop_HERO_11" EntityCardName="Ragnaros the Firelord" GameTagName="PLAYER_TECH_LEVEL"/>
+    <TagChange entity="92" tag="1377" value="1" EntityCardID="TB_BaconShop_HERO_16" EntityCardName="A. F. Kay" GameTagName="PLAYER_TECH_LEVEL"/>
+    <TagChange entity="4" tag="19" value="9" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_START"/>
+    <Block entity="5" type="5" ts="2019-12-11T21:01:12.056253-05:00" block_sequence_num="18" EntityCardID="syfZZ#1798" EntityCardName="syfZZ#1798" BlockTypeName="TRIGGER">
+      <TagChange entity="4" tag="198" value="10" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_ACTION"/>
+    </Block>
+    <Block entity="47" type="5" effectIndex="0" ts="2019-12-11T21:01:12.056253-05:00" block_sequence_num="19" EntityCardID="TB_BaconShop_8P_PlayerE" EntityCardName="BaconShop8PlayerEnchant" BlockTypeName="TRIGGER">
+      <TagChange entity="5" tag="1485" value="629431197" EntityCardID="syfZZ#1798" EntityCardName="syfZZ#1798"/>
+      <TagChange entity="75" tag="1377" value="1" EntityCardID="TB_BaconShop_HERO_40" EntityCardName="Sir Finley Mrrgglton" GameTagName="PLAYER_TECH_LEVEL"/>
+      <TagChange entity="5" tag="176" value="10" EntityCardID="syfZZ#1798" EntityCardName="syfZZ#1798" GameTagName="MAXRESOURCES"/>
+      <TagChange entity="5" tag="26" value="3" EntityCardID="syfZZ#1798" EntityCardName="syfZZ#1798" GameTagName="RESOURCES"/>
+      <FullEntity id="211" cardID="TB_BaconShop_8p_Reroll_Button" EntityName="Refresh">
+        <Tag tag="50" value="2" GameTagName="CONTROLLER"/>
+        <Tag tag="202" value="12" GameTagName="CARDTYPE"/>
+        <Tag tag="48" value="1" GameTagName="COST"/>
+        <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+        <Tag tag="53" value="211" GameTagName="ENTITY_ID"/>
+        <Tag tag="313" value="47" GameTagName="CREATOR"/>
+        <Tag tag="466" value="1" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+        <Tag tag="1037" value="2"/>
+        <Tag tag="1107" value="2" GameTagName="HIDE_WATERMARK"/>
+        <Tag tag="1284" value="57980" GameTagName="CREATOR_DBID"/>
+        <Tag tag="1437" value="1" GameTagName="BACON_ACTION_CARD"/>
+        <Tag tag="1438" value="2" GameTagName="GAME_MODE_BUTTON_SLOT"/>
+      </FullEntity>
+      <FullEntity id="212" cardID="TB_BaconShopLockAll_Button" EntityName="Freeze">
+        <Tag tag="50" value="2" GameTagName="CONTROLLER"/>
+        <Tag tag="202" value="12" GameTagName="CARDTYPE"/>
+        <Tag tag="3" value="10" GameTagName="TAG_SCRIPT_DATA_NUM_2"/>
+        <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+        <Tag tag="53" value="212" GameTagName="ENTITY_ID"/>
+        <Tag tag="201" value="2" GameTagName="FACTION"/>
+        <Tag tag="313" value="47" GameTagName="CREATOR"/>
+        <Tag tag="1037" value="2"/>
+        <Tag tag="1107" value="1" GameTagName="HIDE_WATERMARK"/>
+        <Tag tag="1270" value="1"/>
+        <Tag tag="1284" value="57980" GameTagName="CREATOR_DBID"/>
+        <Tag tag="1437" value="1" GameTagName="BACON_ACTION_CARD"/>
+        <Tag tag="1438" value="1" GameTagName="GAME_MODE_BUTTON_SLOT"/>
+      </FullEntity>
+      <FullEntity id="213" cardID="TB_BaconShopTechUp02_Button" EntityName="Tavern Tier 2">
+        <Tag tag="50" value="2" GameTagName="CONTROLLER"/>
+        <Tag tag="202" value="12" GameTagName="CARDTYPE"/>
+        <Tag tag="48" value="5" GameTagName="COST"/>
+        <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+        <Tag tag="53" value="213" GameTagName="ENTITY_ID"/>
+        <Tag tag="313" value="47" GameTagName="CREATOR"/>
+        <Tag tag="466" value="5" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+        <Tag tag="1037" value="2"/>
+        <Tag tag="1107" value="1" GameTagName="HIDE_WATERMARK"/>
+        <Tag tag="1284" value="57980" GameTagName="CREATOR_DBID"/>
+        <Tag tag="1437" value="1" GameTagName="BACON_ACTION_CARD"/>
+        <Tag tag="1438" value="3" GameTagName="GAME_MODE_BUTTON_SLOT"/>
+      </FullEntity>
+      <FullEntity id="214" cardID="TB_BaconShop_DragSell" EntityName="Drag To Sell">
+        <Tag tag="50" value="2" GameTagName="CONTROLLER"/>
+        <Tag tag="202" value="22" GameTagName="CARDTYPE"/>
+        <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+        <Tag tag="53" value="214" GameTagName="ENTITY_ID"/>
+        <Tag tag="313" value="47" GameTagName="CREATOR"/>
+        <Tag tag="1037" value="2"/>
+        <Tag tag="1284" value="57980" GameTagName="CREATOR_DBID"/>
+        <Tag tag="1437" value="1" GameTagName="BACON_ACTION_CARD"/>
+        <Tag tag="1464" value="2" GameTagName="MOVE_MINION_HOVER_TARGET_SLOT"/>
+      </FullEntity>
+      <FullEntity id="215" cardID="TB_BaconShop_DragBuy" EntityName="Drag To Buy">
+        <Tag tag="50" value="2" GameTagName="CONTROLLER"/>
+        <Tag tag="202" value="22" GameTagName="CARDTYPE"/>
+        <Tag tag="48" value="3" GameTagName="COST"/>
+        <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+        <Tag tag="53" value="215" GameTagName="ENTITY_ID"/>
+        <Tag tag="313" value="47" GameTagName="CREATOR"/>
+        <Tag tag="466" value="3" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+        <Tag tag="1037" value="2"/>
+        <Tag tag="1284" value="57980" GameTagName="CREATOR_DBID"/>
+        <Tag tag="1437" value="1" GameTagName="BACON_ACTION_CARD"/>
+        <Tag tag="1464" value="1" GameTagName="MOVE_MINION_HOVER_TARGET_SLOT"/>
+      </FullEntity>
+    </Block>
+    <Block entity="47" type="5" effectIndex="1" ts="2019-12-11T21:01:12.056253-05:00" block_sequence_num="20" EntityCardID="TB_BaconShop_8P_PlayerE" EntityCardName="BaconShop8PlayerEnchant" BlockTypeName="TRIGGER">
+      <TagChange entity="4" tag="6" value="1" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="MISSION_EVENT"/>
+      <TagChange entity="4" tag="1453" value="1" EntityCardID="GameEntity" EntityCardName="GameEntity"/>
+      <TagChange entity="4" tag="1466" value="1" EntityCardID="GameEntity" EntityCardName="GameEntity"/>
+      <TagChange entity="4" tag="1467" value="1" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="BACON_COIN_ON_ENEMY_MINIONS"/>
+      <SubSpell spellPrefabGuid="Bacon_MinionSwap_OverrideSpawnIn_Super:69498edad9bb7594e89a3b5e0e41f026" source="47" targetCount="0" ts="2019-12-11T21:01:12.056253-05:00">
+        <FullEntity id="216" cardID="ICC_038" EntityName="Righteous Protector">
+          <Tag tag="50" value="10" GameTagName="CONTROLLER"/>
+          <Tag tag="202" value="4" GameTagName="CARDTYPE"/>
+          <Tag tag="48" value="1" GameTagName="COST"/>
+          <Tag tag="43" value="1" GameTagName="EXHAUSTED"/>
+          <Tag tag="45" value="1" GameTagName="HEALTH"/>
+          <Tag tag="47" value="1" GameTagName="ATK"/>
+          <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+          <Tag tag="53" value="216" GameTagName="ENTITY_ID"/>
+          <Tag tag="190" value="1" GameTagName="TAUNT"/>
+          <Tag tag="194" value="1" GameTagName="DIVINE_SHIELD"/>
+          <Tag tag="203" value="1" GameTagName="RARITY"/>
+          <Tag tag="263" value="1" GameTagName="ZONE_POSITION"/>
+          <Tag tag="313" value="47" GameTagName="CREATOR"/>
+          <Tag tag="466" value="1" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+          <Tag tag="479" value="1"/>
+          <Tag tag="1037" value="2"/>
+          <Tag tag="1196" value="1"/>
+          <Tag tag="1254" value="47"/>
+          <Tag tag="1284" value="57980" GameTagName="CREATOR_DBID"/>
+          <Tag tag="1440" value="1" GameTagName="TECH_LEVEL"/>
+          <Tag tag="1456" value="1" GameTagName="IS_BACON_POOL_MINION"/>
+        </FullEntity>
+        <TagChange entity="216" tag="271" value="3" EntityCardID="ICC_038" EntityCardName="Righteous Protector" GameTagName="NUM_TURNS_IN_PLAY"/>
+        <TagChange entity="216" tag="43" value="0" EntityCardID="ICC_038" EntityCardName="Righteous Protector" GameTagName="EXHAUSTED"/>
+        <TagChange entity="216" tag="227" value="1" EntityCardID="ICC_038" EntityCardName="Righteous Protector" GameTagName="CANT_ATTACK"/>
+        <FullEntity id="217" cardID="LOOT_013" EntityName="Vulgar Homunculus">
+          <Tag tag="50" value="10" GameTagName="CONTROLLER"/>
+          <Tag tag="202" value="4" GameTagName="CARDTYPE"/>
+          <Tag tag="48" value="2" GameTagName="COST"/>
+          <Tag tag="43" value="1" GameTagName="EXHAUSTED"/>
+          <Tag tag="45" value="4" GameTagName="HEALTH"/>
+          <Tag tag="47" value="2" GameTagName="ATK"/>
+          <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+          <Tag tag="53" value="217" GameTagName="ENTITY_ID"/>
+          <Tag tag="190" value="1" GameTagName="TAUNT"/>
+          <Tag tag="200" value="15" GameTagName="CARDRACE"/>
+          <Tag tag="201" value="3" GameTagName="FACTION"/>
+          <Tag tag="203" value="1" GameTagName="RARITY"/>
+          <Tag tag="218" value="1" GameTagName="BATTLECRY"/>
+          <Tag tag="263" value="2" GameTagName="ZONE_POSITION"/>
+          <Tag tag="313" value="47" GameTagName="CREATOR"/>
+          <Tag tag="466" value="2" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+          <Tag tag="479" value="2"/>
+          <Tag tag="1037" value="2"/>
+          <Tag tag="1196" value="1"/>
+          <Tag tag="1254" value="47"/>
+          <Tag tag="1284" value="57980" GameTagName="CREATOR_DBID"/>
+          <Tag tag="1440" value="1" GameTagName="TECH_LEVEL"/>
+          <Tag tag="1456" value="1" GameTagName="IS_BACON_POOL_MINION"/>
+        </FullEntity>
+        <TagChange entity="217" tag="271" value="3" EntityCardID="LOOT_013" EntityCardName="Vulgar Homunculus" GameTagName="NUM_TURNS_IN_PLAY"/>
+        <TagChange entity="217" tag="43" value="0" EntityCardID="LOOT_013" EntityCardName="Vulgar Homunculus" GameTagName="EXHAUSTED"/>
+        <TagChange entity="217" tag="227" value="1" EntityCardID="LOOT_013" EntityCardName="Vulgar Homunculus" GameTagName="CANT_ATTACK"/>
+        <FullEntity id="218" cardID="CS2_065" EntityName="Voidwalker">
+          <Tag tag="50" value="10" GameTagName="CONTROLLER"/>
+          <Tag tag="202" value="4" GameTagName="CARDTYPE"/>
+          <Tag tag="48" value="1" GameTagName="COST"/>
+          <Tag tag="43" value="1" GameTagName="EXHAUSTED"/>
+          <Tag tag="45" value="3" GameTagName="HEALTH"/>
+          <Tag tag="47" value="1" GameTagName="ATK"/>
+          <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+          <Tag tag="53" value="218" GameTagName="ENTITY_ID"/>
+          <Tag tag="190" value="1" GameTagName="TAUNT"/>
+          <Tag tag="200" value="15" GameTagName="CARDRACE"/>
+          <Tag tag="201" value="3" GameTagName="FACTION"/>
+          <Tag tag="203" value="2" GameTagName="RARITY"/>
+          <Tag tag="263" value="3" GameTagName="ZONE_POSITION"/>
+          <Tag tag="313" value="47" GameTagName="CREATOR"/>
+          <Tag tag="466" value="1" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+          <Tag tag="479" value="1"/>
+          <Tag tag="1037" value="2"/>
+          <Tag tag="1196" value="1"/>
+          <Tag tag="1254" value="47"/>
+          <Tag tag="1284" value="57980" GameTagName="CREATOR_DBID"/>
+          <Tag tag="1440" value="1" GameTagName="TECH_LEVEL"/>
+          <Tag tag="1456" value="1" GameTagName="IS_BACON_POOL_MINION"/>
+        </FullEntity>
+        <TagChange entity="218" tag="271" value="3" EntityCardID="CS2_065" EntityCardName="Voidwalker" GameTagName="NUM_TURNS_IN_PLAY"/>
+        <TagChange entity="218" tag="43" value="0" EntityCardID="CS2_065" EntityCardName="Voidwalker" GameTagName="EXHAUSTED"/>
+        <TagChange entity="218" tag="227" value="1" EntityCardID="CS2_065" EntityCardName="Voidwalker" GameTagName="CANT_ATTACK"/>
+      </SubSpell>
+      <TagChange entity="4" tag="1453" value="0" EntityCardID="GameEntity" EntityCardName="GameEntity"/>
+      <TagChange entity="4" tag="1458" value="0" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="SUPPRESS_ALL_SUMMON_VO"/>
+      <TagChange entity="4" tag="6" value="111" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="MISSION_EVENT"/>
+    </Block>
+    <TagChange entity="4" tag="19" value="10" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_ACTION"/>
+    <Block entity="5" type="5" ts="2019-12-11T21:01:12.057250-05:00" block_sequence_num="21" EntityCardID="syfZZ#1798" EntityCardName="syfZZ#1798" BlockTypeName="TRIGGER">
+      <TagChange entity="4" tag="198" value="12" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_END"/>
+    </Block>
+    <Options id="1" ts="2019-12-11T21:01:12.124919-05:00">
+      <Option index="0" error="-1" type="2"/>
+      <Option index="1" entity="139" type="3" EntityCardID="TB_BaconShop_HP_045" EntityName="Power Up!"/>
+      <Option index="2" entity="211" type="3" EntityCardID="TB_BaconShop_8p_Reroll_Button" EntityName="Refresh"/>
+      <Option index="3" entity="212" type="3" EntityCardID="TB_BaconShopLockAll_Button" EntityName="Freeze"/>
+      <Option index="4" entity="215" type="3" EntityCardID="TB_BaconShop_DragBuy" EntityName="Drag To Buy">
+        <Target index="0" entity="216" EntityCardID="ICC_038" EntityName="Righteous Protector"/>
+        <Target index="1" entity="217" EntityCardID="LOOT_013" EntityName="Vulgar Homunculus"/>
+        <Target index="2" entity="218" EntityCardID="CS2_065" EntityName="Voidwalker"/>
+        <Target index="3" entity="46" error="1" EntityCardID="TB_BaconShopBob" EntityName="Bob's Tavern"/>
+        <Target index="4" entity="75" error="3" EntityCardID="TB_BaconShop_HERO_40" EntityName="Sir Finley Mrrgglton"/>
+      </Option>
+      <Option index="5" entity="216" type="3" EntityCardID="ICC_038" EntityName="Righteous Protector"/>
+      <Option index="6" entity="217" type="3" EntityCardID="LOOT_013" EntityName="Vulgar Homunculus"/>
+      <Option index="7" entity="218" type="3" EntityCardID="CS2_065" EntityName="Voidwalker"/>
+      <Option index="8" entity="46" error="15" type="3" EntityCardID="TB_BaconShopBob" EntityName="Bob's Tavern"/>
+      <Option index="9" entity="75" error="31" type="3" EntityCardID="TB_BaconShop_HERO_40" EntityName="Sir Finley Mrrgglton"/>
+      <Option index="10" entity="213" error="14" type="3" EntityCardID="TB_BaconShopTechUp02_Button" EntityName="Tavern Tier 2"/>
+      <Option index="11" entity="214" error="11" type="3" EntityCardID="TB_BaconShop_DragSell" EntityName="Drag To Sell"/>
+    </Options>
+    <TagChange entity="149" tag="44" value="40" EntityCardID="TB_BaconShop_HERO_22" EntityCardName="The Lich King" GameTagName="DAMAGE"/>
+    <TagChange entity="75" tag="1373" value="2" EntityCardID="TB_BaconShop_HERO_40" EntityCardName="Sir Finley Mrrgglton" GameTagName="PLAYER_LEADERBOARD_PLACE"/>
+    <TagChange entity="133" tag="1373" value="3" EntityCardID="TB_BaconShop_HERO_12" EntityCardName="The Rat King" GameTagName="PLAYER_LEADERBOARD_PLACE"/>
+    <TagChange entity="125" tag="1373" value="4" EntityCardID="TB_BaconShop_HERO_43" EntityCardName="Brann Bronzebeard" GameTagName="PLAYER_LEADERBOARD_PLACE"/>
+    <TagChange entity="117" tag="1373" value="5" EntityCardID="TB_BaconShop_HERO_30" EntityCardName="Nefarian" GameTagName="PLAYER_LEADERBOARD_PLACE"/>
+    <TagChange entity="101" tag="1373" value="6" EntityCardID="TB_BaconShop_HERO_27" EntityCardName="Sindragosa" GameTagName="PLAYER_LEADERBOARD_PLACE"/>
+    <TagChange entity="109" tag="1373" value="7" EntityCardID="TB_BaconShop_HERO_11" EntityCardName="Ragnaros the Firelord" GameTagName="PLAYER_LEADERBOARD_PLACE"/>
+    <TagChange entity="149" tag="1373" value="8" EntityCardID="TB_BaconShop_HERO_22" EntityCardName="The Lich King" GameTagName="PLAYER_LEADERBOARD_PLACE"/>
+    <TagChange entity="216" tag="1196" value="0" EntityCardID="ICC_038" EntityCardName="Righteous Protector"/>
+    <TagChange entity="217" tag="1196" value="0" EntityCardID="LOOT_013" EntityCardName="Vulgar Homunculus"/>
+    <TagChange entity="218" tag="1196" value="0" EntityCardID="CS2_065" EntityCardName="Voidwalker"/>
+    <TagChange entity="4" tag="19" value="12" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_END"/>
+    <Block entity="48" type="5" effectIndex="2" ts="2019-12-11T21:01:58.902700-05:00" block_sequence_num="22" EntityCardID="TB_BaconShop_3ofKindChecke" EntityCardName="3ofKindCheckPlayerEnchant" BlockTypeName="TRIGGER">
+      <TagChange entity="48" tag="18" value="48" EntityCardID="TB_BaconShop_3ofKindChecke" EntityCardName="3ofKindCheckPlayerEnchant" ValueReferenceCardID="TB_BaconShop_3ofKindChecke" ValueReferenceCardName="3ofKindCheckPlayerEnchant" GameTagName="LAST_AFFECTED_BY"/>
+      <TagChange entity="48" tag="1068" value="4" EntityCardID="TB_BaconShop_3ofKindChecke" EntityCardName="3ofKindCheckPlayerEnchant"/>
+      <TagChange entity="48" tag="1068" value="0" EntityCardID="TB_BaconShop_3ofKindChecke" EntityCardName="3ofKindCheckPlayerEnchant"/>
+      <TagChange entity="48" tag="1037" value="2" EntityCardID="TB_BaconShop_3ofKindChecke" EntityCardName="3ofKindCheckPlayerEnchant"/>
+      <TagChange entity="48" tag="49" value="4" EntityCardID="TB_BaconShop_3ofKindChecke" EntityCardName="3ofKindCheckPlayerEnchant" GameTagName="ZONE" ZoneName="GRAVEYARD"/>
+      <TagChange entity="48" tag="1234" value="5" EntityCardID="TB_BaconShop_3ofKindChecke" EntityCardName="3ofKindCheckPlayerEnchant"/>
+      <HideEntity entity="48" zone="4" ts="2019-12-11T21:01:58.902700-05:00"/>
+    </Block>
+    <Block entity="5" type="5" ts="2019-12-11T21:01:58.902700-05:00" block_sequence_num="23" EntityCardID="syfZZ#1798" EntityCardName="syfZZ#1798" BlockTypeName="TRIGGER">
+      <TagChange entity="4" tag="198" value="16" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_CLEANUP"/>
+    </Block>
+    <Block entity="5" type="5" ts="2019-12-11T21:01:58.902700-05:00" block_sequence_num="24" EntityCardID="syfZZ#1798" EntityCardName="syfZZ#1798" BlockTypeName="TRIGGER"/>
+    <Block entity="47" type="5" ts="2019-12-11T21:01:58.902700-05:00" block_sequence_num="25" EntityCardID="TB_BaconShop_8P_PlayerE" EntityCardName="BaconShop8PlayerEnchant" BlockTypeName="TRIGGER">
+      <TagChange entity="4" tag="1458" value="1" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="SUPPRESS_ALL_SUMMON_VO"/>
+      <TagChange entity="4" tag="1466" value="0" EntityCardID="GameEntity" EntityCardName="GameEntity"/>
+      <TagChange entity="4" tag="6" value="0" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="MISSION_EVENT"/>
+      <TagChange entity="4" tag="6" value="115" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="MISSION_EVENT"/>
+    </Block>
+    <Block entity="212" type="5" effectIndex="0" ts="2019-12-11T21:01:58.902700-05:00" block_sequence_num="26" EntityCardID="TB_BaconShopLockAll_Button" EntityCardName="Freeze" BlockTypeName="TRIGGER"/>
+    <Block entity="47" type="5" effectIndex="12" ts="2019-12-11T21:01:58.902700-05:00" block_sequence_num="27" EntityCardID="TB_BaconShop_8P_PlayerE" EntityCardName="BaconShop8PlayerEnchant" BlockTypeName="TRIGGER"/>
+    <Block entity="6" type="5" ts="2019-12-11T21:01:58.902700-05:00" block_sequence_num="28" EntityCardID="tanddyy" EntityCardName="tanddyy" BlockTypeName="TRIGGER"/>
+    <TagChange entity="4" tag="19" value="16" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_CLEANUP"/>
+    <Block entity="5" type="5" ts="2019-12-11T21:01:58.902700-05:00" block_sequence_num="29" EntityCardID="syfZZ#1798" EntityCardName="syfZZ#1798" BlockTypeName="TRIGGER">
+      <TagChange entity="4" tag="198" value="13" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_NEXT"/>
+    </Block>
+    <TagChange entity="4" tag="19" value="13" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_NEXT"/>
+    <Block entity="4" type="5" effectIndex="5" ts="2019-12-11T21:01:58.902700-05:00" block_sequence_num="30" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
+      <TagChange entity="5" tag="1292" value="0" EntityCardID="syfZZ#1798" EntityCardName="syfZZ#1798"/>
+      <TagChange entity="6" tag="1292" value="1" EntityCardID="tanddyy" EntityCardName="tanddyy"/>
+      <TagChange entity="5" tag="7" value="35" EntityCardID="syfZZ#1798" EntityCardName="syfZZ#1798" GameTagName="TIMEOUT"/>
+      <TagChange entity="5" tag="23" value="0" EntityCardID="syfZZ#1798" EntityCardName="syfZZ#1798" GameTagName="CURRENT_PLAYER"/>
+      <TagChange entity="6" tag="23" value="1" EntityCardID="tanddyy" EntityCardName="tanddyy" GameTagName="CURRENT_PLAYER"/>
+      <TagChange entity="4" tag="20" value="2" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="TURN"/>
+      <TagChange entity="4" tag="198" value="6" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_READY"/>
+    </Block>
+    <Block entity="47" type="5" ts="2019-12-11T21:01:58.902700-05:00" block_sequence_num="31" EntityCardID="TB_BaconShop_8P_PlayerE" EntityCardName="BaconShop8PlayerEnchant" BlockTypeName="TRIGGER">
+      <TagChange entity="4" tag="1347" value="2" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="BOARD_VISUAL_STATE"/>
+      <TagChange entity="4" tag="6" value="2" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="MISSION_EVENT"/>
+      <TagChange entity="4" tag="1467" value="0" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="BACON_COIN_ON_ENEMY_MINIONS"/>
+      <TagChange entity="4" tag="1522" value="1" EntityCardID="GameEntity" EntityCardName="GameEntity"/>
+      <TagChange entity="4" tag="1488" value="0" EntityCardID="GameEntity" EntityCardName="GameEntity"/>
+      <TagChange entity="216" tag="1068" value="5" EntityCardID="ICC_038" EntityCardName="Righteous Protector"/>
+      <TagChange entity="216" tag="1068" value="0" EntityCardID="ICC_038" EntityCardName="Righteous Protector"/>
+      <TagChange entity="218" tag="263" value="2" EntityCardID="CS2_065" EntityCardName="Voidwalker" GameTagName="ZONE_POSITION"/>
+      <TagChange entity="217" tag="263" value="1" EntityCardID="LOOT_013" EntityCardName="Vulgar Homunculus" GameTagName="ZONE_POSITION"/>
+      <TagChange entity="216" tag="263" value="0" EntityCardID="ICC_038" EntityCardName="Righteous Protector" GameTagName="ZONE_POSITION"/>
+      <TagChange entity="216" tag="49" value="5" EntityCardID="ICC_038" EntityCardName="Righteous Protector" GameTagName="ZONE" ZoneName="REMOVEDFROMGAME"/>
+      <TagChange entity="216" tag="48" value="0" EntityCardID="ICC_038" EntityCardName="Righteous Protector" GameTagName="COST"/>
+      <TagChange entity="216" tag="45" value="0" EntityCardID="ICC_038" EntityCardName="Righteous Protector" GameTagName="HEALTH"/>
+      <TagChange entity="216" tag="47" value="0" EntityCardID="ICC_038" EntityCardName="Righteous Protector" GameTagName="ATK"/>
+      <TagChange entity="216" tag="190" value="0" EntityCardID="ICC_038" EntityCardName="Righteous Protector" GameTagName="TAUNT"/>
+      <TagChange entity="216" tag="194" value="0" EntityCardID="ICC_038" EntityCardName="Righteous Protector" GameTagName="DIVINE_SHIELD"/>
+      <TagChange entity="216" tag="227" value="0" EntityCardID="ICC_038" EntityCardName="Righteous Protector" GameTagName="CANT_ATTACK"/>
+      <TagChange entity="216" tag="271" value="0" EntityCardID="ICC_038" EntityCardName="Righteous Protector" GameTagName="NUM_TURNS_IN_PLAY"/>
+      <TagChange entity="216" tag="1254" value="0" EntityCardID="ICC_038" EntityCardName="Righteous Protector"/>
+      <TagChange entity="216" tag="1440" value="0" EntityCardID="ICC_038" EntityCardName="Righteous Protector" GameTagName="TECH_LEVEL"/>
+      <TagChange entity="216" tag="1456" value="0" EntityCardID="ICC_038" EntityCardName="Righteous Protector" GameTagName="IS_BACON_POOL_MINION"/>
+      <TagChange entity="216" tag="48" value="1" EntityCardID="ICC_038" EntityCardName="Righteous Protector" GameTagName="COST"/>
+      <TagChange entity="216" tag="45" value="1" EntityCardID="ICC_038" EntityCardName="Righteous Protector" GameTagName="HEALTH"/>
+      <TagChange entity="216" tag="47" value="1" EntityCardID="ICC_038" EntityCardName="Righteous Protector" GameTagName="ATK"/>
+      <TagChange entity="216" tag="190" value="1" EntityCardID="ICC_038" EntityCardName="Righteous Protector" GameTagName="TAUNT"/>
+      <TagChange entity="216" tag="194" value="1" EntityCardID="ICC_038" EntityCardName="Righteous Protector" GameTagName="DIVINE_SHIELD"/>
+      <TagChange entity="216" tag="1440" value="1" EntityCardID="ICC_038" EntityCardName="Righteous Protector" GameTagName="TECH_LEVEL"/>
+      <TagChange entity="216" tag="1456" value="1" EntityCardID="ICC_038" EntityCardName="Righteous Protector" GameTagName="IS_BACON_POOL_MINION"/>
+      <TagChange entity="217" tag="1068" value="5" EntityCardID="LOOT_013" EntityCardName="Vulgar Homunculus"/>
+      <TagChange entity="217" tag="1068" value="0" EntityCardID="LOOT_013" EntityCardName="Vulgar Homunculus"/>
+      <TagChange entity="218" tag="263" value="1" EntityCardID="CS2_065" EntityCardName="Voidwalker" GameTagName="ZONE_POSITION"/>
+      <TagChange entity="217" tag="263" value="0" EntityCardID="LOOT_013" EntityCardName="Vulgar Homunculus" GameTagName="ZONE_POSITION"/>
+      <TagChange entity="217" tag="49" value="5" EntityCardID="LOOT_013" EntityCardName="Vulgar Homunculus" GameTagName="ZONE" ZoneName="REMOVEDFROMGAME"/>
+      <TagChange entity="217" tag="48" value="0" EntityCardID="LOOT_013" EntityCardName="Vulgar Homunculus" GameTagName="COST"/>
+      <TagChange entity="217" tag="45" value="0" EntityCardID="LOOT_013" EntityCardName="Vulgar Homunculus" GameTagName="HEALTH"/>
+      <TagChange entity="217" tag="47" value="0" EntityCardID="LOOT_013" EntityCardName="Vulgar Homunculus" GameTagName="ATK"/>
+      <TagChange entity="217" tag="190" value="0" EntityCardID="LOOT_013" EntityCardName="Vulgar Homunculus" GameTagName="TAUNT"/>
+      <TagChange entity="217" tag="201" value="0" EntityCardID="LOOT_013" EntityCardName="Vulgar Homunculus" GameTagName="FACTION"/>
+      <TagChange entity="217" tag="218" value="0" EntityCardID="LOOT_013" EntityCardName="Vulgar Homunculus" GameTagName="BATTLECRY"/>
+      <TagChange entity="217" tag="227" value="0" EntityCardID="LOOT_013" EntityCardName="Vulgar Homunculus" GameTagName="CANT_ATTACK"/>
+      <TagChange entity="217" tag="271" value="0" EntityCardID="LOOT_013" EntityCardName="Vulgar Homunculus" GameTagName="NUM_TURNS_IN_PLAY"/>
+      <TagChange entity="217" tag="1254" value="0" EntityCardID="LOOT_013" EntityCardName="Vulgar Homunculus"/>
+      <TagChange entity="217" tag="1440" value="0" EntityCardID="LOOT_013" EntityCardName="Vulgar Homunculus" GameTagName="TECH_LEVEL"/>
+      <TagChange entity="217" tag="1456" value="0" EntityCardID="LOOT_013" EntityCardName="Vulgar Homunculus" GameTagName="IS_BACON_POOL_MINION"/>
+      <TagChange entity="217" tag="48" value="2" EntityCardID="LOOT_013" EntityCardName="Vulgar Homunculus" GameTagName="COST"/>
+      <TagChange entity="217" tag="45" value="4" EntityCardID="LOOT_013" EntityCardName="Vulgar Homunculus" GameTagName="HEALTH"/>
+      <TagChange entity="217" tag="47" value="2" EntityCardID="LOOT_013" EntityCardName="Vulgar Homunculus" GameTagName="ATK"/>
+      <TagChange entity="217" tag="190" value="1" EntityCardID="LOOT_013" EntityCardName="Vulgar Homunculus" GameTagName="TAUNT"/>
+      <TagChange entity="217" tag="201" value="3" EntityCardID="LOOT_013" EntityCardName="Vulgar Homunculus" GameTagName="FACTION"/>
+      <TagChange entity="217" tag="218" value="1" EntityCardID="LOOT_013" EntityCardName="Vulgar Homunculus" GameTagName="BATTLECRY"/>
+      <TagChange entity="217" tag="1440" value="1" EntityCardID="LOOT_013" EntityCardName="Vulgar Homunculus" GameTagName="TECH_LEVEL"/>
+      <TagChange entity="217" tag="1456" value="1" EntityCardID="LOOT_013" EntityCardName="Vulgar Homunculus" GameTagName="IS_BACON_POOL_MINION"/>
+      <TagChange entity="218" tag="1068" value="5" EntityCardID="CS2_065" EntityCardName="Voidwalker"/>
+      <TagChange entity="218" tag="1068" value="0" EntityCardID="CS2_065" EntityCardName="Voidwalker"/>
+      <TagChange entity="218" tag="263" value="0" EntityCardID="CS2_065" EntityCardName="Voidwalker" GameTagName="ZONE_POSITION"/>
+      <TagChange entity="218" tag="49" value="5" EntityCardID="CS2_065" EntityCardName="Voidwalker" GameTagName="ZONE" ZoneName="REMOVEDFROMGAME"/>
+      <TagChange entity="218" tag="48" value="0" EntityCardID="CS2_065" EntityCardName="Voidwalker" GameTagName="COST"/>
+      <TagChange entity="218" tag="45" value="0" EntityCardID="CS2_065" EntityCardName="Voidwalker" GameTagName="HEALTH"/>
+      <TagChange entity="218" tag="47" value="0" EntityCardID="CS2_065" EntityCardName="Voidwalker" GameTagName="ATK"/>
+      <TagChange entity="218" tag="190" value="0" EntityCardID="CS2_065" EntityCardName="Voidwalker" GameTagName="TAUNT"/>
+      <TagChange entity="218" tag="201" value="0" EntityCardID="CS2_065" EntityCardName="Voidwalker" GameTagName="FACTION"/>
+      <TagChange entity="218" tag="227" value="0" EntityCardID="CS2_065" EntityCardName="Voidwalker" GameTagName="CANT_ATTACK"/>
+      <TagChange entity="218" tag="271" value="0" EntityCardID="CS2_065" EntityCardName="Voidwalker" GameTagName="NUM_TURNS_IN_PLAY"/>
+      <TagChange entity="218" tag="1254" value="0" EntityCardID="CS2_065" EntityCardName="Voidwalker"/>
+      <TagChange entity="218" tag="1440" value="0" EntityCardID="CS2_065" EntityCardName="Voidwalker" GameTagName="TECH_LEVEL"/>
+      <TagChange entity="218" tag="1456" value="0" EntityCardID="CS2_065" EntityCardName="Voidwalker" GameTagName="IS_BACON_POOL_MINION"/>
+      <TagChange entity="218" tag="48" value="1" EntityCardID="CS2_065" EntityCardName="Voidwalker" GameTagName="COST"/>
+      <TagChange entity="218" tag="45" value="3" EntityCardID="CS2_065" EntityCardName="Voidwalker" GameTagName="HEALTH"/>
+      <TagChange entity="218" tag="47" value="1" EntityCardID="CS2_065" EntityCardName="Voidwalker" GameTagName="ATK"/>
+      <TagChange entity="218" tag="190" value="1" EntityCardID="CS2_065" EntityCardName="Voidwalker" GameTagName="TAUNT"/>
+      <TagChange entity="218" tag="201" value="3" EntityCardID="CS2_065" EntityCardName="Voidwalker" GameTagName="FACTION"/>
+      <TagChange entity="218" tag="1440" value="1" EntityCardID="CS2_065" EntityCardName="Voidwalker" GameTagName="TECH_LEVEL"/>
+      <TagChange entity="218" tag="1456" value="1" EntityCardID="CS2_065" EntityCardName="Voidwalker" GameTagName="IS_BACON_POOL_MINION"/>
+      <TagChange entity="211" tag="1068" value="5" EntityCardID="TB_BaconShop_8p_Reroll_Button" EntityCardName="Refresh"/>
+      <TagChange entity="211" tag="1068" value="0" EntityCardID="TB_BaconShop_8p_Reroll_Button" EntityCardName="Refresh"/>
+      <TagChange entity="211" tag="49" value="5" EntityCardID="TB_BaconShop_8p_Reroll_Button" EntityCardName="Refresh" GameTagName="ZONE" ZoneName="REMOVEDFROMGAME"/>
+      <TagChange entity="211" tag="48" value="0" EntityCardID="TB_BaconShop_8p_Reroll_Button" EntityCardName="Refresh" GameTagName="COST"/>
+      <TagChange entity="211" tag="1107" value="0" EntityCardID="TB_BaconShop_8p_Reroll_Button" EntityCardName="Refresh" GameTagName="HIDE_WATERMARK"/>
+      <TagChange entity="211" tag="1437" value="0" EntityCardID="TB_BaconShop_8p_Reroll_Button" EntityCardName="Refresh" GameTagName="BACON_ACTION_CARD"/>
+      <TagChange entity="211" tag="1438" value="0" EntityCardID="TB_BaconShop_8p_Reroll_Button" EntityCardName="Refresh" GameTagName="GAME_MODE_BUTTON_SLOT"/>
+      <TagChange entity="211" tag="48" value="1" EntityCardID="TB_BaconShop_8p_Reroll_Button" EntityCardName="Refresh" GameTagName="COST"/>
+      <TagChange entity="211" tag="1107" value="2" EntityCardID="TB_BaconShop_8p_Reroll_Button" EntityCardName="Refresh" GameTagName="HIDE_WATERMARK"/>
+      <TagChange entity="211" tag="1437" value="1" EntityCardID="TB_BaconShop_8p_Reroll_Button" EntityCardName="Refresh" GameTagName="BACON_ACTION_CARD"/>
+      <TagChange entity="211" tag="1438" value="2" EntityCardID="TB_BaconShop_8p_Reroll_Button" EntityCardName="Refresh" GameTagName="GAME_MODE_BUTTON_SLOT"/>
+      <TagChange entity="212" tag="1068" value="5" EntityCardID="TB_BaconShopLockAll_Button" EntityCardName="Freeze"/>
+      <TagChange entity="212" tag="1068" value="0" EntityCardID="TB_BaconShopLockAll_Button" EntityCardName="Freeze"/>
+      <TagChange entity="212" tag="49" value="5" EntityCardID="TB_BaconShopLockAll_Button" EntityCardName="Freeze" GameTagName="ZONE" ZoneName="REMOVEDFROMGAME"/>
+      <TagChange entity="212" tag="3" value="0" EntityCardID="TB_BaconShopLockAll_Button" EntityCardName="Freeze" GameTagName="TAG_SCRIPT_DATA_NUM_2"/>
+      <TagChange entity="212" tag="201" value="0" EntityCardID="TB_BaconShopLockAll_Button" EntityCardName="Freeze" GameTagName="FACTION"/>
+      <TagChange entity="212" tag="1107" value="0" EntityCardID="TB_BaconShopLockAll_Button" EntityCardName="Freeze" GameTagName="HIDE_WATERMARK"/>
+      <TagChange entity="212" tag="1270" value="0" EntityCardID="TB_BaconShopLockAll_Button" EntityCardName="Freeze"/>
+      <TagChange entity="212" tag="1437" value="0" EntityCardID="TB_BaconShopLockAll_Button" EntityCardName="Freeze" GameTagName="BACON_ACTION_CARD"/>
+      <TagChange entity="212" tag="1438" value="0" EntityCardID="TB_BaconShopLockAll_Button" EntityCardName="Freeze" GameTagName="GAME_MODE_BUTTON_SLOT"/>
+      <TagChange entity="212" tag="3" value="10" EntityCardID="TB_BaconShopLockAll_Button" EntityCardName="Freeze" GameTagName="TAG_SCRIPT_DATA_NUM_2"/>
+      <TagChange entity="212" tag="201" value="2" EntityCardID="TB_BaconShopLockAll_Button" EntityCardName="Freeze" GameTagName="FACTION"/>
+      <TagChange entity="212" tag="1107" value="1" EntityCardID="TB_BaconShopLockAll_Button" EntityCardName="Freeze" GameTagName="HIDE_WATERMARK"/>
+      <TagChange entity="212" tag="1270" value="1" EntityCardID="TB_BaconShopLockAll_Button" EntityCardName="Freeze"/>
+      <TagChange entity="212" tag="1437" value="1" EntityCardID="TB_BaconShopLockAll_Button" EntityCardName="Freeze" GameTagName="BACON_ACTION_CARD"/>
+      <TagChange entity="212" tag="1438" value="1" EntityCardID="TB_BaconShopLockAll_Button" EntityCardName="Freeze" GameTagName="GAME_MODE_BUTTON_SLOT"/>
+      <TagChange entity="213" tag="1068" value="5" EntityCardID="TB_BaconShopTechUp02_Button" EntityCardName="Tavern Tier 2"/>
+      <TagChange entity="213" tag="1068" value="0" EntityCardID="TB_BaconShopTechUp02_Button" EntityCardName="Tavern Tier 2"/>
+      <TagChange entity="213" tag="49" value="5" EntityCardID="TB_BaconShopTechUp02_Button" EntityCardName="Tavern Tier 2" GameTagName="ZONE" ZoneName="REMOVEDFROMGAME"/>
+      <TagChange entity="213" tag="48" value="0" EntityCardID="TB_BaconShopTechUp02_Button" EntityCardName="Tavern Tier 2" GameTagName="COST"/>
+      <TagChange entity="213" tag="1107" value="0" EntityCardID="TB_BaconShopTechUp02_Button" EntityCardName="Tavern Tier 2" GameTagName="HIDE_WATERMARK"/>
+      <TagChange entity="213" tag="1437" value="0" EntityCardID="TB_BaconShopTechUp02_Button" EntityCardName="Tavern Tier 2" GameTagName="BACON_ACTION_CARD"/>
+      <TagChange entity="213" tag="1438" value="0" EntityCardID="TB_BaconShopTechUp02_Button" EntityCardName="Tavern Tier 2" GameTagName="GAME_MODE_BUTTON_SLOT"/>
+      <TagChange entity="213" tag="48" value="5" EntityCardID="TB_BaconShopTechUp02_Button" EntityCardName="Tavern Tier 2" GameTagName="COST"/>
+      <TagChange entity="213" tag="1107" value="1" EntityCardID="TB_BaconShopTechUp02_Button" EntityCardName="Tavern Tier 2" GameTagName="HIDE_WATERMARK"/>
+      <TagChange entity="213" tag="1437" value="1" EntityCardID="TB_BaconShopTechUp02_Button" EntityCardName="Tavern Tier 2" GameTagName="BACON_ACTION_CARD"/>
+      <TagChange entity="213" tag="1438" value="3" EntityCardID="TB_BaconShopTechUp02_Button" EntityCardName="Tavern Tier 2" GameTagName="GAME_MODE_BUTTON_SLOT"/>
+      <TagChange entity="214" tag="1068" value="5" EntityCardID="TB_BaconShop_DragSell" EntityCardName="Drag To Sell"/>
+      <TagChange entity="214" tag="1068" value="0" EntityCardID="TB_BaconShop_DragSell" EntityCardName="Drag To Sell"/>
+      <TagChange entity="214" tag="49" value="5" EntityCardID="TB_BaconShop_DragSell" EntityCardName="Drag To Sell" GameTagName="ZONE" ZoneName="REMOVEDFROMGAME"/>
+      <TagChange entity="214" tag="1437" value="0" EntityCardID="TB_BaconShop_DragSell" EntityCardName="Drag To Sell" GameTagName="BACON_ACTION_CARD"/>
+      <TagChange entity="214" tag="1464" value="0" EntityCardID="TB_BaconShop_DragSell" EntityCardName="Drag To Sell" GameTagName="MOVE_MINION_HOVER_TARGET_SLOT"/>
+      <TagChange entity="214" tag="1437" value="1" EntityCardID="TB_BaconShop_DragSell" EntityCardName="Drag To Sell" GameTagName="BACON_ACTION_CARD"/>
+      <TagChange entity="214" tag="1464" value="2" EntityCardID="TB_BaconShop_DragSell" EntityCardName="Drag To Sell" GameTagName="MOVE_MINION_HOVER_TARGET_SLOT"/>
+      <TagChange entity="215" tag="1068" value="5" EntityCardID="TB_BaconShop_DragBuy" EntityCardName="Drag To Buy"/>
+      <TagChange entity="215" tag="1068" value="0" EntityCardID="TB_BaconShop_DragBuy" EntityCardName="Drag To Buy"/>
+      <TagChange entity="215" tag="49" value="5" EntityCardID="TB_BaconShop_DragBuy" EntityCardName="Drag To Buy" GameTagName="ZONE" ZoneName="REMOVEDFROMGAME"/>
+      <TagChange entity="215" tag="48" value="0" EntityCardID="TB_BaconShop_DragBuy" EntityCardName="Drag To Buy" GameTagName="COST"/>
+      <TagChange entity="215" tag="1437" value="0" EntityCardID="TB_BaconShop_DragBuy" EntityCardName="Drag To Buy" GameTagName="BACON_ACTION_CARD"/>
+      <TagChange entity="215" tag="1464" value="0" EntityCardID="TB_BaconShop_DragBuy" EntityCardName="Drag To Buy" GameTagName="MOVE_MINION_HOVER_TARGET_SLOT"/>
+      <TagChange entity="215" tag="48" value="3" EntityCardID="TB_BaconShop_DragBuy" EntityCardName="Drag To Buy" GameTagName="COST"/>
+      <TagChange entity="215" tag="1437" value="1" EntityCardID="TB_BaconShop_DragBuy" EntityCardName="Drag To Buy" GameTagName="BACON_ACTION_CARD"/>
+      <TagChange entity="215" tag="1464" value="1" EntityCardID="TB_BaconShop_DragBuy" EntityCardName="Drag To Buy" GameTagName="MOVE_MINION_HOVER_TARGET_SLOT"/>
+      <MetaData meta="19" data="1500" infoCount="1" MetaName="ARTIFICIAL_PAUSE">
+        <Info index="0" entity="47" EntityName="BaconShop8PlayerEnchant"/>
+      </MetaData>
+    </Block>
+    <Block entity="47" type="5" ts="2019-12-11T21:01:58.904694-05:00" block_sequence_num="32" EntityCardID="TB_BaconShop_8P_PlayerE" EntityCardName="BaconShop8PlayerEnchant" BlockTypeName="TRIGGER">
+      <TagChange entity="4" tag="1453" value="1" EntityCardID="GameEntity" EntityCardName="GameEntity"/>
+      <TagChange entity="4" tag="1453" value="0" EntityCardID="GameEntity" EntityCardName="GameEntity"/>
+      <FullEntity id="233" cardID="TB_BaconShop_HERO_12" EntityName="The Rat King">
+        <Tag tag="50" value="10" GameTagName="CONTROLLER"/>
+        <Tag tag="202" value="3" GameTagName="CARDTYPE"/>
+        <Tag tag="45" value="40" GameTagName="HEALTH"/>
+        <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+        <Tag tag="53" value="233" GameTagName="ENTITY_ID"/>
+        <Tag tag="201" value="3" GameTagName="FACTION"/>
+        <Tag tag="313" value="4" GameTagName="CREATOR"/>
+        <Tag tag="380" value="59839" GameTagName="HERO_POWER"/>
+        <Tag tag="684" value="1" GameTagName="HIDE_COST"/>
+        <Tag tag="1037" value="2"/>
+        <Tag tag="1491" value="1" GameTagName="BACON_HERO_CAN_BE_DRAFTED"/>
+      </FullEntity>
+      <TagChange entity="233" tag="262" value="46" EntityCardID="TB_BaconShop_HERO_12" EntityCardName="The Rat King" GameTagName="LINKED_ENTITY"/>
+      <TagChange entity="46" tag="1068" value="6" EntityCardID="TB_BaconShopBob" EntityCardName="Bob's Tavern"/>
+      <TagChange entity="46" tag="1068" value="0" EntityCardID="TB_BaconShopBob" EntityCardName="Bob's Tavern"/>
+      <TagChange entity="46" tag="1037" value="2" EntityCardID="TB_BaconShopBob" EntityCardName="Bob's Tavern"/>
+      <HideEntity entity="46" zone="6" ts="2019-12-11T21:01:58.904694-05:00"/>
+      <TagChange entity="46" tag="49" value="6" EntityCardID="TB_BaconShopBob" EntityCardName="Bob's Tavern" GameTagName="ZONE" ZoneName="SETASIDE"/>
+      <ShowEntity entity="46" cardID="TB_BaconShopBob" EntityName="Bob's Tavern">
+        <Tag tag="50" value="10" GameTagName="CONTROLLER"/>
+        <Tag tag="202" value="3" GameTagName="CARDTYPE"/>
+        <Tag tag="43" value="0" GameTagName="EXHAUSTED"/>
+        <Tag tag="44" value="0" GameTagName="DAMAGE"/>
+        <Tag tag="45" value="60" GameTagName="HEALTH"/>
+        <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+        <Tag tag="53" value="46" GameTagName="ENTITY_ID"/>
+        <Tag tag="260" value="0" GameTagName="FROZEN"/>
+        <Tag tag="261" value="0" GameTagName="JUST_PLAYED"/>
+        <Tag tag="262" value="28" GameTagName="LINKED_ENTITY"/>
+        <Tag tag="263" value="0" GameTagName="ZONE_POSITION"/>
+        <Tag tag="271" value="2" GameTagName="NUM_TURNS_IN_PLAY"/>
+        <Tag tag="297" value="0" GameTagName="NUM_ATTACKS_THIS_TURN"/>
+        <Tag tag="313" value="4" GameTagName="CREATOR"/>
+        <Tag tag="341" value="0"/>
+        <Tag tag="402" value="1" GameTagName="HIDE_STATS"/>
+        <Tag tag="410" value="1" GameTagName="REVEALED"/>
+        <Tag tag="444" value="0" GameTagName="EXTRA_ATTACKS_THIS_TURN"/>
+        <Tag tag="466" value="0" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+        <Tag tag="479" value="0"/>
+        <Tag tag="682" value="1" GameTagName="HIDE_HEALTH"/>
+        <Tag tag="1037" value="2"/>
+        <Tag tag="1068" value="0"/>
+        <Tag tag="1107" value="1" GameTagName="HIDE_WATERMARK"/>
+        <Tag tag="1196" value="0"/>
+        <Tag tag="1271" value="0"/>
+        <Tag tag="1284" value="0" GameTagName="CREATOR_DBID"/>
+        <Tag tag="1326" value="0" GameTagName="COPIED_BY_KHADGAR"/>
+      </ShowEntity>
+      <TagChange entity="6" tag="27" value="233" EntityCardID="tanddyy" EntityCardName="tanddyy" GameTagName="HERO_ENTITY"/>
+      <FullEntity id="234" cardID="TB_BaconShop_HP_041a" EntityName="King of Beasts">
+        <Tag tag="50" value="10" GameTagName="CONTROLLER"/>
+        <Tag tag="202" value="10" GameTagName="CARDTYPE"/>
+        <Tag tag="32" value="1" GameTagName="TRIGGER_VISUAL"/>
+        <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+        <Tag tag="53" value="234" GameTagName="ENTITY_ID"/>
+        <Tag tag="201" value="3" GameTagName="FACTION"/>
+        <Tag tag="313" value="4" GameTagName="CREATOR"/>
+        <Tag tag="684" value="1" GameTagName="HIDE_COST"/>
+        <Tag tag="1037" value="2"/>
+        <Tag tag="1107" value="1" GameTagName="HIDE_WATERMARK"/>
+      </FullEntity>
+      <TagChange entity="233" tag="1377" value="1" EntityCardID="TB_BaconShop_HERO_12" EntityCardName="The Rat King" GameTagName="PLAYER_TECH_LEVEL"/>
+      <TagChange entity="233" tag="1493" value="1" EntityCardID="TB_BaconShop_HERO_12" EntityCardName="The Rat King"/>
+      <TagChange entity="234" tag="1493" value="1" EntityCardID="TB_BaconShop_HP_041a" EntityCardName="King of Beasts"/>
+      <TagChange entity="4" tag="1453" value="1" EntityCardID="GameEntity" EntityCardName="GameEntity"/>
+      <TagChange entity="4" tag="1453" value="0" EntityCardID="GameEntity" EntityCardName="GameEntity"/>
+      <MetaData meta="19" data="1500" infoCount="1" MetaName="ARTIFICIAL_PAUSE">
+        <Info index="0" entity="47" EntityName="BaconShop8PlayerEnchant"/>
+      </MetaData>
+    </Block>
+    <TagChange entity="4" tag="19" value="6" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_READY"/>
+    <Block entity="6" type="5" ts="2019-12-11T21:01:59.006394-05:00" block_sequence_num="33" EntityCardID="tanddyy" EntityCardName="tanddyy" BlockTypeName="TRIGGER">
+      <TagChange entity="4" tag="271" value="3" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NUM_TURNS_IN_PLAY"/>
+      <TagChange entity="5" tag="271" value="3" EntityCardID="syfZZ#1798" EntityCardName="syfZZ#1798" GameTagName="NUM_TURNS_IN_PLAY"/>
+      <TagChange entity="6" tag="271" value="3" EntityCardID="tanddyy" EntityCardName="tanddyy" GameTagName="NUM_TURNS_IN_PLAY"/>
+      <TagChange entity="75" tag="271" value="3" EntityCardID="TB_BaconShop_HERO_40" EntityCardName="Sir Finley Mrrgglton" GameTagName="NUM_TURNS_IN_PLAY"/>
+      <TagChange entity="139" tag="271" value="3" EntityCardID="TB_BaconShop_HP_045" EntityCardName="Power Up!" GameTagName="NUM_TURNS_IN_PLAY"/>
+      <TagChange entity="233" tag="271" value="1" EntityCardID="TB_BaconShop_HERO_12" EntityCardName="The Rat King" GameTagName="NUM_TURNS_IN_PLAY"/>
+      <TagChange entity="234" tag="271" value="1" EntityCardID="TB_BaconShop_HP_041a" EntityCardName="King of Beasts" GameTagName="NUM_TURNS_IN_PLAY"/>
+      <TagChange entity="6" tag="26" value="2" EntityCardID="tanddyy" EntityCardName="tanddyy" GameTagName="RESOURCES"/>
+      <TagChange entity="4" tag="198" value="17" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_START_TRIGGERS"/>
+    </Block>
+    <TagChange entity="92" tag="44" value="2" EntityCardID="TB_BaconShop_HERO_16" EntityCardName="A. F. Kay" GameTagName="DAMAGE"/>
+    <Block entity="47" type="5" ts="2019-12-11T21:01:59.090170-05:00" block_sequence_num="34" EntityCardID="TB_BaconShop_8P_PlayerE" EntityCardName="BaconShop8PlayerEnchant" BlockTypeName="TRIGGER">
+      <MetaData meta="19" data="1000" infoCount="1" MetaName="ARTIFICIAL_PAUSE">
+        <Info index="0" entity="47" EntityName="BaconShop8PlayerEnchant"/>
+      </MetaData>
+      <MetaData meta="19" data="1500" infoCount="1" MetaName="ARTIFICIAL_PAUSE">
+        <Info index="0" entity="47" EntityName="BaconShop8PlayerEnchant"/>
+      </MetaData>
+    </Block>
+    <Block entity="47" type="5" effectIndex="4" ts="2019-12-11T21:01:59.090170-05:00" block_sequence_num="35" EntityCardID="TB_BaconShop_8P_PlayerE" EntityCardName="BaconShop8PlayerEnchant" BlockTypeName="TRIGGER">
+      <TagChange entity="5" tag="1486" value="1" EntityCardID="syfZZ#1798" EntityCardName="syfZZ#1798"/>
+    </Block>
+    <Block entity="47" type="5" effectIndex="11" ts="2019-12-11T21:01:59.090170-05:00" block_sequence_num="36" EntityCardID="TB_BaconShop_8P_PlayerE" EntityCardName="BaconShop8PlayerEnchant" BlockTypeName="TRIGGER"/>
+    <TagChange entity="109" tag="44" value="2" EntityCardID="TB_BaconShop_HERO_11" EntityCardName="Ragnaros the Firelord" GameTagName="DAMAGE"/>
+    <Block entity="47" type="5" ts="2019-12-11T21:01:59.097154-05:00" block_sequence_num="37" EntityCardID="TB_BaconShop_8P_PlayerE" EntityCardName="BaconShop8PlayerEnchant" BlockTypeName="TRIGGER">
+      <TagChange entity="4" tag="1453" value="1" EntityCardID="GameEntity" EntityCardName="GameEntity"/>
+      <TagChange entity="48" tag="49" value="5" EntityCardID="TB_BaconShop_3ofKindChecke" EntityCardName="3ofKindCheckPlayerEnchant" GameTagName="ZONE" ZoneName="REMOVEDFROMGAME"/>
+      <TagChange entity="4" tag="1347" value="1" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="BOARD_VISUAL_STATE"/>
+      <TagChange entity="4" tag="6" value="1" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="MISSION_EVENT"/>
+      <TagChange entity="4" tag="1488" value="1" EntityCardID="GameEntity" EntityCardName="GameEntity"/>
+      <TagChange entity="46" tag="1068" value="1" EntityCardID="TB_BaconShopBob" EntityCardName="Bob's Tavern"/>
+      <TagChange entity="46" tag="1068" value="0" EntityCardID="TB_BaconShopBob" EntityCardName="Bob's Tavern"/>
+      <TagChange entity="46" tag="49" value="1" EntityCardID="TB_BaconShopBob" EntityCardName="Bob's Tavern" GameTagName="ZONE" ZoneName="PLAY"/>
+      <TagChange entity="46" tag="271" value="0" EntityCardID="TB_BaconShopBob" EntityCardName="Bob's Tavern" GameTagName="NUM_TURNS_IN_PLAY"/>
+      <TagChange entity="46" tag="262" value="233" EntityCardID="TB_BaconShopBob" EntityCardName="Bob's Tavern" GameTagName="LINKED_ENTITY"/>
+      <TagChange entity="233" tag="1068" value="6" EntityCardID="TB_BaconShop_HERO_12" EntityCardName="The Rat King"/>
+      <TagChange entity="233" tag="1068" value="0" EntityCardID="TB_BaconShop_HERO_12" EntityCardName="The Rat King"/>
+      <TagChange entity="233" tag="49" value="5" EntityCardID="TB_BaconShop_HERO_12" EntityCardName="The Rat King" GameTagName="ZONE" ZoneName="REMOVEDFROMGAME"/>
+      <TagChange entity="233" tag="45" value="0" EntityCardID="TB_BaconShop_HERO_12" EntityCardName="The Rat King" GameTagName="HEALTH"/>
+      <TagChange entity="233" tag="201" value="0" EntityCardID="TB_BaconShop_HERO_12" EntityCardName="The Rat King" GameTagName="FACTION"/>
+      <TagChange entity="233" tag="262" value="0" EntityCardID="TB_BaconShop_HERO_12" EntityCardName="The Rat King" GameTagName="LINKED_ENTITY"/>
+      <TagChange entity="233" tag="271" value="0" EntityCardID="TB_BaconShop_HERO_12" EntityCardName="The Rat King" GameTagName="NUM_TURNS_IN_PLAY"/>
+      <TagChange entity="233" tag="380" value="0" EntityCardID="TB_BaconShop_HERO_12" EntityCardName="The Rat King" GameTagName="HERO_POWER"/>
+      <TagChange entity="233" tag="684" value="0" EntityCardID="TB_BaconShop_HERO_12" EntityCardName="The Rat King" GameTagName="HIDE_COST"/>
+      <TagChange entity="233" tag="1377" value="0" EntityCardID="TB_BaconShop_HERO_12" EntityCardName="The Rat King" GameTagName="PLAYER_TECH_LEVEL"/>
+      <TagChange entity="233" tag="1491" value="0" EntityCardID="TB_BaconShop_HERO_12" EntityCardName="The Rat King" GameTagName="BACON_HERO_CAN_BE_DRAFTED"/>
+      <TagChange entity="233" tag="1493" value="0" EntityCardID="TB_BaconShop_HERO_12" EntityCardName="The Rat King"/>
+      <TagChange entity="233" tag="45" value="40" EntityCardID="TB_BaconShop_HERO_12" EntityCardName="The Rat King" GameTagName="HEALTH"/>
+      <TagChange entity="233" tag="201" value="3" EntityCardID="TB_BaconShop_HERO_12" EntityCardName="The Rat King" GameTagName="FACTION"/>
+      <TagChange entity="233" tag="380" value="59839" EntityCardID="TB_BaconShop_HERO_12" EntityCardName="The Rat King" GameTagName="HERO_POWER"/>
+      <TagChange entity="233" tag="684" value="1" EntityCardID="TB_BaconShop_HERO_12" EntityCardName="The Rat King" GameTagName="HIDE_COST"/>
+      <TagChange entity="233" tag="1491" value="1" EntityCardID="TB_BaconShop_HERO_12" EntityCardName="The Rat King" GameTagName="BACON_HERO_CAN_BE_DRAFTED"/>
+      <TagChange entity="233" tag="410" value="1" EntityCardID="TB_BaconShop_HERO_12" EntityCardName="The Rat King" GameTagName="REVEALED"/>
+      <TagChange entity="6" tag="27" value="46" EntityCardID="tanddyy" EntityCardName="tanddyy" GameTagName="HERO_ENTITY"/>
+      <TagChange entity="234" tag="1068" value="6" EntityCardID="TB_BaconShop_HP_041a" EntityCardName="King of Beasts"/>
+      <TagChange entity="234" tag="1068" value="0" EntityCardID="TB_BaconShop_HP_041a" EntityCardName="King of Beasts"/>
+      <TagChange entity="234" tag="49" value="5" EntityCardID="TB_BaconShop_HP_041a" EntityCardName="King of Beasts" GameTagName="ZONE" ZoneName="REMOVEDFROMGAME"/>
+      <TagChange entity="234" tag="32" value="0" EntityCardID="TB_BaconShop_HP_041a" EntityCardName="King of Beasts" GameTagName="TRIGGER_VISUAL"/>
+      <TagChange entity="234" tag="201" value="0" EntityCardID="TB_BaconShop_HP_041a" EntityCardName="King of Beasts" GameTagName="FACTION"/>
+      <TagChange entity="234" tag="271" value="0" EntityCardID="TB_BaconShop_HP_041a" EntityCardName="King of Beasts" GameTagName="NUM_TURNS_IN_PLAY"/>
+      <TagChange entity="234" tag="684" value="0" EntityCardID="TB_BaconShop_HP_041a" EntityCardName="King of Beasts" GameTagName="HIDE_COST"/>
+      <TagChange entity="234" tag="1107" value="0" EntityCardID="TB_BaconShop_HP_041a" EntityCardName="King of Beasts" GameTagName="HIDE_WATERMARK"/>
+      <TagChange entity="234" tag="1493" value="0" EntityCardID="TB_BaconShop_HP_041a" EntityCardName="King of Beasts"/>
+      <TagChange entity="234" tag="32" value="1" EntityCardID="TB_BaconShop_HP_041a" EntityCardName="King of Beasts" GameTagName="TRIGGER_VISUAL"/>
+      <TagChange entity="234" tag="201" value="3" EntityCardID="TB_BaconShop_HP_041a" EntityCardName="King of Beasts" GameTagName="FACTION"/>
+      <TagChange entity="234" tag="684" value="1" EntityCardID="TB_BaconShop_HP_041a" EntityCardName="King of Beasts" GameTagName="HIDE_COST"/>
+      <TagChange entity="234" tag="1107" value="1" EntityCardID="TB_BaconShop_HP_041a" EntityCardName="King of Beasts" GameTagName="HIDE_WATERMARK"/>
+      <FullEntity id="260" cardID="TB_BaconShop_8p_Reroll_Button" EntityName="Refresh">
+        <Tag tag="50" value="2" GameTagName="CONTROLLER"/>
+        <Tag tag="202" value="12" GameTagName="CARDTYPE"/>
+        <Tag tag="48" value="1" GameTagName="COST"/>
+        <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+        <Tag tag="53" value="260" GameTagName="ENTITY_ID"/>
+        <Tag tag="313" value="47" GameTagName="CREATOR"/>
+        <Tag tag="466" value="1" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+        <Tag tag="1037" value="2"/>
+        <Tag tag="1107" value="2" GameTagName="HIDE_WATERMARK"/>
+        <Tag tag="1284" value="57980" GameTagName="CREATOR_DBID"/>
+        <Tag tag="1437" value="1" GameTagName="BACON_ACTION_CARD"/>
+        <Tag tag="1438" value="2" GameTagName="GAME_MODE_BUTTON_SLOT"/>
+      </FullEntity>
+      <FullEntity id="261" cardID="TB_BaconShopLockAll_Button" EntityName="Freeze">
+        <Tag tag="50" value="2" GameTagName="CONTROLLER"/>
+        <Tag tag="202" value="12" GameTagName="CARDTYPE"/>
+        <Tag tag="3" value="10" GameTagName="TAG_SCRIPT_DATA_NUM_2"/>
+        <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+        <Tag tag="53" value="261" GameTagName="ENTITY_ID"/>
+        <Tag tag="201" value="2" GameTagName="FACTION"/>
+        <Tag tag="313" value="47" GameTagName="CREATOR"/>
+        <Tag tag="1037" value="2"/>
+        <Tag tag="1107" value="1" GameTagName="HIDE_WATERMARK"/>
+        <Tag tag="1270" value="1"/>
+        <Tag tag="1284" value="57980" GameTagName="CREATOR_DBID"/>
+        <Tag tag="1437" value="1" GameTagName="BACON_ACTION_CARD"/>
+        <Tag tag="1438" value="1" GameTagName="GAME_MODE_BUTTON_SLOT"/>
+      </FullEntity>
+      <FullEntity id="262" cardID="TB_BaconShopTechUp02_Button" EntityName="Tavern Tier 2">
+        <Tag tag="50" value="2" GameTagName="CONTROLLER"/>
+        <Tag tag="202" value="12" GameTagName="CARDTYPE"/>
+        <Tag tag="48" value="5" GameTagName="COST"/>
+        <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+        <Tag tag="53" value="262" GameTagName="ENTITY_ID"/>
+        <Tag tag="313" value="47" GameTagName="CREATOR"/>
+        <Tag tag="466" value="5" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+        <Tag tag="1037" value="2"/>
+        <Tag tag="1107" value="1" GameTagName="HIDE_WATERMARK"/>
+        <Tag tag="1284" value="57980" GameTagName="CREATOR_DBID"/>
+        <Tag tag="1437" value="1" GameTagName="BACON_ACTION_CARD"/>
+        <Tag tag="1438" value="3" GameTagName="GAME_MODE_BUTTON_SLOT"/>
+      </FullEntity>
+      <FullEntity id="263" cardID="TB_BaconShop_DragSell" EntityName="Drag To Sell">
+        <Tag tag="50" value="2" GameTagName="CONTROLLER"/>
+        <Tag tag="202" value="22" GameTagName="CARDTYPE"/>
+        <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+        <Tag tag="53" value="263" GameTagName="ENTITY_ID"/>
+        <Tag tag="313" value="47" GameTagName="CREATOR"/>
+        <Tag tag="1037" value="2"/>
+        <Tag tag="1284" value="57980" GameTagName="CREATOR_DBID"/>
+        <Tag tag="1437" value="1" GameTagName="BACON_ACTION_CARD"/>
+        <Tag tag="1464" value="2" GameTagName="MOVE_MINION_HOVER_TARGET_SLOT"/>
+      </FullEntity>
+      <FullEntity id="264" cardID="TB_BaconShop_DragBuy" EntityName="Drag To Buy">
+        <Tag tag="50" value="2" GameTagName="CONTROLLER"/>
+        <Tag tag="202" value="22" GameTagName="CARDTYPE"/>
+        <Tag tag="48" value="3" GameTagName="COST"/>
+        <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+        <Tag tag="53" value="264" GameTagName="ENTITY_ID"/>
+        <Tag tag="313" value="47" GameTagName="CREATOR"/>
+        <Tag tag="466" value="3" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+        <Tag tag="1037" value="2"/>
+        <Tag tag="1284" value="57980" GameTagName="CREATOR_DBID"/>
+        <Tag tag="1437" value="1" GameTagName="BACON_ACTION_CARD"/>
+        <Tag tag="1464" value="1" GameTagName="MOVE_MINION_HOVER_TARGET_SLOT"/>
+      </FullEntity>
+      <MetaData meta="19" data="1500" infoCount="1" MetaName="ARTIFICIAL_PAUSE">
+        <Info index="0" entity="47" EntityName="BaconShop8PlayerEnchant"/>
+      </MetaData>
+      <TagChange entity="4" tag="1453" value="0" EntityCardID="GameEntity" EntityCardName="GameEntity"/>
+      <TagChange entity="4" tag="19" value="12" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_END"/>
+    </Block>
+    <Block entity="5" type="5" ts="2019-12-11T21:01:59.098150-05:00" block_sequence_num="38" EntityCardID="syfZZ#1798" EntityCardName="syfZZ#1798" BlockTypeName="TRIGGER"/>
+    <Block entity="261" type="5" effectIndex="0" ts="2019-12-11T21:01:59.098150-05:00" block_sequence_num="39" EntityCardID="TB_BaconShopLockAll_Button" EntityCardName="Freeze" BlockTypeName="TRIGGER"/>
+    <Block entity="6" type="5" ts="2019-12-11T21:01:59.098150-05:00" block_sequence_num="40" EntityCardID="tanddyy" EntityCardName="tanddyy" BlockTypeName="TRIGGER">
+      <TagChange entity="4" tag="198" value="16" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_CLEANUP"/>
+    </Block>
+    <Block entity="6" type="5" ts="2019-12-11T21:01:59.098150-05:00" block_sequence_num="41" EntityCardID="tanddyy" EntityCardName="tanddyy" BlockTypeName="TRIGGER"/>
+    <TagChange entity="4" tag="19" value="16" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_CLEANUP"/>
+    <Block entity="6" type="5" ts="2019-12-11T21:01:59.111115-05:00" block_sequence_num="42" EntityCardID="tanddyy" EntityCardName="tanddyy" BlockTypeName="TRIGGER">
+      <TagChange entity="4" tag="198" value="13" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_NEXT"/>
+    </Block>
+    <TagChange entity="75" tag="1373" value="1" EntityCardID="TB_BaconShop_HERO_40" EntityCardName="Sir Finley Mrrgglton" GameTagName="PLAYER_LEADERBOARD_PLACE"/>
+    <TagChange entity="133" tag="1373" value="2" EntityCardID="TB_BaconShop_HERO_12" EntityCardName="The Rat King" GameTagName="PLAYER_LEADERBOARD_PLACE"/>
+    <TagChange entity="125" tag="1373" value="3" EntityCardID="TB_BaconShop_HERO_43" EntityCardName="Brann Bronzebeard" GameTagName="PLAYER_LEADERBOARD_PLACE"/>
+    <TagChange entity="117" tag="1373" value="4" EntityCardID="TB_BaconShop_HERO_30" EntityCardName="Nefarian" GameTagName="PLAYER_LEADERBOARD_PLACE"/>
+    <TagChange entity="101" tag="1373" value="5" EntityCardID="TB_BaconShop_HERO_27" EntityCardName="Sindragosa" GameTagName="PLAYER_LEADERBOARD_PLACE"/>
+    <TagChange entity="92" tag="1373" value="6" EntityCardID="TB_BaconShop_HERO_16" EntityCardName="A. F. Kay" GameTagName="PLAYER_LEADERBOARD_PLACE"/>
+    <TagChange entity="5" tag="1360" value="1" EntityCardID="syfZZ#1798" EntityCardName="syfZZ#1798" GameTagName="NEXT_OPPONENT_PLAYER_ID"/>
+    <TagChange entity="4" tag="19" value="13" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_NEXT"/>
+    <Block entity="4" type="5" effectIndex="5" ts="2019-12-11T21:01:59.576183-05:00" block_sequence_num="43" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
+      <TagChange entity="6" tag="1292" value="0" EntityCardID="tanddyy" EntityCardName="tanddyy"/>
+      <TagChange entity="5" tag="1292" value="1" EntityCardID="syfZZ#1798" EntityCardName="syfZZ#1798"/>
+      <TagChange entity="6" tag="23" value="0" EntityCardID="tanddyy" EntityCardName="tanddyy" GameTagName="CURRENT_PLAYER"/>
+      <TagChange entity="5" tag="23" value="1" EntityCardID="syfZZ#1798" EntityCardName="syfZZ#1798" GameTagName="CURRENT_PLAYER"/>
+      <TagChange entity="4" tag="20" value="3" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="TURN"/>
+      <TagChange entity="4" tag="198" value="6" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_READY"/>
+    </Block>
+    <TagChange entity="4" tag="19" value="6" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_READY"/>
+    <Block entity="5" type="5" ts="2019-12-11T21:01:59.576183-05:00" block_sequence_num="44" EntityCardID="syfZZ#1798" EntityCardName="syfZZ#1798" BlockTypeName="TRIGGER">
+      <TagChange entity="4" tag="271" value="4" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NUM_TURNS_IN_PLAY"/>
+      <TagChange entity="5" tag="271" value="4" EntityCardID="syfZZ#1798" EntityCardName="syfZZ#1798" GameTagName="NUM_TURNS_IN_PLAY"/>
+      <TagChange entity="6" tag="271" value="4" EntityCardID="tanddyy" EntityCardName="tanddyy" GameTagName="NUM_TURNS_IN_PLAY"/>
+      <TagChange entity="75" tag="271" value="4" EntityCardID="TB_BaconShop_HERO_40" EntityCardName="Sir Finley Mrrgglton" GameTagName="NUM_TURNS_IN_PLAY"/>
+      <TagChange entity="139" tag="271" value="4" EntityCardID="TB_BaconShop_HP_045" EntityCardName="Power Up!" GameTagName="NUM_TURNS_IN_PLAY"/>
+      <TagChange entity="46" tag="271" value="1" EntityCardID="TB_BaconShopBob" EntityCardName="Bob's Tavern" GameTagName="NUM_TURNS_IN_PLAY"/>
+      <TagChange entity="260" tag="271" value="1" EntityCardID="TB_BaconShop_8p_Reroll_Button" EntityCardName="Refresh" GameTagName="NUM_TURNS_IN_PLAY"/>
+      <TagChange entity="261" tag="271" value="1" EntityCardID="TB_BaconShopLockAll_Button" EntityCardName="Freeze" GameTagName="NUM_TURNS_IN_PLAY"/>
+      <TagChange entity="262" tag="271" value="1" EntityCardID="TB_BaconShopTechUp02_Button" EntityCardName="Tavern Tier 2" GameTagName="NUM_TURNS_IN_PLAY"/>
+      <TagChange entity="263" tag="271" value="1" EntityCardID="TB_BaconShop_DragSell" EntityCardName="Drag To Sell" GameTagName="NUM_TURNS_IN_PLAY"/>
+      <TagChange entity="264" tag="271" value="1" EntityCardID="TB_BaconShop_DragBuy" EntityCardName="Drag To Buy" GameTagName="NUM_TURNS_IN_PLAY"/>
+      <TagChange entity="5" tag="26" value="4" EntityCardID="syfZZ#1798" EntityCardName="syfZZ#1798" GameTagName="RESOURCES"/>
+      <TagChange entity="4" tag="198" value="17" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_START_TRIGGERS"/>
+    </Block>
+    <TagChange entity="4" tag="19" value="17" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_START_TRIGGERS"/>
+    <Block entity="47" type="5" ts="2019-12-11T21:01:59.577180-05:00" block_sequence_num="45" EntityCardID="TB_BaconShop_8P_PlayerE" EntityCardName="BaconShop8PlayerEnchant" BlockTypeName="TRIGGER">
+      <FullEntity id="294" EntityName="3ofKindCheckPlayerEnchant">
+        <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+        <Tag tag="50" value="2" GameTagName="CONTROLLER"/>
+        <Tag tag="53" value="294" GameTagName="ENTITY_ID"/>
+      </FullEntity>
+      <ShowEntity entity="294" cardID="TB_BaconShop_3ofKindChecke" EntityName="3ofKindCheckPlayerEnchant">
+        <Tag tag="50" value="2" GameTagName="CONTROLLER"/>
+        <Tag tag="202" value="6" GameTagName="CARDTYPE"/>
+        <Tag tag="40" value="5" GameTagName="ATTACHED"/>
+        <Tag tag="44" value="0" GameTagName="DAMAGE"/>
+        <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+        <Tag tag="53" value="294" GameTagName="ENTITY_ID"/>
+        <Tag tag="263" value="0" GameTagName="ZONE_POSITION"/>
+        <Tag tag="313" value="47" GameTagName="CREATOR"/>
+        <Tag tag="466" value="0" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+        <Tag tag="479" value="0"/>
+        <Tag tag="1037" value="2"/>
+        <Tag tag="1068" value="0"/>
+        <Tag tag="1284" value="57980" GameTagName="CREATOR_DBID"/>
+      </ShowEntity>
+      <TagChange entity="294" tag="1068" value="1" EntityCardID="TB_BaconShop_3ofKindChecke" EntityCardName="3ofKindCheckPlayerEnchant"/>
+      <TagChange entity="294" tag="1068" value="0" EntityCardID="TB_BaconShop_3ofKindChecke" EntityCardName="3ofKindCheckPlayerEnchant"/>
+      <TagChange entity="294" tag="49" value="1" EntityCardID="TB_BaconShop_3ofKindChecke" EntityCardName="3ofKindCheckPlayerEnchant" GameTagName="ZONE" ZoneName="PLAY"/>
+      <TagChange entity="5" tag="1469" value="1" EntityCardID="syfZZ#1798" EntityCardName="syfZZ#1798"/>
+      <TagChange entity="4" tag="1453" value="1" EntityCardID="GameEntity" EntityCardName="GameEntity"/>
+      <TagChange entity="4" tag="1466" value="1" EntityCardID="GameEntity" EntityCardName="GameEntity"/>
+      <TagChange entity="4" tag="1467" value="1" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="BACON_COIN_ON_ENEMY_MINIONS"/>
+      <TagChange entity="4" tag="1522" value="0" EntityCardID="GameEntity" EntityCardName="GameEntity"/>
+      <SubSpell spellPrefabGuid="Bacon_MinionSwap_OverrideSpawnIn_Super:69498edad9bb7594e89a3b5e0e41f026" source="47" targetCount="0" ts="2019-12-11T21:01:59.577180-05:00">
+        <FullEntity id="295" cardID="BGS_004" EntityName="Wrath Weaver">
+          <Tag tag="50" value="10" GameTagName="CONTROLLER"/>
+          <Tag tag="202" value="4" GameTagName="CARDTYPE"/>
+          <Tag tag="48" value="1" GameTagName="COST"/>
+          <Tag tag="32" value="1" GameTagName="TRIGGER_VISUAL"/>
+          <Tag tag="43" value="1" GameTagName="EXHAUSTED"/>
+          <Tag tag="45" value="1" GameTagName="HEALTH"/>
+          <Tag tag="47" value="1" GameTagName="ATK"/>
+          <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+          <Tag tag="53" value="295" GameTagName="ENTITY_ID"/>
+          <Tag tag="201" value="3" GameTagName="FACTION"/>
+          <Tag tag="203" value="1" GameTagName="RARITY"/>
+          <Tag tag="263" value="1" GameTagName="ZONE_POSITION"/>
+          <Tag tag="313" value="47" GameTagName="CREATOR"/>
+          <Tag tag="466" value="1" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+          <Tag tag="479" value="1"/>
+          <Tag tag="1037" value="2"/>
+          <Tag tag="1196" value="1"/>
+          <Tag tag="1254" value="47"/>
+          <Tag tag="1284" value="57980" GameTagName="CREATOR_DBID"/>
+          <Tag tag="1429" value="59679"/>
+          <Tag tag="1440" value="1" GameTagName="TECH_LEVEL"/>
+          <Tag tag="1456" value="1" GameTagName="IS_BACON_POOL_MINION"/>
+        </FullEntity>
+        <TagChange entity="262" tag="48" value="4" EntityCardID="TB_BaconShopTechUp02_Button" EntityCardName="Tavern Tier 2" GameTagName="COST"/>
+        <TagChange entity="295" tag="271" value="3" EntityCardID="BGS_004" EntityCardName="Wrath Weaver" GameTagName="NUM_TURNS_IN_PLAY"/>
+        <TagChange entity="295" tag="43" value="0" EntityCardID="BGS_004" EntityCardName="Wrath Weaver" GameTagName="EXHAUSTED"/>
+        <TagChange entity="295" tag="227" value="1" EntityCardID="BGS_004" EntityCardName="Wrath Weaver" GameTagName="CANT_ATTACK"/>
+        <FullEntity id="296" cardID="EX1_509" EntityName="Murloc Tidecaller">
+          <Tag tag="50" value="10" GameTagName="CONTROLLER"/>
+          <Tag tag="202" value="4" GameTagName="CARDTYPE"/>
+          <Tag tag="48" value="1" GameTagName="COST"/>
+          <Tag tag="32" value="1" GameTagName="TRIGGER_VISUAL"/>
+          <Tag tag="43" value="1" GameTagName="EXHAUSTED"/>
+          <Tag tag="45" value="2" GameTagName="HEALTH"/>
+          <Tag tag="47" value="1" GameTagName="ATK"/>
+          <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+          <Tag tag="53" value="296" GameTagName="ENTITY_ID"/>
+          <Tag tag="200" value="14" GameTagName="CARDRACE"/>
+          <Tag tag="201" value="3" GameTagName="FACTION"/>
+          <Tag tag="203" value="3" GameTagName="RARITY"/>
+          <Tag tag="263" value="2" GameTagName="ZONE_POSITION"/>
+          <Tag tag="313" value="47" GameTagName="CREATOR"/>
+          <Tag tag="466" value="1" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+          <Tag tag="479" value="1"/>
+          <Tag tag="1037" value="2"/>
+          <Tag tag="1196" value="1"/>
+          <Tag tag="1254" value="47"/>
+          <Tag tag="1284" value="57980" GameTagName="CREATOR_DBID"/>
+          <Tag tag="1429" value="58138"/>
+          <Tag tag="1440" value="1" GameTagName="TECH_LEVEL"/>
+          <Tag tag="1456" value="1" GameTagName="IS_BACON_POOL_MINION"/>
+        </FullEntity>
+        <TagChange entity="296" tag="271" value="3" EntityCardID="EX1_509" EntityCardName="Murloc Tidecaller" GameTagName="NUM_TURNS_IN_PLAY"/>
+        <TagChange entity="296" tag="43" value="0" EntityCardID="EX1_509" EntityCardName="Murloc Tidecaller" GameTagName="EXHAUSTED"/>
+        <TagChange entity="296" tag="227" value="1" EntityCardID="EX1_509" EntityCardName="Murloc Tidecaller" GameTagName="CANT_ATTACK"/>
+        <FullEntity id="297" cardID="BOT_445" EntityName="Mecharoo">
+          <Tag tag="50" value="10" GameTagName="CONTROLLER"/>
+          <Tag tag="202" value="4" GameTagName="CARDTYPE"/>
+          <Tag tag="48" value="1" GameTagName="COST"/>
+          <Tag tag="43" value="1" GameTagName="EXHAUSTED"/>
+          <Tag tag="45" value="1" GameTagName="HEALTH"/>
+          <Tag tag="47" value="1" GameTagName="ATK"/>
+          <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+          <Tag tag="53" value="297" GameTagName="ENTITY_ID"/>
+          <Tag tag="200" value="17" GameTagName="CARDRACE"/>
+          <Tag tag="201" value="3" GameTagName="FACTION"/>
+          <Tag tag="203" value="1" GameTagName="RARITY"/>
+          <Tag tag="217" value="1" GameTagName="DEATHRATTLE"/>
+          <Tag tag="263" value="3" GameTagName="ZONE_POSITION"/>
+          <Tag tag="313" value="47" GameTagName="CREATOR"/>
+          <Tag tag="466" value="1" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+          <Tag tag="479" value="1"/>
+          <Tag tag="1037" value="2"/>
+          <Tag tag="1196" value="1"/>
+          <Tag tag="1254" value="47"/>
+          <Tag tag="1284" value="57980" GameTagName="CREATOR_DBID"/>
+          <Tag tag="1429" value="57336"/>
+          <Tag tag="1440" value="1" GameTagName="TECH_LEVEL"/>
+          <Tag tag="1456" value="1" GameTagName="IS_BACON_POOL_MINION"/>
+        </FullEntity>
+        <TagChange entity="297" tag="271" value="3" EntityCardID="BOT_445" EntityCardName="Mecharoo" GameTagName="NUM_TURNS_IN_PLAY"/>
+        <TagChange entity="297" tag="43" value="0" EntityCardID="BOT_445" EntityCardName="Mecharoo" GameTagName="EXHAUSTED"/>
+        <TagChange entity="297" tag="227" value="1" EntityCardID="BOT_445" EntityCardName="Mecharoo" GameTagName="CANT_ATTACK"/>
+      </SubSpell>
+      <TagChange entity="4" tag="1453" value="0" EntityCardID="GameEntity" EntityCardName="GameEntity"/>
+      <TagChange entity="4" tag="1458" value="0" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="SUPPRESS_ALL_SUMMON_VO"/>
+      <TagChange entity="4" tag="6" value="0" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="MISSION_EVENT"/>
+      <TagChange entity="4" tag="6" value="114" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="MISSION_EVENT"/>
+    </Block>
+    <Block entity="47" type="5" effectIndex="2" ts="2019-12-11T21:01:59.578177-05:00" block_sequence_num="46" EntityCardID="TB_BaconShop_8P_PlayerE" EntityCardName="BaconShop8PlayerEnchant" BlockTypeName="TRIGGER"/>
+    <Block entity="47" type="5" ts="2019-12-11T21:01:59.578177-05:00" block_sequence_num="47" EntityCardID="TB_BaconShop_8P_PlayerE" EntityCardName="BaconShop8PlayerEnchant" BlockTypeName="TRIGGER"/>
+    <Block entity="5" type="5" ts="2019-12-11T21:01:59.578177-05:00" block_sequence_num="48" EntityCardID="syfZZ#1798" EntityCardName="syfZZ#1798" BlockTypeName="TRIGGER">
+      <TagChange entity="4" tag="198" value="9" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_START"/>
+    </Block>
+    <TagChange entity="4" tag="19" value="9" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_START"/>
+    <Block entity="5" type="5" ts="2019-12-11T21:01:59.578177-05:00" block_sequence_num="49" EntityCardID="syfZZ#1798" EntityCardName="syfZZ#1798" BlockTypeName="TRIGGER">
+      <TagChange entity="4" tag="198" value="10" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_ACTION"/>
+    </Block>
+    <TagChange entity="4" tag="19" value="10" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_ACTION"/>
+    <Block entity="5" type="5" ts="2019-12-11T21:01:59.578177-05:00" block_sequence_num="50" EntityCardID="syfZZ#1798" EntityCardName="syfZZ#1798" BlockTypeName="TRIGGER">
+      <TagChange entity="4" tag="198" value="12" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_END"/>
+    </Block>
+    <Options id="2" ts="2019-12-11T21:01:59.645589-05:00">
+      <Option index="0" error="-1" type="2"/>
+      <Option index="1" entity="139" type="3" EntityCardID="TB_BaconShop_HP_045" EntityName="Power Up!"/>
+      <Option index="2" entity="260" type="3" EntityCardID="TB_BaconShop_8p_Reroll_Button" EntityName="Refresh"/>
+      <Option index="3" entity="261" type="3" EntityCardID="TB_BaconShopLockAll_Button" EntityName="Freeze"/>
+      <Option index="4" entity="262" type="3" EntityCardID="TB_BaconShopTechUp02_Button" EntityName="Tavern Tier 2"/>
+      <Option index="5" entity="264" type="3" EntityCardID="TB_BaconShop_DragBuy" EntityName="Drag To Buy">
+        <Target index="0" entity="295" EntityCardID="BGS_004" EntityName="Wrath Weaver"/>
+        <Target index="1" entity="296" EntityCardID="EX1_509" EntityName="Murloc Tidecaller"/>
+        <Target index="2" entity="297" EntityCardID="BOT_445" EntityName="Mecharoo"/>
+        <Target index="3" entity="75" error="3" EntityCardID="TB_BaconShop_HERO_40" EntityName="Sir Finley Mrrgglton"/>
+        <Target index="4" entity="46" error="1" EntityCardID="TB_BaconShopBob" EntityName="Bob's Tavern"/>
+      </Option>
+      <Option index="6" entity="295" type="3" EntityCardID="BGS_004" EntityName="Wrath Weaver"/>
+      <Option index="7" entity="296" type="3" EntityCardID="EX1_509" EntityName="Murloc Tidecaller"/>
+      <Option index="8" entity="297" type="3" EntityCardID="BOT_445" EntityName="Mecharoo"/>
+      <Option index="9" entity="75" error="31" type="3" EntityCardID="TB_BaconShop_HERO_40" EntityName="Sir Finley Mrrgglton"/>
+      <Option index="10" entity="46" error="15" type="3" EntityCardID="TB_BaconShopBob" EntityName="Bob's Tavern"/>
+      <Option index="11" entity="263" error="11" type="3" EntityCardID="TB_BaconShop_DragSell" EntityName="Drag To Sell"/>
+    </Options>
+    <TagChange entity="5" tag="17" value="8" EntityCardID="syfZZ#1798" EntityCardName="syfZZ#1798" PlayStateName="CONCEDED" GameTagName="PLAYSTATE"/>
+    <Block entity="4" type="5" effectIndex="8" ts="2019-12-11T21:02:04.979622-05:00" block_sequence_num="51" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
+      <TagChange entity="75" tag="44" value="40" EntityCardID="TB_BaconShop_HERO_40" EntityCardName="Sir Finley Mrrgglton" GameTagName="DAMAGE"/>
+      <TagChange entity="133" tag="1373" value="1" EntityCardID="TB_BaconShop_HERO_12" EntityCardName="The Rat King" GameTagName="PLAYER_LEADERBOARD_PLACE"/>
+      <TagChange entity="125" tag="1373" value="2" EntityCardID="TB_BaconShop_HERO_43" EntityCardName="Brann Bronzebeard" GameTagName="PLAYER_LEADERBOARD_PLACE"/>
+      <TagChange entity="117" tag="1373" value="3" EntityCardID="TB_BaconShop_HERO_30" EntityCardName="Nefarian" GameTagName="PLAYER_LEADERBOARD_PLACE"/>
+      <TagChange entity="101" tag="1373" value="4" EntityCardID="TB_BaconShop_HERO_27" EntityCardName="Sindragosa" GameTagName="PLAYER_LEADERBOARD_PLACE"/>
+      <TagChange entity="92" tag="1373" value="5" EntityCardID="TB_BaconShop_HERO_16" EntityCardName="A. F. Kay" GameTagName="PLAYER_LEADERBOARD_PLACE"/>
+      <TagChange entity="109" tag="1373" value="6" EntityCardID="TB_BaconShop_HERO_11" EntityCardName="Ragnaros the Firelord" GameTagName="PLAYER_LEADERBOARD_PLACE"/>
+      <TagChange entity="75" tag="1373" value="7" EntityCardID="TB_BaconShop_HERO_40" EntityCardName="Sir Finley Mrrgglton" GameTagName="PLAYER_LEADERBOARD_PLACE"/>
+    </Block>
+    <Block entity="4" type="6" effectIndex="0" ts="2019-12-11T21:02:05.134207-05:00" block_sequence_num="52" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="DEATHS">
+      <TagChange entity="75" tag="1068" value="4" EntityCardID="TB_BaconShop_HERO_40" EntityCardName="Sir Finley Mrrgglton"/>
+      <TagChange entity="75" tag="1068" value="0" EntityCardID="TB_BaconShop_HERO_40" EntityCardName="Sir Finley Mrrgglton"/>
+      <TagChange entity="75" tag="1037" value="0" EntityCardID="TB_BaconShop_HERO_40" EntityCardName="Sir Finley Mrrgglton"/>
+      <TagChange entity="75" tag="49" value="4" EntityCardID="TB_BaconShop_HERO_40" EntityCardName="Sir Finley Mrrgglton" GameTagName="ZONE" ZoneName="GRAVEYARD"/>
+      <TagChange entity="5" tag="17" value="3" EntityCardID="syfZZ#1798" EntityCardName="syfZZ#1798" PlayStateName="LOSING" GameTagName="PLAYSTATE"/>
+    </Block>
+    <Block entity="4" type="5" effectIndex="9" ts="2019-12-11T21:02:05.134207-05:00" block_sequence_num="53" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER"/>
+    <Block entity="4" type="5" effectIndex="10" ts="2019-12-11T21:02:05.139195-05:00" block_sequence_num="54" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER"/>
+    <TagChange entity="5" tag="17" value="5" EntityCardID="syfZZ#1798" EntityCardName="syfZZ#1798" PlayStateName="LOST" GameTagName="PLAYSTATE"/>
+    <TagChange entity="6" tag="17" value="4" EntityCardID="tanddyy" EntityCardName="tanddyy" PlayStateName="WON" GameTagName="PLAYSTATE"/>
+    <TagChange entity="4" tag="198" value="14" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="FINAL_WRAPUP"/>
+    <TagChange entity="4" tag="19" value="14" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="FINAL_WRAPUP"/>
+    <Block entity="4" type="5" ts="2019-12-11T21:02:05.139195-05:00" block_sequence_num="55" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
+      <TagChange entity="4" tag="198" value="15" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="FINAL_GAMEOVER"/>
+    </Block>
+    <TagChange entity="4" tag="19" value="15" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="FINAL_GAMEOVER"/>
+    <TagChange entity="4" tag="204" value="3" EntityCardID="GameEntity" EntityCardName="GameEntity" StateName="COMPLETE" GameTagName="STATE"/>
+    <Block entity="47" type="5" effectIndex="5" ts="2019-12-11T21:02:05.139195-05:00" block_sequence_num="56" EntityCardID="TB_BaconShop_8P_PlayerE" EntityCardName="BaconShop8PlayerEnchant" BlockTypeName="TRIGGER"/>
+    <Block entity="47" type="5" effectIndex="13" ts="2019-12-11T21:02:05.139195-05:00" block_sequence_num="57" EntityCardID="TB_BaconShop_8P_PlayerE" EntityCardName="BaconShop8PlayerEnchant" BlockTypeName="TRIGGER"/>
+    <TagChange entity="5" tag="13" value="1" EntityCardID="syfZZ#1798" EntityCardName="syfZZ#1798" GameTagName="GOLD_REWARD_STATE"/>
+  </Game>
+</HSReplay>
+<!-- https://hsreplay.net/replay/LgpMWe3jAj3Y4GYHTo9LyP -->

@@ -1,0 +1,3 @@
+*.xml linguist-detectable
+*.json linguist-detectable
+*.hsreplay linguist-language=XML

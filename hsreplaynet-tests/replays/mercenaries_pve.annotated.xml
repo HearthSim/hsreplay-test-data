@@ -1,0 +1,1466 @@
+<HSReplay version="1.7">
+  <Game ts="2021-10-19T15:03:15.732505">
+    <GameEntity id="1">
+      <Tag tag="202" value="1" GameTagName="CARDTYPE" CardTypeName="GAME"/>
+      <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+      <Tag tag="53" value="1" GameTagName="ENTITY_ID"/>
+      <Tag tag="937" value="3790"/>
+      <Tag tag="1000" value="2" GameTagName="END_TURN_BUTTON_ALTERNATIVE_APPEARANCE"/>
+      <Tag tag="1402" value="1" GameTagName="USE_FAST_ACTOR_TRANSITION_ANIMATIONS"/>
+      <Tag tag="1448" value="1" GameTagName="DISABLE_TURN_INDICATORS"/>
+      <Tag tag="1473" value="1" GameTagName="ALWAYS_USE_FAST_ACTOR_TRIGGERS"/>
+      <Tag tag="1526" value="1" GameTagName="ALLOW_GAME_SPEEDUP"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1561" value="1" GameTagName="SKIP_MULLIGAN"/>
+      <Tag tag="1746" value="2"/>
+      <Tag tag="1808" value="22" GameTagName="LETTUCE_NODE_TYPE"/>
+      <Tag tag="1899" value="1"/>
+      <Tag tag="1960" value="1"/>
+      <Tag tag="1962" value="1"/>
+      <Tag tag="1976" value="1" GameTagName="LETTUCE_KEEP_LAST_STANDING_MINION_ACTOR"/>
+      <Tag tag="1990" value="1" GameTagName="LETTUCE_USE_DETERMINISTIC_TEAM_ABILITY_QUEUING"/>
+      <Tag tag="2017" value="6"/>
+      <Tag tag="2042" value="1154346005" GameTagName="GAME_SEED"/>
+      <Tag tag="2120" value="57" GameTagName="LETTUCE_CURRENT_BOUNTY_ID"/>
+    </GameEntity>
+    <Player id="2" playerID="1" accountHi="0" accountLo="0">
+      <Tag tag="50" value="1" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="2" GameTagName="CARDTYPE" CardTypeName="PLAYER"/>
+      <Tag tag="30" value="1" GameTagName="PLAYER_ID"/>
+      <Tag tag="28" value="10" GameTagName="MAXHANDSIZE"/>
+      <Tag tag="29" value="4" GameTagName="STARTHANDSIZE"/>
+      <Tag tag="31" value="1" GameTagName="TEAM_ID"/>
+      <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+      <Tag tag="53" value="2" GameTagName="ENTITY_ID"/>
+      <Tag tag="176" value="10" GameTagName="MAXRESOURCES"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+    </Player>
+    <Player id="3" playerID="2" accountHi="0" accountLo="0">
+      <Tag tag="50" value="2" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="2" GameTagName="CARDTYPE" CardTypeName="PLAYER"/>
+      <Tag tag="30" value="2" GameTagName="PLAYER_ID"/>
+      <Tag tag="28" value="10" GameTagName="MAXHANDSIZE"/>
+      <Tag tag="29" value="4" GameTagName="STARTHANDSIZE"/>
+      <Tag tag="31" value="2" GameTagName="TEAM_ID"/>
+      <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+      <Tag tag="53" value="3" GameTagName="ENTITY_ID"/>
+      <Tag tag="176" value="10" GameTagName="MAXRESOURCES"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1704" value="3" GameTagName="LETTUCE_MAX_IN_PLAY_MERCENARIES"/>
+      <Tag tag="1708" value="1" GameTagName="LETTUCE_COOLDOWN_WHILE_BENCHED"/>
+    </Player>
+    <Player id="4" playerID="3" accountHi="144115198130930503" accountLo="60784574">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="2" GameTagName="CARDTYPE" CardTypeName="PLAYER"/>
+      <Tag tag="30" value="3" GameTagName="PLAYER_ID"/>
+      <Tag tag="28" value="10" GameTagName="MAXHANDSIZE"/>
+      <Tag tag="29" value="4" GameTagName="STARTHANDSIZE"/>
+      <Tag tag="31" value="1" GameTagName="TEAM_ID"/>
+      <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+      <Tag tag="53" value="4" GameTagName="ENTITY_ID"/>
+      <Tag tag="176" value="10" GameTagName="MAXRESOURCES"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1704" value="3" GameTagName="LETTUCE_MAX_IN_PLAY_MERCENARIES"/>
+      <Tag tag="1708" value="1" GameTagName="LETTUCE_COOLDOWN_WHILE_BENCHED"/>
+    </Player>
+    <FullEntity id="5" cardID="LETL_032H_03" EntityName="Brightwing">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="4" GameTagName="CARDTYPE" CardTypeName="MINION"/>
+      <Tag tag="466" value="6" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="479" value="7"/>
+      <Tag tag="48" value="6" GameTagName="COST"/>
+      <Tag tag="47" value="6" GameTagName="ATK"/>
+      <Tag tag="45" value="72" GameTagName="HEALTH"/>
+      <Tag tag="12" value="1" GameTagName="PREMIUM"/>
+      <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+      <Tag tag="53" value="5" GameTagName="ENTITY_ID"/>
+      <Tag tag="200" value="24" GameTagName="CARDRACE" RaceName="DRAGON"/>
+      <Tag tag="201" value="3" GameTagName="FACTION" FactionName="NEUTRAL"/>
+      <Tag tag="203" value="4" GameTagName="RARITY" RarityName="EPIC"/>
+      <Tag tag="271" value="1" GameTagName="NUM_TURNS_IN_PLAY"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1665" value="1" GameTagName="LETTUCE_MERCENARY"/>
+      <Tag tag="1666" value="1" GameTagName="LETTUCE_ROLE" RoleName="CASTER"/>
+      <Tag tag="1852" value="55000" GameTagName="LETTUCE_MERCENARY_EXPERIENCE"/>
+      <Tag tag="1856" value="71583" GameTagName="LETTUCE_EQUIPMENT_ID"/>
+      <Tag tag="2072" value="30"/>
+    </FullEntity>
+    <FullEntity id="6" cardID="LETL_032P6_04" EntityName="Faerie Breath 4">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="23" GameTagName="CARDTYPE" CardTypeName="LETTUCE_ABILITY"/>
+      <Tag tag="466" value="3" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="48" value="3" GameTagName="COST"/>
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="53" value="6" GameTagName="ENTITY_ID"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1635" value="4" GameTagName="SPELL_SCHOOL" SpellSchoolName="NATURE"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1654" value="5" GameTagName="LETTUCE_ABILITY_OWNER"/>
+      <Tag tag="1666" value="1" GameTagName="LETTUCE_ROLE" RoleName="CASTER"/>
+      <Tag tag="1724" value="1"/>
+    </FullEntity>
+    <FullEntity id="7" cardID="LETL_032P4_02" EntityName="Pixie Dust 2">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="23" GameTagName="CARDTYPE" CardTypeName="LETTUCE_ABILITY"/>
+      <Tag tag="466" value="4" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="48" value="4" GameTagName="COST"/>
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="53" value="7" GameTagName="ENTITY_ID"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="955" value="2" GameTagName="USE_ALTERNATE_CARD_TEXT"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1635" value="4" GameTagName="SPELL_SCHOOL" SpellSchoolName="NATURE"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1654" value="5" GameTagName="LETTUCE_ABILITY_OWNER"/>
+      <Tag tag="1666" value="1" GameTagName="LETTUCE_ROLE" RoleName="CASTER"/>
+      <Tag tag="1669" value="1" GameTagName="LETTUCE_COOLDOWN_CONFIG"/>
+      <Tag tag="1724" value="1"/>
+    </FullEntity>
+    <FullEntity id="8" cardID="LETL_032P5_02" EntityName="Phase Shift 2">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="23" GameTagName="CARDTYPE" CardTypeName="LETTUCE_ABILITY"/>
+      <Tag tag="466" value="4" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="48" value="4" GameTagName="COST"/>
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="53" value="8" GameTagName="ENTITY_ID"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1635" value="4" GameTagName="SPELL_SCHOOL" SpellSchoolName="NATURE"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1654" value="5" GameTagName="LETTUCE_ABILITY_OWNER"/>
+      <Tag tag="1666" value="1" GameTagName="LETTUCE_ROLE" RoleName="CASTER"/>
+      <Tag tag="1669" value="2" GameTagName="LETTUCE_COOLDOWN_CONFIG"/>
+      <Tag tag="1724" value="1"/>
+    </FullEntity>
+    <FullEntity id="9" cardID="LETL_614_02" EntityName="Pixie's Pouch 2">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="23" GameTagName="CARDTYPE" CardTypeName="LETTUCE_ABILITY"/>
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="53" value="9" GameTagName="ENTITY_ID"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="684" value="1" GameTagName="HIDE_COST"/>
+      <Tag tag="1020" value="1"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1654" value="5" GameTagName="LETTUCE_ABILITY_OWNER"/>
+      <Tag tag="1666" value="1" GameTagName="LETTUCE_ROLE" RoleName="CASTER"/>
+      <Tag tag="1715" value="1"/>
+      <Tag tag="1855" value="1" GameTagName="LETTUCE_IS_EQUPIMENT"/>
+    </FullEntity>
+    <FullEntity id="10" cardID="LETL_034H_03" EntityName="Cairne Bloodhoof">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="4" GameTagName="CARDTYPE" CardTypeName="MINION"/>
+      <Tag tag="466" value="5" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="479" value="13"/>
+      <Tag tag="48" value="5" GameTagName="COST"/>
+      <Tag tag="47" value="12" GameTagName="ATK"/>
+      <Tag tag="45" value="77" GameTagName="HEALTH"/>
+      <Tag tag="12" value="1" GameTagName="PREMIUM"/>
+      <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+      <Tag tag="53" value="10" GameTagName="ENTITY_ID"/>
+      <Tag tag="200" value="9" GameTagName="CARDRACE" RaceName="TAUREN"/>
+      <Tag tag="201" value="3" GameTagName="FACTION" FactionName="NEUTRAL"/>
+      <Tag tag="203" value="4" GameTagName="RARITY" RarityName="EPIC"/>
+      <Tag tag="271" value="1" GameTagName="NUM_TURNS_IN_PLAY"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1665" value="1" GameTagName="LETTUCE_MERCENARY"/>
+      <Tag tag="1666" value="3" GameTagName="LETTUCE_ROLE" RoleName="TANK"/>
+      <Tag tag="1852" value="55000" GameTagName="LETTUCE_MERCENARY_EXPERIENCE"/>
+      <Tag tag="1856" value="66115" GameTagName="LETTUCE_EQUIPMENT_ID"/>
+      <Tag tag="2072" value="30"/>
+      <Tag tag="2106" value="25"/>
+    </FullEntity>
+    <FullEntity id="11" cardID="LETL_034P3_03" EntityName="Ancestral Uppercut 3">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="23" GameTagName="CARDTYPE" CardTypeName="LETTUCE_ABILITY"/>
+      <Tag tag="466" value="6" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="48" value="6" GameTagName="COST"/>
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="53" value="11" GameTagName="ENTITY_ID"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1654" value="10" GameTagName="LETTUCE_ABILITY_OWNER"/>
+      <Tag tag="1666" value="3" GameTagName="LETTUCE_ROLE" RoleName="TANK"/>
+      <Tag tag="1679" value="1"/>
+    </FullEntity>
+    <FullEntity id="12" cardID="LETL_319_03" EntityName="Endurance Aura 3">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="23" GameTagName="CARDTYPE" CardTypeName="LETTUCE_ABILITY"/>
+      <Tag tag="466" value="3" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="48" value="3" GameTagName="COST"/>
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="53" value="12" GameTagName="ENTITY_ID"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1654" value="10" GameTagName="LETTUCE_ABILITY_OWNER"/>
+      <Tag tag="1666" value="3" GameTagName="LETTUCE_ROLE" RoleName="TANK"/>
+      <Tag tag="1669" value="1" GameTagName="LETTUCE_COOLDOWN_CONFIG"/>
+      <Tag tag="1724" value="1"/>
+    </FullEntity>
+    <FullEntity id="13" cardID="LETL_246_03" EntityName="Earth Stomp 3">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="23" GameTagName="CARDTYPE" CardTypeName="LETTUCE_ABILITY"/>
+      <Tag tag="466" value="5" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="48" value="5" GameTagName="COST"/>
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="53" value="13" GameTagName="ENTITY_ID"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1635" value="4" GameTagName="SPELL_SCHOOL" SpellSchoolName="NATURE"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1654" value="10" GameTagName="LETTUCE_ABILITY_OWNER"/>
+      <Tag tag="1666" value="3" GameTagName="LETTUCE_ROLE" RoleName="TANK"/>
+      <Tag tag="1669" value="1" GameTagName="LETTUCE_COOLDOWN_CONFIG"/>
+      <Tag tag="1724" value="1"/>
+    </FullEntity>
+    <FullEntity id="14" cardID="LETL_034P1_02" EntityName="Reincarnation 2">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="23" GameTagName="CARDTYPE" CardTypeName="LETTUCE_ABILITY"/>
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="53" value="14" GameTagName="ENTITY_ID"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="684" value="1" GameTagName="HIDE_COST"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1654" value="10" GameTagName="LETTUCE_ABILITY_OWNER"/>
+      <Tag tag="1666" value="3" GameTagName="LETTUCE_ROLE" RoleName="TANK"/>
+      <Tag tag="1671" value="1" GameTagName="LETTUCE_PASSIVE_ABILITY"/>
+      <Tag tag="1715" value="1"/>
+      <Tag tag="1851" value="1"/>
+      <Tag tag="1855" value="1" GameTagName="LETTUCE_IS_EQUPIMENT"/>
+    </FullEntity>
+    <FullEntity id="15" cardID="LETL_034P1_02e" EntityName="Reincarnation 2">
+      <Tag tag="50" value="1" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="6" GameTagName="CARDTYPE" CardTypeName="ENCHANTMENT"/>
+      <Tag tag="12" value="1" GameTagName="PREMIUM"/>
+      <Tag tag="40" value="10" GameTagName="ATTACHED"/>
+      <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+      <Tag tag="53" value="15" GameTagName="ENTITY_ID"/>
+      <Tag tag="313" value="14" GameTagName="CREATOR"/>
+      <Tag tag="976" value="1" GameTagName="ENCHANTMENT_INVISIBLE"/>
+      <Tag tag="1037" value="3"/>
+      <Tag tag="1284" value="66115" GameTagName="CREATOR_DBID"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+    </FullEntity>
+    <FullEntity id="16" cardID="LETL_036H_03" EntityName="Guff Runetotem">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="4" GameTagName="CARDTYPE" CardTypeName="MINION"/>
+      <Tag tag="466" value="5" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="479" value="10"/>
+      <Tag tag="48" value="5" GameTagName="COST"/>
+      <Tag tag="47" value="4" GameTagName="ATK"/>
+      <Tag tag="45" value="38" GameTagName="HEALTH"/>
+      <Tag tag="12" value="1" GameTagName="PREMIUM"/>
+      <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+      <Tag tag="53" value="16" GameTagName="ENTITY_ID"/>
+      <Tag tag="200" value="9" GameTagName="CARDRACE" RaceName="TAUREN"/>
+      <Tag tag="201" value="3" GameTagName="FACTION" FactionName="NEUTRAL"/>
+      <Tag tag="203" value="3" GameTagName="RARITY" RarityName="RARE"/>
+      <Tag tag="271" value="1" GameTagName="NUM_TURNS_IN_PLAY"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1665" value="1" GameTagName="LETTUCE_MERCENARY"/>
+      <Tag tag="1666" value="1" GameTagName="LETTUCE_ROLE" RoleName="CASTER"/>
+      <Tag tag="1852" value="5500" GameTagName="LETTUCE_MERCENARY_EXPERIENCE"/>
+      <Tag tag="2072" value="13"/>
+    </FullEntity>
+    <FullEntity id="17" cardID="LETL_460_01" EntityName="Runic Slam 1">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="23" GameTagName="CARDTYPE" CardTypeName="LETTUCE_ABILITY"/>
+      <Tag tag="466" value="7" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="48" value="7" GameTagName="COST"/>
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="53" value="17" GameTagName="ENTITY_ID"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1635" value="4" GameTagName="SPELL_SCHOOL" SpellSchoolName="NATURE"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1654" value="16" GameTagName="LETTUCE_ABILITY_OWNER"/>
+      <Tag tag="1666" value="1" GameTagName="LETTUCE_ROLE" RoleName="CASTER"/>
+      <Tag tag="1724" value="1"/>
+    </FullEntity>
+    <FullEntity id="18" cardID="LETL_463_03" EntityName="Living Brambles 3">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="23" GameTagName="CARDTYPE" CardTypeName="LETTUCE_ABILITY"/>
+      <Tag tag="466" value="5" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="48" value="5" GameTagName="COST"/>
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="53" value="18" GameTagName="ENTITY_ID"/>
+      <Tag tag="220" value="1" GameTagName="COMBO"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1635" value="4" GameTagName="SPELL_SCHOOL" SpellSchoolName="NATURE"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1654" value="16" GameTagName="LETTUCE_ABILITY_OWNER"/>
+      <Tag tag="1666" value="1" GameTagName="LETTUCE_ROLE" RoleName="CASTER"/>
+      <Tag tag="1724" value="1"/>
+    </FullEntity>
+    <FullEntity id="19" cardID="BARL_007H_03" EntityName="Lady Anacondra">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="4" GameTagName="CARDTYPE" CardTypeName="MINION"/>
+      <Tag tag="466" value="4" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="479" value="8"/>
+      <Tag tag="48" value="4" GameTagName="COST"/>
+      <Tag tag="47" value="1" GameTagName="ATK"/>
+      <Tag tag="45" value="14" GameTagName="HEALTH"/>
+      <Tag tag="12" value="1" GameTagName="PREMIUM"/>
+      <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+      <Tag tag="53" value="19" GameTagName="ENTITY_ID"/>
+      <Tag tag="200" value="7" GameTagName="CARDRACE" RaceName="NIGHTELF"/>
+      <Tag tag="201" value="3" GameTagName="FACTION" FactionName="NEUTRAL"/>
+      <Tag tag="203" value="3" GameTagName="RARITY" RarityName="RARE"/>
+      <Tag tag="271" value="1" GameTagName="NUM_TURNS_IN_PLAY"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1665" value="1" GameTagName="LETTUCE_MERCENARY"/>
+      <Tag tag="1666" value="2" GameTagName="LETTUCE_ROLE" RoleName="FIGHTER"/>
+      <Tag tag="1852" value="75" GameTagName="LETTUCE_MERCENARY_EXPERIENCE"/>
+      <Tag tag="2072" value="3"/>
+    </FullEntity>
+    <FullEntity id="20" cardID="LETL_340_05" EntityName="Serpent's Bite 5">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="23" GameTagName="CARDTYPE" CardTypeName="LETTUCE_ABILITY"/>
+      <Tag tag="466" value="5" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="48" value="5" GameTagName="COST"/>
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="53" value="20" GameTagName="ENTITY_ID"/>
+      <Tag tag="201" value="3" GameTagName="FACTION" FactionName="NEUTRAL"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1635" value="4" GameTagName="SPELL_SCHOOL" SpellSchoolName="NATURE"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1654" value="19" GameTagName="LETTUCE_ABILITY_OWNER"/>
+      <Tag tag="1666" value="2" GameTagName="LETTUCE_ROLE" RoleName="FIGHTER"/>
+      <Tag tag="1724" value="1"/>
+    </FullEntity>
+    <FullEntity id="21" cardID="BARL_017H_01" EntityName="Malfurion Stormrage">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="4" GameTagName="CARDTYPE" CardTypeName="MINION"/>
+      <Tag tag="466" value="4" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="479" value="7"/>
+      <Tag tag="48" value="4" GameTagName="COST"/>
+      <Tag tag="47" value="1" GameTagName="ATK"/>
+      <Tag tag="45" value="14" GameTagName="HEALTH"/>
+      <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+      <Tag tag="53" value="21" GameTagName="ENTITY_ID"/>
+      <Tag tag="114" value="1" GameTagName="ELITE"/>
+      <Tag tag="200" value="7" GameTagName="CARDRACE" RaceName="NIGHTELF"/>
+      <Tag tag="201" value="3" GameTagName="FACTION" FactionName="NEUTRAL"/>
+      <Tag tag="203" value="5" GameTagName="RARITY" RarityName="LEGENDARY"/>
+      <Tag tag="271" value="1" GameTagName="NUM_TURNS_IN_PLAY"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1665" value="1" GameTagName="LETTUCE_MERCENARY"/>
+      <Tag tag="1666" value="3" GameTagName="LETTUCE_ROLE" RoleName="TANK"/>
+      <Tag tag="1852" value="75" GameTagName="LETTUCE_MERCENARY_EXPERIENCE"/>
+      <Tag tag="2072" value="3"/>
+    </FullEntity>
+    <FullEntity id="22" cardID="LETL_470_04" EntityName="Cenarion Surge 4">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="23" GameTagName="CARDTYPE" CardTypeName="LETTUCE_ABILITY"/>
+      <Tag tag="466" value="4" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="48" value="4" GameTagName="COST"/>
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="53" value="22" GameTagName="ENTITY_ID"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1635" value="4" GameTagName="SPELL_SCHOOL" SpellSchoolName="NATURE"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1654" value="21" GameTagName="LETTUCE_ABILITY_OWNER"/>
+      <Tag tag="1666" value="3" GameTagName="LETTUCE_ROLE" RoleName="TANK"/>
+      <Tag tag="1679" value="1"/>
+    </FullEntity>
+    <FullEntity id="23" cardID="SWL_26H_03" EntityName="Diablo">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="4" GameTagName="CARDTYPE" CardTypeName="MINION"/>
+      <Tag tag="466" value="7" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="479" value="12"/>
+      <Tag tag="48" value="7" GameTagName="COST"/>
+      <Tag tag="47" value="11" GameTagName="ATK"/>
+      <Tag tag="45" value="70" GameTagName="HEALTH"/>
+      <Tag tag="12" value="2" GameTagName="PREMIUM"/>
+      <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+      <Tag tag="53" value="23" GameTagName="ENTITY_ID"/>
+      <Tag tag="114" value="1" GameTagName="ELITE"/>
+      <Tag tag="200" value="15" GameTagName="CARDRACE" RaceName="DEMON"/>
+      <Tag tag="201" value="3" GameTagName="FACTION" FactionName="NEUTRAL"/>
+      <Tag tag="203" value="5" GameTagName="RARITY" RarityName="LEGENDARY"/>
+      <Tag tag="271" value="1" GameTagName="NUM_TURNS_IN_PLAY"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1665" value="1" GameTagName="LETTUCE_MERCENARY"/>
+      <Tag tag="1666" value="2" GameTagName="LETTUCE_ROLE" RoleName="FIGHTER"/>
+      <Tag tag="1852" value="55000" GameTagName="LETTUCE_MERCENARY_EXPERIENCE"/>
+      <Tag tag="1856" value="74730" GameTagName="LETTUCE_EQUIPMENT_ID"/>
+      <Tag tag="1932" value="1" GameTagName="HAS_DIAMOND_QUALITY"/>
+      <Tag tag="2072" value="30"/>
+    </FullEntity>
+    <FullEntity id="24" cardID="LETL_235_04" EntityName="Doom Charge 4">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="23" GameTagName="CARDTYPE" CardTypeName="LETTUCE_ABILITY"/>
+      <Tag tag="466" value="6" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="48" value="6" GameTagName="COST"/>
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="53" value="24" GameTagName="ENTITY_ID"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1654" value="23" GameTagName="LETTUCE_ABILITY_OWNER"/>
+      <Tag tag="1666" value="2" GameTagName="LETTUCE_ROLE" RoleName="FIGHTER"/>
+      <Tag tag="1724" value="1"/>
+    </FullEntity>
+    <FullEntity id="25" cardID="LETL_236_04" EntityName="Fire Stomp 4">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="23" GameTagName="CARDTYPE" CardTypeName="LETTUCE_ABILITY"/>
+      <Tag tag="466" value="6" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="48" value="6" GameTagName="COST"/>
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="53" value="25" GameTagName="ENTITY_ID"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1635" value="2" GameTagName="SPELL_SCHOOL" SpellSchoolName="FIRE"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1654" value="23" GameTagName="LETTUCE_ABILITY_OWNER"/>
+      <Tag tag="1666" value="2" GameTagName="LETTUCE_ROLE" RoleName="FIGHTER"/>
+      <Tag tag="1669" value="1" GameTagName="LETTUCE_COOLDOWN_CONFIG"/>
+    </FullEntity>
+    <FullEntity id="26" cardID="LETL_237_02" EntityName="Apocalypse 2">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="23" GameTagName="CARDTYPE" CardTypeName="LETTUCE_ABILITY"/>
+      <Tag tag="466" value="6" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="48" value="6" GameTagName="COST"/>
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="53" value="26" GameTagName="ENTITY_ID"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="955" value="1" GameTagName="USE_ALTERNATE_CARD_TEXT"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1635" value="2" GameTagName="SPELL_SCHOOL" SpellSchoolName="FIRE"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1654" value="23" GameTagName="LETTUCE_ABILITY_OWNER"/>
+      <Tag tag="1666" value="2" GameTagName="LETTUCE_ROLE" RoleName="FIGHTER"/>
+      <Tag tag="1669" value="1" GameTagName="LETTUCE_COOLDOWN_CONFIG"/>
+      <Tag tag="1724" value="1"/>
+    </FullEntity>
+    <FullEntity id="27" cardID="LETL_672_01" EntityName="Magma Horns 1">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="23" GameTagName="CARDTYPE" CardTypeName="LETTUCE_ABILITY"/>
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="53" value="27" GameTagName="ENTITY_ID"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="684" value="1" GameTagName="HIDE_COST"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1654" value="23" GameTagName="LETTUCE_ABILITY_OWNER"/>
+      <Tag tag="1666" value="2" GameTagName="LETTUCE_ROLE" RoleName="FIGHTER"/>
+      <Tag tag="1715" value="1"/>
+      <Tag tag="1855" value="1" GameTagName="LETTUCE_IS_EQUPIMENT"/>
+    </FullEntity>
+    <FullEntity id="28" cardID="LETL_924_01" EntityName="Blood Fury 1">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="23" GameTagName="CARDTYPE" CardTypeName="LETTUCE_ABILITY"/>
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="53" value="28" GameTagName="ENTITY_ID"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="402" value="1" GameTagName="HIDE_STATS"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1654" value="23" GameTagName="LETTUCE_ABILITY_OWNER"/>
+      <Tag tag="1666" value="2" GameTagName="LETTUCE_ROLE" RoleName="FIGHTER"/>
+      <Tag tag="1671" value="1" GameTagName="LETTUCE_PASSIVE_ABILITY"/>
+      <Tag tag="1715" value="1"/>
+      <Tag tag="2170" value="1" GameTagName="LETTUCE_IS_TREASURE_CARD"/>
+    </FullEntity>
+    <FullEntity id="29" cardID="LETL_924e" EntityName="Blood Fury">
+      <Tag tag="50" value="1" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="6" GameTagName="CARDTYPE" CardTypeName="ENCHANTMENT"/>
+      <Tag tag="2" value="1" GameTagName="TAG_SCRIPT_DATA_NUM_1"/>
+      <Tag tag="12" value="1" GameTagName="PREMIUM"/>
+      <Tag tag="32" value="1" GameTagName="TRIGGER_VISUAL"/>
+      <Tag tag="40" value="23" GameTagName="ATTACHED"/>
+      <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+      <Tag tag="53" value="29" GameTagName="ENTITY_ID"/>
+      <Tag tag="313" value="28" GameTagName="CREATOR"/>
+      <Tag tag="1037" value="3"/>
+      <Tag tag="1284" value="78490" GameTagName="CREATOR_DBID"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+    </FullEntity>
+    <FullEntity id="30" cardID="LETLT_001_01" EntityName="Razorfen Beastmaster">
+      <Tag tag="50" value="2" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="4" GameTagName="CARDTYPE" CardTypeName="MINION"/>
+      <Tag tag="1196" value="1"/>
+      <Tag tag="466" value="4" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="479" value="3"/>
+      <Tag tag="48" value="4" GameTagName="COST"/>
+      <Tag tag="47" value="3" GameTagName="ATK"/>
+      <Tag tag="45" value="9" GameTagName="HEALTH"/>
+      <Tag tag="43" value="1" GameTagName="EXHAUSTED"/>
+      <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+      <Tag tag="53" value="30" GameTagName="ENTITY_ID"/>
+      <Tag tag="200" value="43" GameTagName="CARDRACE" RaceName="QUILBOAR"/>
+      <Tag tag="201" value="3" GameTagName="FACTION" FactionName="NEUTRAL"/>
+      <Tag tag="203" value="1" GameTagName="RARITY" RarityName="COMMON"/>
+      <Tag tag="217" value="1" GameTagName="DEATHRATTLE"/>
+      <Tag tag="263" value="1" GameTagName="ZONE_POSITION"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1653" value="2" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1665" value="1" GameTagName="LETTUCE_MERCENARY"/>
+      <Tag tag="1666" value="2" GameTagName="LETTUCE_ROLE" RoleName="FIGHTER"/>
+      <Tag tag="1852" value="25" GameTagName="LETTUCE_MERCENARY_EXPERIENCE"/>
+      <Tag tag="2072" value="2"/>
+    </FullEntity>
+    <FullEntity id="31" EntityName="Attack">
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="50" value="2" GameTagName="CONTROLLER"/>
+      <Tag tag="53" value="31" GameTagName="ENTITY_ID"/>
+      <Tag tag="1666" value="2" GameTagName="LETTUCE_ROLE" RoleName="FIGHTER"/>
+    </FullEntity>
+    <FullEntity id="32" cardID="LETLT_003_01" EntityName="Razorboar">
+      <Tag tag="50" value="2" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="4" GameTagName="CARDTYPE" CardTypeName="MINION"/>
+      <Tag tag="1196" value="1"/>
+      <Tag tag="466" value="4" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="479" value="2"/>
+      <Tag tag="48" value="4" GameTagName="COST"/>
+      <Tag tag="47" value="2" GameTagName="ATK"/>
+      <Tag tag="45" value="2" GameTagName="HEALTH"/>
+      <Tag tag="43" value="1" GameTagName="EXHAUSTED"/>
+      <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+      <Tag tag="53" value="32" GameTagName="ENTITY_ID"/>
+      <Tag tag="200" value="20" GameTagName="CARDRACE" RaceName="BEAST"/>
+      <Tag tag="201" value="3" GameTagName="FACTION" FactionName="NEUTRAL"/>
+      <Tag tag="203" value="1" GameTagName="RARITY" RarityName="COMMON"/>
+      <Tag tag="217" value="1" GameTagName="DEATHRATTLE"/>
+      <Tag tag="263" value="2" GameTagName="ZONE_POSITION"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1653" value="2" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1665" value="1" GameTagName="LETTUCE_MERCENARY"/>
+      <Tag tag="1666" value="4" GameTagName="LETTUCE_ROLE" RoleName="NEUTRAL"/>
+      <Tag tag="1852" value="25" GameTagName="LETTUCE_MERCENARY_EXPERIENCE"/>
+      <Tag tag="2072" value="2"/>
+    </FullEntity>
+    <FullEntity id="33" EntityName="Attack">
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="50" value="2" GameTagName="CONTROLLER"/>
+      <Tag tag="53" value="33" GameTagName="ENTITY_ID"/>
+      <Tag tag="1666" value="4" GameTagName="LETTUCE_ROLE" RoleName="NEUTRAL"/>
+    </FullEntity>
+    <FullEntity id="34" cardID="LETLT_005_01" EntityName="Razormane Raider">
+      <Tag tag="50" value="2" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="4" GameTagName="CARDTYPE" CardTypeName="MINION"/>
+      <Tag tag="1196" value="1"/>
+      <Tag tag="466" value="4" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="479" value="3"/>
+      <Tag tag="48" value="4" GameTagName="COST"/>
+      <Tag tag="47" value="3" GameTagName="ATK"/>
+      <Tag tag="45" value="9" GameTagName="HEALTH"/>
+      <Tag tag="43" value="1" GameTagName="EXHAUSTED"/>
+      <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+      <Tag tag="53" value="34" GameTagName="ENTITY_ID"/>
+      <Tag tag="200" value="43" GameTagName="CARDRACE" RaceName="QUILBOAR"/>
+      <Tag tag="201" value="3" GameTagName="FACTION" FactionName="NEUTRAL"/>
+      <Tag tag="203" value="1" GameTagName="RARITY" RarityName="COMMON"/>
+      <Tag tag="217" value="1" GameTagName="DEATHRATTLE"/>
+      <Tag tag="263" value="3" GameTagName="ZONE_POSITION"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1653" value="2" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1665" value="1" GameTagName="LETTUCE_MERCENARY"/>
+      <Tag tag="1666" value="2" GameTagName="LETTUCE_ROLE" RoleName="FIGHTER"/>
+      <Tag tag="1852" value="25" GameTagName="LETTUCE_MERCENARY_EXPERIENCE"/>
+      <Tag tag="2072" value="2"/>
+    </FullEntity>
+    <FullEntity id="35" EntityName="Attack">
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="50" value="2" GameTagName="CONTROLLER"/>
+      <Tag tag="53" value="35" GameTagName="ENTITY_ID"/>
+      <Tag tag="1666" value="2" GameTagName="LETTUCE_ROLE" RoleName="FIGHTER"/>
+    </FullEntity>
+    <TagChange entity="1" tag="204" value="2" EntityCardID="GameEntity" EntityCardName="GameEntity" StateName="RUNNING" GameTagName="STATE"/>
+    <TagChange entity="2" tag="17" value="1" PlayStateName="PLAYING" GameTagName="PLAYSTATE"/>
+    <TagChange entity="3" tag="17" value="1" PlayStateName="PLAYING" GameTagName="PLAYSTATE"/>
+    <TagChange entity="4" tag="17" value="1" PlayStateName="PLAYING" GameTagName="PLAYSTATE"/>
+    <Block entity="1" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="14" ts="2021-10-19T15:03:15.732505" block_sequence_num="1" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
+      <TagChange entity="2" tag="23" value="1" GameTagName="CURRENT_PLAYER"/>
+      <TagChange entity="1" tag="198" value="13" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_NEXT"/>
+    </Block>
+    <Block entity="30" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2021-10-19T15:03:15.732505" block_sequence_num="2" EntityCardID="LETLT_001_01" EntityCardName="Razorfen Beastmaster" BlockTypeName="TRIGGER">
+      <TagChange entity="30" tag="2" value="1" EntityCardID="LETLT_001_01" EntityCardName="Razorfen Beastmaster" GameTagName="TAG_SCRIPT_DATA_NUM_1"/>
+      <TagChange entity="30" tag="3" value="1" EntityCardID="LETLT_001_01" EntityCardName="Razorfen Beastmaster" GameTagName="TAG_SCRIPT_DATA_NUM_2"/>
+    </Block>
+    <Block entity="32" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="1" ts="2021-10-19T15:03:15.732505" block_sequence_num="3" EntityCardID="LETLT_003_01" EntityCardName="Razorboar" BlockTypeName="TRIGGER">
+      <TagChange entity="32" tag="2" value="1" EntityCardID="LETLT_003_01" EntityCardName="Razorboar" GameTagName="TAG_SCRIPT_DATA_NUM_1"/>
+      <TagChange entity="32" tag="3" value="1" EntityCardID="LETLT_003_01" EntityCardName="Razorboar" GameTagName="TAG_SCRIPT_DATA_NUM_2"/>
+    </Block>
+    <Block entity="34" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2021-10-19T15:03:15.732505" block_sequence_num="4" EntityCardID="LETLT_005_01" EntityCardName="Razormane Raider" BlockTypeName="TRIGGER">
+      <TagChange entity="34" tag="2" value="1" EntityCardID="LETLT_005_01" EntityCardName="Razormane Raider" GameTagName="TAG_SCRIPT_DATA_NUM_1"/>
+      <TagChange entity="34" tag="3" value="1" EntityCardID="LETLT_005_01" EntityCardName="Razormane Raider" GameTagName="TAG_SCRIPT_DATA_NUM_2"/>
+    </Block>
+    <TagChange entity="1" tag="19" value="13" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_NEXT"/>
+    <Block entity="1" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="15" ts="2021-10-19T15:03:16.168477" block_sequence_num="5" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
+      <TagChange entity="2" tag="23" value="0" GameTagName="CURRENT_PLAYER"/>
+      <TagChange entity="2" tag="23" value="1" GameTagName="CURRENT_PLAYER"/>
+      <TagChange entity="2" tag="272" value="1" GameTagName="NUM_TURNS_LEFT"/>
+      <TagChange entity="1" tag="20" value="1" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="TURN"/>
+      <TagChange entity="1" tag="1882" value="1" EntityCardID="GameEntity" EntityCardName="GameEntity"/>
+      <TagChange entity="2" tag="20" value="1" GameTagName="TURN"/>
+      <TagChange entity="1" tag="198" value="9" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_START"/>
+    </Block>
+    <TagChange entity="1" tag="19" value="9" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_START"/>
+    <Block entity="1" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="16" ts="2021-10-19T15:03:16.168477" block_sequence_num="6" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
+      <TagChange entity="1" tag="198" value="18" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_SET_ACTION_STEP_TYPE"/>
+    </Block>
+    <TagChange entity="1" tag="19" value="18" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_SET_ACTION_STEP_TYPE"/>
+    <Block entity="1" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="17" ts="2021-10-19T15:03:16.168477" block_sequence_num="7" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
+      <TagChange entity="4" tag="1705" value="3" GameTagName="LETTUCE_MERCENARIES_TO_NOMINATE"/>
+      <TagChange entity="1" tag="1700" value="1" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="ACTION_STEP_TYPE"/>
+      <TagChange entity="1" tag="198" value="19" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_PRE_ACTION"/>
+    </Block>
+    <TagChange entity="1" tag="19" value="19" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_PRE_ACTION"/>
+    <Block entity="1" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="18" ts="2021-10-19T15:03:16.168477" block_sequence_num="8" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
+      <TagChange entity="1" tag="6" value="1" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="MISSION_EVENT"/>
+      <TagChange entity="1" tag="1356" value="1" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="ALLOW_MOVE_MINION"/>
+      <MetaData meta="20" data="2000" infoCount="1" MetaName="SLUSH_TIME">
+        <Info index="0" entity="1" EntityName="GameEntity"/>
+      </MetaData>
+      <TagChange entity="1" tag="2228" value="3" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="LETTUCE_VERSUS_SPELL_STATE"/>
+      <TagChange entity="5" tag="1702" value="3" EntityCardID="LETL_032H_03" EntityCardName="Brightwing" GameTagName="FAKE_ZONE" ZoneName="HAND"/>
+      <TagChange entity="5" tag="1702" value="3" EntityCardID="LETL_032H_03" EntityCardName="Brightwing" GameTagName="FAKE_ZONE" ZoneName="HAND"/>
+      <TagChange entity="5" tag="1703" value="1" EntityCardID="LETL_032H_03" EntityCardName="Brightwing" GameTagName="FAKE_ZONE_POSITION"/>
+      <TagChange entity="10" tag="1702" value="3" EntityCardID="LETL_034H_03" EntityCardName="Cairne Bloodhoof" GameTagName="FAKE_ZONE" ZoneName="HAND"/>
+      <TagChange entity="10" tag="1702" value="3" EntityCardID="LETL_034H_03" EntityCardName="Cairne Bloodhoof" GameTagName="FAKE_ZONE" ZoneName="HAND"/>
+      <TagChange entity="10" tag="1703" value="2" EntityCardID="LETL_034H_03" EntityCardName="Cairne Bloodhoof" GameTagName="FAKE_ZONE_POSITION"/>
+      <TagChange entity="16" tag="1702" value="3" EntityCardID="LETL_036H_03" EntityCardName="Guff Runetotem" GameTagName="FAKE_ZONE" ZoneName="HAND"/>
+      <TagChange entity="16" tag="1702" value="3" EntityCardID="LETL_036H_03" EntityCardName="Guff Runetotem" GameTagName="FAKE_ZONE" ZoneName="HAND"/>
+      <TagChange entity="16" tag="1703" value="3" EntityCardID="LETL_036H_03" EntityCardName="Guff Runetotem" GameTagName="FAKE_ZONE_POSITION"/>
+      <TagChange entity="19" tag="1702" value="3" EntityCardID="BARL_007H_03" EntityCardName="Lady Anacondra" GameTagName="FAKE_ZONE" ZoneName="HAND"/>
+      <TagChange entity="19" tag="1702" value="3" EntityCardID="BARL_007H_03" EntityCardName="Lady Anacondra" GameTagName="FAKE_ZONE" ZoneName="HAND"/>
+      <TagChange entity="19" tag="1703" value="4" EntityCardID="BARL_007H_03" EntityCardName="Lady Anacondra" GameTagName="FAKE_ZONE_POSITION"/>
+      <TagChange entity="21" tag="1702" value="3" EntityCardID="BARL_017H_01" EntityCardName="Malfurion Stormrage" GameTagName="FAKE_ZONE" ZoneName="HAND"/>
+      <TagChange entity="21" tag="1702" value="3" EntityCardID="BARL_017H_01" EntityCardName="Malfurion Stormrage" GameTagName="FAKE_ZONE" ZoneName="HAND"/>
+      <TagChange entity="21" tag="1703" value="5" EntityCardID="BARL_017H_01" EntityCardName="Malfurion Stormrage" GameTagName="FAKE_ZONE_POSITION"/>
+      <TagChange entity="23" tag="1702" value="3" EntityCardID="SWL_26H_03" EntityCardName="Diablo" GameTagName="FAKE_ZONE" ZoneName="HAND"/>
+      <TagChange entity="23" tag="1702" value="3" EntityCardID="SWL_26H_03" EntityCardName="Diablo" GameTagName="FAKE_ZONE" ZoneName="HAND"/>
+      <TagChange entity="23" tag="1703" value="6" EntityCardID="SWL_26H_03" EntityCardName="Diablo" GameTagName="FAKE_ZONE_POSITION"/>
+      <MetaData meta="21" data="0" infoCount="1" MetaName="ARTIFICIAL_HISTORY_INTERRUPT">
+        <Info index="0" entity="1" EntityName="GameEntity"/>
+      </MetaData>
+      <TagChange entity="1" tag="2224" value="1" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="LETTUCE_SHOW_OPPOSING_FAKE_HAND"/>
+      <TagChange entity="1" tag="2228" value="5" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="LETTUCE_VERSUS_SPELL_STATE"/>
+      <SubSpell spellPrefabGuid="Lettuce_MercNomination_ToastSpell.prefab:08b446f360f30b64e81dce29abc7e06c" source="1" targetCount="0" ts="2021-10-19T15:03:16.168477"/>
+      <MetaData meta="20" data="2000" infoCount="1" MetaName="SLUSH_TIME">
+        <Info index="0" entity="1" EntityName="GameEntity"/>
+      </MetaData>
+      <TagChange entity="1" tag="198" value="10" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_ACTION"/>
+    </Block>
+    <TagChange entity="1" tag="19" value="10" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_ACTION"/>
+    <Block entity="1" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="19" ts="2021-10-19T15:03:16.168477" block_sequence_num="9" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
+      <TagChange entity="1" tag="198" value="20" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_POST_ACTION"/>
+    </Block>
+    <Block entity="1" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="20" ts="2021-10-19T15:03:16.168477" block_sequence_num="10" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER"/>
+    <Options id="1" ts="2021-10-19T15:03:16.268282">
+      <Option index="0" error="-1" type="2"/>
+      <Option index="1" entity="5" type="3" EntityCardID="LETL_032H_03" EntityName="Brightwing"/>
+      <Option index="2" entity="10" type="3" EntityCardID="LETL_034H_03" EntityName="Cairne Bloodhoof"/>
+      <Option index="3" entity="16" type="3" EntityCardID="LETL_036H_03" EntityName="Guff Runetotem"/>
+      <Option index="4" entity="19" type="3" EntityCardID="BARL_007H_03" EntityName="Lady Anacondra"/>
+      <Option index="5" entity="21" type="3" EntityCardID="BARL_017H_01" EntityName="Malfurion Stormrage"/>
+      <Option index="6" entity="23" type="3" EntityCardID="SWL_26H_03" EntityName="Diablo"/>
+    </Options>
+    <SendOption option="3" subOption="-1" target="0" position="1" ts="2021-10-19T15:03:41.588704"/>
+    <MetaData meta="18" data="0" infoCount="5" MetaName="CONTROLLER_AND_ZONE_CHANGE">
+      <Info index="0" entity="16" EntityName="Guff Runetotem"/>
+      <Info index="1" entity="2"/>
+      <Info index="2" entity="1" EntityName="GameEntity"/>
+      <Info index="3" entity="2"/>
+      <Info index="4" entity="1" EntityName="GameEntity"/>
+    </MetaData>
+    <TagChange entity="16" tag="2032" value="1" EntityCardID="LETL_036H_03" EntityCardName="Guff Runetotem" GameTagName="FAKE_CONTROLLER"/>
+    <TagChange entity="16" tag="1702" value="1" EntityCardID="LETL_036H_03" EntityCardName="Guff Runetotem" GameTagName="FAKE_ZONE" ZoneName="PLAY"/>
+    <TagChange entity="16" tag="1703" value="1" EntityCardID="LETL_036H_03" EntityCardName="Guff Runetotem" GameTagName="FAKE_ZONE_POSITION"/>
+    <Options id="2" ts="2021-10-19T15:03:41.971737">
+      <Option index="0" error="-1" type="2"/>
+      <Option index="1" entity="5" type="3" EntityCardID="LETL_032H_03" EntityName="Brightwing"/>
+      <Option index="2" entity="10" type="3" EntityCardID="LETL_034H_03" EntityName="Cairne Bloodhoof"/>
+      <Option index="3" entity="19" type="3" EntityCardID="BARL_007H_03" EntityName="Lady Anacondra"/>
+      <Option index="4" entity="21" type="3" EntityCardID="BARL_017H_01" EntityName="Malfurion Stormrage"/>
+      <Option index="5" entity="23" type="3" EntityCardID="SWL_26H_03" EntityName="Diablo"/>
+      <Option index="6" entity="16" type="3" EntityCardID="LETL_036H_03" EntityName="Guff Runetotem"/>
+    </Options>
+    <SendOption option="3" subOption="-1" target="0" position="2" ts="2021-10-19T15:03:42.935621"/>
+    <MetaData meta="18" data="0" infoCount="5" MetaName="CONTROLLER_AND_ZONE_CHANGE">
+      <Info index="0" entity="19" EntityName="Lady Anacondra"/>
+      <Info index="1" entity="2"/>
+      <Info index="2" entity="1" EntityName="GameEntity"/>
+      <Info index="3" entity="2"/>
+      <Info index="4" entity="1" EntityName="GameEntity"/>
+    </MetaData>
+    <TagChange entity="19" tag="2032" value="1" EntityCardID="BARL_007H_03" EntityCardName="Lady Anacondra" GameTagName="FAKE_CONTROLLER"/>
+    <TagChange entity="19" tag="1702" value="1" EntityCardID="BARL_007H_03" EntityCardName="Lady Anacondra" GameTagName="FAKE_ZONE" ZoneName="PLAY"/>
+    <TagChange entity="19" tag="1703" value="2" EntityCardID="BARL_007H_03" EntityCardName="Lady Anacondra" GameTagName="FAKE_ZONE_POSITION"/>
+    <Options id="3" ts="2021-10-19T15:03:43.240694">
+      <Option index="0" error="-1" type="2"/>
+      <Option index="1" entity="5" type="3" EntityCardID="LETL_032H_03" EntityName="Brightwing"/>
+      <Option index="2" entity="10" type="3" EntityCardID="LETL_034H_03" EntityName="Cairne Bloodhoof"/>
+      <Option index="3" entity="21" type="3" EntityCardID="BARL_017H_01" EntityName="Malfurion Stormrage"/>
+      <Option index="4" entity="23" type="3" EntityCardID="SWL_26H_03" EntityName="Diablo"/>
+      <Option index="5" entity="16" type="3" EntityCardID="LETL_036H_03" EntityName="Guff Runetotem"/>
+      <Option index="6" entity="19" type="3" EntityCardID="BARL_007H_03" EntityName="Lady Anacondra"/>
+    </Options>
+    <SendOption option="3" subOption="-1" target="0" position="3" ts="2021-10-19T15:03:44.021153"/>
+    <MetaData meta="18" data="0" infoCount="5" MetaName="CONTROLLER_AND_ZONE_CHANGE">
+      <Info index="0" entity="21" EntityName="Malfurion Stormrage"/>
+      <Info index="1" entity="2"/>
+      <Info index="2" entity="1" EntityName="GameEntity"/>
+      <Info index="3" entity="2"/>
+      <Info index="4" entity="1" EntityName="GameEntity"/>
+    </MetaData>
+    <TagChange entity="21" tag="2032" value="1" EntityCardID="BARL_017H_01" EntityCardName="Malfurion Stormrage" GameTagName="FAKE_CONTROLLER"/>
+    <TagChange entity="21" tag="1702" value="1" EntityCardID="BARL_017H_01" EntityCardName="Malfurion Stormrage" GameTagName="FAKE_ZONE" ZoneName="PLAY"/>
+    <TagChange entity="21" tag="1703" value="3" EntityCardID="BARL_017H_01" EntityCardName="Malfurion Stormrage" GameTagName="FAKE_ZONE_POSITION"/>
+    <SubSpell spellPrefabGuid="WaitForActorReadySpell.prefab:e6f0a7ee76509d44ca2ce74d7ec7683d" source="21" targetCount="0" ts="2021-10-19T15:03:44.245632"/>
+    <MetaData meta="18" data="0" infoCount="5" MetaName="CONTROLLER_AND_ZONE_CHANGE">
+      <Info index="0" entity="23" EntityName="Diablo"/>
+      <Info index="1" entity="2"/>
+      <Info index="2" entity="1" EntityName="GameEntity"/>
+      <Info index="3" entity="2"/>
+      <Info index="4" entity="2"/>
+    </MetaData>
+    <TagChange entity="23" tag="2032" value="1" EntityCardID="SWL_26H_03" EntityCardName="Diablo" GameTagName="FAKE_CONTROLLER"/>
+    <TagChange entity="23" tag="1702" value="2" EntityCardID="SWL_26H_03" EntityCardName="Diablo" GameTagName="FAKE_ZONE" ZoneName="DECK"/>
+    <TagChange entity="23" tag="1703" value="0" EntityCardID="SWL_26H_03" EntityCardName="Diablo" GameTagName="FAKE_ZONE_POSITION"/>
+    <MetaData meta="18" data="0" infoCount="5" MetaName="CONTROLLER_AND_ZONE_CHANGE">
+      <Info index="0" entity="10" EntityName="Cairne Bloodhoof"/>
+      <Info index="1" entity="2"/>
+      <Info index="2" entity="1" EntityName="GameEntity"/>
+      <Info index="3" entity="2"/>
+      <Info index="4" entity="2"/>
+    </MetaData>
+    <TagChange entity="10" tag="2032" value="1" EntityCardID="LETL_034H_03" EntityCardName="Cairne Bloodhoof" GameTagName="FAKE_CONTROLLER"/>
+    <TagChange entity="10" tag="1702" value="2" EntityCardID="LETL_034H_03" EntityCardName="Cairne Bloodhoof" GameTagName="FAKE_ZONE" ZoneName="DECK"/>
+    <TagChange entity="10" tag="1703" value="0" EntityCardID="LETL_034H_03" EntityCardName="Cairne Bloodhoof" GameTagName="FAKE_ZONE_POSITION"/>
+    <MetaData meta="18" data="0" infoCount="5" MetaName="CONTROLLER_AND_ZONE_CHANGE">
+      <Info index="0" entity="5" EntityName="Brightwing"/>
+      <Info index="1" entity="2"/>
+      <Info index="2" entity="1" EntityName="GameEntity"/>
+      <Info index="3" entity="2"/>
+      <Info index="4" entity="2"/>
+    </MetaData>
+    <TagChange entity="5" tag="2032" value="1" EntityCardID="LETL_032H_03" EntityCardName="Brightwing" GameTagName="FAKE_CONTROLLER"/>
+    <TagChange entity="5" tag="1702" value="2" EntityCardID="LETL_032H_03" EntityCardName="Brightwing" GameTagName="FAKE_ZONE" ZoneName="DECK"/>
+    <TagChange entity="5" tag="1703" value="0" EntityCardID="LETL_032H_03" EntityCardName="Brightwing" GameTagName="FAKE_ZONE_POSITION"/>
+    <Options id="4" ts="2021-10-19T15:03:44.345387">
+      <Option index="0" error="-1" type="2"/>
+      <Option index="1" entity="16" type="3" EntityCardID="LETL_036H_03" EntityName="Guff Runetotem"/>
+      <Option index="2" entity="19" type="3" EntityCardID="BARL_007H_03" EntityName="Lady Anacondra"/>
+      <Option index="3" entity="21" type="3" EntityCardID="BARL_017H_01" EntityName="Malfurion Stormrage"/>
+    </Options>
+    <SendOption option="0" subOption="-1" target="0" position="0" ts="2021-10-19T15:03:45.309759"/>
+    <TagChange entity="1" tag="2224" value="0" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="LETTUCE_SHOW_OPPOSING_FAKE_HAND"/>
+    <TagChange entity="4" tag="1705" value="0" GameTagName="LETTUCE_MERCENARIES_TO_NOMINATE"/>
+    <MetaData meta="21" data="0" infoCount="0" MetaName="ARTIFICIAL_HISTORY_INTERRUPT"/>
+    <TagChange entity="16" tag="1067" value="2" EntityCardID="LETL_036H_03" EntityCardName="Guff Runetotem"/>
+    <TagChange entity="16" tag="1067" value="0" EntityCardID="LETL_036H_03" EntityCardName="Guff Runetotem"/>
+    <TagChange entity="16" tag="50" value="1" EntityCardID="LETL_036H_03" EntityCardName="Guff Runetotem" GameTagName="CONTROLLER"/>
+    <TagChange entity="16" tag="1068" value="1" EntityCardID="LETL_036H_03" EntityCardName="Guff Runetotem"/>
+    <TagChange entity="16" tag="1068" value="0" EntityCardID="LETL_036H_03" EntityCardName="Guff Runetotem"/>
+    <TagChange entity="16" tag="49" value="1" EntityCardID="LETL_036H_03" EntityCardName="Guff Runetotem" GameTagName="ZONE" ZoneName="PLAY"/>
+    <TagChange entity="16" tag="263" value="1" EntityCardID="LETL_036H_03" EntityCardName="Guff Runetotem" GameTagName="ZONE_POSITION"/>
+    <TagChange entity="16" tag="271" value="0" EntityCardID="LETL_036H_03" EntityCardName="Guff Runetotem" GameTagName="NUM_TURNS_IN_PLAY"/>
+    <TagChange entity="16" tag="1196" value="1" EntityCardID="LETL_036H_03" EntityCardName="Guff Runetotem"/>
+    <TagChange entity="16" tag="43" value="1" EntityCardID="LETL_036H_03" EntityCardName="Guff Runetotem" GameTagName="EXHAUSTED"/>
+    <TagChange entity="16" tag="1702" value="0" EntityCardID="LETL_036H_03" EntityCardName="Guff Runetotem" GameTagName="FAKE_ZONE" ZoneName="INVALID"/>
+    <TagChange entity="16" tag="1703" value="0" EntityCardID="LETL_036H_03" EntityCardName="Guff Runetotem" GameTagName="FAKE_ZONE_POSITION"/>
+    <TagChange entity="16" tag="2032" value="0" EntityCardID="LETL_036H_03" EntityCardName="Guff Runetotem" GameTagName="FAKE_CONTROLLER"/>
+    <MetaData meta="21" data="0" infoCount="0" MetaName="ARTIFICIAL_HISTORY_INTERRUPT"/>
+    <SubSpell spellPrefabGuid="WaitForActorReadySpell.prefab:e6f0a7ee76509d44ca2ce74d7ec7683d" source="16" targetCount="0" ts="2021-10-19T15:03:46.339610"/>
+    <TagChange entity="19" tag="1067" value="2" EntityCardID="BARL_007H_03" EntityCardName="Lady Anacondra"/>
+    <TagChange entity="19" tag="1067" value="0" EntityCardID="BARL_007H_03" EntityCardName="Lady Anacondra"/>
+    <TagChange entity="19" tag="50" value="1" EntityCardID="BARL_007H_03" EntityCardName="Lady Anacondra" GameTagName="CONTROLLER"/>
+    <TagChange entity="19" tag="1068" value="1" EntityCardID="BARL_007H_03" EntityCardName="Lady Anacondra"/>
+    <TagChange entity="19" tag="1068" value="0" EntityCardID="BARL_007H_03" EntityCardName="Lady Anacondra"/>
+    <TagChange entity="19" tag="49" value="1" EntityCardID="BARL_007H_03" EntityCardName="Lady Anacondra" GameTagName="ZONE" ZoneName="PLAY"/>
+    <TagChange entity="19" tag="263" value="2" EntityCardID="BARL_007H_03" EntityCardName="Lady Anacondra" GameTagName="ZONE_POSITION"/>
+    <TagChange entity="19" tag="271" value="0" EntityCardID="BARL_007H_03" EntityCardName="Lady Anacondra" GameTagName="NUM_TURNS_IN_PLAY"/>
+    <TagChange entity="19" tag="1196" value="1" EntityCardID="BARL_007H_03" EntityCardName="Lady Anacondra"/>
+    <TagChange entity="19" tag="43" value="1" EntityCardID="BARL_007H_03" EntityCardName="Lady Anacondra" GameTagName="EXHAUSTED"/>
+    <TagChange entity="19" tag="1702" value="0" EntityCardID="BARL_007H_03" EntityCardName="Lady Anacondra" GameTagName="FAKE_ZONE" ZoneName="INVALID"/>
+    <TagChange entity="19" tag="1703" value="0" EntityCardID="BARL_007H_03" EntityCardName="Lady Anacondra" GameTagName="FAKE_ZONE_POSITION"/>
+    <TagChange entity="19" tag="2032" value="0" EntityCardID="BARL_007H_03" EntityCardName="Lady Anacondra" GameTagName="FAKE_CONTROLLER"/>
+    <MetaData meta="21" data="0" infoCount="0" MetaName="ARTIFICIAL_HISTORY_INTERRUPT"/>
+    <SubSpell spellPrefabGuid="WaitForActorReadySpell.prefab:e6f0a7ee76509d44ca2ce74d7ec7683d" source="19" targetCount="0" ts="2021-10-19T15:03:46.339610"/>
+    <TagChange entity="21" tag="1067" value="2" EntityCardID="BARL_017H_01" EntityCardName="Malfurion Stormrage"/>
+    <TagChange entity="21" tag="1067" value="0" EntityCardID="BARL_017H_01" EntityCardName="Malfurion Stormrage"/>
+    <TagChange entity="21" tag="50" value="1" EntityCardID="BARL_017H_01" EntityCardName="Malfurion Stormrage" GameTagName="CONTROLLER"/>
+    <TagChange entity="21" tag="1068" value="1" EntityCardID="BARL_017H_01" EntityCardName="Malfurion Stormrage"/>
+    <TagChange entity="21" tag="1068" value="0" EntityCardID="BARL_017H_01" EntityCardName="Malfurion Stormrage"/>
+    <TagChange entity="21" tag="49" value="1" EntityCardID="BARL_017H_01" EntityCardName="Malfurion Stormrage" GameTagName="ZONE" ZoneName="PLAY"/>
+    <TagChange entity="21" tag="263" value="3" EntityCardID="BARL_017H_01" EntityCardName="Malfurion Stormrage" GameTagName="ZONE_POSITION"/>
+    <TagChange entity="21" tag="271" value="0" EntityCardID="BARL_017H_01" EntityCardName="Malfurion Stormrage" GameTagName="NUM_TURNS_IN_PLAY"/>
+    <TagChange entity="21" tag="1196" value="1" EntityCardID="BARL_017H_01" EntityCardName="Malfurion Stormrage"/>
+    <TagChange entity="21" tag="43" value="1" EntityCardID="BARL_017H_01" EntityCardName="Malfurion Stormrage" GameTagName="EXHAUSTED"/>
+    <TagChange entity="21" tag="1702" value="0" EntityCardID="BARL_017H_01" EntityCardName="Malfurion Stormrage" GameTagName="FAKE_ZONE" ZoneName="INVALID"/>
+    <TagChange entity="21" tag="1703" value="0" EntityCardID="BARL_017H_01" EntityCardName="Malfurion Stormrage" GameTagName="FAKE_ZONE_POSITION"/>
+    <TagChange entity="21" tag="2032" value="0" EntityCardID="BARL_017H_01" EntityCardName="Malfurion Stormrage" GameTagName="FAKE_CONTROLLER"/>
+    <MetaData meta="21" data="0" infoCount="0" MetaName="ARTIFICIAL_HISTORY_INTERRUPT"/>
+    <SubSpell spellPrefabGuid="WaitForActorReadySpell.prefab:e6f0a7ee76509d44ca2ce74d7ec7683d" source="21" targetCount="0" ts="2021-10-19T15:03:46.339610"/>
+    <TagChange entity="16" tag="1196" value="0" EntityCardID="LETL_036H_03" EntityCardName="Guff Runetotem"/>
+    <TagChange entity="19" tag="1196" value="0" EntityCardID="BARL_007H_03" EntityCardName="Lady Anacondra"/>
+    <TagChange entity="21" tag="1196" value="0" EntityCardID="BARL_017H_01" EntityCardName="Malfurion Stormrage"/>
+    <TagChange entity="30" tag="1196" value="0" EntityCardID="LETLT_001_01" EntityCardName="Razorfen Beastmaster"/>
+    <TagChange entity="32" tag="1196" value="0" EntityCardID="LETLT_003_01" EntityCardName="Razorboar"/>
+    <TagChange entity="34" tag="1196" value="0" EntityCardID="LETLT_005_01" EntityCardName="Razormane Raider"/>
+    <TagChange entity="21" tag="479" value="1" EntityCardID="BARL_017H_01" EntityCardName="Malfurion Stormrage"/>
+    <TagChange entity="19" tag="479" value="1" EntityCardID="BARL_007H_03" EntityCardName="Lady Anacondra"/>
+    <TagChange entity="16" tag="479" value="4" EntityCardID="LETL_036H_03" EntityCardName="Guff Runetotem"/>
+    <TagChange entity="1" tag="19" value="20" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_POST_ACTION"/>
+    <Block entity="1" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="6" ts="2021-10-19T15:03:46.339610" block_sequence_num="11" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
+      <TagChange entity="2" tag="20" value="2" GameTagName="TURN"/>
+      <MetaData meta="16" data="0" infoCount="1" MetaName="BEGIN_LISTENING_FOR_TURN_EVENTS">
+        <Info index="0" entity="1" EntityName="GameEntity"/>
+      </MetaData>
+      <TagChange entity="1" tag="198" value="18" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_SET_ACTION_STEP_TYPE"/>
+    </Block>
+    <TagChange entity="1" tag="19" value="18" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_SET_ACTION_STEP_TYPE"/>
+    <Block entity="1" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="17" ts="2021-10-19T15:03:46.339610" block_sequence_num="12" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
+      <TagChange entity="1" tag="1700" value="0" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="ACTION_STEP_TYPE"/>
+      <TagChange entity="1" tag="198" value="19" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_PRE_ACTION"/>
+    </Block>
+    <TagChange entity="1" tag="19" value="19" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_PRE_ACTION"/>
+    <Block entity="1" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="18" ts="2021-10-19T15:03:46.339610" block_sequence_num="13" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
+      <MetaData meta="20" data="8000" infoCount="1" MetaName="SLUSH_TIME">
+        <Info index="0" entity="1" EntityName="GameEntity"/>
+      </MetaData>
+      <TagChange entity="7" tag="1670" value="1" EntityCardID="LETL_032P4_02" EntityCardName="Pixie Dust 2" GameTagName="LETTUCE_CURRENT_COOLDOWN"/>
+      <TagChange entity="8" tag="1670" value="2" EntityCardID="LETL_032P5_02" EntityCardName="Phase Shift 2" GameTagName="LETTUCE_CURRENT_COOLDOWN"/>
+      <TagChange entity="12" tag="1670" value="1" EntityCardID="LETL_319_03" EntityCardName="Endurance Aura 3" GameTagName="LETTUCE_CURRENT_COOLDOWN"/>
+      <TagChange entity="13" tag="1670" value="1" EntityCardID="LETL_246_03" EntityCardName="Earth Stomp 3" GameTagName="LETTUCE_CURRENT_COOLDOWN"/>
+      <TagChange entity="25" tag="1670" value="1" EntityCardID="LETL_236_04" EntityCardName="Fire Stomp 4" GameTagName="LETTUCE_CURRENT_COOLDOWN"/>
+      <TagChange entity="26" tag="1670" value="1" EntityCardID="LETL_237_02" EntityCardName="Apocalypse 2" GameTagName="LETTUCE_CURRENT_COOLDOWN"/>
+      <TagChange entity="1" tag="6" value="2" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="MISSION_EVENT"/>
+      <TagChange entity="1" tag="1356" value="0" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="ALLOW_MOVE_MINION"/>
+      <MetaData meta="20" data="2000" infoCount="1" MetaName="SLUSH_TIME">
+        <Info index="0" entity="1" EntityName="GameEntity"/>
+      </MetaData>
+      <TagChange entity="1" tag="198" value="10" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_ACTION"/>
+    </Block>
+    <TagChange entity="1" tag="19" value="10" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_ACTION"/>
+    <Block entity="1" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="19" ts="2021-10-19T15:03:46.339610" block_sequence_num="14" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
+      <TagChange entity="1" tag="198" value="20" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_POST_ACTION"/>
+    </Block>
+    <TagChange entity="1" tag="1834" value="1" EntityCardID="GameEntity" EntityCardName="GameEntity"/>
+    <TagChange entity="1" tag="1834" value="2" EntityCardID="GameEntity" EntityCardName="GameEntity"/>
+    <TagChange entity="1" tag="1834" value="3" EntityCardID="GameEntity" EntityCardName="GameEntity"/>
+    <TagChange entity="1" tag="1834" value="4" EntityCardID="GameEntity" EntityCardName="GameEntity"/>
+    <TagChange entity="1" tag="1834" value="5" EntityCardID="GameEntity" EntityCardName="GameEntity"/>
+    <TagChange entity="1" tag="1834" value="6" EntityCardID="GameEntity" EntityCardName="GameEntity"/>
+    <TagChange entity="1" tag="1834" value="7" EntityCardID="GameEntity" EntityCardName="GameEntity"/>
+    <TagChange entity="1" tag="1834" value="8" EntityCardID="GameEntity" EntityCardName="GameEntity"/>
+    <TagChange entity="1" tag="1834" value="9" EntityCardID="GameEntity" EntityCardName="GameEntity"/>
+    <TagChange entity="1" tag="1834" value="10" EntityCardID="GameEntity" EntityCardName="GameEntity"/>
+    <TagChange entity="1" tag="1834" value="11" EntityCardID="GameEntity" EntityCardName="GameEntity"/>
+    <TagChange entity="1" tag="1834" value="12" EntityCardID="GameEntity" EntityCardName="GameEntity"/>
+    <TagChange entity="1" tag="1834" value="13" EntityCardID="GameEntity" EntityCardName="GameEntity"/>
+    <TagChange entity="1" tag="1834" value="14" EntityCardID="GameEntity" EntityCardName="GameEntity"/>
+    <TagChange entity="1" tag="1834" value="15" EntityCardID="GameEntity" EntityCardName="GameEntity"/>
+    <TagChange entity="1" tag="1834" value="16" EntityCardID="GameEntity" EntityCardName="GameEntity"/>
+    <TagChange entity="1" tag="1834" value="17" EntityCardID="GameEntity" EntityCardName="GameEntity"/>
+    <TagChange entity="1" tag="1834" value="18" EntityCardID="GameEntity" EntityCardName="GameEntity"/>
+    <TagChange entity="1" tag="1834" value="19" EntityCardID="GameEntity" EntityCardName="GameEntity"/>
+    <TagChange entity="1" tag="1834" value="20" EntityCardID="GameEntity" EntityCardName="GameEntity"/>
+    <TagChange entity="1" tag="1834" value="21" EntityCardID="GameEntity" EntityCardName="GameEntity"/>
+    <TagChange entity="1" tag="1834" value="22" EntityCardID="GameEntity" EntityCardName="GameEntity"/>
+    <TagChange entity="1" tag="1834" value="23" EntityCardID="GameEntity" EntityCardName="GameEntity"/>
+    <TagChange entity="1" tag="1834" value="24" EntityCardID="GameEntity" EntityCardName="GameEntity"/>
+    <TagChange entity="1" tag="1834" value="25" EntityCardID="GameEntity" EntityCardName="GameEntity"/>
+    <TagChange entity="1" tag="1834" value="26" EntityCardID="GameEntity" EntityCardName="GameEntity"/>
+    <TagChange entity="1" tag="1834" value="27" EntityCardID="GameEntity" EntityCardName="GameEntity"/>
+    <ShowEntity entity="33" cardID="LETL_000_01" EntityName="Attack">
+      <Tag tag="50" value="2" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="23" GameTagName="CARDTYPE" CardTypeName="LETTUCE_ABILITY"/>
+      <Tag tag="466" value="7" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="48" value="7" GameTagName="COST"/>
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="53" value="33" GameTagName="ENTITY_ID"/>
+      <Tag tag="201" value="3" GameTagName="FACTION" FactionName="NEUTRAL"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="410" value="1" GameTagName="REVEALED"/>
+      <Tag tag="1068" value="0"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1653" value="2" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1654" value="32" GameTagName="LETTUCE_ABILITY_OWNER"/>
+      <Tag tag="1666" value="4" GameTagName="LETTUCE_ROLE" RoleName="NEUTRAL"/>
+      <Tag tag="1679" value="1"/>
+      <Tag tag="1726" value="1"/>
+      <Tag tag="2132" value="1"/>
+    </ShowEntity>
+    <TagChange entity="32" tag="1698" value="33" EntityCardID="LETLT_003_01" EntityCardName="Razorboar" GameTagName="LETTUCE_ABILITY_TILE_VISUAL_ALL_VISIBLE"/>
+    <ShowEntity entity="31" cardID="LETL_000_01" EntityName="Attack">
+      <Tag tag="50" value="2" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="23" GameTagName="CARDTYPE" CardTypeName="LETTUCE_ABILITY"/>
+      <Tag tag="466" value="7" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="48" value="7" GameTagName="COST"/>
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="53" value="31" GameTagName="ENTITY_ID"/>
+      <Tag tag="201" value="3" GameTagName="FACTION" FactionName="NEUTRAL"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="410" value="1" GameTagName="REVEALED"/>
+      <Tag tag="1068" value="0"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1653" value="2" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1654" value="30" GameTagName="LETTUCE_ABILITY_OWNER"/>
+      <Tag tag="1666" value="2" GameTagName="LETTUCE_ROLE" RoleName="FIGHTER"/>
+      <Tag tag="1679" value="1"/>
+      <Tag tag="1726" value="1"/>
+      <Tag tag="2132" value="1"/>
+    </ShowEntity>
+    <TagChange entity="30" tag="1698" value="31" EntityCardID="LETLT_001_01" EntityCardName="Razorfen Beastmaster" GameTagName="LETTUCE_ABILITY_TILE_VISUAL_ALL_VISIBLE"/>
+    <ShowEntity entity="35" cardID="LETL_000_01" EntityName="Attack">
+      <Tag tag="50" value="2" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="23" GameTagName="CARDTYPE" CardTypeName="LETTUCE_ABILITY"/>
+      <Tag tag="466" value="7" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="48" value="7" GameTagName="COST"/>
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="53" value="35" GameTagName="ENTITY_ID"/>
+      <Tag tag="201" value="3" GameTagName="FACTION" FactionName="NEUTRAL"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="410" value="1" GameTagName="REVEALED"/>
+      <Tag tag="1068" value="0"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1653" value="2" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1654" value="34" GameTagName="LETTUCE_ABILITY_OWNER"/>
+      <Tag tag="1666" value="2" GameTagName="LETTUCE_ROLE" RoleName="FIGHTER"/>
+      <Tag tag="1679" value="1"/>
+      <Tag tag="1726" value="1"/>
+      <Tag tag="2132" value="1"/>
+    </ShowEntity>
+    <TagChange entity="34" tag="1698" value="35" EntityCardID="LETLT_005_01" EntityCardName="Razormane Raider" GameTagName="LETTUCE_ABILITY_TILE_VISUAL_ALL_VISIBLE"/>
+    <Options id="5" ts="2021-10-19T15:03:46.406456">
+      <Option index="0" error="-1" type="2"/>
+      <Option index="1" entity="17" type="3" EntityCardID="LETL_460_01" EntityName="Runic Slam 1">
+        <Target index="0" entity="30" EntityCardID="LETLT_001_01" EntityName="Razorfen Beastmaster"/>
+        <Target index="1" entity="32" EntityCardID="LETLT_003_01" EntityName="Razorboar"/>
+        <Target index="2" entity="34" EntityCardID="LETLT_005_01" EntityName="Razormane Raider"/>
+        <Target index="3" entity="16" error="3" EntityCardID="LETL_036H_03" EntityName="Guff Runetotem"/>
+        <Target index="4" entity="19" error="3" EntityCardID="BARL_007H_03" EntityName="Lady Anacondra"/>
+        <Target index="5" entity="21" error="3" EntityCardID="BARL_017H_01" EntityName="Malfurion Stormrage"/>
+      </Option>
+      <Option index="2" entity="18" type="3" EntityCardID="LETL_463_03" EntityName="Living Brambles 3">
+        <Target index="0" entity="30" EntityCardID="LETLT_001_01" EntityName="Razorfen Beastmaster"/>
+        <Target index="1" entity="32" EntityCardID="LETLT_003_01" EntityName="Razorboar"/>
+        <Target index="2" entity="34" EntityCardID="LETLT_005_01" EntityName="Razormane Raider"/>
+        <Target index="3" entity="16" EntityCardID="LETL_036H_03" EntityName="Guff Runetotem"/>
+        <Target index="4" entity="19" EntityCardID="BARL_007H_03" EntityName="Lady Anacondra"/>
+        <Target index="5" entity="21" EntityCardID="BARL_017H_01" EntityName="Malfurion Stormrage"/>
+      </Option>
+      <Option index="3" entity="20" type="3" EntityCardID="LETL_340_05" EntityName="Serpent's Bite 5">
+        <Target index="0" entity="30" EntityCardID="LETLT_001_01" EntityName="Razorfen Beastmaster"/>
+        <Target index="1" entity="32" EntityCardID="LETLT_003_01" EntityName="Razorboar"/>
+        <Target index="2" entity="34" EntityCardID="LETLT_005_01" EntityName="Razormane Raider"/>
+        <Target index="3" entity="16" EntityCardID="LETL_036H_03" EntityName="Guff Runetotem"/>
+        <Target index="4" entity="19" EntityCardID="BARL_007H_03" EntityName="Lady Anacondra"/>
+        <Target index="5" entity="21" EntityCardID="BARL_017H_01" EntityName="Malfurion Stormrage"/>
+      </Option>
+      <Option index="4" entity="22" type="3" EntityCardID="LETL_470_04" EntityName="Cenarion Surge 4">
+        <Target index="0" entity="30" EntityCardID="LETLT_001_01" EntityName="Razorfen Beastmaster"/>
+        <Target index="1" entity="32" EntityCardID="LETLT_003_01" EntityName="Razorboar"/>
+        <Target index="2" entity="34" EntityCardID="LETLT_005_01" EntityName="Razormane Raider"/>
+        <Target index="3" entity="16" EntityCardID="LETL_036H_03" EntityName="Guff Runetotem"/>
+        <Target index="4" entity="19" EntityCardID="BARL_007H_03" EntityName="Lady Anacondra"/>
+        <Target index="5" entity="21" EntityCardID="BARL_017H_01" EntityName="Malfurion Stormrage"/>
+      </Option>
+    </Options>
+    <SendOption option="3" subOption="-1" target="32" position="0" ts="2021-10-19T15:03:57.606369"/>
+    <TagChange entity="19" tag="1697" value="20" EntityCardID="BARL_007H_03" EntityCardName="Lady Anacondra" GameTagName="LETTUCE_ABILITY_TILE_VISUAL_SELF_ONLY"/>
+    <TagChange entity="19" tag="1657" value="32" EntityCardID="BARL_007H_03" EntityCardName="Lady Anacondra" GameTagName="LETTUCE_SELECTED_TARGET"/>
+    <TagChange entity="19" tag="1967" value="1" EntityCardID="BARL_007H_03" EntityCardName="Lady Anacondra" GameTagName="LETTUCE_HAS_MANUALLY_SELECTED_ABILITY"/>
+    <Options id="6" ts="2021-10-19T15:03:57.904720">
+      <Option index="0" error="-1" type="2"/>
+      <Option index="1" entity="17" type="3" EntityCardID="LETL_460_01" EntityName="Runic Slam 1">
+        <Target index="0" entity="30" EntityCardID="LETLT_001_01" EntityName="Razorfen Beastmaster"/>
+        <Target index="1" entity="32" EntityCardID="LETLT_003_01" EntityName="Razorboar"/>
+        <Target index="2" entity="34" EntityCardID="LETLT_005_01" EntityName="Razormane Raider"/>
+        <Target index="3" entity="16" error="3" EntityCardID="LETL_036H_03" EntityName="Guff Runetotem"/>
+        <Target index="4" entity="19" error="3" EntityCardID="BARL_007H_03" EntityName="Lady Anacondra"/>
+        <Target index="5" entity="21" error="3" EntityCardID="BARL_017H_01" EntityName="Malfurion Stormrage"/>
+      </Option>
+      <Option index="2" entity="18" type="3" EntityCardID="LETL_463_03" EntityName="Living Brambles 3">
+        <Target index="0" entity="30" EntityCardID="LETLT_001_01" EntityName="Razorfen Beastmaster"/>
+        <Target index="1" entity="32" EntityCardID="LETLT_003_01" EntityName="Razorboar"/>
+        <Target index="2" entity="34" EntityCardID="LETLT_005_01" EntityName="Razormane Raider"/>
+        <Target index="3" entity="16" EntityCardID="LETL_036H_03" EntityName="Guff Runetotem"/>
+        <Target index="4" entity="19" EntityCardID="BARL_007H_03" EntityName="Lady Anacondra"/>
+        <Target index="5" entity="21" EntityCardID="BARL_017H_01" EntityName="Malfurion Stormrage"/>
+      </Option>
+      <Option index="3" entity="20" type="3" EntityCardID="LETL_340_05" EntityName="Serpent's Bite 5">
+        <Target index="0" entity="30" EntityCardID="LETLT_001_01" EntityName="Razorfen Beastmaster"/>
+        <Target index="1" entity="32" EntityCardID="LETLT_003_01" EntityName="Razorboar"/>
+        <Target index="2" entity="34" EntityCardID="LETLT_005_01" EntityName="Razormane Raider"/>
+        <Target index="3" entity="16" EntityCardID="LETL_036H_03" EntityName="Guff Runetotem"/>
+        <Target index="4" entity="19" EntityCardID="BARL_007H_03" EntityName="Lady Anacondra"/>
+        <Target index="5" entity="21" EntityCardID="BARL_017H_01" EntityName="Malfurion Stormrage"/>
+      </Option>
+      <Option index="4" entity="19" type="3" EntityCardID="BARL_007H_03" EntityName="Lady Anacondra"/>
+      <Option index="5" entity="22" type="3" EntityCardID="LETL_470_04" EntityName="Cenarion Surge 4">
+        <Target index="0" entity="30" EntityCardID="LETLT_001_01" EntityName="Razorfen Beastmaster"/>
+        <Target index="1" entity="32" EntityCardID="LETLT_003_01" EntityName="Razorboar"/>
+        <Target index="2" entity="34" EntityCardID="LETLT_005_01" EntityName="Razormane Raider"/>
+        <Target index="3" entity="16" EntityCardID="LETL_036H_03" EntityName="Guff Runetotem"/>
+        <Target index="4" entity="19" EntityCardID="BARL_007H_03" EntityName="Lady Anacondra"/>
+        <Target index="5" entity="21" EntityCardID="BARL_017H_01" EntityName="Malfurion Stormrage"/>
+      </Option>
+    </Options>
+    <SendOption option="5" subOption="-1" target="34" position="0" ts="2021-10-19T15:03:59.565727"/>
+    <TagChange entity="21" tag="1697" value="22" EntityCardID="BARL_017H_01" EntityCardName="Malfurion Stormrage" GameTagName="LETTUCE_ABILITY_TILE_VISUAL_SELF_ONLY"/>
+    <TagChange entity="21" tag="1657" value="34" EntityCardID="BARL_017H_01" EntityCardName="Malfurion Stormrage" GameTagName="LETTUCE_SELECTED_TARGET"/>
+    <TagChange entity="21" tag="1967" value="1" EntityCardID="BARL_017H_01" EntityCardName="Malfurion Stormrage" GameTagName="LETTUCE_HAS_MANUALLY_SELECTED_ABILITY"/>
+    <Options id="7" ts="2021-10-19T15:03:59.898197">
+      <Option index="0" error="-1" type="2"/>
+      <Option index="1" entity="17" type="3" EntityCardID="LETL_460_01" EntityName="Runic Slam 1">
+        <Target index="0" entity="30" EntityCardID="LETLT_001_01" EntityName="Razorfen Beastmaster"/>
+        <Target index="1" entity="32" EntityCardID="LETLT_003_01" EntityName="Razorboar"/>
+        <Target index="2" entity="34" EntityCardID="LETLT_005_01" EntityName="Razormane Raider"/>
+        <Target index="3" entity="16" error="3" EntityCardID="LETL_036H_03" EntityName="Guff Runetotem"/>
+        <Target index="4" entity="19" error="3" EntityCardID="BARL_007H_03" EntityName="Lady Anacondra"/>
+        <Target index="5" entity="21" error="3" EntityCardID="BARL_017H_01" EntityName="Malfurion Stormrage"/>
+      </Option>
+      <Option index="2" entity="18" type="3" EntityCardID="LETL_463_03" EntityName="Living Brambles 3">
+        <Target index="0" entity="30" EntityCardID="LETLT_001_01" EntityName="Razorfen Beastmaster"/>
+        <Target index="1" entity="32" EntityCardID="LETLT_003_01" EntityName="Razorboar"/>
+        <Target index="2" entity="34" EntityCardID="LETLT_005_01" EntityName="Razormane Raider"/>
+        <Target index="3" entity="16" EntityCardID="LETL_036H_03" EntityName="Guff Runetotem"/>
+        <Target index="4" entity="19" EntityCardID="BARL_007H_03" EntityName="Lady Anacondra"/>
+        <Target index="5" entity="21" EntityCardID="BARL_017H_01" EntityName="Malfurion Stormrage"/>
+      </Option>
+      <Option index="3" entity="20" type="3" EntityCardID="LETL_340_05" EntityName="Serpent's Bite 5">
+        <Target index="0" entity="30" EntityCardID="LETLT_001_01" EntityName="Razorfen Beastmaster"/>
+        <Target index="1" entity="32" EntityCardID="LETLT_003_01" EntityName="Razorboar"/>
+        <Target index="2" entity="34" EntityCardID="LETLT_005_01" EntityName="Razormane Raider"/>
+        <Target index="3" entity="16" EntityCardID="LETL_036H_03" EntityName="Guff Runetotem"/>
+        <Target index="4" entity="19" EntityCardID="BARL_007H_03" EntityName="Lady Anacondra"/>
+        <Target index="5" entity="21" EntityCardID="BARL_017H_01" EntityName="Malfurion Stormrage"/>
+      </Option>
+      <Option index="4" entity="19" type="3" EntityCardID="BARL_007H_03" EntityName="Lady Anacondra"/>
+      <Option index="5" entity="22" type="3" EntityCardID="LETL_470_04" EntityName="Cenarion Surge 4">
+        <Target index="0" entity="30" EntityCardID="LETLT_001_01" EntityName="Razorfen Beastmaster"/>
+        <Target index="1" entity="32" EntityCardID="LETLT_003_01" EntityName="Razorboar"/>
+        <Target index="2" entity="34" EntityCardID="LETLT_005_01" EntityName="Razormane Raider"/>
+        <Target index="3" entity="16" EntityCardID="LETL_036H_03" EntityName="Guff Runetotem"/>
+        <Target index="4" entity="19" EntityCardID="BARL_007H_03" EntityName="Lady Anacondra"/>
+        <Target index="5" entity="21" EntityCardID="BARL_017H_01" EntityName="Malfurion Stormrage"/>
+      </Option>
+      <Option index="6" entity="21" type="3" EntityCardID="BARL_017H_01" EntityName="Malfurion Stormrage"/>
+    </Options>
+    <SendOption option="2" subOption="-1" target="30" position="0" ts="2021-10-19T15:04:03.035646"/>
+    <TagChange entity="16" tag="1697" value="18" EntityCardID="LETL_036H_03" EntityCardName="Guff Runetotem" GameTagName="LETTUCE_ABILITY_TILE_VISUAL_SELF_ONLY"/>
+    <TagChange entity="16" tag="1657" value="30" EntityCardID="LETL_036H_03" EntityCardName="Guff Runetotem" GameTagName="LETTUCE_SELECTED_TARGET"/>
+    <TagChange entity="16" tag="1967" value="1" EntityCardID="LETL_036H_03" EntityCardName="Guff Runetotem" GameTagName="LETTUCE_HAS_MANUALLY_SELECTED_ABILITY"/>
+    <Options id="8" ts="2021-10-19T15:04:03.366713">
+      <Option index="0" error="-1" type="2"/>
+      <Option index="1" entity="17" type="3" EntityCardID="LETL_460_01" EntityName="Runic Slam 1">
+        <Target index="0" entity="30" EntityCardID="LETLT_001_01" EntityName="Razorfen Beastmaster"/>
+        <Target index="1" entity="32" EntityCardID="LETLT_003_01" EntityName="Razorboar"/>
+        <Target index="2" entity="34" EntityCardID="LETLT_005_01" EntityName="Razormane Raider"/>
+        <Target index="3" entity="16" error="3" EntityCardID="LETL_036H_03" EntityName="Guff Runetotem"/>
+        <Target index="4" entity="19" error="3" EntityCardID="BARL_007H_03" EntityName="Lady Anacondra"/>
+        <Target index="5" entity="21" error="3" EntityCardID="BARL_017H_01" EntityName="Malfurion Stormrage"/>
+      </Option>
+      <Option index="2" entity="18" type="3" EntityCardID="LETL_463_03" EntityName="Living Brambles 3">
+        <Target index="0" entity="30" EntityCardID="LETLT_001_01" EntityName="Razorfen Beastmaster"/>
+        <Target index="1" entity="32" EntityCardID="LETLT_003_01" EntityName="Razorboar"/>
+        <Target index="2" entity="34" EntityCardID="LETLT_005_01" EntityName="Razormane Raider"/>
+        <Target index="3" entity="16" EntityCardID="LETL_036H_03" EntityName="Guff Runetotem"/>
+        <Target index="4" entity="19" EntityCardID="BARL_007H_03" EntityName="Lady Anacondra"/>
+        <Target index="5" entity="21" EntityCardID="BARL_017H_01" EntityName="Malfurion Stormrage"/>
+      </Option>
+      <Option index="3" entity="16" type="3" EntityCardID="LETL_036H_03" EntityName="Guff Runetotem"/>
+      <Option index="4" entity="20" type="3" EntityCardID="LETL_340_05" EntityName="Serpent's Bite 5">
+        <Target index="0" entity="30" EntityCardID="LETLT_001_01" EntityName="Razorfen Beastmaster"/>
+        <Target index="1" entity="32" EntityCardID="LETLT_003_01" EntityName="Razorboar"/>
+        <Target index="2" entity="34" EntityCardID="LETLT_005_01" EntityName="Razormane Raider"/>
+        <Target index="3" entity="16" EntityCardID="LETL_036H_03" EntityName="Guff Runetotem"/>
+        <Target index="4" entity="19" EntityCardID="BARL_007H_03" EntityName="Lady Anacondra"/>
+        <Target index="5" entity="21" EntityCardID="BARL_017H_01" EntityName="Malfurion Stormrage"/>
+      </Option>
+      <Option index="5" entity="19" type="3" EntityCardID="BARL_007H_03" EntityName="Lady Anacondra"/>
+      <Option index="6" entity="22" type="3" EntityCardID="LETL_470_04" EntityName="Cenarion Surge 4">
+        <Target index="0" entity="30" EntityCardID="LETLT_001_01" EntityName="Razorfen Beastmaster"/>
+        <Target index="1" entity="32" EntityCardID="LETLT_003_01" EntityName="Razorboar"/>
+        <Target index="2" entity="34" EntityCardID="LETLT_005_01" EntityName="Razormane Raider"/>
+        <Target index="3" entity="16" EntityCardID="LETL_036H_03" EntityName="Guff Runetotem"/>
+        <Target index="4" entity="19" EntityCardID="BARL_007H_03" EntityName="Lady Anacondra"/>
+        <Target index="5" entity="21" EntityCardID="BARL_017H_01" EntityName="Malfurion Stormrage"/>
+      </Option>
+      <Option index="7" entity="21" type="3" EntityCardID="BARL_017H_01" EntityName="Malfurion Stormrage"/>
+    </Options>
+    <SendOption option="0" subOption="-1" target="0" position="0" ts="2021-10-19T15:04:04.165477"/>
+    <TagChange entity="1" tag="19" value="20" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_POST_ACTION"/>
+    <Block entity="1" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="6" ts="2021-10-19T15:04:04.397768" block_sequence_num="15" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
+      <TagChange entity="1" tag="198" value="11" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_COMBAT"/>
+      <TagChange entity="1" tag="6" value="3" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="MISSION_EVENT"/>
+    </Block>
+    <TagChange entity="1" tag="19" value="11" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_COMBAT"/>
+    <Block entity="1" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="22" ts="2021-10-19T15:04:04.397768" block_sequence_num="16" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
+      <MetaData meta="20" data="2000" infoCount="1" MetaName="SLUSH_TIME">
+        <Info index="0" entity="1" EntityName="GameEntity"/>
+      </MetaData>
+      <TagChange entity="18" tag="410" value="1" EntityCardID="LETL_463_03" EntityCardName="Living Brambles 3" GameTagName="REVEALED"/>
+      <TagChange entity="16" tag="1698" value="18" EntityCardID="LETL_036H_03" EntityCardName="Guff Runetotem" GameTagName="LETTUCE_ABILITY_TILE_VISUAL_ALL_VISIBLE"/>
+      <TagChange entity="20" tag="410" value="1" EntityCardID="LETL_340_05" EntityCardName="Serpent's Bite 5" GameTagName="REVEALED"/>
+      <TagChange entity="19" tag="1698" value="20" EntityCardID="BARL_007H_03" EntityCardName="Lady Anacondra" GameTagName="LETTUCE_ABILITY_TILE_VISUAL_ALL_VISIBLE"/>
+      <TagChange entity="22" tag="410" value="1" EntityCardID="LETL_470_04" EntityCardName="Cenarion Surge 4" GameTagName="REVEALED"/>
+      <TagChange entity="21" tag="1698" value="22" EntityCardID="BARL_017H_01" EntityCardName="Malfurion Stormrage" GameTagName="LETTUCE_ABILITY_TILE_VISUAL_ALL_VISIBLE"/>
+      <TagChange entity="21" tag="1825" value="1" EntityCardID="BARL_017H_01" EntityCardName="Malfurion Stormrage"/>
+      <Block entity="22" type="7" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" target="34" ts="2021-10-19T15:04:04.397768" block_sequence_num="17" EntityCardID="LETL_470_04" EntityCardName="Cenarion Surge 4" TargetName="Razormane Raider" BlockTypeName="PLAY">
+        <TagChange entity="21" tag="1668" value="1" EntityCardID="BARL_017H_01" EntityCardName="Malfurion Stormrage" GameTagName="LETTUCE_IS_COMBAT_ACTION_TAKEN"/>
+        <FullEntity id="36" cardID="LETL_470_04" EntityName="Cenarion Surge 4">
+          <Tag tag="50" value="1" GameTagName="CONTROLLER"/>
+          <Tag tag="202" value="5" GameTagName="CARDTYPE" CardTypeName="SPELL"/>
+          <Tag tag="466" value="4" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+          <Tag tag="48" value="4" GameTagName="COST"/>
+          <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+          <Tag tag="53" value="36" GameTagName="ENTITY_ID"/>
+          <Tag tag="313" value="22" GameTagName="CREATOR"/>
+          <Tag tag="1284" value="76729" GameTagName="CREATOR_DBID"/>
+          <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+          <Tag tag="1635" value="4" GameTagName="SPELL_SCHOOL" SpellSchoolName="NATURE"/>
+          <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+          <Tag tag="1654" value="21" GameTagName="LETTUCE_ABILITY_OWNER"/>
+          <Tag tag="1679" value="1"/>
+          <Tag tag="2015" value="1" GameTagName="DONT_SHOW_IN_HISTORY"/>
+        </FullEntity>
+        <MetaData meta="20" data="3000" infoCount="1" MetaName="SLUSH_TIME">
+          <Info index="0" entity="36" EntityName="Cenarion Surge 4"/>
+        </MetaData>
+        <TagChange entity="36" tag="267" value="34" EntityCardID="LETL_470_04" EntityCardName="Cenarion Surge 4" GameTagName="CARD_TARGET"/>
+        <Block entity="36" type="3" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" target="34" ts="2021-10-19T15:04:04.397768" block_sequence_num="18" EntityCardID="LETL_470_04" EntityCardName="Cenarion Surge 4" TargetName="Razormane Raider" BlockTypeName="POWER">
+          <SubSpell spellPrefabGuid="ReuseFX_Missile_Nature_Thorns_Super_WithIdle:2166560420ef4d14b974b68e4994dbfb" source="21" targetCount="1" ts="2021-10-19T15:04:04.397768">
+            <SubSpellTarget index="0" entity="34"/>
+            <MetaData meta="0" data="0" infoCount="1" MetaName="TARGET">
+              <Info index="0" entity="34" EntityName="Razormane Raider"/>
+            </MetaData>
+            <TagChange entity="34" tag="318" value="9" EntityCardID="LETLT_005_01" EntityCardName="Razormane Raider" GameTagName="PREDAMAGE"/>
+            <TagChange entity="34" tag="1173" value="34" EntityCardID="LETLT_005_01" EntityCardName="Razormane Raider"/>
+            <TagChange entity="34" tag="318" value="0" EntityCardID="LETLT_005_01" EntityCardName="Razormane Raider" GameTagName="PREDAMAGE"/>
+            <TagChange entity="34" tag="1173" value="0" EntityCardID="LETLT_005_01" EntityCardName="Razormane Raider"/>
+            <TagChange entity="34" tag="318" value="9" EntityCardID="LETLT_005_01" EntityCardName="Razormane Raider" GameTagName="PREDAMAGE"/>
+            <Block entity="1" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="26" ts="2021-10-19T15:04:04.397768" block_sequence_num="19" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
+              <MetaData meta="0" data="0" infoCount="1" MetaName="TARGET">
+                <Info index="0" entity="34" EntityName="Razormane Raider"/>
+              </MetaData>
+              <MetaData meta="23" data="0" infoCount="1" MetaName="CRITICAL_HIT">
+                <Info index="0" entity="34" EntityName="Razormane Raider"/>
+              </MetaData>
+              <TagChange entity="34" tag="318" value="18" EntityCardID="LETLT_005_01" EntityCardName="Razormane Raider" GameTagName="PREDAMAGE"/>
+            </Block>
+            <TagChange entity="34" tag="318" value="0" EntityCardID="LETLT_005_01" EntityCardName="Razormane Raider" GameTagName="PREDAMAGE"/>
+            <MetaData meta="1" data="18" infoCount="1" MetaName="DAMAGE">
+              <Info index="0" entity="34" EntityName="Razormane Raider"/>
+            </MetaData>
+            <TagChange entity="34" tag="18" value="36" EntityCardID="LETLT_005_01" EntityCardName="Razormane Raider" ValueReferenceCardID="LETL_470_04" ValueReferenceCardName="Cenarion Surge 4" GameTagName="LAST_AFFECTED_BY"/>
+            <TagChange entity="34" tag="44" value="18" EntityCardID="LETLT_005_01" EntityCardName="Razormane Raider" GameTagName="DAMAGE"/>
+            <Block entity="1" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="10" ts="2021-10-19T15:04:04.397768" block_sequence_num="20" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
+              <TagChange entity="34" tag="1775" value="1" EntityCardID="LETLT_005_01" EntityCardName="Razormane Raider"/>
+            </Block>
+          </SubSpell>
+          <SubSpell spellPrefabGuid="ReuseFX_Mercenaries_SpeedUp_Impact_Super:dc0b82292b9923a4ca96631c928c57c8" source="21" targetCount="3" ts="2021-10-19T15:04:04.397768">
+            <SubSpellTarget index="0" entity="16"/>
+            <SubSpellTarget index="1" entity="19"/>
+            <SubSpellTarget index="2" entity="21"/>
+            <FullEntity id="38" EntityName="Cenarion Surge">
+              <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+              <Tag tag="50" value="1" GameTagName="CONTROLLER"/>
+              <Tag tag="53" value="38" GameTagName="ENTITY_ID"/>
+            </FullEntity>
+            <ShowEntity entity="38" cardID="LETL_470e" EntityName="Cenarion Surge">
+              <Tag tag="50" value="1" GameTagName="CONTROLLER"/>
+              <Tag tag="202" value="6" GameTagName="CARDTYPE" CardTypeName="ENCHANTMENT"/>
+              <Tag tag="2" value="3" GameTagName="TAG_SCRIPT_DATA_NUM_1"/>
+              <Tag tag="40" value="21" GameTagName="ATTACHED"/>
+              <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+              <Tag tag="53" value="38" GameTagName="ENTITY_ID"/>
+              <Tag tag="313" value="36" GameTagName="CREATOR"/>
+              <Tag tag="1037" value="1"/>
+              <Tag tag="1068" value="0"/>
+              <Tag tag="1107" value="1" GameTagName="HIDE_WATERMARK"/>
+              <Tag tag="1284" value="76729" GameTagName="CREATOR_DBID"/>
+              <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+              <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+            </ShowEntity>
+            <TagChange entity="38" tag="1068" value="1" EntityCardID="LETL_470e" EntityCardName="Cenarion Surge"/>
+            <TagChange entity="38" tag="1068" value="0" EntityCardID="LETL_470e" EntityCardName="Cenarion Surge"/>
+            <TagChange entity="38" tag="49" value="1" EntityCardID="LETL_470e" EntityCardName="Cenarion Surge" GameTagName="ZONE" ZoneName="PLAY"/>
+            <TagChange entity="38" tag="262" value="36" EntityCardID="LETL_470e" EntityCardName="Cenarion Surge" GameTagName="LINKED_ENTITY"/>
+          </SubSpell>
+        </Block>
+        <TagChange entity="21" tag="1814" value="22" EntityCardID="BARL_017H_01" EntityCardName="Malfurion Stormrage"/>
+      </Block>
+      <Block entity="1" type="6" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2021-10-19T15:04:04.397768" block_sequence_num="21" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="DEATHS">
+        <TagChange entity="2" tag="368" value="1" GameTagName="NUM_MINIONS_PLAYER_KILLED_THIS_TURN"/>
+        <TagChange entity="1" tag="369" value="1" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NUM_MINIONS_KILLED_THIS_TURN"/>
+        <TagChange entity="34" tag="1068" value="4" EntityCardID="LETLT_005_01" EntityCardName="Razormane Raider"/>
+        <TagChange entity="34" tag="1068" value="0" EntityCardID="LETLT_005_01" EntityCardName="Razormane Raider"/>
+        <TagChange entity="34" tag="43" value="0" EntityCardID="LETLT_005_01" EntityCardName="Razormane Raider" GameTagName="EXHAUSTED"/>
+        <TagChange entity="34" tag="263" value="0" EntityCardID="LETLT_005_01" EntityCardName="Razormane Raider" GameTagName="ZONE_POSITION"/>
+        <TagChange entity="34" tag="49" value="4" EntityCardID="LETLT_005_01" EntityCardName="Razormane Raider" GameTagName="ZONE" ZoneName="GRAVEYARD"/>
+        <TagChange entity="2" tag="398" value="1" GameTagName="NUM_FRIENDLY_MINIONS_THAT_DIED_THIS_TURN"/>
+        <TagChange entity="2" tag="412" value="1" GameTagName="NUM_FRIENDLY_MINIONS_THAT_DIED_THIS_GAME"/>
+        <TagChange entity="34" tag="44" value="0" EntityCardID="LETLT_005_01" EntityCardName="Razormane Raider" GameTagName="DAMAGE"/>
+      </Block>
+      <Block entity="34" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" triggerKeyword="217" ts="2021-10-19T15:04:04.397768" block_sequence_num="22" EntityCardID="LETLT_005_01" EntityCardName="Razormane Raider" TriggerKeywordName="DEATHRATTLE" BlockTypeName="TRIGGER">
+        <FullEntity id="39" EntityName="Quilboar Fury">
+          <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+          <Tag tag="50" value="2" GameTagName="CONTROLLER"/>
+          <Tag tag="53" value="39" GameTagName="ENTITY_ID"/>
+        </FullEntity>
+        <ShowEntity entity="39" cardID="LETL_ZoneMob_001" EntityName="Quilboar Fury">
+          <Tag tag="50" value="2" GameTagName="CONTROLLER"/>
+          <Tag tag="202" value="6" GameTagName="CARDTYPE" CardTypeName="ENCHANTMENT"/>
+          <Tag tag="40" value="30" GameTagName="ATTACHED"/>
+          <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+          <Tag tag="53" value="39" GameTagName="ENTITY_ID"/>
+          <Tag tag="313" value="34" GameTagName="CREATOR"/>
+          <Tag tag="1037" value="2"/>
+          <Tag tag="1068" value="0"/>
+          <Tag tag="1284" value="75483" GameTagName="CREATOR_DBID"/>
+          <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+        </ShowEntity>
+        <TagChange entity="39" tag="1068" value="1" EntityCardID="LETL_ZoneMob_001" EntityCardName="Quilboar Fury"/>
+        <TagChange entity="39" tag="1068" value="0" EntityCardID="LETL_ZoneMob_001" EntityCardName="Quilboar Fury"/>
+        <TagChange entity="39" tag="49" value="1" EntityCardID="LETL_ZoneMob_001" EntityCardName="Quilboar Fury" GameTagName="ZONE" ZoneName="PLAY"/>
+        <SubSpell spellPrefabGuid="Nature_Targeted_Heal_Minion_Paw_FX:3dcd14b24f512c84fb7ac2a5ee3a7041" source="0" targetCount="1" ts="2021-10-19T15:04:04.397768">
+          <SubSpellTarget index="0" entity="30"/>
+        </SubSpell>
+        <TagChange entity="39" tag="2" value="1" EntityCardID="LETL_ZoneMob_001" EntityCardName="Quilboar Fury" GameTagName="TAG_SCRIPT_DATA_NUM_1"/>
+        <TagChange entity="39" tag="3" value="1" EntityCardID="LETL_ZoneMob_001" EntityCardName="Quilboar Fury" GameTagName="TAG_SCRIPT_DATA_NUM_2"/>
+      </Block>
+      <MetaData meta="20" data="200" infoCount="1" MetaName="SLUSH_TIME">
+        <Info index="0" entity="34" EntityName="Razormane Raider"/>
+      </MetaData>
+      <TagChange entity="2" tag="1420" value="1"/>
+      <TagChange entity="30" tag="479" value="4" EntityCardID="LETLT_001_01" EntityCardName="Razorfen Beastmaster"/>
+      <TagChange entity="30" tag="45" value="10" EntityCardID="LETLT_001_01" EntityCardName="Razorfen Beastmaster" GameTagName="HEALTH"/>
+      <TagChange entity="30" tag="47" value="4" EntityCardID="LETLT_001_01" EntityCardName="Razorfen Beastmaster" GameTagName="ATK"/>
+      <Block entity="20" type="7" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" target="32" ts="2021-10-19T15:04:04.397768" block_sequence_num="23" EntityCardID="LETL_340_05" EntityCardName="Serpent's Bite 5" TargetName="Razorboar" BlockTypeName="PLAY">
+        <TagChange entity="19" tag="1668" value="1" EntityCardID="BARL_007H_03" EntityCardName="Lady Anacondra" GameTagName="LETTUCE_IS_COMBAT_ACTION_TAKEN"/>
+        <FullEntity id="40" cardID="LETL_340_05" EntityName="Serpent's Bite 5">
+          <Tag tag="50" value="1" GameTagName="CONTROLLER"/>
+          <Tag tag="202" value="5" GameTagName="CARDTYPE" CardTypeName="SPELL"/>
+          <Tag tag="466" value="5" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+          <Tag tag="48" value="5" GameTagName="COST"/>
+          <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+          <Tag tag="53" value="40" GameTagName="ENTITY_ID"/>
+          <Tag tag="201" value="3" GameTagName="FACTION" FactionName="NEUTRAL"/>
+          <Tag tag="313" value="20" GameTagName="CREATOR"/>
+          <Tag tag="1284" value="76824" GameTagName="CREATOR_DBID"/>
+          <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+          <Tag tag="1635" value="4" GameTagName="SPELL_SCHOOL" SpellSchoolName="NATURE"/>
+          <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+          <Tag tag="1654" value="19" GameTagName="LETTUCE_ABILITY_OWNER"/>
+          <Tag tag="1724" value="1"/>
+          <Tag tag="2015" value="1" GameTagName="DONT_SHOW_IN_HISTORY"/>
+        </FullEntity>
+        <MetaData meta="20" data="3000" infoCount="1" MetaName="SLUSH_TIME">
+          <Info index="0" entity="40" EntityName="Serpent's Bite 5"/>
+        </MetaData>
+        <TagChange entity="40" tag="267" value="32" EntityCardID="LETL_340_05" EntityCardName="Serpent's Bite 5" GameTagName="CARD_TARGET"/>
+        <Block entity="40" type="3" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" target="32" ts="2021-10-19T15:04:04.397768" block_sequence_num="24" EntityCardID="LETL_340_05" EntityCardName="Serpent's Bite 5" TargetName="Razorboar" BlockTypeName="POWER">
+          <SubSpell spellPrefabGuid="ReuseFX_Beast_Impact_FangBite_Savagery_Super_WithIdle:8f399377643450d4784884d2dbd73296" source="19" targetCount="1" ts="2021-10-19T15:04:04.397768">
+            <SubSpellTarget index="0" entity="32"/>
+            <MetaData meta="0" data="0" infoCount="1" MetaName="TARGET">
+              <Info index="0" entity="32" EntityName="Razorboar"/>
+            </MetaData>
+            <TagChange entity="32" tag="318" value="6" EntityCardID="LETLT_003_01" EntityCardName="Razorboar" GameTagName="PREDAMAGE"/>
+            <TagChange entity="32" tag="1173" value="32" EntityCardID="LETLT_003_01" EntityCardName="Razorboar"/>
+            <TagChange entity="32" tag="318" value="0" EntityCardID="LETLT_003_01" EntityCardName="Razorboar" GameTagName="PREDAMAGE"/>
+            <TagChange entity="32" tag="1173" value="0" EntityCardID="LETLT_003_01" EntityCardName="Razorboar"/>
+            <TagChange entity="32" tag="318" value="6" EntityCardID="LETLT_003_01" EntityCardName="Razorboar" GameTagName="PREDAMAGE"/>
+            <TagChange entity="32" tag="318" value="0" EntityCardID="LETLT_003_01" EntityCardName="Razorboar" GameTagName="PREDAMAGE"/>
+            <MetaData meta="1" data="6" infoCount="1" MetaName="DAMAGE">
+              <Info index="0" entity="32" EntityName="Razorboar"/>
+            </MetaData>
+            <TagChange entity="32" tag="18" value="40" EntityCardID="LETLT_003_01" EntityCardName="Razorboar" ValueReferenceCardID="LETL_340_05" ValueReferenceCardName="Serpent's Bite 5" GameTagName="LAST_AFFECTED_BY"/>
+            <TagChange entity="32" tag="44" value="6" EntityCardID="LETLT_003_01" EntityCardName="Razorboar" GameTagName="DAMAGE"/>
+            <Block entity="1" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="10" ts="2021-10-19T15:04:04.397768" block_sequence_num="25" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
+              <TagChange entity="32" tag="1775" value="1" EntityCardID="LETLT_003_01" EntityCardName="Razorboar"/>
+            </Block>
+            <FullEntity id="42" EntityName="Serpent's Bite">
+              <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+              <Tag tag="50" value="1" GameTagName="CONTROLLER"/>
+              <Tag tag="53" value="42" GameTagName="ENTITY_ID"/>
+            </FullEntity>
+            <ShowEntity entity="42" cardID="LETL_340e" EntityName="Serpent's Bite">
+              <Tag tag="50" value="1" GameTagName="CONTROLLER"/>
+              <Tag tag="202" value="6" GameTagName="CARDTYPE" CardTypeName="ENCHANTMENT"/>
+              <Tag tag="2" value="6" GameTagName="TAG_SCRIPT_DATA_NUM_1"/>
+              <Tag tag="40" value="32" GameTagName="ATTACHED"/>
+              <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+              <Tag tag="53" value="42" GameTagName="ENTITY_ID"/>
+              <Tag tag="313" value="40" GameTagName="CREATOR"/>
+              <Tag tag="338" value="1" GameTagName="TAG_ONE_TURN_EFFECT"/>
+              <Tag tag="370" value="1" GameTagName="AFFECTED_BY_SPELL_POWER"/>
+              <Tag tag="1037" value="1"/>
+              <Tag tag="1068" value="0"/>
+              <Tag tag="1284" value="76824" GameTagName="CREATOR_DBID"/>
+              <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+              <Tag tag="1635" value="4" GameTagName="SPELL_SCHOOL" SpellSchoolName="NATURE"/>
+              <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+            </ShowEntity>
+            <TagChange entity="32" tag="338" value="1" EntityCardID="LETLT_003_01" EntityCardName="Razorboar" GameTagName="TAG_ONE_TURN_EFFECT"/>
+            <TagChange entity="42" tag="1068" value="1" EntityCardID="LETL_340e" EntityCardName="Serpent's Bite"/>
+            <TagChange entity="42" tag="1068" value="0" EntityCardID="LETL_340e" EntityCardName="Serpent's Bite"/>
+            <TagChange entity="42" tag="49" value="1" EntityCardID="LETL_340e" EntityCardName="Serpent's Bite" GameTagName="ZONE" ZoneName="PLAY"/>
+            <TagChange entity="42" tag="262" value="40" EntityCardID="LETL_340e" EntityCardName="Serpent's Bite" GameTagName="LINKED_ENTITY"/>
+          </SubSpell>
+        </Block>
+        <TagChange entity="19" tag="1814" value="20" EntityCardID="BARL_007H_03" EntityCardName="Lady Anacondra"/>
+      </Block>
+      <Block entity="1" type="6" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2021-10-19T15:04:04.397768" block_sequence_num="26" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="DEATHS">
+        <TagChange entity="2" tag="368" value="2" GameTagName="NUM_MINIONS_PLAYER_KILLED_THIS_TURN"/>
+        <TagChange entity="1" tag="369" value="2" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NUM_MINIONS_KILLED_THIS_TURN"/>
+        <TagChange entity="32" tag="1068" value="4" EntityCardID="LETLT_003_01" EntityCardName="Razorboar"/>
+        <TagChange entity="32" tag="1068" value="0" EntityCardID="LETLT_003_01" EntityCardName="Razorboar"/>
+        <TagChange entity="32" tag="43" value="0" EntityCardID="LETLT_003_01" EntityCardName="Razorboar" GameTagName="EXHAUSTED"/>
+        <TagChange entity="32" tag="263" value="0" EntityCardID="LETLT_003_01" EntityCardName="Razorboar" GameTagName="ZONE_POSITION"/>
+        <TagChange entity="32" tag="49" value="4" EntityCardID="LETLT_003_01" EntityCardName="Razorboar" GameTagName="ZONE" ZoneName="GRAVEYARD"/>
+        <TagChange entity="2" tag="398" value="2" GameTagName="NUM_FRIENDLY_MINIONS_THAT_DIED_THIS_TURN"/>
+        <TagChange entity="2" tag="412" value="2" GameTagName="NUM_FRIENDLY_MINIONS_THAT_DIED_THIS_GAME"/>
+        <TagChange entity="32" tag="338" value="0" EntityCardID="LETLT_003_01" EntityCardName="Razorboar" GameTagName="TAG_ONE_TURN_EFFECT"/>
+        <TagChange entity="42" tag="1234" value="32" EntityCardID="LETL_340e" EntityCardName="Serpent's Bite"/>
+        <HideEntity entity="42" zone="1" ts="2021-10-19T15:04:04.397768"/>
+        <TagChange entity="42" tag="49" value="5" EntityCardID="LETL_340e" EntityCardName="Serpent's Bite" GameTagName="ZONE" ZoneName="REMOVEDFROMGAME"/>
+        <TagChange entity="32" tag="44" value="0" EntityCardID="LETLT_003_01" EntityCardName="Razorboar" GameTagName="DAMAGE"/>
+      </Block>
+      <Block entity="32" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" triggerKeyword="217" ts="2021-10-19T15:04:04.397768" block_sequence_num="27" EntityCardID="LETLT_003_01" EntityCardName="Razorboar" TriggerKeywordName="DEATHRATTLE" BlockTypeName="TRIGGER">
+        <SubSpell spellPrefabGuid="Nature_Targeted_Heal_Minion_Paw_FX:3dcd14b24f512c84fb7ac2a5ee3a7041" source="0" targetCount="1" ts="2021-10-19T15:04:04.397768">
+          <SubSpellTarget index="0" entity="30"/>
+        </SubSpell>
+        <TagChange entity="39" tag="2" value="2" EntityCardID="LETL_ZoneMob_001" EntityCardName="Quilboar Fury" GameTagName="TAG_SCRIPT_DATA_NUM_1"/>
+        <TagChange entity="39" tag="3" value="2" EntityCardID="LETL_ZoneMob_001" EntityCardName="Quilboar Fury" GameTagName="TAG_SCRIPT_DATA_NUM_2"/>
+      </Block>
+      <MetaData meta="20" data="200" infoCount="1" MetaName="SLUSH_TIME">
+        <Info index="0" entity="32" EntityName="Razorboar"/>
+      </MetaData>
+      <TagChange entity="2" tag="1420" value="2"/>
+      <Block entity="18" type="7" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" target="30" ts="2021-10-19T15:04:04.397768" block_sequence_num="28" EntityCardID="LETL_463_03" EntityCardName="Living Brambles 3" TargetName="Razorfen Beastmaster" BlockTypeName="PLAY">
+        <TagChange entity="16" tag="1668" value="1" EntityCardID="LETL_036H_03" EntityCardName="Guff Runetotem" GameTagName="LETTUCE_IS_COMBAT_ACTION_TAKEN"/>
+        <FullEntity id="43" cardID="LETL_463_03" EntityName="Living Brambles 3">
+          <Tag tag="50" value="1" GameTagName="CONTROLLER"/>
+          <Tag tag="202" value="5" GameTagName="CARDTYPE" CardTypeName="SPELL"/>
+          <Tag tag="466" value="5" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+          <Tag tag="48" value="5" GameTagName="COST"/>
+          <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+          <Tag tag="53" value="43" GameTagName="ENTITY_ID"/>
+          <Tag tag="220" value="1" GameTagName="COMBO"/>
+          <Tag tag="313" value="18" GameTagName="CREATOR"/>
+          <Tag tag="1284" value="73753" GameTagName="CREATOR_DBID"/>
+          <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+          <Tag tag="1635" value="4" GameTagName="SPELL_SCHOOL" SpellSchoolName="NATURE"/>
+          <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+          <Tag tag="1654" value="16" GameTagName="LETTUCE_ABILITY_OWNER"/>
+          <Tag tag="1724" value="1"/>
+          <Tag tag="2015" value="1" GameTagName="DONT_SHOW_IN_HISTORY"/>
+        </FullEntity>
+        <MetaData meta="20" data="3000" infoCount="1" MetaName="SLUSH_TIME">
+          <Info index="0" entity="43" EntityName="Living Brambles 3"/>
+        </MetaData>
+        <TagChange entity="43" tag="267" value="30" EntityCardID="LETL_463_03" EntityCardName="Living Brambles 3" GameTagName="CARD_TARGET"/>
+        <TagChange entity="30" tag="479" value="5" EntityCardID="LETLT_001_01" EntityCardName="Razorfen Beastmaster"/>
+        <TagChange entity="30" tag="45" value="11" EntityCardID="LETLT_001_01" EntityCardName="Razorfen Beastmaster" GameTagName="HEALTH"/>
+        <TagChange entity="30" tag="47" value="5" EntityCardID="LETLT_001_01" EntityCardName="Razorfen Beastmaster" GameTagName="ATK"/>
+        <Block entity="43" type="3" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" target="30" ts="2021-10-19T15:04:04.397768" block_sequence_num="29" EntityCardID="LETL_463_03" EntityCardName="Living Brambles 3" TargetName="Razorfen Beastmaster" BlockTypeName="POWER">
+          <SubSpell spellPrefabGuid="ReuseFX_Nature_Missile_Thorns_Super_WithIdle:2166560420ef4d14b974b68e4994dbfb" source="16" targetCount="1" ts="2021-10-19T15:04:04.397768">
+            <SubSpellTarget index="0" entity="30"/>
+            <MetaData meta="0" data="0" infoCount="1" MetaName="TARGET">
+              <Info index="0" entity="30" EntityName="Razorfen Beastmaster"/>
+            </MetaData>
+            <TagChange entity="30" tag="318" value="8" EntityCardID="LETLT_001_01" EntityCardName="Razorfen Beastmaster" GameTagName="PREDAMAGE"/>
+            <TagChange entity="30" tag="1173" value="30" EntityCardID="LETLT_001_01" EntityCardName="Razorfen Beastmaster"/>
+            <TagChange entity="30" tag="318" value="0" EntityCardID="LETLT_001_01" EntityCardName="Razorfen Beastmaster" GameTagName="PREDAMAGE"/>
+            <TagChange entity="30" tag="1173" value="0" EntityCardID="LETLT_001_01" EntityCardName="Razorfen Beastmaster"/>
+            <TagChange entity="30" tag="318" value="8" EntityCardID="LETLT_001_01" EntityCardName="Razorfen Beastmaster" GameTagName="PREDAMAGE"/>
+            <TagChange entity="30" tag="318" value="0" EntityCardID="LETLT_001_01" EntityCardName="Razorfen Beastmaster" GameTagName="PREDAMAGE"/>
+            <MetaData meta="1" data="8" infoCount="1" MetaName="DAMAGE">
+              <Info index="0" entity="30" EntityName="Razorfen Beastmaster"/>
+            </MetaData>
+            <TagChange entity="30" tag="18" value="43" EntityCardID="LETLT_001_01" EntityCardName="Razorfen Beastmaster" ValueReferenceCardID="LETL_463_03" ValueReferenceCardName="Living Brambles 3" GameTagName="LAST_AFFECTED_BY"/>
+            <TagChange entity="30" tag="44" value="8" EntityCardID="LETLT_001_01" EntityCardName="Razorfen Beastmaster" GameTagName="DAMAGE"/>
+            <Block entity="1" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="10" ts="2021-10-19T15:04:04.397768" block_sequence_num="30" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
+              <TagChange entity="30" tag="1775" value="1" EntityCardID="LETLT_001_01" EntityCardName="Razorfen Beastmaster"/>
+            </Block>
+            <SubSpell spellPrefabGuid="ReuseFX_Nature_Missile_Thorns_Super:b8d48f046002bb54d977bdebbfe0e49f" source="16" targetCount="1" ts="2021-10-19T15:04:04.397768">
+              <SubSpellTarget index="0" entity="30"/>
+              <MetaData meta="0" data="0" infoCount="1" MetaName="TARGET">
+                <Info index="0" entity="30" EntityName="Razorfen Beastmaster"/>
+              </MetaData>
+              <TagChange entity="30" tag="318" value="8" EntityCardID="LETLT_001_01" EntityCardName="Razorfen Beastmaster" GameTagName="PREDAMAGE"/>
+              <TagChange entity="30" tag="1173" value="30" EntityCardID="LETLT_001_01" EntityCardName="Razorfen Beastmaster"/>
+              <TagChange entity="30" tag="318" value="0" EntityCardID="LETLT_001_01" EntityCardName="Razorfen Beastmaster" GameTagName="PREDAMAGE"/>
+              <TagChange entity="30" tag="1173" value="0" EntityCardID="LETLT_001_01" EntityCardName="Razorfen Beastmaster"/>
+              <TagChange entity="30" tag="318" value="8" EntityCardID="LETLT_001_01" EntityCardName="Razorfen Beastmaster" GameTagName="PREDAMAGE"/>
+              <TagChange entity="30" tag="318" value="0" EntityCardID="LETLT_001_01" EntityCardName="Razorfen Beastmaster" GameTagName="PREDAMAGE"/>
+              <MetaData meta="1" data="8" infoCount="1" MetaName="DAMAGE">
+                <Info index="0" entity="30" EntityName="Razorfen Beastmaster"/>
+              </MetaData>
+              <TagChange entity="30" tag="44" value="16" EntityCardID="LETLT_001_01" EntityCardName="Razorfen Beastmaster" GameTagName="DAMAGE"/>
+              <Block entity="1" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="10" ts="2021-10-19T15:04:04.397768" block_sequence_num="31" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER"/>
+            </SubSpell>
+          </SubSpell>
+        </Block>
+        <TagChange entity="16" tag="1814" value="18" EntityCardID="LETL_036H_03" EntityCardName="Guff Runetotem"/>
+      </Block>
+      <Block entity="1" type="6" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2021-10-19T15:04:04.397768" block_sequence_num="32" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="DEATHS">
+        <TagChange entity="2" tag="368" value="3" GameTagName="NUM_MINIONS_PLAYER_KILLED_THIS_TURN"/>
+        <TagChange entity="1" tag="369" value="3" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NUM_MINIONS_KILLED_THIS_TURN"/>
+        <TagChange entity="30" tag="1068" value="4" EntityCardID="LETLT_001_01" EntityCardName="Razorfen Beastmaster"/>
+        <TagChange entity="30" tag="1068" value="0" EntityCardID="LETLT_001_01" EntityCardName="Razorfen Beastmaster"/>
+        <TagChange entity="30" tag="43" value="0" EntityCardID="LETLT_001_01" EntityCardName="Razorfen Beastmaster" GameTagName="EXHAUSTED"/>
+        <TagChange entity="30" tag="263" value="0" EntityCardID="LETLT_001_01" EntityCardName="Razorfen Beastmaster" GameTagName="ZONE_POSITION"/>
+        <TagChange entity="30" tag="49" value="4" EntityCardID="LETLT_001_01" EntityCardName="Razorfen Beastmaster" GameTagName="ZONE" ZoneName="GRAVEYARD"/>
+        <TagChange entity="2" tag="398" value="3" GameTagName="NUM_FRIENDLY_MINIONS_THAT_DIED_THIS_TURN"/>
+        <TagChange entity="2" tag="412" value="3" GameTagName="NUM_FRIENDLY_MINIONS_THAT_DIED_THIS_GAME"/>
+        <TagChange entity="39" tag="1234" value="30" EntityCardID="LETL_ZoneMob_001" EntityCardName="Quilboar Fury"/>
+        <HideEntity entity="39" zone="1" ts="2021-10-19T15:04:04.397768"/>
+        <TagChange entity="39" tag="49" value="5" EntityCardID="LETL_ZoneMob_001" EntityCardName="Quilboar Fury" GameTagName="ZONE" ZoneName="REMOVEDFROMGAME"/>
+        <TagChange entity="30" tag="44" value="0" EntityCardID="LETLT_001_01" EntityCardName="Razorfen Beastmaster" GameTagName="DAMAGE"/>
+      </Block>
+      <TagChange entity="30" tag="45" value="9" EntityCardID="LETLT_001_01" EntityCardName="Razorfen Beastmaster" GameTagName="HEALTH"/>
+      <TagChange entity="30" tag="47" value="3" EntityCardID="LETLT_001_01" EntityCardName="Razorfen Beastmaster" GameTagName="ATK"/>
+      <Block entity="30" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="1" triggerKeyword="217" ts="2021-10-19T15:04:04.397768" block_sequence_num="33" EntityCardID="LETLT_001_01" EntityCardName="Razorfen Beastmaster" TriggerKeywordName="DEATHRATTLE" BlockTypeName="TRIGGER"/>
+      <MetaData meta="20" data="200" infoCount="1" MetaName="SLUSH_TIME">
+        <Info index="0" entity="30" EntityName="Razorfen Beastmaster"/>
+      </MetaData>
+      <TagChange entity="2" tag="1420" value="3"/>
+      <TagChange entity="2" tag="17" value="3" PlayStateName="LOSING" GameTagName="PLAYSTATE"/>
+      <TagChange entity="2" tag="17" value="2" PlayStateName="WINNING" GameTagName="PLAYSTATE"/>
+      <TagChange entity="4" tag="17" value="2" PlayStateName="WINNING" GameTagName="PLAYSTATE"/>
+      <TagChange entity="2" tag="17" value="4" PlayStateName="WON" GameTagName="PLAYSTATE"/>
+      <TagChange entity="2" tag="17" value="5" PlayStateName="LOST" GameTagName="PLAYSTATE"/>
+      <TagChange entity="4" tag="17" value="4" PlayStateName="WON" GameTagName="PLAYSTATE"/>
+      <TagChange entity="1" tag="198" value="14" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="FINAL_WRAPUP"/>
+      <TagChange entity="1" tag="19" value="14" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="FINAL_WRAPUP"/>
+      <TagChange entity="16" tag="1807" value="18" EntityCardID="LETL_036H_03" EntityCardName="Guff Runetotem" GameTagName="LETTUCE_ABILITY_USED_LAST_TURN"/>
+      <TagChange entity="19" tag="1807" value="20" EntityCardID="BARL_007H_03" EntityCardName="Lady Anacondra" GameTagName="LETTUCE_ABILITY_USED_LAST_TURN"/>
+      <TagChange entity="21" tag="1825" value="0" EntityCardID="BARL_017H_01" EntityCardName="Malfurion Stormrage"/>
+      <TagChange entity="21" tag="1807" value="22" EntityCardID="BARL_017H_01" EntityCardName="Malfurion Stormrage" GameTagName="LETTUCE_ABILITY_USED_LAST_TURN"/>
+    </Block>
+    <Block entity="1" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="25" ts="2021-10-19T15:04:04.863366" block_sequence_num="34" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
+      <SubSpell spellPrefabGuid="Mercenaries_EndOfGameSpell_Super.prefab:876139aaeeac35048acc1bc8a8854e0a" source="0" targetCount="0" ts="2021-10-19T15:04:04.863366"/>
+      <TagChange entity="1" tag="198" value="15" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="FINAL_GAMEOVER"/>
+    </Block>
+    <TagChange entity="1" tag="19" value="15" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="FINAL_GAMEOVER"/>
+    <TagChange entity="1" tag="204" value="3" EntityCardID="GameEntity" EntityCardName="GameEntity" StateName="COMPLETE" GameTagName="STATE"/>
+  </Game>
+</HSReplay>

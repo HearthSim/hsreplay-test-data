@@ -1,0 +1,1894 @@
+<HSReplay version="1.7">
+  <Game ts="2021-11-17T15:53:41.258883">
+    <GameEntity id="1">
+      <Tag tag="202" value="1" GameTagName="CARDTYPE" CardTypeName="GAME"/>
+      <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+      <Tag tag="53" value="1" GameTagName="ENTITY_ID"/>
+      <Tag tag="937" value="3790"/>
+      <Tag tag="1000" value="2" GameTagName="END_TURN_BUTTON_ALTERNATIVE_APPEARANCE"/>
+      <Tag tag="1402" value="1" GameTagName="USE_FAST_ACTOR_TRANSITION_ANIMATIONS"/>
+      <Tag tag="1448" value="1" GameTagName="DISABLE_TURN_INDICATORS"/>
+      <Tag tag="1473" value="1" GameTagName="ALWAYS_USE_FAST_ACTOR_TRIGGERS"/>
+      <Tag tag="1526" value="1" GameTagName="ALLOW_GAME_SPEEDUP"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1561" value="1" GameTagName="SKIP_MULLIGAN"/>
+      <Tag tag="1746" value="3"/>
+      <Tag tag="1808" value="3" GameTagName="LETTUCE_NODE_TYPE"/>
+      <Tag tag="1899" value="1"/>
+      <Tag tag="1960" value="1"/>
+      <Tag tag="1962" value="1"/>
+      <Tag tag="1976" value="1" GameTagName="LETTUCE_KEEP_LAST_STANDING_MINION_ACTOR"/>
+      <Tag tag="1990" value="1" GameTagName="LETTUCE_USE_DETERMINISTIC_TEAM_ABILITY_QUEUING"/>
+      <Tag tag="2017" value="6"/>
+      <Tag tag="2042" value="135714146" GameTagName="GAME_SEED"/>
+      <Tag tag="2120" value="57" GameTagName="LETTUCE_CURRENT_BOUNTY_ID"/>
+    </GameEntity>
+    <Player id="2" playerID="1" accountHi="0" accountLo="0">
+      <Tag tag="50" value="1" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="2" GameTagName="CARDTYPE" CardTypeName="PLAYER"/>
+      <Tag tag="30" value="1" GameTagName="PLAYER_ID"/>
+      <Tag tag="28" value="10" GameTagName="MAXHANDSIZE"/>
+      <Tag tag="29" value="4" GameTagName="STARTHANDSIZE"/>
+      <Tag tag="31" value="1" GameTagName="TEAM_ID"/>
+      <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+      <Tag tag="53" value="2" GameTagName="ENTITY_ID"/>
+      <Tag tag="176" value="10" GameTagName="MAXRESOURCES"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+    </Player>
+    <Player id="3" playerID="2" accountHi="0" accountLo="0">
+      <Tag tag="50" value="2" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="2" GameTagName="CARDTYPE" CardTypeName="PLAYER"/>
+      <Tag tag="30" value="2" GameTagName="PLAYER_ID"/>
+      <Tag tag="28" value="10" GameTagName="MAXHANDSIZE"/>
+      <Tag tag="29" value="4" GameTagName="STARTHANDSIZE"/>
+      <Tag tag="31" value="2" GameTagName="TEAM_ID"/>
+      <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+      <Tag tag="53" value="3" GameTagName="ENTITY_ID"/>
+      <Tag tag="176" value="10" GameTagName="MAXRESOURCES"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1704" value="3" GameTagName="LETTUCE_MAX_IN_PLAY_MERCENARIES"/>
+      <Tag tag="1708" value="1" GameTagName="LETTUCE_COOLDOWN_WHILE_BENCHED"/>
+    </Player>
+    <Player id="4" playerID="3" accountHi="144115211015832391" accountLo="62416475">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="2" GameTagName="CARDTYPE" CardTypeName="PLAYER"/>
+      <Tag tag="30" value="3" GameTagName="PLAYER_ID"/>
+      <Tag tag="28" value="10" GameTagName="MAXHANDSIZE"/>
+      <Tag tag="29" value="4" GameTagName="STARTHANDSIZE"/>
+      <Tag tag="31" value="1" GameTagName="TEAM_ID"/>
+      <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+      <Tag tag="53" value="4" GameTagName="ENTITY_ID"/>
+      <Tag tag="176" value="10" GameTagName="MAXRESOURCES"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1704" value="3" GameTagName="LETTUCE_MAX_IN_PLAY_MERCENARIES"/>
+      <Tag tag="1708" value="1" GameTagName="LETTUCE_COOLDOWN_WHILE_BENCHED"/>
+    </Player>
+    <FullEntity id="5" cardID="LETL_006H_01" EntityName="Lord Jaraxxus">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="4" GameTagName="CARDTYPE" CardTypeName="MINION"/>
+      <Tag tag="466" value="5" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="479" value="10"/>
+      <Tag tag="48" value="5" GameTagName="COST"/>
+      <Tag tag="47" value="9" GameTagName="ATK"/>
+      <Tag tag="45" value="76" GameTagName="HEALTH"/>
+      <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+      <Tag tag="53" value="5" GameTagName="ENTITY_ID"/>
+      <Tag tag="114" value="1" GameTagName="ELITE"/>
+      <Tag tag="200" value="15" GameTagName="CARDRACE" RaceName="DEMON"/>
+      <Tag tag="203" value="5" GameTagName="RARITY" RarityName="LEGENDARY"/>
+      <Tag tag="271" value="1" GameTagName="NUM_TURNS_IN_PLAY"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1665" value="1" GameTagName="LETTUCE_MERCENARY"/>
+      <Tag tag="1666" value="3" GameTagName="LETTUCE_ROLE" RoleName="TANK"/>
+      <Tag tag="1852" value="55000" GameTagName="LETTUCE_MERCENARY_EXPERIENCE"/>
+      <Tag tag="1856" value="72692" GameTagName="LETTUCE_EQUIPMENT_ID"/>
+      <Tag tag="2072" value="30"/>
+    </FullEntity>
+    <FullEntity id="6" cardID="LETL_006P8_05" EntityName="Legion Burst 5">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="23" GameTagName="CARDTYPE" CardTypeName="LETTUCE_ABILITY"/>
+      <Tag tag="466" value="8" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="48" value="8" GameTagName="COST"/>
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="53" value="6" GameTagName="ENTITY_ID"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1635" value="7" GameTagName="SPELL_SCHOOL" SpellSchoolName="FEL"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1654" value="5" GameTagName="LETTUCE_ABILITY_OWNER"/>
+      <Tag tag="1666" value="3" GameTagName="LETTUCE_ROLE" RoleName="TANK"/>
+      <Tag tag="2185" value="1" GameTagName="DEATHBLOW"/>
+    </FullEntity>
+    <FullEntity id="7" cardID="LETL_006P9_05" EntityName="Fist of Jaraxxus 5">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="23" GameTagName="CARDTYPE" CardTypeName="LETTUCE_ABILITY"/>
+      <Tag tag="466" value="4" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="48" value="4" GameTagName="COST"/>
+      <Tag tag="2" value="17" GameTagName="TAG_SCRIPT_DATA_NUM_1"/>
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="53" value="7" GameTagName="ENTITY_ID"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1635" value="7" GameTagName="SPELL_SCHOOL" SpellSchoolName="FEL"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1654" value="5" GameTagName="LETTUCE_ABILITY_OWNER"/>
+      <Tag tag="1666" value="3" GameTagName="LETTUCE_ROLE" RoleName="TANK"/>
+      <Tag tag="1669" value="1" GameTagName="LETTUCE_COOLDOWN_CONFIG"/>
+      <Tag tag="1724" value="1"/>
+    </FullEntity>
+    <FullEntity id="8" cardID="LETL_006P1_05" EntityName="Fel Infernal 5">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="23" GameTagName="CARDTYPE" CardTypeName="LETTUCE_ABILITY"/>
+      <Tag tag="466" value="4" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="479" value="15"/>
+      <Tag tag="48" value="4" GameTagName="COST"/>
+      <Tag tag="47" value="15" GameTagName="ATK"/>
+      <Tag tag="45" value="15" GameTagName="HEALTH"/>
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="53" value="8" GameTagName="ENTITY_ID"/>
+      <Tag tag="200" value="15" GameTagName="CARDRACE" RaceName="DEMON"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1654" value="5" GameTagName="LETTUCE_ABILITY_OWNER"/>
+      <Tag tag="1666" value="3" GameTagName="LETTUCE_ROLE" RoleName="TANK"/>
+      <Tag tag="1676" value="76393" GameTagName="LETTUCE_ABILITY_SUMMONED_MINION"/>
+      <Tag tag="1724" value="1"/>
+    </FullEntity>
+    <FullEntity id="9" cardID="LETL_601_01" EntityName="Amulet of Outrage 1">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="23" GameTagName="CARDTYPE" CardTypeName="LETTUCE_ABILITY"/>
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="53" value="9" GameTagName="ENTITY_ID"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="684" value="1" GameTagName="HIDE_COST"/>
+      <Tag tag="1020" value="1"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1654" value="5" GameTagName="LETTUCE_ABILITY_OWNER"/>
+      <Tag tag="1666" value="3" GameTagName="LETTUCE_ROLE" RoleName="TANK"/>
+      <Tag tag="1715" value="1"/>
+      <Tag tag="1855" value="1" GameTagName="LETTUCE_IS_EQUPIMENT"/>
+    </FullEntity>
+    <FullEntity id="10" cardID="LETL_522_01" EntityName="Fel Staff 1">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="23" GameTagName="CARDTYPE" CardTypeName="LETTUCE_ABILITY"/>
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="53" value="10" GameTagName="ENTITY_ID"/>
+      <Tag tag="201" value="3" GameTagName="FACTION" FactionName="NEUTRAL"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="402" value="1" GameTagName="HIDE_STATS"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1654" value="5" GameTagName="LETTUCE_ABILITY_OWNER"/>
+      <Tag tag="1666" value="3" GameTagName="LETTUCE_ROLE" RoleName="TANK"/>
+      <Tag tag="1671" value="1" GameTagName="LETTUCE_PASSIVE_ABILITY"/>
+      <Tag tag="1715" value="1"/>
+      <Tag tag="2170" value="1" GameTagName="LETTUCE_IS_TREASURE_CARD"/>
+    </FullEntity>
+    <FullEntity id="11" cardID="LETL_522e" EntityName="Fel Staff">
+      <Tag tag="50" value="1" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="6" GameTagName="CARDTYPE" CardTypeName="ENCHANTMENT"/>
+      <Tag tag="2" value="1" GameTagName="TAG_SCRIPT_DATA_NUM_1"/>
+      <Tag tag="40" value="5" GameTagName="ATTACHED"/>
+      <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+      <Tag tag="51" value="4" GameTagName="OWNER"/>
+      <Tag tag="53" value="11" GameTagName="ENTITY_ID"/>
+      <Tag tag="313" value="10" GameTagName="CREATOR"/>
+      <Tag tag="1037" value="3"/>
+      <Tag tag="1284" value="75756" GameTagName="CREATOR_DBID"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1951" value="1" GameTagName="SPELLPOWER_FEL"/>
+    </FullEntity>
+    <FullEntity id="12" cardID="LETL_032H_02" EntityName="Brightwing">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="4" GameTagName="CARDTYPE" CardTypeName="MINION"/>
+      <Tag tag="466" value="5" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="479" value="7"/>
+      <Tag tag="48" value="5" GameTagName="COST"/>
+      <Tag tag="47" value="7" GameTagName="ATK"/>
+      <Tag tag="45" value="77" GameTagName="HEALTH"/>
+      <Tag tag="12" value="1" GameTagName="PREMIUM"/>
+      <Tag tag="32" value="1" GameTagName="TRIGGER_VISUAL"/>
+      <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+      <Tag tag="53" value="12" GameTagName="ENTITY_ID"/>
+      <Tag tag="200" value="24" GameTagName="CARDRACE" RaceName="DRAGON"/>
+      <Tag tag="201" value="3" GameTagName="FACTION" FactionName="NEUTRAL"/>
+      <Tag tag="203" value="4" GameTagName="RARITY" RarityName="EPIC"/>
+      <Tag tag="271" value="1" GameTagName="NUM_TURNS_IN_PLAY"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1665" value="1" GameTagName="LETTUCE_MERCENARY"/>
+      <Tag tag="1666" value="1" GameTagName="LETTUCE_ROLE" RoleName="CASTER"/>
+      <Tag tag="1852" value="55000" GameTagName="LETTUCE_MERCENARY_EXPERIENCE"/>
+      <Tag tag="1856" value="70849" GameTagName="LETTUCE_EQUIPMENT_ID"/>
+      <Tag tag="2072" value="30"/>
+    </FullEntity>
+    <FullEntity id="13" cardID="LETL_032P6_05" EntityName="Faerie Breath 5">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="23" GameTagName="CARDTYPE" CardTypeName="LETTUCE_ABILITY"/>
+      <Tag tag="466" value="3" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="48" value="3" GameTagName="COST"/>
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="53" value="13" GameTagName="ENTITY_ID"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1635" value="4" GameTagName="SPELL_SCHOOL" SpellSchoolName="NATURE"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1654" value="12" GameTagName="LETTUCE_ABILITY_OWNER"/>
+      <Tag tag="1666" value="1" GameTagName="LETTUCE_ROLE" RoleName="CASTER"/>
+      <Tag tag="1724" value="1"/>
+    </FullEntity>
+    <FullEntity id="14" cardID="LETL_032P4_05" EntityName="Pixie Dust 5">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="23" GameTagName="CARDTYPE" CardTypeName="LETTUCE_ABILITY"/>
+      <Tag tag="466" value="4" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="48" value="4" GameTagName="COST"/>
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="53" value="14" GameTagName="ENTITY_ID"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="955" value="4" GameTagName="USE_ALTERNATE_CARD_TEXT"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1635" value="4" GameTagName="SPELL_SCHOOL" SpellSchoolName="NATURE"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1654" value="12" GameTagName="LETTUCE_ABILITY_OWNER"/>
+      <Tag tag="1666" value="1" GameTagName="LETTUCE_ROLE" RoleName="CASTER"/>
+      <Tag tag="1669" value="1" GameTagName="LETTUCE_COOLDOWN_CONFIG"/>
+      <Tag tag="1724" value="1"/>
+    </FullEntity>
+    <FullEntity id="15" cardID="LETL_032P5_05" EntityName="Phase Shift 5">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="23" GameTagName="CARDTYPE" CardTypeName="LETTUCE_ABILITY"/>
+      <Tag tag="466" value="4" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="48" value="4" GameTagName="COST"/>
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="53" value="15" GameTagName="ENTITY_ID"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1635" value="4" GameTagName="SPELL_SCHOOL" SpellSchoolName="NATURE"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1654" value="12" GameTagName="LETTUCE_ABILITY_OWNER"/>
+      <Tag tag="1666" value="1" GameTagName="LETTUCE_ROLE" RoleName="CASTER"/>
+      <Tag tag="1669" value="1" GameTagName="LETTUCE_COOLDOWN_CONFIG"/>
+      <Tag tag="1724" value="1"/>
+    </FullEntity>
+    <FullEntity id="16" cardID="LETL_614_04" EntityName="Pixie's Pouch 4">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="23" GameTagName="CARDTYPE" CardTypeName="LETTUCE_ABILITY"/>
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="53" value="16" GameTagName="ENTITY_ID"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="684" value="1" GameTagName="HIDE_COST"/>
+      <Tag tag="1020" value="1"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1654" value="12" GameTagName="LETTUCE_ABILITY_OWNER"/>
+      <Tag tag="1666" value="1" GameTagName="LETTUCE_ROLE" RoleName="CASTER"/>
+      <Tag tag="1715" value="1"/>
+      <Tag tag="1855" value="1" GameTagName="LETTUCE_IS_EQUPIMENT"/>
+    </FullEntity>
+    <FullEntity id="17" cardID="LETL_536_01" EntityName="Staff of Jordan 1">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="23" GameTagName="CARDTYPE" CardTypeName="LETTUCE_ABILITY"/>
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="53" value="17" GameTagName="ENTITY_ID"/>
+      <Tag tag="201" value="3" GameTagName="FACTION" FactionName="NEUTRAL"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="402" value="1" GameTagName="HIDE_STATS"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1654" value="12" GameTagName="LETTUCE_ABILITY_OWNER"/>
+      <Tag tag="1666" value="1" GameTagName="LETTUCE_ROLE" RoleName="CASTER"/>
+      <Tag tag="1671" value="1" GameTagName="LETTUCE_PASSIVE_ABILITY"/>
+      <Tag tag="1715" value="1"/>
+      <Tag tag="2170" value="1" GameTagName="LETTUCE_IS_TREASURE_CARD"/>
+    </FullEntity>
+    <FullEntity id="18" cardID="LETL_031H_02" EntityName="Alexstrasza">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="4" GameTagName="CARDTYPE" CardTypeName="MINION"/>
+      <Tag tag="466" value="5" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="479" value="8"/>
+      <Tag tag="48" value="5" GameTagName="COST"/>
+      <Tag tag="47" value="7" GameTagName="ATK"/>
+      <Tag tag="45" value="76" GameTagName="HEALTH"/>
+      <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+      <Tag tag="53" value="18" GameTagName="ENTITY_ID"/>
+      <Tag tag="114" value="1" GameTagName="ELITE"/>
+      <Tag tag="200" value="24" GameTagName="CARDRACE" RaceName="DRAGON"/>
+      <Tag tag="201" value="3" GameTagName="FACTION" FactionName="NEUTRAL"/>
+      <Tag tag="203" value="5" GameTagName="RARITY" RarityName="LEGENDARY"/>
+      <Tag tag="271" value="1" GameTagName="NUM_TURNS_IN_PLAY"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1665" value="1" GameTagName="LETTUCE_MERCENARY"/>
+      <Tag tag="1666" value="3" GameTagName="LETTUCE_ROLE" RoleName="TANK"/>
+      <Tag tag="1852" value="55000" GameTagName="LETTUCE_MERCENARY_EXPERIENCE"/>
+      <Tag tag="1856" value="71209" GameTagName="LETTUCE_EQUIPMENT_ID"/>
+      <Tag tag="2072" value="30"/>
+    </FullEntity>
+    <FullEntity id="19" cardID="LETL_031P7_05" EntityName="Dragon Breath 5">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="23" GameTagName="CARDTYPE" CardTypeName="LETTUCE_ABILITY"/>
+      <Tag tag="466" value="6" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="48" value="6" GameTagName="COST"/>
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="53" value="19" GameTagName="ENTITY_ID"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="955" value="4" GameTagName="USE_ALTERNATE_CARD_TEXT"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1635" value="2" GameTagName="SPELL_SCHOOL" SpellSchoolName="FIRE"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1654" value="18" GameTagName="LETTUCE_ABILITY_OWNER"/>
+      <Tag tag="1666" value="3" GameTagName="LETTUCE_ROLE" RoleName="TANK"/>
+      <Tag tag="1724" value="1"/>
+    </FullEntity>
+    <FullEntity id="20" cardID="LETL_031P4_05" EntityName="Flame Buffet 5">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="23" GameTagName="CARDTYPE" CardTypeName="LETTUCE_ABILITY"/>
+      <Tag tag="466" value="5" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="48" value="5" GameTagName="COST"/>
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="53" value="20" GameTagName="ENTITY_ID"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1635" value="2" GameTagName="SPELL_SCHOOL" SpellSchoolName="FIRE"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1654" value="18" GameTagName="LETTUCE_ABILITY_OWNER"/>
+      <Tag tag="1666" value="3" GameTagName="LETTUCE_ROLE" RoleName="TANK"/>
+      <Tag tag="1669" value="1" GameTagName="LETTUCE_COOLDOWN_CONFIG"/>
+    </FullEntity>
+    <FullEntity id="21" cardID="LETL_031P2_05" EntityName="Dragonqueen's Gambit 5">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="23" GameTagName="CARDTYPE" CardTypeName="LETTUCE_ABILITY"/>
+      <Tag tag="466" value="5" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="48" value="5" GameTagName="COST"/>
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="53" value="21" GameTagName="ENTITY_ID"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1635" value="2" GameTagName="SPELL_SCHOOL" SpellSchoolName="FIRE"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1654" value="18" GameTagName="LETTUCE_ABILITY_OWNER"/>
+      <Tag tag="1666" value="3" GameTagName="LETTUCE_ROLE" RoleName="TANK"/>
+      <Tag tag="1669" value="2" GameTagName="LETTUCE_COOLDOWN_CONFIG"/>
+      <Tag tag="1679" value="2"/>
+      <Tag tag="1724" value="1"/>
+    </FullEntity>
+    <FullEntity id="22" cardID="LETL_658_04" EntityName="Alexstrasza's Brooch 4">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="23" GameTagName="CARDTYPE" CardTypeName="LETTUCE_ABILITY"/>
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="53" value="22" GameTagName="ENTITY_ID"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="684" value="1" GameTagName="HIDE_COST"/>
+      <Tag tag="1020" value="1"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1654" value="18" GameTagName="LETTUCE_ABILITY_OWNER"/>
+      <Tag tag="1666" value="3" GameTagName="LETTUCE_ROLE" RoleName="TANK"/>
+      <Tag tag="1715" value="1"/>
+      <Tag tag="1855" value="1" GameTagName="LETTUCE_IS_EQUPIMENT"/>
+    </FullEntity>
+    <FullEntity id="23" cardID="BARL_008H_02" EntityName="Mutanus">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="4" GameTagName="CARDTYPE" CardTypeName="MINION"/>
+      <Tag tag="466" value="5" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="479" value="9"/>
+      <Tag tag="48" value="5" GameTagName="COST"/>
+      <Tag tag="47" value="8" GameTagName="ATK"/>
+      <Tag tag="45" value="75" GameTagName="HEALTH"/>
+      <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+      <Tag tag="53" value="23" GameTagName="ENTITY_ID"/>
+      <Tag tag="200" value="14" GameTagName="CARDRACE" RaceName="MURLOC"/>
+      <Tag tag="203" value="4" GameTagName="RARITY" RarityName="EPIC"/>
+      <Tag tag="271" value="1" GameTagName="NUM_TURNS_IN_PLAY"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1665" value="1" GameTagName="LETTUCE_MERCENARY"/>
+      <Tag tag="1666" value="2" GameTagName="LETTUCE_ROLE" RoleName="FIGHTER"/>
+      <Tag tag="1852" value="55000" GameTagName="LETTUCE_MERCENARY_EXPERIENCE"/>
+      <Tag tag="1856" value="72721" GameTagName="LETTUCE_EQUIPMENT_ID"/>
+      <Tag tag="2072" value="30"/>
+    </FullEntity>
+    <FullEntity id="24" cardID="LETL_280_05" EntityName="Devouring Attack 5">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="23" GameTagName="CARDTYPE" CardTypeName="LETTUCE_ABILITY"/>
+      <Tag tag="466" value="5" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="48" value="5" GameTagName="COST"/>
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="53" value="24" GameTagName="ENTITY_ID"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1654" value="23" GameTagName="LETTUCE_ABILITY_OWNER"/>
+      <Tag tag="1666" value="2" GameTagName="LETTUCE_ROLE" RoleName="FIGHTER"/>
+    </FullEntity>
+    <FullEntity id="25" cardID="LETL_004P1_05" EntityName="Scaly Taunt 5">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="23" GameTagName="CARDTYPE" CardTypeName="LETTUCE_ABILITY"/>
+      <Tag tag="466" value="1" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="48" value="1" GameTagName="COST"/>
+      <Tag tag="2" value="8" GameTagName="TAG_SCRIPT_DATA_NUM_1"/>
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="53" value="25" GameTagName="ENTITY_ID"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="955" value="3" GameTagName="USE_ALTERNATE_CARD_TEXT"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1654" value="23" GameTagName="LETTUCE_ABILITY_OWNER"/>
+      <Tag tag="1666" value="2" GameTagName="LETTUCE_ROLE" RoleName="FIGHTER"/>
+      <Tag tag="1724" value="1"/>
+    </FullEntity>
+    <FullEntity id="26" cardID="LETL_281_05" EntityName="Devour 5">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="23" GameTagName="CARDTYPE" CardTypeName="LETTUCE_ABILITY"/>
+      <Tag tag="466" value="4" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="48" value="4" GameTagName="COST"/>
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="53" value="26" GameTagName="ENTITY_ID"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1654" value="23" GameTagName="LETTUCE_ABILITY_OWNER"/>
+      <Tag tag="1666" value="2" GameTagName="LETTUCE_ROLE" RoleName="FIGHTER"/>
+      <Tag tag="1669" value="2" GameTagName="LETTUCE_COOLDOWN_CONFIG"/>
+    </FullEntity>
+    <FullEntity id="27" cardID="LETL_285_04" EntityName="Iridescent Necklace 4">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="23" GameTagName="CARDTYPE" CardTypeName="LETTUCE_ABILITY"/>
+      <Tag tag="2" value="3" GameTagName="TAG_SCRIPT_DATA_NUM_1"/>
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="53" value="27" GameTagName="ENTITY_ID"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="684" value="1" GameTagName="HIDE_COST"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1654" value="23" GameTagName="LETTUCE_ABILITY_OWNER"/>
+      <Tag tag="1666" value="2" GameTagName="LETTUCE_ROLE" RoleName="FIGHTER"/>
+      <Tag tag="1715" value="1"/>
+      <Tag tag="1855" value="1" GameTagName="LETTUCE_IS_EQUPIMENT"/>
+    </FullEntity>
+    <FullEntity id="28" cardID="LETL_541_01" EntityName="Double Time">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="23" GameTagName="CARDTYPE" CardTypeName="LETTUCE_ABILITY"/>
+      <Tag tag="466" value="8" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="48" value="8" GameTagName="COST"/>
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="53" value="28" GameTagName="ENTITY_ID"/>
+      <Tag tag="201" value="3" GameTagName="FACTION" FactionName="NEUTRAL"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1654" value="23" GameTagName="LETTUCE_ABILITY_OWNER"/>
+      <Tag tag="1666" value="2" GameTagName="LETTUCE_ROLE" RoleName="FIGHTER"/>
+      <Tag tag="2170" value="1" GameTagName="LETTUCE_IS_TREASURE_CARD"/>
+    </FullEntity>
+    <FullEntity id="29" cardID="LT21_05H_01" EntityName="Unknown card LT21_05H_01">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="4" GameTagName="CARDTYPE" CardTypeName="MINION"/>
+      <Tag tag="479" value="1"/>
+      <Tag tag="47" value="6" GameTagName="ATK"/>
+      <Tag tag="45" value="70" GameTagName="HEALTH"/>
+      <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+      <Tag tag="53" value="29" GameTagName="ENTITY_ID"/>
+      <Tag tag="200" value="14" GameTagName="CARDRACE" RaceName="MURLOC"/>
+      <Tag tag="201" value="3" GameTagName="FACTION" FactionName="NEUTRAL"/>
+      <Tag tag="203" value="3" GameTagName="RARITY" RarityName="RARE"/>
+      <Tag tag="271" value="1" GameTagName="NUM_TURNS_IN_PLAY"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1665" value="1" GameTagName="LETTUCE_MERCENARY"/>
+      <Tag tag="1666" value="1" GameTagName="LETTUCE_ROLE" RoleName="CASTER"/>
+      <Tag tag="1852" value="55000" GameTagName="LETTUCE_MERCENARY_EXPERIENCE"/>
+      <Tag tag="1856" value="77399" GameTagName="LETTUCE_EQUIPMENT_ID"/>
+      <Tag tag="2072" value="30"/>
+    </FullEntity>
+    <FullEntity id="30" cardID="LT21_05P3_05" EntityName="Unknown card LT21_05P3_05">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="23" GameTagName="CARDTYPE" CardTypeName="LETTUCE_ABILITY"/>
+      <Tag tag="466" value="2" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="48" value="2" GameTagName="COST"/>
+      <Tag tag="2" value="10" GameTagName="TAG_SCRIPT_DATA_NUM_1"/>
+      <Tag tag="3" value="15" GameTagName="TAG_SCRIPT_DATA_NUM_2"/>
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="53" value="30" GameTagName="ENTITY_ID"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1635" value="4" GameTagName="SPELL_SCHOOL" SpellSchoolName="NATURE"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1654" value="29" GameTagName="LETTUCE_ABILITY_OWNER"/>
+      <Tag tag="1666" value="1" GameTagName="LETTUCE_ROLE" RoleName="CASTER"/>
+      <Tag tag="1724" value="1"/>
+      <Tag tag="2185" value="1" GameTagName="DEATHBLOW"/>
+    </FullEntity>
+    <FullEntity id="31" cardID="LT21_05P1_05" EntityName="Unknown card LT21_05P1_05">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="23" GameTagName="CARDTYPE" CardTypeName="LETTUCE_ABILITY"/>
+      <Tag tag="466" value="5" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="48" value="5" GameTagName="COST"/>
+      <Tag tag="2" value="5" GameTagName="TAG_SCRIPT_DATA_NUM_1"/>
+      <Tag tag="3" value="5" GameTagName="TAG_SCRIPT_DATA_NUM_2"/>
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="53" value="31" GameTagName="ENTITY_ID"/>
+      <Tag tag="201" value="3" GameTagName="FACTION" FactionName="NEUTRAL"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="370" value="1" GameTagName="AFFECTED_BY_SPELL_POWER"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1635" value="4" GameTagName="SPELL_SCHOOL" SpellSchoolName="NATURE"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1654" value="29" GameTagName="LETTUCE_ABILITY_OWNER"/>
+      <Tag tag="1666" value="1" GameTagName="LETTUCE_ROLE" RoleName="CASTER"/>
+      <Tag tag="1669" value="1" GameTagName="LETTUCE_COOLDOWN_CONFIG"/>
+    </FullEntity>
+    <FullEntity id="32" cardID="LT21_05P2_05" EntityName="Unknown card LT21_05P2_05">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="23" GameTagName="CARDTYPE" CardTypeName="LETTUCE_ABILITY"/>
+      <Tag tag="466" value="4" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="48" value="4" GameTagName="COST"/>
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="53" value="32" GameTagName="ENTITY_ID"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1635" value="4" GameTagName="SPELL_SCHOOL" SpellSchoolName="NATURE"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1654" value="29" GameTagName="LETTUCE_ABILITY_OWNER"/>
+      <Tag tag="1666" value="1" GameTagName="LETTUCE_ROLE" RoleName="CASTER"/>
+      <Tag tag="1669" value="1" GameTagName="LETTUCE_COOLDOWN_CONFIG"/>
+    </FullEntity>
+    <FullEntity id="33" cardID="LT21_05E2_04" EntityName="Unknown card LT21_05E2_04">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="23" GameTagName="CARDTYPE" CardTypeName="LETTUCE_ABILITY"/>
+      <Tag tag="2" value="9" GameTagName="TAG_SCRIPT_DATA_NUM_1"/>
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="53" value="33" GameTagName="ENTITY_ID"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="684" value="1" GameTagName="HIDE_COST"/>
+      <Tag tag="968" value="1" GameTagName="START_OF_GAME"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1654" value="29" GameTagName="LETTUCE_ABILITY_OWNER"/>
+      <Tag tag="1666" value="1" GameTagName="LETTUCE_ROLE" RoleName="CASTER"/>
+      <Tag tag="1855" value="1" GameTagName="LETTUCE_IS_EQUPIMENT"/>
+      <Tag tag="2241" value="1" GameTagName="LETTUCE_START_OF_GAME_ABILITY"/>
+    </FullEntity>
+    <FullEntity id="34" cardID="BARL_010H_02" EntityName="Gul'dan">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="4" GameTagName="CARDTYPE" CardTypeName="MINION"/>
+      <Tag tag="466" value="4" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="479" value="5"/>
+      <Tag tag="48" value="4" GameTagName="COST"/>
+      <Tag tag="47" value="4" GameTagName="ATK"/>
+      <Tag tag="45" value="82" GameTagName="HEALTH"/>
+      <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+      <Tag tag="53" value="34" GameTagName="ENTITY_ID"/>
+      <Tag tag="114" value="1" GameTagName="ELITE"/>
+      <Tag tag="200" value="8" GameTagName="CARDRACE" RaceName="ORC"/>
+      <Tag tag="201" value="3" GameTagName="FACTION" FactionName="NEUTRAL"/>
+      <Tag tag="203" value="5" GameTagName="RARITY" RarityName="LEGENDARY"/>
+      <Tag tag="271" value="1" GameTagName="NUM_TURNS_IN_PLAY"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1665" value="1" GameTagName="LETTUCE_MERCENARY"/>
+      <Tag tag="1666" value="1" GameTagName="LETTUCE_ROLE" RoleName="CASTER"/>
+      <Tag tag="1852" value="55000" GameTagName="LETTUCE_MERCENARY_EXPERIENCE"/>
+      <Tag tag="1856" value="73020" GameTagName="LETTUCE_EQUIPMENT_ID"/>
+      <Tag tag="2072" value="30"/>
+    </FullEntity>
+    <FullEntity id="35" cardID="LETL_300_05" EntityName="Fel Bolt 5">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="23" GameTagName="CARDTYPE" CardTypeName="LETTUCE_ABILITY"/>
+      <Tag tag="466" value="10" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="48" value="10" GameTagName="COST"/>
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="53" value="35" GameTagName="ENTITY_ID"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1635" value="7" GameTagName="SPELL_SCHOOL" SpellSchoolName="FEL"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1654" value="34" GameTagName="LETTUCE_ABILITY_OWNER"/>
+      <Tag tag="1666" value="1" GameTagName="LETTUCE_ROLE" RoleName="CASTER"/>
+      <Tag tag="1679" value="1"/>
+    </FullEntity>
+    <FullEntity id="36" cardID="LETL_302_05" EntityName="Rain of Destruction 5">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="23" GameTagName="CARDTYPE" CardTypeName="LETTUCE_ABILITY"/>
+      <Tag tag="466" value="8" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="48" value="8" GameTagName="COST"/>
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="53" value="36" GameTagName="ENTITY_ID"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="955" value="2" GameTagName="USE_ALTERNATE_CARD_TEXT"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1635" value="7" GameTagName="SPELL_SCHOOL" SpellSchoolName="FEL"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1654" value="34" GameTagName="LETTUCE_ABILITY_OWNER"/>
+      <Tag tag="1666" value="1" GameTagName="LETTUCE_ROLE" RoleName="CASTER"/>
+      <Tag tag="1669" value="1" GameTagName="LETTUCE_COOLDOWN_CONFIG"/>
+      <Tag tag="1679" value="1"/>
+      <Tag tag="1724" value="1"/>
+    </FullEntity>
+    <FullEntity id="37" cardID="LETL_301_05" EntityName="Siphon Life 5">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="23" GameTagName="CARDTYPE" CardTypeName="LETTUCE_ABILITY"/>
+      <Tag tag="466" value="6" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="48" value="6" GameTagName="COST"/>
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="53" value="37" GameTagName="ENTITY_ID"/>
+      <Tag tag="201" value="3" GameTagName="FACTION" FactionName="NEUTRAL"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1635" value="6" GameTagName="SPELL_SCHOOL" SpellSchoolName="SHADOW"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1654" value="34" GameTagName="LETTUCE_ABILITY_OWNER"/>
+      <Tag tag="1666" value="1" GameTagName="LETTUCE_ROLE" RoleName="CASTER"/>
+      <Tag tag="1669" value="1" GameTagName="LETTUCE_COOLDOWN_CONFIG"/>
+      <Tag tag="1724" value="1"/>
+    </FullEntity>
+    <FullEntity id="38" cardID="LETL_304_02" EntityName="Blood of Mannoroth 2">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="23" GameTagName="CARDTYPE" CardTypeName="LETTUCE_ABILITY"/>
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="53" value="38" GameTagName="ENTITY_ID"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="684" value="1" GameTagName="HIDE_COST"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1654" value="34" GameTagName="LETTUCE_ABILITY_OWNER"/>
+      <Tag tag="1666" value="1" GameTagName="LETTUCE_ROLE" RoleName="CASTER"/>
+      <Tag tag="1715" value="1"/>
+      <Tag tag="1855" value="1" GameTagName="LETTUCE_IS_EQUPIMENT"/>
+    </FullEntity>
+    <FullEntity id="39" cardID="LETL_815e" EntityName="PvE Ferocious Quillboar Enchantment">
+      <Tag tag="50" value="2" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="6" GameTagName="CARDTYPE" CardTypeName="ENCHANTMENT"/>
+      <Tag tag="40" value="3" GameTagName="ATTACHED"/>
+      <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+      <Tag tag="53" value="39" GameTagName="ENTITY_ID"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+    </FullEntity>
+    <FullEntity id="40" cardID="LETL_815H" EntityName="Ferocious Quilboar">
+      <Tag tag="50" value="2" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="4" GameTagName="CARDTYPE" CardTypeName="MINION"/>
+      <Tag tag="1196" value="1"/>
+      <Tag tag="479" value="3"/>
+      <Tag tag="47" value="3" GameTagName="ATK"/>
+      <Tag tag="45" value="30" GameTagName="HEALTH"/>
+      <Tag tag="43" value="1" GameTagName="EXHAUSTED"/>
+      <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+      <Tag tag="53" value="40" GameTagName="ENTITY_ID"/>
+      <Tag tag="200" value="43" GameTagName="CARDRACE" RaceName="QUILBOAR"/>
+      <Tag tag="203" value="4" GameTagName="RARITY" RarityName="EPIC"/>
+      <Tag tag="263" value="1" GameTagName="ZONE_POSITION"/>
+      <Tag tag="313" value="39" GameTagName="CREATOR"/>
+      <Tag tag="1037" value="2"/>
+      <Tag tag="1254" value="39"/>
+      <Tag tag="1284" value="73035" GameTagName="CREATOR_DBID"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1653" value="2" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1665" value="1" GameTagName="LETTUCE_MERCENARY"/>
+      <Tag tag="1666" value="2" GameTagName="LETTUCE_ROLE" RoleName="FIGHTER"/>
+      <Tag tag="1852" value="160" GameTagName="LETTUCE_MERCENARY_EXPERIENCE"/>
+      <Tag tag="2072" value="4"/>
+      <Tag tag="2168" value="1" GameTagName="LETTUCE_BOUNTY_BOSS"/>
+    </FullEntity>
+    <FullEntity id="41">
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="50" value="2" GameTagName="CONTROLLER"/>
+      <Tag tag="53" value="41" GameTagName="ENTITY_ID"/>
+      <Tag tag="1666" value="2" GameTagName="LETTUCE_ROLE" RoleName="FIGHTER"/>
+    </FullEntity>
+    <FullEntity id="42">
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="50" value="2" GameTagName="CONTROLLER"/>
+      <Tag tag="53" value="42" GameTagName="ENTITY_ID"/>
+      <Tag tag="1666" value="2" GameTagName="LETTUCE_ROLE" RoleName="FIGHTER"/>
+    </FullEntity>
+    <FullEntity id="43" EntityName="Turf Takeover 1">
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="50" value="2" GameTagName="CONTROLLER"/>
+      <Tag tag="53" value="43" GameTagName="ENTITY_ID"/>
+      <Tag tag="1666" value="2" GameTagName="LETTUCE_ROLE" RoleName="FIGHTER"/>
+    </FullEntity>
+    <FullEntity id="44" cardID="LETL_815H2" EntityName="Death's Head Cultist">
+      <Tag tag="50" value="2" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="4" GameTagName="CARDTYPE" CardTypeName="MINION"/>
+      <Tag tag="1196" value="1"/>
+      <Tag tag="466" value="3" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="479" value="1"/>
+      <Tag tag="48" value="3" GameTagName="COST"/>
+      <Tag tag="47" value="1" GameTagName="ATK"/>
+      <Tag tag="45" value="22" GameTagName="HEALTH"/>
+      <Tag tag="43" value="1" GameTagName="EXHAUSTED"/>
+      <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+      <Tag tag="53" value="44" GameTagName="ENTITY_ID"/>
+      <Tag tag="200" value="43" GameTagName="CARDRACE" RaceName="QUILBOAR"/>
+      <Tag tag="203" value="1" GameTagName="RARITY" RarityName="COMMON"/>
+      <Tag tag="263" value="2" GameTagName="ZONE_POSITION"/>
+      <Tag tag="313" value="39" GameTagName="CREATOR"/>
+      <Tag tag="1037" value="2"/>
+      <Tag tag="1254" value="39"/>
+      <Tag tag="1284" value="73035" GameTagName="CREATOR_DBID"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1653" value="2" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1665" value="1" GameTagName="LETTUCE_MERCENARY"/>
+      <Tag tag="1666" value="1" GameTagName="LETTUCE_ROLE" RoleName="CASTER"/>
+      <Tag tag="1852" value="160" GameTagName="LETTUCE_MERCENARY_EXPERIENCE"/>
+      <Tag tag="2072" value="4"/>
+    </FullEntity>
+    <FullEntity id="45">
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="50" value="2" GameTagName="CONTROLLER"/>
+      <Tag tag="53" value="45" GameTagName="ENTITY_ID"/>
+      <Tag tag="1666" value="1" GameTagName="LETTUCE_ROLE" RoleName="CASTER"/>
+    </FullEntity>
+    <FullEntity id="46" EntityName="Flash Heal 1">
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="50" value="2" GameTagName="CONTROLLER"/>
+      <Tag tag="53" value="46" GameTagName="ENTITY_ID"/>
+      <Tag tag="1666" value="1" GameTagName="LETTUCE_ROLE" RoleName="CASTER"/>
+    </FullEntity>
+    <FullEntity id="47" EntityName="Shadow Bolt 1">
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="50" value="2" GameTagName="CONTROLLER"/>
+      <Tag tag="53" value="47" GameTagName="ENTITY_ID"/>
+      <Tag tag="1666" value="1" GameTagName="LETTUCE_ROLE" RoleName="CASTER"/>
+    </FullEntity>
+    <TagChange entity="1" tag="204" value="2" EntityCardID="GameEntity" EntityCardName="GameEntity" StateName="RUNNING" GameTagName="STATE"/>
+    <TagChange entity="2" tag="17" value="1" PlayStateName="PLAYING" GameTagName="PLAYSTATE"/>
+    <TagChange entity="3" tag="17" value="1" PlayStateName="PLAYING" GameTagName="PLAYSTATE"/>
+    <TagChange entity="4" tag="17" value="1" PlayStateName="PLAYING" GameTagName="PLAYSTATE"/>
+    <Block entity="1" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="14" ts="2021-11-17T15:53:41.258883" block_sequence_num="1" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
+      <TagChange entity="2" tag="23" value="1" GameTagName="CURRENT_PLAYER"/>
+      <TagChange entity="1" tag="198" value="13" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_NEXT"/>
+    </Block>
+    <TagChange entity="1" tag="19" value="13" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_NEXT"/>
+    <Block entity="1" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="15" ts="2021-11-17T15:53:41.442894" block_sequence_num="2" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
+      <TagChange entity="2" tag="23" value="0" GameTagName="CURRENT_PLAYER"/>
+      <TagChange entity="2" tag="23" value="1" GameTagName="CURRENT_PLAYER"/>
+      <TagChange entity="2" tag="272" value="1" GameTagName="NUM_TURNS_LEFT"/>
+      <TagChange entity="1" tag="20" value="1" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="TURN"/>
+      <TagChange entity="1" tag="1882" value="1" EntityCardID="GameEntity" EntityCardName="GameEntity"/>
+      <TagChange entity="2" tag="20" value="1" GameTagName="TURN"/>
+      <TagChange entity="1" tag="198" value="9" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_START"/>
+    </Block>
+    <TagChange entity="1" tag="19" value="9" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_START"/>
+    <Block entity="1" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="16" ts="2021-11-17T15:53:41.442894" block_sequence_num="3" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
+      <TagChange entity="1" tag="198" value="18" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_SET_ACTION_STEP_TYPE"/>
+    </Block>
+    <TagChange entity="1" tag="19" value="18" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_SET_ACTION_STEP_TYPE"/>
+    <Block entity="1" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="17" ts="2021-11-17T15:53:41.442894" block_sequence_num="4" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
+      <TagChange entity="4" tag="1705" value="3" GameTagName="LETTUCE_MERCENARIES_TO_NOMINATE"/>
+      <TagChange entity="1" tag="1700" value="1" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="ACTION_STEP_TYPE"/>
+      <TagChange entity="1" tag="198" value="19" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_PRE_ACTION"/>
+    </Block>
+    <TagChange entity="1" tag="19" value="19" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_PRE_ACTION"/>
+    <Block entity="1" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="18" ts="2021-11-17T15:53:41.442894" block_sequence_num="5" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
+      <TagChange entity="1" tag="6" value="1" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="MISSION_EVENT"/>
+      <TagChange entity="1" tag="1356" value="1" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="ALLOW_MOVE_MINION"/>
+      <MetaData meta="20" data="2000" infoCount="1" MetaName="SLUSH_TIME">
+        <Info index="0" entity="1" EntityName="GameEntity"/>
+      </MetaData>
+      <TagChange entity="1" tag="2228" value="3" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="LETTUCE_VERSUS_SPELL_STATE"/>
+      <TagChange entity="5" tag="1702" value="3" EntityCardID="LETL_006H_01" EntityCardName="Lord Jaraxxus" GameTagName="FAKE_ZONE" ZoneName="HAND"/>
+      <TagChange entity="5" tag="1702" value="3" EntityCardID="LETL_006H_01" EntityCardName="Lord Jaraxxus" GameTagName="FAKE_ZONE" ZoneName="HAND"/>
+      <TagChange entity="5" tag="1703" value="1" EntityCardID="LETL_006H_01" EntityCardName="Lord Jaraxxus" GameTagName="FAKE_ZONE_POSITION"/>
+      <TagChange entity="12" tag="1702" value="3" EntityCardID="LETL_032H_02" EntityCardName="Brightwing" GameTagName="FAKE_ZONE" ZoneName="HAND"/>
+      <TagChange entity="12" tag="1702" value="3" EntityCardID="LETL_032H_02" EntityCardName="Brightwing" GameTagName="FAKE_ZONE" ZoneName="HAND"/>
+      <TagChange entity="12" tag="1703" value="2" EntityCardID="LETL_032H_02" EntityCardName="Brightwing" GameTagName="FAKE_ZONE_POSITION"/>
+      <TagChange entity="18" tag="1702" value="3" EntityCardID="LETL_031H_02" EntityCardName="Alexstrasza" GameTagName="FAKE_ZONE" ZoneName="HAND"/>
+      <TagChange entity="18" tag="1702" value="3" EntityCardID="LETL_031H_02" EntityCardName="Alexstrasza" GameTagName="FAKE_ZONE" ZoneName="HAND"/>
+      <TagChange entity="18" tag="1703" value="3" EntityCardID="LETL_031H_02" EntityCardName="Alexstrasza" GameTagName="FAKE_ZONE_POSITION"/>
+      <TagChange entity="23" tag="1702" value="3" EntityCardID="BARL_008H_02" EntityCardName="Mutanus" GameTagName="FAKE_ZONE" ZoneName="HAND"/>
+      <TagChange entity="23" tag="1702" value="3" EntityCardID="BARL_008H_02" EntityCardName="Mutanus" GameTagName="FAKE_ZONE" ZoneName="HAND"/>
+      <TagChange entity="23" tag="1703" value="4" EntityCardID="BARL_008H_02" EntityCardName="Mutanus" GameTagName="FAKE_ZONE_POSITION"/>
+      <TagChange entity="29" tag="1702" value="3" EntityCardID="LT21_05H_01" EntityCardName="Unknown card LT21_05H_01" GameTagName="FAKE_ZONE" ZoneName="HAND"/>
+      <TagChange entity="29" tag="1702" value="3" EntityCardID="LT21_05H_01" EntityCardName="Unknown card LT21_05H_01" GameTagName="FAKE_ZONE" ZoneName="HAND"/>
+      <TagChange entity="29" tag="1703" value="5" EntityCardID="LT21_05H_01" EntityCardName="Unknown card LT21_05H_01" GameTagName="FAKE_ZONE_POSITION"/>
+      <TagChange entity="34" tag="1702" value="3" EntityCardID="BARL_010H_02" EntityCardName="Gul'dan" GameTagName="FAKE_ZONE" ZoneName="HAND"/>
+      <TagChange entity="34" tag="1702" value="3" EntityCardID="BARL_010H_02" EntityCardName="Gul'dan" GameTagName="FAKE_ZONE" ZoneName="HAND"/>
+      <TagChange entity="34" tag="1703" value="6" EntityCardID="BARL_010H_02" EntityCardName="Gul'dan" GameTagName="FAKE_ZONE_POSITION"/>
+      <MetaData meta="21" data="0" infoCount="1" MetaName="ARTIFICIAL_HISTORY_INTERRUPT">
+        <Info index="0" entity="1" EntityName="GameEntity"/>
+      </MetaData>
+      <TagChange entity="1" tag="2224" value="1" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="LETTUCE_SHOW_OPPOSING_FAKE_HAND"/>
+      <TagChange entity="1" tag="2228" value="5" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="LETTUCE_VERSUS_SPELL_STATE"/>
+      <SubSpell spellPrefabGuid="Lettuce_MercNomination_ToastSpell.prefab:08b446f360f30b64e81dce29abc7e06c" source="1" targetCount="0" ts="2021-11-17T15:53:41.442894"/>
+      <MetaData meta="20" data="2000" infoCount="1" MetaName="SLUSH_TIME">
+        <Info index="0" entity="1" EntityName="GameEntity"/>
+      </MetaData>
+      <MetaData meta="5" data="0" infoCount="2" MetaName="SHOW_BIG_CARD">
+        <Info index="0" entity="33" EntityName="Unknown card LT21_05E2_04"/>
+        <Info index="1" entity="1500"/>
+      </MetaData>
+      <TagChange entity="33" tag="1715" value="1" EntityCardID="LT21_05E2_04" EntityCardName="Unknown card LT21_05E2_04"/>
+      <MetaData meta="20" data="3000" infoCount="1" MetaName="SLUSH_TIME">
+        <Info index="0" entity="33" EntityName="Unknown card LT21_05E2_04"/>
+      </MetaData>
+      <Block entity="33" type="3" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2021-11-17T15:53:41.442894" block_sequence_num="6" EntityCardID="LT21_05E2_04" EntityCardName="Unknown card LT21_05E2_04" BlockTypeName="POWER">
+        <FullEntity id="48" EntityName="Unknown card LT21_05E2e">
+          <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+          <Tag tag="50" value="1" GameTagName="CONTROLLER"/>
+          <Tag tag="53" value="48" GameTagName="ENTITY_ID"/>
+        </FullEntity>
+        <ShowEntity entity="48" cardID="LT21_05E2e" EntityName="Unknown card LT21_05E2e">
+          <Tag tag="50" value="1" GameTagName="CONTROLLER"/>
+          <Tag tag="202" value="6" GameTagName="CARDTYPE" CardTypeName="ENCHANTMENT"/>
+          <Tag tag="2" value="9" GameTagName="TAG_SCRIPT_DATA_NUM_1"/>
+          <Tag tag="40" value="5" GameTagName="ATTACHED"/>
+          <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+          <Tag tag="53" value="48" GameTagName="ENTITY_ID"/>
+          <Tag tag="313" value="33" GameTagName="CREATOR"/>
+          <Tag tag="1037" value="3"/>
+          <Tag tag="1068" value="0"/>
+          <Tag tag="1284" value="77399" GameTagName="CREATOR_DBID"/>
+          <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+          <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+        </ShowEntity>
+        <TagChange entity="48" tag="1068" value="1" EntityCardID="LT21_05E2e" EntityCardName="Unknown card LT21_05E2e"/>
+        <TagChange entity="48" tag="1068" value="0" EntityCardID="LT21_05E2e" EntityCardName="Unknown card LT21_05E2e"/>
+        <TagChange entity="48" tag="49" value="1" EntityCardID="LT21_05E2e" EntityCardName="Unknown card LT21_05E2e" GameTagName="ZONE" ZoneName="PLAY"/>
+        <TagChange entity="5" tag="45" value="85" EntityCardID="LETL_006H_01" EntityCardName="Lord Jaraxxus" GameTagName="HEALTH"/>
+        <FullEntity id="49" EntityName="Unknown card LT21_05E2e">
+          <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+          <Tag tag="50" value="1" GameTagName="CONTROLLER"/>
+          <Tag tag="53" value="49" GameTagName="ENTITY_ID"/>
+        </FullEntity>
+        <ShowEntity entity="49" cardID="LT21_05E2e" EntityName="Unknown card LT21_05E2e">
+          <Tag tag="50" value="1" GameTagName="CONTROLLER"/>
+          <Tag tag="202" value="6" GameTagName="CARDTYPE" CardTypeName="ENCHANTMENT"/>
+          <Tag tag="2" value="9" GameTagName="TAG_SCRIPT_DATA_NUM_1"/>
+          <Tag tag="12" value="1" GameTagName="PREMIUM"/>
+          <Tag tag="40" value="12" GameTagName="ATTACHED"/>
+          <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+          <Tag tag="53" value="49" GameTagName="ENTITY_ID"/>
+          <Tag tag="313" value="33" GameTagName="CREATOR"/>
+          <Tag tag="1037" value="3"/>
+          <Tag tag="1068" value="0"/>
+          <Tag tag="1284" value="77399" GameTagName="CREATOR_DBID"/>
+          <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+          <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+        </ShowEntity>
+        <TagChange entity="49" tag="1068" value="1" EntityCardID="LT21_05E2e" EntityCardName="Unknown card LT21_05E2e"/>
+        <TagChange entity="49" tag="1068" value="0" EntityCardID="LT21_05E2e" EntityCardName="Unknown card LT21_05E2e"/>
+        <TagChange entity="49" tag="49" value="1" EntityCardID="LT21_05E2e" EntityCardName="Unknown card LT21_05E2e" GameTagName="ZONE" ZoneName="PLAY"/>
+        <TagChange entity="12" tag="45" value="86" EntityCardID="LETL_032H_02" EntityCardName="Brightwing" GameTagName="HEALTH"/>
+        <FullEntity id="50" EntityName="Unknown card LT21_05E2e">
+          <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+          <Tag tag="50" value="1" GameTagName="CONTROLLER"/>
+          <Tag tag="53" value="50" GameTagName="ENTITY_ID"/>
+        </FullEntity>
+        <ShowEntity entity="50" cardID="LT21_05E2e" EntityName="Unknown card LT21_05E2e">
+          <Tag tag="50" value="1" GameTagName="CONTROLLER"/>
+          <Tag tag="202" value="6" GameTagName="CARDTYPE" CardTypeName="ENCHANTMENT"/>
+          <Tag tag="2" value="9" GameTagName="TAG_SCRIPT_DATA_NUM_1"/>
+          <Tag tag="40" value="18" GameTagName="ATTACHED"/>
+          <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+          <Tag tag="53" value="50" GameTagName="ENTITY_ID"/>
+          <Tag tag="313" value="33" GameTagName="CREATOR"/>
+          <Tag tag="1037" value="3"/>
+          <Tag tag="1068" value="0"/>
+          <Tag tag="1284" value="77399" GameTagName="CREATOR_DBID"/>
+          <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+          <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+        </ShowEntity>
+        <TagChange entity="50" tag="1068" value="1" EntityCardID="LT21_05E2e" EntityCardName="Unknown card LT21_05E2e"/>
+        <TagChange entity="50" tag="1068" value="0" EntityCardID="LT21_05E2e" EntityCardName="Unknown card LT21_05E2e"/>
+        <TagChange entity="50" tag="49" value="1" EntityCardID="LT21_05E2e" EntityCardName="Unknown card LT21_05E2e" GameTagName="ZONE" ZoneName="PLAY"/>
+        <TagChange entity="18" tag="45" value="85" EntityCardID="LETL_031H_02" EntityCardName="Alexstrasza" GameTagName="HEALTH"/>
+        <FullEntity id="51" EntityName="Unknown card LT21_05E2e">
+          <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+          <Tag tag="50" value="1" GameTagName="CONTROLLER"/>
+          <Tag tag="53" value="51" GameTagName="ENTITY_ID"/>
+        </FullEntity>
+        <ShowEntity entity="51" cardID="LT21_05E2e" EntityName="Unknown card LT21_05E2e">
+          <Tag tag="50" value="1" GameTagName="CONTROLLER"/>
+          <Tag tag="202" value="6" GameTagName="CARDTYPE" CardTypeName="ENCHANTMENT"/>
+          <Tag tag="2" value="9" GameTagName="TAG_SCRIPT_DATA_NUM_1"/>
+          <Tag tag="40" value="23" GameTagName="ATTACHED"/>
+          <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+          <Tag tag="53" value="51" GameTagName="ENTITY_ID"/>
+          <Tag tag="313" value="33" GameTagName="CREATOR"/>
+          <Tag tag="1037" value="3"/>
+          <Tag tag="1068" value="0"/>
+          <Tag tag="1284" value="77399" GameTagName="CREATOR_DBID"/>
+          <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+          <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+        </ShowEntity>
+        <TagChange entity="51" tag="1068" value="1" EntityCardID="LT21_05E2e" EntityCardName="Unknown card LT21_05E2e"/>
+        <TagChange entity="51" tag="1068" value="0" EntityCardID="LT21_05E2e" EntityCardName="Unknown card LT21_05E2e"/>
+        <TagChange entity="51" tag="49" value="1" EntityCardID="LT21_05E2e" EntityCardName="Unknown card LT21_05E2e" GameTagName="ZONE" ZoneName="PLAY"/>
+        <TagChange entity="23" tag="45" value="84" EntityCardID="BARL_008H_02" EntityCardName="Mutanus" GameTagName="HEALTH"/>
+        <FullEntity id="52" EntityName="Unknown card LT21_05E2e">
+          <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+          <Tag tag="50" value="1" GameTagName="CONTROLLER"/>
+          <Tag tag="53" value="52" GameTagName="ENTITY_ID"/>
+        </FullEntity>
+        <ShowEntity entity="52" cardID="LT21_05E2e" EntityName="Unknown card LT21_05E2e">
+          <Tag tag="50" value="1" GameTagName="CONTROLLER"/>
+          <Tag tag="202" value="6" GameTagName="CARDTYPE" CardTypeName="ENCHANTMENT"/>
+          <Tag tag="2" value="9" GameTagName="TAG_SCRIPT_DATA_NUM_1"/>
+          <Tag tag="40" value="29" GameTagName="ATTACHED"/>
+          <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+          <Tag tag="53" value="52" GameTagName="ENTITY_ID"/>
+          <Tag tag="313" value="33" GameTagName="CREATOR"/>
+          <Tag tag="1037" value="3"/>
+          <Tag tag="1068" value="0"/>
+          <Tag tag="1284" value="77399" GameTagName="CREATOR_DBID"/>
+          <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+          <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+        </ShowEntity>
+        <TagChange entity="52" tag="1068" value="1" EntityCardID="LT21_05E2e" EntityCardName="Unknown card LT21_05E2e"/>
+        <TagChange entity="52" tag="1068" value="0" EntityCardID="LT21_05E2e" EntityCardName="Unknown card LT21_05E2e"/>
+        <TagChange entity="52" tag="49" value="1" EntityCardID="LT21_05E2e" EntityCardName="Unknown card LT21_05E2e" GameTagName="ZONE" ZoneName="PLAY"/>
+        <TagChange entity="29" tag="45" value="79" EntityCardID="LT21_05H_01" EntityCardName="Unknown card LT21_05H_01" GameTagName="HEALTH"/>
+        <FullEntity id="53" EntityName="Unknown card LT21_05E2e">
+          <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+          <Tag tag="50" value="1" GameTagName="CONTROLLER"/>
+          <Tag tag="53" value="53" GameTagName="ENTITY_ID"/>
+        </FullEntity>
+        <ShowEntity entity="53" cardID="LT21_05E2e" EntityName="Unknown card LT21_05E2e">
+          <Tag tag="50" value="1" GameTagName="CONTROLLER"/>
+          <Tag tag="202" value="6" GameTagName="CARDTYPE" CardTypeName="ENCHANTMENT"/>
+          <Tag tag="2" value="9" GameTagName="TAG_SCRIPT_DATA_NUM_1"/>
+          <Tag tag="40" value="34" GameTagName="ATTACHED"/>
+          <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+          <Tag tag="53" value="53" GameTagName="ENTITY_ID"/>
+          <Tag tag="313" value="33" GameTagName="CREATOR"/>
+          <Tag tag="1037" value="3"/>
+          <Tag tag="1068" value="0"/>
+          <Tag tag="1284" value="77399" GameTagName="CREATOR_DBID"/>
+          <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+          <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+        </ShowEntity>
+        <TagChange entity="53" tag="1068" value="1" EntityCardID="LT21_05E2e" EntityCardName="Unknown card LT21_05E2e"/>
+        <TagChange entity="53" tag="1068" value="0" EntityCardID="LT21_05E2e" EntityCardName="Unknown card LT21_05E2e"/>
+        <TagChange entity="53" tag="49" value="1" EntityCardID="LT21_05E2e" EntityCardName="Unknown card LT21_05E2e" GameTagName="ZONE" ZoneName="PLAY"/>
+        <TagChange entity="34" tag="45" value="91" EntityCardID="BARL_010H_02" EntityCardName="Gul'dan" GameTagName="HEALTH"/>
+        <MetaData meta="10" data="0" infoCount="1" MetaName="BEGIN_ARTIFICIAL_HISTORY_TILE">
+          <Info index="0" entity="33" EntityName="Unknown card LT21_05E2_04"/>
+        </MetaData>
+        <MetaData meta="25" data="0" infoCount="1" MetaName="HISTORY_SOURCE_OWNER">
+          <Info index="0" entity="29" EntityName="Unknown card LT21_05H_01"/>
+        </MetaData>
+        <MetaData meta="24" data="0" infoCount="1" MetaName="HISTORY_TRIGGER_SOURCE">
+          <Info index="0" entity="33" EntityName="Unknown card LT21_05E2_04"/>
+        </MetaData>
+        <MetaData meta="7" data="0" infoCount="6" MetaName="HISTORY_TARGET">
+          <Info index="0" entity="5" EntityName="Lord Jaraxxus"/>
+          <Info index="1" entity="12" EntityName="Brightwing"/>
+          <Info index="2" entity="18" EntityName="Alexstrasza"/>
+          <Info index="3" entity="23" EntityName="Mutanus"/>
+          <Info index="4" entity="29" EntityName="Unknown card LT21_05H_01"/>
+          <Info index="5" entity="34" EntityName="Gul'dan"/>
+        </MetaData>
+        <MetaData meta="12" data="0" infoCount="1" MetaName="END_ARTIFICIAL_HISTORY_TILE">
+          <Info index="0" entity="33" EntityName="Unknown card LT21_05E2_04"/>
+        </MetaData>
+        <TagChange entity="33" tag="1020" value="1" EntityCardID="LT21_05E2_04" EntityCardName="Unknown card LT21_05E2_04"/>
+      </Block>
+      <MetaData meta="20" data="1000" infoCount="1" MetaName="SLUSH_TIME">
+        <Info index="0" entity="33" EntityName="Unknown card LT21_05E2_04"/>
+      </MetaData>
+      <TagChange entity="1" tag="198" value="10" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_ACTION"/>
+    </Block>
+    <TagChange entity="1" tag="19" value="10" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_ACTION"/>
+    <Block entity="1" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="19" ts="2021-11-17T15:53:41.442894" block_sequence_num="7" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
+      <TagChange entity="1" tag="198" value="20" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_POST_ACTION"/>
+    </Block>
+    <Block entity="1" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="20" ts="2021-11-17T15:53:41.442894" block_sequence_num="8" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER"/>
+    <Options id="1" ts="2021-11-17T15:53:41.465895">
+      <Option index="0" error="-1" type="2"/>
+      <Option index="1" entity="5" type="3" EntityCardID="LETL_006H_01" EntityName="Lord Jaraxxus"/>
+      <Option index="2" entity="12" type="3" EntityCardID="LETL_032H_02" EntityName="Brightwing"/>
+      <Option index="3" entity="18" type="3" EntityCardID="LETL_031H_02" EntityName="Alexstrasza"/>
+      <Option index="4" entity="23" type="3" EntityCardID="BARL_008H_02" EntityName="Mutanus"/>
+      <Option index="5" entity="29" type="3" EntityCardID="LT21_05H_01" EntityName="Unknown card LT21_05H_01"/>
+      <Option index="6" entity="34" type="3" EntityCardID="BARL_010H_02" EntityName="Gul'dan"/>
+      <Option index="7" entity="48" type="3" EntityCardID="LT21_05E2e" EntityName="Unknown card LT21_05E2e"/>
+      <Option index="8" entity="49" type="3" EntityCardID="LT21_05E2e" EntityName="Unknown card LT21_05E2e"/>
+      <Option index="9" entity="50" type="3" EntityCardID="LT21_05E2e" EntityName="Unknown card LT21_05E2e"/>
+      <Option index="10" entity="51" type="3" EntityCardID="LT21_05E2e" EntityName="Unknown card LT21_05E2e"/>
+      <Option index="11" entity="52" type="3" EntityCardID="LT21_05E2e" EntityName="Unknown card LT21_05E2e"/>
+      <Option index="12" entity="53" type="3" EntityCardID="LT21_05E2e" EntityName="Unknown card LT21_05E2e"/>
+    </Options>
+    <SendOption option="3" subOption="-1" target="0" position="1" ts="2021-11-17T15:53:48.421293"/>
+    <MetaData meta="18" data="0" infoCount="5" MetaName="CONTROLLER_AND_ZONE_CHANGE">
+      <Info index="0" entity="18" EntityName="Alexstrasza"/>
+      <Info index="1" entity="2"/>
+      <Info index="2" entity="1" EntityName="GameEntity"/>
+      <Info index="3" entity="2"/>
+      <Info index="4" entity="1" EntityName="GameEntity"/>
+    </MetaData>
+    <TagChange entity="18" tag="2032" value="1" EntityCardID="LETL_031H_02" EntityCardName="Alexstrasza" GameTagName="FAKE_CONTROLLER"/>
+    <TagChange entity="18" tag="1702" value="1" EntityCardID="LETL_031H_02" EntityCardName="Alexstrasza" GameTagName="FAKE_ZONE" ZoneName="PLAY"/>
+    <TagChange entity="18" tag="1703" value="1" EntityCardID="LETL_031H_02" EntityCardName="Alexstrasza" GameTagName="FAKE_ZONE_POSITION"/>
+    <Options id="2" ts="2021-11-17T15:53:48.871319">
+      <Option index="0" error="-1" type="2"/>
+      <Option index="1" entity="5" type="3" EntityCardID="LETL_006H_01" EntityName="Lord Jaraxxus"/>
+      <Option index="2" entity="12" type="3" EntityCardID="LETL_032H_02" EntityName="Brightwing"/>
+      <Option index="3" entity="23" type="3" EntityCardID="BARL_008H_02" EntityName="Mutanus"/>
+      <Option index="4" entity="29" type="3" EntityCardID="LT21_05H_01" EntityName="Unknown card LT21_05H_01"/>
+      <Option index="5" entity="34" type="3" EntityCardID="BARL_010H_02" EntityName="Gul'dan"/>
+      <Option index="6" entity="18" type="3" EntityCardID="LETL_031H_02" EntityName="Alexstrasza"/>
+      <Option index="7" entity="48" type="3" EntityCardID="LT21_05E2e" EntityName="Unknown card LT21_05E2e"/>
+      <Option index="8" entity="49" type="3" EntityCardID="LT21_05E2e" EntityName="Unknown card LT21_05E2e"/>
+      <Option index="9" entity="50" type="3" EntityCardID="LT21_05E2e" EntityName="Unknown card LT21_05E2e"/>
+      <Option index="10" entity="51" type="3" EntityCardID="LT21_05E2e" EntityName="Unknown card LT21_05E2e"/>
+      <Option index="11" entity="52" type="3" EntityCardID="LT21_05E2e" EntityName="Unknown card LT21_05E2e"/>
+      <Option index="12" entity="53" type="3" EntityCardID="LT21_05E2e" EntityName="Unknown card LT21_05E2e"/>
+    </Options>
+    <SendOption option="4" subOption="-1" target="0" position="1" ts="2021-11-17T15:53:51.420465"/>
+    <MetaData meta="18" data="0" infoCount="5" MetaName="CONTROLLER_AND_ZONE_CHANGE">
+      <Info index="0" entity="29" EntityName="Unknown card LT21_05H_01"/>
+      <Info index="1" entity="2"/>
+      <Info index="2" entity="1" EntityName="GameEntity"/>
+      <Info index="3" entity="2"/>
+      <Info index="4" entity="1" EntityName="GameEntity"/>
+    </MetaData>
+    <TagChange entity="29" tag="2032" value="1" EntityCardID="LT21_05H_01" EntityCardName="Unknown card LT21_05H_01" GameTagName="FAKE_CONTROLLER"/>
+    <TagChange entity="29" tag="1702" value="1" EntityCardID="LT21_05H_01" EntityCardName="Unknown card LT21_05H_01" GameTagName="FAKE_ZONE" ZoneName="PLAY"/>
+    <TagChange entity="29" tag="1703" value="1" EntityCardID="LT21_05H_01" EntityCardName="Unknown card LT21_05H_01" GameTagName="FAKE_ZONE_POSITION"/>
+    <TagChange entity="18" tag="1703" value="2" EntityCardID="LETL_031H_02" EntityCardName="Alexstrasza" GameTagName="FAKE_ZONE_POSITION"/>
+    <Options id="3" ts="2021-11-17T15:53:51.869490">
+      <Option index="0" error="-1" type="2"/>
+      <Option index="1" entity="5" type="3" EntityCardID="LETL_006H_01" EntityName="Lord Jaraxxus"/>
+      <Option index="2" entity="12" type="3" EntityCardID="LETL_032H_02" EntityName="Brightwing"/>
+      <Option index="3" entity="23" type="3" EntityCardID="BARL_008H_02" EntityName="Mutanus"/>
+      <Option index="4" entity="34" type="3" EntityCardID="BARL_010H_02" EntityName="Gul'dan"/>
+      <Option index="5" entity="18" type="3" EntityCardID="LETL_031H_02" EntityName="Alexstrasza"/>
+      <Option index="6" entity="29" type="3" EntityCardID="LT21_05H_01" EntityName="Unknown card LT21_05H_01"/>
+      <Option index="7" entity="48" type="3" EntityCardID="LT21_05E2e" EntityName="Unknown card LT21_05E2e"/>
+      <Option index="8" entity="49" type="3" EntityCardID="LT21_05E2e" EntityName="Unknown card LT21_05E2e"/>
+      <Option index="9" entity="50" type="3" EntityCardID="LT21_05E2e" EntityName="Unknown card LT21_05E2e"/>
+      <Option index="10" entity="51" type="3" EntityCardID="LT21_05E2e" EntityName="Unknown card LT21_05E2e"/>
+      <Option index="11" entity="52" type="3" EntityCardID="LT21_05E2e" EntityName="Unknown card LT21_05E2e"/>
+      <Option index="12" entity="53" type="3" EntityCardID="LT21_05E2e" EntityName="Unknown card LT21_05E2e"/>
+    </Options>
+    <SendOption option="2" subOption="-1" target="0" position="3" ts="2021-11-17T15:53:52.336517"/>
+    <MetaData meta="18" data="0" infoCount="5" MetaName="CONTROLLER_AND_ZONE_CHANGE">
+      <Info index="0" entity="12" EntityName="Brightwing"/>
+      <Info index="1" entity="2"/>
+      <Info index="2" entity="1" EntityName="GameEntity"/>
+      <Info index="3" entity="2"/>
+      <Info index="4" entity="1" EntityName="GameEntity"/>
+    </MetaData>
+    <TagChange entity="12" tag="2032" value="1" EntityCardID="LETL_032H_02" EntityCardName="Brightwing" GameTagName="FAKE_CONTROLLER"/>
+    <TagChange entity="12" tag="1702" value="1" EntityCardID="LETL_032H_02" EntityCardName="Brightwing" GameTagName="FAKE_ZONE" ZoneName="PLAY"/>
+    <TagChange entity="12" tag="1703" value="3" EntityCardID="LETL_032H_02" EntityCardName="Brightwing" GameTagName="FAKE_ZONE_POSITION"/>
+    <SubSpell spellPrefabGuid="WaitForActorReadySpell.prefab:e6f0a7ee76509d44ca2ce74d7ec7683d" source="12" targetCount="0" ts="2021-11-17T15:53:52.543529"/>
+    <MetaData meta="18" data="0" infoCount="5" MetaName="CONTROLLER_AND_ZONE_CHANGE">
+      <Info index="0" entity="34" EntityName="Gul'dan"/>
+      <Info index="1" entity="2"/>
+      <Info index="2" entity="1" EntityName="GameEntity"/>
+      <Info index="3" entity="2"/>
+      <Info index="4" entity="2"/>
+    </MetaData>
+    <TagChange entity="34" tag="2032" value="1" EntityCardID="BARL_010H_02" EntityCardName="Gul'dan" GameTagName="FAKE_CONTROLLER"/>
+    <TagChange entity="34" tag="1702" value="2" EntityCardID="BARL_010H_02" EntityCardName="Gul'dan" GameTagName="FAKE_ZONE" ZoneName="DECK"/>
+    <TagChange entity="34" tag="1703" value="0" EntityCardID="BARL_010H_02" EntityCardName="Gul'dan" GameTagName="FAKE_ZONE_POSITION"/>
+    <MetaData meta="18" data="0" infoCount="5" MetaName="CONTROLLER_AND_ZONE_CHANGE">
+      <Info index="0" entity="23" EntityName="Mutanus"/>
+      <Info index="1" entity="2"/>
+      <Info index="2" entity="1" EntityName="GameEntity"/>
+      <Info index="3" entity="2"/>
+      <Info index="4" entity="2"/>
+    </MetaData>
+    <TagChange entity="23" tag="2032" value="1" EntityCardID="BARL_008H_02" EntityCardName="Mutanus" GameTagName="FAKE_CONTROLLER"/>
+    <TagChange entity="23" tag="1702" value="2" EntityCardID="BARL_008H_02" EntityCardName="Mutanus" GameTagName="FAKE_ZONE" ZoneName="DECK"/>
+    <TagChange entity="23" tag="1703" value="0" EntityCardID="BARL_008H_02" EntityCardName="Mutanus" GameTagName="FAKE_ZONE_POSITION"/>
+    <MetaData meta="18" data="0" infoCount="5" MetaName="CONTROLLER_AND_ZONE_CHANGE">
+      <Info index="0" entity="5" EntityName="Lord Jaraxxus"/>
+      <Info index="1" entity="2"/>
+      <Info index="2" entity="1" EntityName="GameEntity"/>
+      <Info index="3" entity="2"/>
+      <Info index="4" entity="2"/>
+    </MetaData>
+    <TagChange entity="5" tag="2032" value="1" EntityCardID="LETL_006H_01" EntityCardName="Lord Jaraxxus" GameTagName="FAKE_CONTROLLER"/>
+    <TagChange entity="5" tag="1702" value="2" EntityCardID="LETL_006H_01" EntityCardName="Lord Jaraxxus" GameTagName="FAKE_ZONE" ZoneName="DECK"/>
+    <TagChange entity="5" tag="1703" value="0" EntityCardID="LETL_006H_01" EntityCardName="Lord Jaraxxus" GameTagName="FAKE_ZONE_POSITION"/>
+    <Options id="4" ts="2021-11-17T15:53:52.769542">
+      <Option index="0" error="-1" type="2"/>
+      <Option index="1" entity="12" type="3" EntityCardID="LETL_032H_02" EntityName="Brightwing"/>
+      <Option index="2" entity="18" type="3" EntityCardID="LETL_031H_02" EntityName="Alexstrasza"/>
+      <Option index="3" entity="29" type="3" EntityCardID="LT21_05H_01" EntityName="Unknown card LT21_05H_01"/>
+      <Option index="4" entity="48" type="3" EntityCardID="LT21_05E2e" EntityName="Unknown card LT21_05E2e"/>
+      <Option index="5" entity="49" type="3" EntityCardID="LT21_05E2e" EntityName="Unknown card LT21_05E2e"/>
+      <Option index="6" entity="50" type="3" EntityCardID="LT21_05E2e" EntityName="Unknown card LT21_05E2e"/>
+      <Option index="7" entity="51" type="3" EntityCardID="LT21_05E2e" EntityName="Unknown card LT21_05E2e"/>
+      <Option index="8" entity="52" type="3" EntityCardID="LT21_05E2e" EntityName="Unknown card LT21_05E2e"/>
+      <Option index="9" entity="53" type="3" EntityCardID="LT21_05E2e" EntityName="Unknown card LT21_05E2e"/>
+    </Options>
+    <SendOption option="0" subOption="-1" target="0" position="0" ts="2021-11-17T15:53:53.186566"/>
+    <TagChange entity="1" tag="2224" value="0" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="LETTUCE_SHOW_OPPOSING_FAKE_HAND"/>
+    <TagChange entity="4" tag="1705" value="0" GameTagName="LETTUCE_MERCENARIES_TO_NOMINATE"/>
+    <TagChange entity="16" tag="410" value="1" EntityCardID="LETL_614_04" EntityCardName="Pixie's Pouch 4" GameTagName="REVEALED"/>
+    <TagChange entity="22" tag="410" value="1" EntityCardID="LETL_658_04" EntityCardName="Alexstrasza's Brooch 4" GameTagName="REVEALED"/>
+    <TagChange entity="33" tag="410" value="1" EntityCardID="LT21_05E2_04" EntityCardName="Unknown card LT21_05E2_04" GameTagName="REVEALED"/>
+    <MetaData meta="21" data="0" infoCount="0" MetaName="ARTIFICIAL_HISTORY_INTERRUPT"/>
+    <TagChange entity="29" tag="1067" value="2" EntityCardID="LT21_05H_01" EntityCardName="Unknown card LT21_05H_01"/>
+    <TagChange entity="29" tag="1067" value="0" EntityCardID="LT21_05H_01" EntityCardName="Unknown card LT21_05H_01"/>
+    <TagChange entity="29" tag="50" value="1" EntityCardID="LT21_05H_01" EntityCardName="Unknown card LT21_05H_01" GameTagName="CONTROLLER"/>
+    <TagChange entity="29" tag="1068" value="1" EntityCardID="LT21_05H_01" EntityCardName="Unknown card LT21_05H_01"/>
+    <TagChange entity="29" tag="1068" value="0" EntityCardID="LT21_05H_01" EntityCardName="Unknown card LT21_05H_01"/>
+    <TagChange entity="29" tag="49" value="1" EntityCardID="LT21_05H_01" EntityCardName="Unknown card LT21_05H_01" GameTagName="ZONE" ZoneName="PLAY"/>
+    <TagChange entity="29" tag="263" value="1" EntityCardID="LT21_05H_01" EntityCardName="Unknown card LT21_05H_01" GameTagName="ZONE_POSITION"/>
+    <TagChange entity="29" tag="271" value="0" EntityCardID="LT21_05H_01" EntityCardName="Unknown card LT21_05H_01" GameTagName="NUM_TURNS_IN_PLAY"/>
+    <TagChange entity="29" tag="1196" value="1" EntityCardID="LT21_05H_01" EntityCardName="Unknown card LT21_05H_01"/>
+    <TagChange entity="29" tag="43" value="1" EntityCardID="LT21_05H_01" EntityCardName="Unknown card LT21_05H_01" GameTagName="EXHAUSTED"/>
+    <TagChange entity="29" tag="1702" value="0" EntityCardID="LT21_05H_01" EntityCardName="Unknown card LT21_05H_01" GameTagName="FAKE_ZONE" ZoneName="INVALID"/>
+    <TagChange entity="29" tag="1703" value="0" EntityCardID="LT21_05H_01" EntityCardName="Unknown card LT21_05H_01" GameTagName="FAKE_ZONE_POSITION"/>
+    <TagChange entity="29" tag="2032" value="0" EntityCardID="LT21_05H_01" EntityCardName="Unknown card LT21_05H_01" GameTagName="FAKE_CONTROLLER"/>
+    <MetaData meta="21" data="0" infoCount="0" MetaName="ARTIFICIAL_HISTORY_INTERRUPT"/>
+    <SubSpell spellPrefabGuid="WaitForActorReadySpell.prefab:e6f0a7ee76509d44ca2ce74d7ec7683d" source="29" targetCount="0" ts="2021-11-17T15:53:53.653592"/>
+    <TagChange entity="18" tag="1067" value="2" EntityCardID="LETL_031H_02" EntityCardName="Alexstrasza"/>
+    <TagChange entity="18" tag="1067" value="0" EntityCardID="LETL_031H_02" EntityCardName="Alexstrasza"/>
+    <TagChange entity="18" tag="50" value="1" EntityCardID="LETL_031H_02" EntityCardName="Alexstrasza" GameTagName="CONTROLLER"/>
+    <TagChange entity="18" tag="1068" value="1" EntityCardID="LETL_031H_02" EntityCardName="Alexstrasza"/>
+    <TagChange entity="18" tag="1068" value="0" EntityCardID="LETL_031H_02" EntityCardName="Alexstrasza"/>
+    <TagChange entity="18" tag="49" value="1" EntityCardID="LETL_031H_02" EntityCardName="Alexstrasza" GameTagName="ZONE" ZoneName="PLAY"/>
+    <TagChange entity="18" tag="263" value="2" EntityCardID="LETL_031H_02" EntityCardName="Alexstrasza" GameTagName="ZONE_POSITION"/>
+    <TagChange entity="18" tag="271" value="0" EntityCardID="LETL_031H_02" EntityCardName="Alexstrasza" GameTagName="NUM_TURNS_IN_PLAY"/>
+    <TagChange entity="18" tag="1196" value="1" EntityCardID="LETL_031H_02" EntityCardName="Alexstrasza"/>
+    <TagChange entity="18" tag="43" value="1" EntityCardID="LETL_031H_02" EntityCardName="Alexstrasza" GameTagName="EXHAUSTED"/>
+    <TagChange entity="18" tag="1702" value="0" EntityCardID="LETL_031H_02" EntityCardName="Alexstrasza" GameTagName="FAKE_ZONE" ZoneName="INVALID"/>
+    <TagChange entity="18" tag="1703" value="0" EntityCardID="LETL_031H_02" EntityCardName="Alexstrasza" GameTagName="FAKE_ZONE_POSITION"/>
+    <TagChange entity="18" tag="2032" value="0" EntityCardID="LETL_031H_02" EntityCardName="Alexstrasza" GameTagName="FAKE_CONTROLLER"/>
+    <MetaData meta="21" data="0" infoCount="0" MetaName="ARTIFICIAL_HISTORY_INTERRUPT"/>
+    <SubSpell spellPrefabGuid="WaitForActorReadySpell.prefab:e6f0a7ee76509d44ca2ce74d7ec7683d" source="18" targetCount="0" ts="2021-11-17T15:53:53.653592"/>
+    <TagChange entity="12" tag="1067" value="2" EntityCardID="LETL_032H_02" EntityCardName="Brightwing"/>
+    <TagChange entity="12" tag="1067" value="0" EntityCardID="LETL_032H_02" EntityCardName="Brightwing"/>
+    <TagChange entity="12" tag="50" value="1" EntityCardID="LETL_032H_02" EntityCardName="Brightwing" GameTagName="CONTROLLER"/>
+    <TagChange entity="12" tag="1068" value="1" EntityCardID="LETL_032H_02" EntityCardName="Brightwing"/>
+    <TagChange entity="12" tag="1068" value="0" EntityCardID="LETL_032H_02" EntityCardName="Brightwing"/>
+    <TagChange entity="12" tag="49" value="1" EntityCardID="LETL_032H_02" EntityCardName="Brightwing" GameTagName="ZONE" ZoneName="PLAY"/>
+    <TagChange entity="12" tag="263" value="3" EntityCardID="LETL_032H_02" EntityCardName="Brightwing" GameTagName="ZONE_POSITION"/>
+    <TagChange entity="12" tag="271" value="0" EntityCardID="LETL_032H_02" EntityCardName="Brightwing" GameTagName="NUM_TURNS_IN_PLAY"/>
+    <TagChange entity="12" tag="1196" value="1" EntityCardID="LETL_032H_02" EntityCardName="Brightwing"/>
+    <TagChange entity="12" tag="43" value="1" EntityCardID="LETL_032H_02" EntityCardName="Brightwing" GameTagName="EXHAUSTED"/>
+    <TagChange entity="12" tag="1702" value="0" EntityCardID="LETL_032H_02" EntityCardName="Brightwing" GameTagName="FAKE_ZONE" ZoneName="INVALID"/>
+    <TagChange entity="12" tag="1703" value="0" EntityCardID="LETL_032H_02" EntityCardName="Brightwing" GameTagName="FAKE_ZONE_POSITION"/>
+    <TagChange entity="12" tag="2032" value="0" EntityCardID="LETL_032H_02" EntityCardName="Brightwing" GameTagName="FAKE_CONTROLLER"/>
+    <MetaData meta="21" data="0" infoCount="0" MetaName="ARTIFICIAL_HISTORY_INTERRUPT"/>
+    <SubSpell spellPrefabGuid="WaitForActorReadySpell.prefab:e6f0a7ee76509d44ca2ce74d7ec7683d" source="12" targetCount="0" ts="2021-11-17T15:53:53.653592"/>
+    <TagChange entity="12" tag="1196" value="0" EntityCardID="LETL_032H_02" EntityCardName="Brightwing"/>
+    <TagChange entity="18" tag="1196" value="0" EntityCardID="LETL_031H_02" EntityCardName="Alexstrasza"/>
+    <TagChange entity="29" tag="1196" value="0" EntityCardID="LT21_05H_01" EntityCardName="Unknown card LT21_05H_01"/>
+    <TagChange entity="40" tag="1196" value="0" EntityCardID="LETL_815H" EntityCardName="Ferocious Quilboar"/>
+    <TagChange entity="44" tag="1196" value="0" EntityCardID="LETL_815H2" EntityCardName="Death's Head Cultist"/>
+    <TagChange entity="29" tag="479" value="6" EntityCardID="LT21_05H_01" EntityCardName="Unknown card LT21_05H_01"/>
+    <TagChange entity="18" tag="479" value="7" EntityCardID="LETL_031H_02" EntityCardName="Alexstrasza"/>
+    <TagChange entity="1" tag="19" value="20" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_POST_ACTION"/>
+    <Block entity="1" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="6" ts="2021-11-17T15:53:53.653592" block_sequence_num="9" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
+      <TagChange entity="2" tag="20" value="2" GameTagName="TURN"/>
+      <MetaData meta="16" data="0" infoCount="1" MetaName="BEGIN_LISTENING_FOR_TURN_EVENTS">
+        <Info index="0" entity="1" EntityName="GameEntity"/>
+      </MetaData>
+      <TagChange entity="1" tag="198" value="18" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_SET_ACTION_STEP_TYPE"/>
+    </Block>
+    <TagChange entity="1" tag="19" value="18" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_SET_ACTION_STEP_TYPE"/>
+    <Block entity="1" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="17" ts="2021-11-17T15:53:53.653592" block_sequence_num="10" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
+      <TagChange entity="1" tag="1700" value="0" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="ACTION_STEP_TYPE"/>
+      <TagChange entity="1" tag="198" value="19" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_PRE_ACTION"/>
+    </Block>
+    <TagChange entity="1" tag="19" value="19" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_PRE_ACTION"/>
+    <Block entity="1" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="18" ts="2021-11-17T15:53:53.653592" block_sequence_num="11" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
+      <MetaData meta="20" data="8000" infoCount="1" MetaName="SLUSH_TIME">
+        <Info index="0" entity="1" EntityName="GameEntity"/>
+      </MetaData>
+      <TagChange entity="7" tag="1670" value="1" EntityCardID="LETL_006P9_05" EntityCardName="Fist of Jaraxxus 5" GameTagName="LETTUCE_CURRENT_COOLDOWN"/>
+      <TagChange entity="14" tag="1670" value="1" EntityCardID="LETL_032P4_05" EntityCardName="Pixie Dust 5" GameTagName="LETTUCE_CURRENT_COOLDOWN"/>
+      <TagChange entity="15" tag="1670" value="1" EntityCardID="LETL_032P5_05" EntityCardName="Phase Shift 5" GameTagName="LETTUCE_CURRENT_COOLDOWN"/>
+      <TagChange entity="20" tag="1670" value="1" EntityCardID="LETL_031P4_05" EntityCardName="Flame Buffet 5" GameTagName="LETTUCE_CURRENT_COOLDOWN"/>
+      <TagChange entity="21" tag="1670" value="2" EntityCardID="LETL_031P2_05" EntityCardName="Dragonqueen's Gambit 5" GameTagName="LETTUCE_CURRENT_COOLDOWN"/>
+      <TagChange entity="26" tag="1670" value="2" EntityCardID="LETL_281_05" EntityCardName="Devour 5" GameTagName="LETTUCE_CURRENT_COOLDOWN"/>
+      <TagChange entity="31" tag="1670" value="1" EntityCardID="LT21_05P1_05" EntityCardName="Unknown card LT21_05P1_05" GameTagName="LETTUCE_CURRENT_COOLDOWN"/>
+      <TagChange entity="32" tag="1670" value="1" EntityCardID="LT21_05P2_05" EntityCardName="Unknown card LT21_05P2_05" GameTagName="LETTUCE_CURRENT_COOLDOWN"/>
+      <TagChange entity="36" tag="1670" value="1" EntityCardID="LETL_302_05" EntityCardName="Rain of Destruction 5" GameTagName="LETTUCE_CURRENT_COOLDOWN"/>
+      <TagChange entity="37" tag="1670" value="1" EntityCardID="LETL_301_05" EntityCardName="Siphon Life 5" GameTagName="LETTUCE_CURRENT_COOLDOWN"/>
+      <TagChange entity="1" tag="6" value="2" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="MISSION_EVENT"/>
+      <TagChange entity="1" tag="1356" value="0" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="ALLOW_MOVE_MINION"/>
+      <MetaData meta="20" data="2000" infoCount="1" MetaName="SLUSH_TIME">
+        <Info index="0" entity="1" EntityName="GameEntity"/>
+      </MetaData>
+      <TagChange entity="1" tag="198" value="10" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_ACTION"/>
+    </Block>
+    <TagChange entity="1" tag="19" value="10" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_ACTION"/>
+    <Block entity="1" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="19" ts="2021-11-17T15:53:53.653592" block_sequence_num="12" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
+      <TagChange entity="1" tag="198" value="20" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_POST_ACTION"/>
+    </Block>
+    <Block entity="26" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2021-11-17T15:53:53.653592" block_sequence_num="13" EntityCardID="LETL_281_05" EntityCardName="Devour 5" BlockTypeName="TRIGGER"/>
+    <Block entity="39" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="1" ts="2021-11-17T15:53:53.653592" block_sequence_num="14" EntityCardID="LETL_815e" EntityCardName="PvE Ferocious Quillboar Enchantment" BlockTypeName="TRIGGER"/>
+    <TagChange entity="1" tag="1834" value="1" EntityCardID="GameEntity" EntityCardName="GameEntity"/>
+    <TagChange entity="1" tag="1834" value="2" EntityCardID="GameEntity" EntityCardName="GameEntity"/>
+    <TagChange entity="1" tag="1834" value="3" EntityCardID="GameEntity" EntityCardName="GameEntity"/>
+    <TagChange entity="1" tag="1834" value="4" EntityCardID="GameEntity" EntityCardName="GameEntity"/>
+    <TagChange entity="1" tag="1834" value="5" EntityCardID="GameEntity" EntityCardName="GameEntity"/>
+    <ShowEntity entity="43" cardID="LETL_815P2_01" EntityName="Turf Takeover 1">
+      <Tag tag="50" value="2" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="23" GameTagName="CARDTYPE" CardTypeName="LETTUCE_ABILITY"/>
+      <Tag tag="466" value="7" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="48" value="7" GameTagName="COST"/>
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="53" value="43" GameTagName="ENTITY_ID"/>
+      <Tag tag="313" value="39" GameTagName="CREATOR"/>
+      <Tag tag="410" value="1" GameTagName="REVEALED"/>
+      <Tag tag="1037" value="2"/>
+      <Tag tag="1068" value="0"/>
+      <Tag tag="1284" value="73035" GameTagName="CREATOR_DBID"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1653" value="2" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1654" value="40" GameTagName="LETTUCE_ABILITY_OWNER"/>
+      <Tag tag="1666" value="2" GameTagName="LETTUCE_ROLE" RoleName="FIGHTER"/>
+    </ShowEntity>
+    <TagChange entity="40" tag="1698" value="43" EntityCardID="LETL_815H" EntityCardName="Ferocious Quilboar" GameTagName="LETTUCE_ABILITY_TILE_VISUAL_ALL_VISIBLE"/>
+    <ShowEntity entity="47" cardID="LETL_040P3_01" EntityName="Shadow Bolt 1">
+      <Tag tag="50" value="2" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="23" GameTagName="CARDTYPE" CardTypeName="LETTUCE_ABILITY"/>
+      <Tag tag="466" value="5" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="48" value="5" GameTagName="COST"/>
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="53" value="47" GameTagName="ENTITY_ID"/>
+      <Tag tag="313" value="39" GameTagName="CREATOR"/>
+      <Tag tag="410" value="1" GameTagName="REVEALED"/>
+      <Tag tag="1037" value="2"/>
+      <Tag tag="1068" value="0"/>
+      <Tag tag="1284" value="73035" GameTagName="CREATOR_DBID"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1635" value="6" GameTagName="SPELL_SCHOOL" SpellSchoolName="SHADOW"/>
+      <Tag tag="1653" value="2" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1654" value="44" GameTagName="LETTUCE_ABILITY_OWNER"/>
+      <Tag tag="1666" value="1" GameTagName="LETTUCE_ROLE" RoleName="CASTER"/>
+      <Tag tag="1679" value="1"/>
+      <Tag tag="1724" value="1"/>
+    </ShowEntity>
+    <TagChange entity="44" tag="1698" value="47" EntityCardID="LETL_815H2" EntityCardName="Death's Head Cultist" GameTagName="LETTUCE_ABILITY_TILE_VISUAL_ALL_VISIBLE"/>
+    <Options id="5" ts="2021-11-17T15:53:53.668593">
+      <Option index="0" error="-1" type="2"/>
+      <Option index="1" entity="13" type="3" EntityCardID="LETL_032P6_05" EntityName="Faerie Breath 5">
+        <Target index="0" entity="40" EntityCardID="LETL_815H" EntityName="Ferocious Quilboar"/>
+        <Target index="1" entity="44" EntityCardID="LETL_815H2" EntityName="Death's Head Cultist"/>
+        <Target index="2" entity="29" EntityCardID="LT21_05H_01" EntityName="Unknown card LT21_05H_01"/>
+        <Target index="3" entity="18" EntityCardID="LETL_031H_02" EntityName="Alexstrasza"/>
+        <Target index="4" entity="12" EntityCardID="LETL_032H_02" EntityName="Brightwing"/>
+      </Option>
+      <Option index="2" entity="19" type="3" EntityCardID="LETL_031P7_05" EntityName="Dragon Breath 5">
+        <Target index="0" entity="40" EntityCardID="LETL_815H" EntityName="Ferocious Quilboar"/>
+        <Target index="1" entity="44" EntityCardID="LETL_815H2" EntityName="Death's Head Cultist"/>
+        <Target index="2" entity="29" EntityCardID="LT21_05H_01" EntityName="Unknown card LT21_05H_01"/>
+        <Target index="3" entity="18" EntityCardID="LETL_031H_02" EntityName="Alexstrasza"/>
+        <Target index="4" entity="12" EntityCardID="LETL_032H_02" EntityName="Brightwing"/>
+      </Option>
+      <Option index="3" entity="30" type="3" EntityCardID="LT21_05P3_05" EntityName="Unknown card LT21_05P3_05">
+        <Target index="0" entity="40" EntityCardID="LETL_815H" EntityName="Ferocious Quilboar"/>
+        <Target index="1" entity="44" EntityCardID="LETL_815H2" EntityName="Death's Head Cultist"/>
+        <Target index="2" entity="29" error="3" EntityCardID="LT21_05H_01" EntityName="Unknown card LT21_05H_01"/>
+        <Target index="3" entity="18" error="3" EntityCardID="LETL_031H_02" EntityName="Alexstrasza"/>
+        <Target index="4" entity="12" error="3" EntityCardID="LETL_032H_02" EntityName="Brightwing"/>
+      </Option>
+      <Option index="4" entity="14" error="107" type="3" EntityCardID="LETL_032P4_05" EntityName="Pixie Dust 5"/>
+      <Option index="5" entity="15" error="107" type="3" EntityCardID="LETL_032P5_05" EntityName="Phase Shift 5"/>
+      <Option index="6" entity="20" error="107" type="3" EntityCardID="LETL_031P4_05" EntityName="Flame Buffet 5"/>
+      <Option index="7" entity="21" error="107" type="3" EntityCardID="LETL_031P2_05" EntityName="Dragonqueen's Gambit 5"/>
+      <Option index="8" entity="31" error="107" type="3" EntityCardID="LT21_05P1_05" EntityName="Unknown card LT21_05P1_05"/>
+      <Option index="9" entity="32" error="107" type="3" EntityCardID="LT21_05P2_05" EntityName="Unknown card LT21_05P2_05"/>
+    </Options>
+    <SendOption option="0" subOption="-1" target="0" position="0" ts="2021-11-17T15:54:00.186966"/>
+    <TagChange entity="1" tag="19" value="20" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_POST_ACTION"/>
+    <Block entity="1" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="6" ts="2021-11-17T15:54:00.419979" block_sequence_num="15" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
+      <TagChange entity="1" tag="198" value="11" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_COMBAT"/>
+      <TagChange entity="1" tag="6" value="3" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="MISSION_EVENT"/>
+    </Block>
+    <TagChange entity="1" tag="19" value="11" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_COMBAT"/>
+    <Block entity="1" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="22" ts="2021-11-17T15:54:00.419979" block_sequence_num="16" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
+      <MetaData meta="20" data="2000" infoCount="1" MetaName="SLUSH_TIME">
+        <Info index="0" entity="1" EntityName="GameEntity"/>
+      </MetaData>
+      <TagChange entity="44" tag="1825" value="1" EntityCardID="LETL_815H2" EntityCardName="Death's Head Cultist"/>
+      <Block entity="47" type="7" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" target="12" ts="2021-11-17T15:54:00.419979" block_sequence_num="17" EntityCardID="LETL_040P3_01" EntityCardName="Shadow Bolt 1" TargetName="Brightwing" BlockTypeName="PLAY">
+        <TagChange entity="44" tag="1668" value="1" EntityCardID="LETL_815H2" EntityCardName="Death's Head Cultist" GameTagName="LETTUCE_IS_COMBAT_ACTION_TAKEN"/>
+        <FullEntity id="54" cardID="LETL_040P3_01" EntityName="Shadow Bolt 1">
+          <Tag tag="50" value="2" GameTagName="CONTROLLER"/>
+          <Tag tag="202" value="5" GameTagName="CARDTYPE" CardTypeName="SPELL"/>
+          <Tag tag="466" value="5" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+          <Tag tag="48" value="5" GameTagName="COST"/>
+          <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+          <Tag tag="53" value="54" GameTagName="ENTITY_ID"/>
+          <Tag tag="313" value="47" GameTagName="CREATOR"/>
+          <Tag tag="1284" value="66164" GameTagName="CREATOR_DBID"/>
+          <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+          <Tag tag="1635" value="6" GameTagName="SPELL_SCHOOL" SpellSchoolName="SHADOW"/>
+          <Tag tag="1653" value="2" GameTagName="LETTUCE_CONTROLLER"/>
+          <Tag tag="1654" value="44" GameTagName="LETTUCE_ABILITY_OWNER"/>
+          <Tag tag="1679" value="1"/>
+          <Tag tag="1724" value="1"/>
+          <Tag tag="2015" value="1" GameTagName="DONT_SHOW_IN_HISTORY"/>
+        </FullEntity>
+        <MetaData meta="20" data="3000" infoCount="1" MetaName="SLUSH_TIME">
+          <Info index="0" entity="54" EntityName="Shadow Bolt 1"/>
+        </MetaData>
+        <TagChange entity="54" tag="267" value="12" EntityCardID="LETL_040P3_01" EntityCardName="Shadow Bolt 1" GameTagName="CARD_TARGET"/>
+        <Block entity="54" type="3" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" target="12" ts="2021-11-17T15:54:00.419979" block_sequence_num="18" EntityCardID="LETL_040P3_01" EntityCardName="Shadow Bolt 1" TargetName="Brightwing" BlockTypeName="POWER">
+          <SubSpell spellPrefabGuid="ReuseFX_Missile_Void_Shadowbolt_Super:e6ce5b6e7e1250e4a92dac52a3508671" source="44" targetCount="1" ts="2021-11-17T15:54:00.419979">
+            <SubSpellTarget index="0" entity="12"/>
+            <MetaData meta="0" data="0" infoCount="1" MetaName="TARGET">
+              <Info index="0" entity="12" EntityName="Brightwing"/>
+            </MetaData>
+            <TagChange entity="12" tag="2187" value="54" EntityCardID="LETL_032H_02" EntityCardName="Brightwing"/>
+            <TagChange entity="12" tag="318" value="3" EntityCardID="LETL_032H_02" EntityCardName="Brightwing" GameTagName="PREDAMAGE"/>
+            <TagChange entity="12" tag="1173" value="12" EntityCardID="LETL_032H_02" EntityCardName="Brightwing"/>
+            <TagChange entity="12" tag="2187" value="0" EntityCardID="LETL_032H_02" EntityCardName="Brightwing"/>
+            <TagChange entity="12" tag="318" value="0" EntityCardID="LETL_032H_02" EntityCardName="Brightwing" GameTagName="PREDAMAGE"/>
+            <TagChange entity="12" tag="1173" value="0" EntityCardID="LETL_032H_02" EntityCardName="Brightwing"/>
+            <TagChange entity="12" tag="318" value="3" EntityCardID="LETL_032H_02" EntityCardName="Brightwing" GameTagName="PREDAMAGE"/>
+            <TagChange entity="12" tag="318" value="0" EntityCardID="LETL_032H_02" EntityCardName="Brightwing" GameTagName="PREDAMAGE"/>
+            <MetaData meta="1" data="3" infoCount="1" MetaName="DAMAGE">
+              <Info index="0" entity="12" EntityName="Brightwing"/>
+            </MetaData>
+            <TagChange entity="12" tag="18" value="54" EntityCardID="LETL_032H_02" EntityCardName="Brightwing" ValueReferenceCardID="LETL_040P3_01" ValueReferenceCardName="Shadow Bolt 1" GameTagName="LAST_AFFECTED_BY"/>
+            <TagChange entity="12" tag="44" value="3" EntityCardID="LETL_032H_02" EntityCardName="Brightwing" GameTagName="DAMAGE"/>
+            <Block entity="1" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="10" ts="2021-11-17T15:54:00.419979" block_sequence_num="19" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
+              <TagChange entity="12" tag="1775" value="1" EntityCardID="LETL_032H_02" EntityCardName="Brightwing"/>
+              <TagChange entity="12" tag="1924" value="1" EntityCardID="LETL_032H_02" EntityCardName="Brightwing"/>
+            </Block>
+          </SubSpell>
+        </Block>
+        <TagChange entity="44" tag="1814" value="47" EntityCardID="LETL_815H2" EntityCardName="Death's Head Cultist"/>
+      </Block>
+      <Block entity="43" type="7" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2021-11-17T15:54:00.419979" block_sequence_num="20" EntityCardID="LETL_815P2_01" EntityCardName="Turf Takeover 1" BlockTypeName="PLAY">
+        <TagChange entity="40" tag="1668" value="1" EntityCardID="LETL_815H" EntityCardName="Ferocious Quilboar" GameTagName="LETTUCE_IS_COMBAT_ACTION_TAKEN"/>
+        <FullEntity id="56" cardID="LETL_815P2_01" EntityName="Turf Takeover 1">
+          <Tag tag="50" value="2" GameTagName="CONTROLLER"/>
+          <Tag tag="202" value="5" GameTagName="CARDTYPE" CardTypeName="SPELL"/>
+          <Tag tag="466" value="7" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+          <Tag tag="48" value="7" GameTagName="COST"/>
+          <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+          <Tag tag="53" value="56" GameTagName="ENTITY_ID"/>
+          <Tag tag="313" value="43" GameTagName="CREATOR"/>
+          <Tag tag="1284" value="73032" GameTagName="CREATOR_DBID"/>
+          <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+          <Tag tag="1653" value="2" GameTagName="LETTUCE_CONTROLLER"/>
+          <Tag tag="1654" value="40" GameTagName="LETTUCE_ABILITY_OWNER"/>
+          <Tag tag="2015" value="1" GameTagName="DONT_SHOW_IN_HISTORY"/>
+        </FullEntity>
+        <MetaData meta="20" data="3000" infoCount="1" MetaName="SLUSH_TIME">
+          <Info index="0" entity="56" EntityName="Turf Takeover 1"/>
+        </MetaData>
+        <Block entity="56" type="3" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2021-11-17T15:54:00.419979" block_sequence_num="21" EntityCardID="LETL_815P2_01" EntityCardName="Turf Takeover 1" BlockTypeName="POWER">
+          <SubSpell spellPrefabGuid="ReuseFX_Missile_Rage_Slam_Small_Super_WithIdle_Duplicate:f627a772abe86e144abcd9cbd9bab985" source="40" targetCount="1" ts="2021-11-17T15:54:00.419979">
+            <SubSpellTarget index="0" entity="18"/>
+            <MetaData meta="0" data="0" infoCount="1" MetaName="TARGET">
+              <Info index="0" entity="18" EntityName="Alexstrasza"/>
+            </MetaData>
+            <TagChange entity="18" tag="2187" value="56" EntityCardID="LETL_031H_02" EntityCardName="Alexstrasza"/>
+            <TagChange entity="18" tag="318" value="8" EntityCardID="LETL_031H_02" EntityCardName="Alexstrasza" GameTagName="PREDAMAGE"/>
+            <TagChange entity="18" tag="1173" value="18" EntityCardID="LETL_031H_02" EntityCardName="Alexstrasza"/>
+            <TagChange entity="18" tag="2187" value="0" EntityCardID="LETL_031H_02" EntityCardName="Alexstrasza"/>
+            <TagChange entity="18" tag="318" value="0" EntityCardID="LETL_031H_02" EntityCardName="Alexstrasza" GameTagName="PREDAMAGE"/>
+            <TagChange entity="18" tag="1173" value="0" EntityCardID="LETL_031H_02" EntityCardName="Alexstrasza"/>
+            <TagChange entity="18" tag="318" value="8" EntityCardID="LETL_031H_02" EntityCardName="Alexstrasza" GameTagName="PREDAMAGE"/>
+            <TagChange entity="18" tag="318" value="0" EntityCardID="LETL_031H_02" EntityCardName="Alexstrasza" GameTagName="PREDAMAGE"/>
+            <MetaData meta="1" data="8" infoCount="1" MetaName="DAMAGE">
+              <Info index="0" entity="18" EntityName="Alexstrasza"/>
+            </MetaData>
+            <TagChange entity="18" tag="18" value="56" EntityCardID="LETL_031H_02" EntityCardName="Alexstrasza" ValueReferenceCardID="LETL_815P2_01" ValueReferenceCardName="Turf Takeover 1" GameTagName="LAST_AFFECTED_BY"/>
+            <TagChange entity="18" tag="44" value="8" EntityCardID="LETL_031H_02" EntityCardName="Alexstrasza" GameTagName="DAMAGE"/>
+            <Block entity="1" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="10" ts="2021-11-17T15:54:00.419979" block_sequence_num="22" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
+              <TagChange entity="18" tag="1775" value="1" EntityCardID="LETL_031H_02" EntityCardName="Alexstrasza"/>
+            </Block>
+          </SubSpell>
+        </Block>
+        <TagChange entity="40" tag="1814" value="43" EntityCardID="LETL_815H" EntityCardName="Ferocious Quilboar"/>
+      </Block>
+      <TagChange entity="40" tag="1826" value="1" EntityCardID="LETL_815H" EntityCardName="Ferocious Quilboar"/>
+      <TagChange entity="40" tag="1807" value="43" EntityCardID="LETL_815H" EntityCardName="Ferocious Quilboar" GameTagName="LETTUCE_ABILITY_USED_LAST_TURN"/>
+      <TagChange entity="44" tag="1825" value="0" EntityCardID="LETL_815H2" EntityCardName="Death's Head Cultist"/>
+      <TagChange entity="44" tag="1807" value="47" EntityCardID="LETL_815H2" EntityCardName="Death's Head Cultist" GameTagName="LETTUCE_ABILITY_USED_LAST_TURN"/>
+      <TagChange entity="1" tag="198" value="12" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_END"/>
+    </Block>
+    <TagChange entity="1" tag="19" value="12" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_END"/>
+    <Block entity="1" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="14" ts="2021-11-17T15:54:01.222025" block_sequence_num="23" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER"/>
+    <Block entity="1" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="23" ts="2021-11-17T15:54:01.222025" block_sequence_num="24" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
+      <TagChange entity="1" tag="198" value="16" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_CLEANUP"/>
+    </Block>
+    <TagChange entity="1" tag="19" value="16" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_CLEANUP"/>
+    <Block entity="1" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="24" ts="2021-11-17T15:54:01.222025" block_sequence_num="25" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
+      <TagChange entity="40" tag="1698" value="0" EntityCardID="LETL_815H" EntityCardName="Ferocious Quilboar" GameTagName="LETTUCE_ABILITY_TILE_VISUAL_ALL_VISIBLE"/>
+      <TagChange entity="44" tag="1698" value="0" EntityCardID="LETL_815H2" EntityCardName="Death's Head Cultist" GameTagName="LETTUCE_ABILITY_TILE_VISUAL_ALL_VISIBLE"/>
+      <TagChange entity="18" tag="1775" value="0" EntityCardID="LETL_031H_02" EntityCardName="Alexstrasza"/>
+      <TagChange entity="12" tag="1775" value="0" EntityCardID="LETL_032H_02" EntityCardName="Brightwing"/>
+      <TagChange entity="12" tag="1924" value="0" EntityCardID="LETL_032H_02" EntityCardName="Brightwing"/>
+      <TagChange entity="1" tag="198" value="13" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_NEXT"/>
+    </Block>
+    <TagChange entity="1" tag="19" value="13" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_NEXT"/>
+    <Block entity="1" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="15" ts="2021-11-17T15:54:01.222025" block_sequence_num="26" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
+      <TagChange entity="2" tag="23" value="0" GameTagName="CURRENT_PLAYER"/>
+      <TagChange entity="2" tag="23" value="1" GameTagName="CURRENT_PLAYER"/>
+      <TagChange entity="1" tag="20" value="2" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="TURN"/>
+      <TagChange entity="1" tag="1882" value="2" EntityCardID="GameEntity" EntityCardName="GameEntity"/>
+      <TagChange entity="2" tag="20" value="3" GameTagName="TURN"/>
+      <TagChange entity="1" tag="198" value="9" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_START"/>
+    </Block>
+    <TagChange entity="1" tag="19" value="9" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_START"/>
+    <Block entity="1" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="16" ts="2021-11-17T15:54:01.222025" block_sequence_num="27" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
+      <TagChange entity="1" tag="198" value="18" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_SET_ACTION_STEP_TYPE"/>
+    </Block>
+    <TagChange entity="1" tag="19" value="18" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_SET_ACTION_STEP_TYPE"/>
+    <Block entity="1" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="17" ts="2021-11-17T15:54:01.222025" block_sequence_num="28" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
+      <TagChange entity="1" tag="198" value="19" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_PRE_ACTION"/>
+    </Block>
+    <TagChange entity="1" tag="19" value="19" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_PRE_ACTION"/>
+    <Block entity="1" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="18" ts="2021-11-17T15:54:01.222025" block_sequence_num="29" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
+      <TagChange entity="7" tag="1670" value="0" EntityCardID="LETL_006P9_05" EntityCardName="Fist of Jaraxxus 5" GameTagName="LETTUCE_CURRENT_COOLDOWN"/>
+      <TagChange entity="14" tag="1670" value="0" EntityCardID="LETL_032P4_05" EntityCardName="Pixie Dust 5" GameTagName="LETTUCE_CURRENT_COOLDOWN"/>
+      <TagChange entity="15" tag="1670" value="0" EntityCardID="LETL_032P5_05" EntityCardName="Phase Shift 5" GameTagName="LETTUCE_CURRENT_COOLDOWN"/>
+      <TagChange entity="20" tag="1670" value="0" EntityCardID="LETL_031P4_05" EntityCardName="Flame Buffet 5" GameTagName="LETTUCE_CURRENT_COOLDOWN"/>
+      <TagChange entity="21" tag="1670" value="1" EntityCardID="LETL_031P2_05" EntityCardName="Dragonqueen's Gambit 5" GameTagName="LETTUCE_CURRENT_COOLDOWN"/>
+      <TagChange entity="26" tag="1670" value="1" EntityCardID="LETL_281_05" EntityCardName="Devour 5" GameTagName="LETTUCE_CURRENT_COOLDOWN"/>
+      <TagChange entity="31" tag="1670" value="0" EntityCardID="LT21_05P1_05" EntityCardName="Unknown card LT21_05P1_05" GameTagName="LETTUCE_CURRENT_COOLDOWN"/>
+      <TagChange entity="32" tag="1670" value="0" EntityCardID="LT21_05P2_05" EntityCardName="Unknown card LT21_05P2_05" GameTagName="LETTUCE_CURRENT_COOLDOWN"/>
+      <TagChange entity="36" tag="1670" value="0" EntityCardID="LETL_302_05" EntityCardName="Rain of Destruction 5" GameTagName="LETTUCE_CURRENT_COOLDOWN"/>
+      <TagChange entity="37" tag="1670" value="0" EntityCardID="LETL_301_05" EntityCardName="Siphon Life 5" GameTagName="LETTUCE_CURRENT_COOLDOWN"/>
+      <TagChange entity="1" tag="6" value="2" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="MISSION_EVENT"/>
+      <MetaData meta="20" data="2000" infoCount="1" MetaName="SLUSH_TIME">
+        <Info index="0" entity="1" EntityName="GameEntity"/>
+      </MetaData>
+      <TagChange entity="1" tag="198" value="10" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_ACTION"/>
+    </Block>
+    <TagChange entity="1" tag="19" value="10" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_ACTION"/>
+    <Block entity="1" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="19" ts="2021-11-17T15:54:01.222025" block_sequence_num="30" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
+      <TagChange entity="1" tag="198" value="20" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_POST_ACTION"/>
+    </Block>
+    <TagChange entity="40" tag="1668" value="0" EntityCardID="LETL_815H" EntityCardName="Ferocious Quilboar" GameTagName="LETTUCE_IS_COMBAT_ACTION_TAKEN"/>
+    <TagChange entity="44" tag="1668" value="0" EntityCardID="LETL_815H2" EntityCardName="Death's Head Cultist" GameTagName="LETTUCE_IS_COMBAT_ACTION_TAKEN"/>
+    <Block entity="26" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2021-11-17T15:54:01.222025" block_sequence_num="31" EntityCardID="LETL_281_05" EntityCardName="Devour 5" BlockTypeName="TRIGGER"/>
+    <Block entity="39" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="1" ts="2021-11-17T15:54:01.222025" block_sequence_num="32" EntityCardID="LETL_815e" EntityCardName="PvE Ferocious Quillboar Enchantment" BlockTypeName="TRIGGER"/>
+    <TagChange entity="1" tag="1834" value="6" EntityCardID="GameEntity" EntityCardName="GameEntity"/>
+    <TagChange entity="1" tag="1834" value="7" EntityCardID="GameEntity" EntityCardName="GameEntity"/>
+    <TagChange entity="1" tag="1834" value="8" EntityCardID="GameEntity" EntityCardName="GameEntity"/>
+    <TagChange entity="1" tag="1834" value="9" EntityCardID="GameEntity" EntityCardName="GameEntity"/>
+    <TagChange entity="1" tag="1834" value="10" EntityCardID="GameEntity" EntityCardName="GameEntity"/>
+    <TagChange entity="40" tag="1698" value="43" EntityCardID="LETL_815H" EntityCardName="Ferocious Quilboar" GameTagName="LETTUCE_ABILITY_TILE_VISUAL_ALL_VISIBLE"/>
+    <ShowEntity entity="46" cardID="LETL_407_01" EntityName="Flash Heal 1">
+      <Tag tag="50" value="2" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="23" GameTagName="CARDTYPE" CardTypeName="LETTUCE_ABILITY"/>
+      <Tag tag="466" value="4" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="48" value="4" GameTagName="COST"/>
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="53" value="46" GameTagName="ENTITY_ID"/>
+      <Tag tag="313" value="39" GameTagName="CREATOR"/>
+      <Tag tag="410" value="1" GameTagName="REVEALED"/>
+      <Tag tag="1037" value="2"/>
+      <Tag tag="1068" value="0"/>
+      <Tag tag="1284" value="73035" GameTagName="CREATOR_DBID"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1635" value="5" GameTagName="SPELL_SCHOOL" SpellSchoolName="HOLY"/>
+      <Tag tag="1653" value="2" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1654" value="44" GameTagName="LETTUCE_ABILITY_OWNER"/>
+      <Tag tag="1666" value="1" GameTagName="LETTUCE_ROLE" RoleName="CASTER"/>
+      <Tag tag="1679" value="2"/>
+      <Tag tag="1724" value="1"/>
+    </ShowEntity>
+    <TagChange entity="44" tag="1698" value="46" EntityCardID="LETL_815H2" EntityCardName="Death's Head Cultist" GameTagName="LETTUCE_ABILITY_TILE_VISUAL_ALL_VISIBLE"/>
+    <Options id="6" ts="2021-11-17T15:54:01.439038">
+      <Option index="0" error="-1" type="2"/>
+      <Option index="1" entity="13" type="3" EntityCardID="LETL_032P6_05" EntityName="Faerie Breath 5">
+        <Target index="0" entity="40" EntityCardID="LETL_815H" EntityName="Ferocious Quilboar"/>
+        <Target index="1" entity="44" EntityCardID="LETL_815H2" EntityName="Death's Head Cultist"/>
+        <Target index="2" entity="29" EntityCardID="LT21_05H_01" EntityName="Unknown card LT21_05H_01"/>
+        <Target index="3" entity="18" EntityCardID="LETL_031H_02" EntityName="Alexstrasza"/>
+        <Target index="4" entity="12" EntityCardID="LETL_032H_02" EntityName="Brightwing"/>
+      </Option>
+      <Option index="2" entity="14" type="3" EntityCardID="LETL_032P4_05" EntityName="Pixie Dust 5"/>
+      <Option index="3" entity="15" type="3" EntityCardID="LETL_032P5_05" EntityName="Phase Shift 5"/>
+      <Option index="4" entity="19" type="3" EntityCardID="LETL_031P7_05" EntityName="Dragon Breath 5">
+        <Target index="0" entity="40" EntityCardID="LETL_815H" EntityName="Ferocious Quilboar"/>
+        <Target index="1" entity="44" EntityCardID="LETL_815H2" EntityName="Death's Head Cultist"/>
+        <Target index="2" entity="29" EntityCardID="LT21_05H_01" EntityName="Unknown card LT21_05H_01"/>
+        <Target index="3" entity="18" EntityCardID="LETL_031H_02" EntityName="Alexstrasza"/>
+        <Target index="4" entity="12" EntityCardID="LETL_032H_02" EntityName="Brightwing"/>
+      </Option>
+      <Option index="5" entity="20" type="3" EntityCardID="LETL_031P4_05" EntityName="Flame Buffet 5">
+        <Target index="0" entity="40" EntityCardID="LETL_815H" EntityName="Ferocious Quilboar"/>
+        <Target index="1" entity="44" EntityCardID="LETL_815H2" EntityName="Death's Head Cultist"/>
+        <Target index="2" entity="29" error="3" EntityCardID="LT21_05H_01" EntityName="Unknown card LT21_05H_01"/>
+        <Target index="3" entity="18" error="3" EntityCardID="LETL_031H_02" EntityName="Alexstrasza"/>
+        <Target index="4" entity="12" error="3" EntityCardID="LETL_032H_02" EntityName="Brightwing"/>
+      </Option>
+      <Option index="6" entity="30" type="3" EntityCardID="LT21_05P3_05" EntityName="Unknown card LT21_05P3_05">
+        <Target index="0" entity="40" EntityCardID="LETL_815H" EntityName="Ferocious Quilboar"/>
+        <Target index="1" entity="44" EntityCardID="LETL_815H2" EntityName="Death's Head Cultist"/>
+        <Target index="2" entity="29" error="3" EntityCardID="LT21_05H_01" EntityName="Unknown card LT21_05H_01"/>
+        <Target index="3" entity="18" error="3" EntityCardID="LETL_031H_02" EntityName="Alexstrasza"/>
+        <Target index="4" entity="12" error="3" EntityCardID="LETL_032H_02" EntityName="Brightwing"/>
+      </Option>
+      <Option index="7" entity="31" type="3" EntityCardID="LT21_05P1_05" EntityName="Unknown card LT21_05P1_05"/>
+      <Option index="8" entity="32" type="3" EntityCardID="LT21_05P2_05" EntityName="Unknown card LT21_05P2_05"/>
+      <Option index="9" entity="21" error="107" type="3" EntityCardID="LETL_031P2_05" EntityName="Dragonqueen's Gambit 5"/>
+    </Options>
+    <SendOption option="8" subOption="-1" target="0" position="0" ts="2021-11-17T15:54:05.419265"/>
+    <TagChange entity="29" tag="1697" value="32" EntityCardID="LT21_05H_01" EntityCardName="Unknown card LT21_05H_01" GameTagName="LETTUCE_ABILITY_TILE_VISUAL_SELF_ONLY"/>
+    <TagChange entity="29" tag="1967" value="1" EntityCardID="LT21_05H_01" EntityCardName="Unknown card LT21_05H_01" GameTagName="LETTUCE_HAS_MANUALLY_SELECTED_ABILITY"/>
+    <Options id="7" ts="2021-11-17T15:54:05.819288">
+      <Option index="0" error="-1" type="2"/>
+      <Option index="1" entity="13" type="3" EntityCardID="LETL_032P6_05" EntityName="Faerie Breath 5">
+        <Target index="0" entity="40" EntityCardID="LETL_815H" EntityName="Ferocious Quilboar"/>
+        <Target index="1" entity="44" EntityCardID="LETL_815H2" EntityName="Death's Head Cultist"/>
+        <Target index="2" entity="29" EntityCardID="LT21_05H_01" EntityName="Unknown card LT21_05H_01"/>
+        <Target index="3" entity="18" EntityCardID="LETL_031H_02" EntityName="Alexstrasza"/>
+        <Target index="4" entity="12" EntityCardID="LETL_032H_02" EntityName="Brightwing"/>
+      </Option>
+      <Option index="2" entity="14" type="3" EntityCardID="LETL_032P4_05" EntityName="Pixie Dust 5"/>
+      <Option index="3" entity="15" type="3" EntityCardID="LETL_032P5_05" EntityName="Phase Shift 5"/>
+      <Option index="4" entity="19" type="3" EntityCardID="LETL_031P7_05" EntityName="Dragon Breath 5">
+        <Target index="0" entity="40" EntityCardID="LETL_815H" EntityName="Ferocious Quilboar"/>
+        <Target index="1" entity="44" EntityCardID="LETL_815H2" EntityName="Death's Head Cultist"/>
+        <Target index="2" entity="29" EntityCardID="LT21_05H_01" EntityName="Unknown card LT21_05H_01"/>
+        <Target index="3" entity="18" EntityCardID="LETL_031H_02" EntityName="Alexstrasza"/>
+        <Target index="4" entity="12" EntityCardID="LETL_032H_02" EntityName="Brightwing"/>
+      </Option>
+      <Option index="5" entity="20" type="3" EntityCardID="LETL_031P4_05" EntityName="Flame Buffet 5">
+        <Target index="0" entity="40" EntityCardID="LETL_815H" EntityName="Ferocious Quilboar"/>
+        <Target index="1" entity="44" EntityCardID="LETL_815H2" EntityName="Death's Head Cultist"/>
+        <Target index="2" entity="29" error="3" EntityCardID="LT21_05H_01" EntityName="Unknown card LT21_05H_01"/>
+        <Target index="3" entity="18" error="3" EntityCardID="LETL_031H_02" EntityName="Alexstrasza"/>
+        <Target index="4" entity="12" error="3" EntityCardID="LETL_032H_02" EntityName="Brightwing"/>
+      </Option>
+      <Option index="6" entity="30" type="3" EntityCardID="LT21_05P3_05" EntityName="Unknown card LT21_05P3_05">
+        <Target index="0" entity="40" EntityCardID="LETL_815H" EntityName="Ferocious Quilboar"/>
+        <Target index="1" entity="44" EntityCardID="LETL_815H2" EntityName="Death's Head Cultist"/>
+        <Target index="2" entity="29" error="3" EntityCardID="LT21_05H_01" EntityName="Unknown card LT21_05H_01"/>
+        <Target index="3" entity="18" error="3" EntityCardID="LETL_031H_02" EntityName="Alexstrasza"/>
+        <Target index="4" entity="12" error="3" EntityCardID="LETL_032H_02" EntityName="Brightwing"/>
+      </Option>
+      <Option index="7" entity="31" type="3" EntityCardID="LT21_05P1_05" EntityName="Unknown card LT21_05P1_05"/>
+      <Option index="8" entity="32" type="3" EntityCardID="LT21_05P2_05" EntityName="Unknown card LT21_05P2_05"/>
+      <Option index="9" entity="29" type="3" EntityCardID="LT21_05H_01" EntityName="Unknown card LT21_05H_01"/>
+      <Option index="10" entity="21" error="107" type="3" EntityCardID="LETL_031P2_05" EntityName="Dragonqueen's Gambit 5"/>
+    </Options>
+    <SendOption option="5" subOption="-1" target="44" position="0" ts="2021-11-17T15:54:07.586389"/>
+    <TagChange entity="18" tag="1697" value="20" EntityCardID="LETL_031H_02" EntityCardName="Alexstrasza" GameTagName="LETTUCE_ABILITY_TILE_VISUAL_SELF_ONLY"/>
+    <TagChange entity="18" tag="1657" value="44" EntityCardID="LETL_031H_02" EntityCardName="Alexstrasza" GameTagName="LETTUCE_SELECTED_TARGET"/>
+    <TagChange entity="18" tag="1967" value="1" EntityCardID="LETL_031H_02" EntityCardName="Alexstrasza" GameTagName="LETTUCE_HAS_MANUALLY_SELECTED_ABILITY"/>
+    <Options id="8" ts="2021-11-17T15:54:08.002413">
+      <Option index="0" error="-1" type="2"/>
+      <Option index="1" entity="13" type="3" EntityCardID="LETL_032P6_05" EntityName="Faerie Breath 5">
+        <Target index="0" entity="40" EntityCardID="LETL_815H" EntityName="Ferocious Quilboar"/>
+        <Target index="1" entity="44" EntityCardID="LETL_815H2" EntityName="Death's Head Cultist"/>
+        <Target index="2" entity="29" EntityCardID="LT21_05H_01" EntityName="Unknown card LT21_05H_01"/>
+        <Target index="3" entity="18" EntityCardID="LETL_031H_02" EntityName="Alexstrasza"/>
+        <Target index="4" entity="12" EntityCardID="LETL_032H_02" EntityName="Brightwing"/>
+      </Option>
+      <Option index="2" entity="14" type="3" EntityCardID="LETL_032P4_05" EntityName="Pixie Dust 5"/>
+      <Option index="3" entity="15" type="3" EntityCardID="LETL_032P5_05" EntityName="Phase Shift 5"/>
+      <Option index="4" entity="19" type="3" EntityCardID="LETL_031P7_05" EntityName="Dragon Breath 5">
+        <Target index="0" entity="40" EntityCardID="LETL_815H" EntityName="Ferocious Quilboar"/>
+        <Target index="1" entity="44" EntityCardID="LETL_815H2" EntityName="Death's Head Cultist"/>
+        <Target index="2" entity="29" EntityCardID="LT21_05H_01" EntityName="Unknown card LT21_05H_01"/>
+        <Target index="3" entity="18" EntityCardID="LETL_031H_02" EntityName="Alexstrasza"/>
+        <Target index="4" entity="12" EntityCardID="LETL_032H_02" EntityName="Brightwing"/>
+      </Option>
+      <Option index="5" entity="20" type="3" EntityCardID="LETL_031P4_05" EntityName="Flame Buffet 5">
+        <Target index="0" entity="40" EntityCardID="LETL_815H" EntityName="Ferocious Quilboar"/>
+        <Target index="1" entity="44" EntityCardID="LETL_815H2" EntityName="Death's Head Cultist"/>
+        <Target index="2" entity="29" error="3" EntityCardID="LT21_05H_01" EntityName="Unknown card LT21_05H_01"/>
+        <Target index="3" entity="18" error="3" EntityCardID="LETL_031H_02" EntityName="Alexstrasza"/>
+        <Target index="4" entity="12" error="3" EntityCardID="LETL_032H_02" EntityName="Brightwing"/>
+      </Option>
+      <Option index="6" entity="18" type="3" EntityCardID="LETL_031H_02" EntityName="Alexstrasza"/>
+      <Option index="7" entity="30" type="3" EntityCardID="LT21_05P3_05" EntityName="Unknown card LT21_05P3_05">
+        <Target index="0" entity="40" EntityCardID="LETL_815H" EntityName="Ferocious Quilboar"/>
+        <Target index="1" entity="44" EntityCardID="LETL_815H2" EntityName="Death's Head Cultist"/>
+        <Target index="2" entity="29" error="3" EntityCardID="LT21_05H_01" EntityName="Unknown card LT21_05H_01"/>
+        <Target index="3" entity="18" error="3" EntityCardID="LETL_031H_02" EntityName="Alexstrasza"/>
+        <Target index="4" entity="12" error="3" EntityCardID="LETL_032H_02" EntityName="Brightwing"/>
+      </Option>
+      <Option index="8" entity="31" type="3" EntityCardID="LT21_05P1_05" EntityName="Unknown card LT21_05P1_05"/>
+      <Option index="9" entity="32" type="3" EntityCardID="LT21_05P2_05" EntityName="Unknown card LT21_05P2_05"/>
+      <Option index="10" entity="29" type="3" EntityCardID="LT21_05H_01" EntityName="Unknown card LT21_05H_01"/>
+      <Option index="11" entity="21" error="107" type="3" EntityCardID="LETL_031P2_05" EntityName="Dragonqueen's Gambit 5"/>
+    </Options>
+    <SendOption option="0" subOption="-1" target="0" position="0" ts="2021-11-17T15:54:08.286429"/>
+    <TagChange entity="1" tag="19" value="20" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_POST_ACTION"/>
+    <Block entity="1" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="6" ts="2021-11-17T15:54:08.485441" block_sequence_num="33" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
+      <TagChange entity="1" tag="198" value="11" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_COMBAT"/>
+      <TagChange entity="1" tag="6" value="3" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="MISSION_EVENT"/>
+    </Block>
+    <TagChange entity="1" tag="19" value="11" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_COMBAT"/>
+    <Block entity="1" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="22" ts="2021-11-17T15:54:08.485441" block_sequence_num="34" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
+      <MetaData meta="20" data="2000" infoCount="1" MetaName="SLUSH_TIME">
+        <Info index="0" entity="1" EntityName="GameEntity"/>
+      </MetaData>
+      <TagChange entity="32" tag="410" value="1" EntityCardID="LT21_05P2_05" EntityCardName="Unknown card LT21_05P2_05" GameTagName="REVEALED"/>
+      <TagChange entity="29" tag="1698" value="32" EntityCardID="LT21_05H_01" EntityCardName="Unknown card LT21_05H_01" GameTagName="LETTUCE_ABILITY_TILE_VISUAL_ALL_VISIBLE"/>
+      <TagChange entity="20" tag="410" value="1" EntityCardID="LETL_031P4_05" EntityCardName="Flame Buffet 5" GameTagName="REVEALED"/>
+      <TagChange entity="18" tag="1698" value="20" EntityCardID="LETL_031H_02" EntityCardName="Alexstrasza" GameTagName="LETTUCE_ABILITY_TILE_VISUAL_ALL_VISIBLE"/>
+      <TagChange entity="40" tag="1814" value="0" EntityCardID="LETL_815H" EntityCardName="Ferocious Quilboar"/>
+      <TagChange entity="40" tag="1826" value="0" EntityCardID="LETL_815H" EntityCardName="Ferocious Quilboar"/>
+      <TagChange entity="44" tag="1814" value="0" EntityCardID="LETL_815H2" EntityCardName="Death's Head Cultist"/>
+      <TagChange entity="44" tag="1825" value="1" EntityCardID="LETL_815H2" EntityCardName="Death's Head Cultist"/>
+      <Block entity="46" type="7" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" target="44" ts="2021-11-17T15:54:08.485441" block_sequence_num="35" EntityCardID="LETL_407_01" EntityCardName="Flash Heal 1" TargetName="Death's Head Cultist" BlockTypeName="PLAY">
+        <TagChange entity="44" tag="1668" value="1" EntityCardID="LETL_815H2" EntityCardName="Death's Head Cultist" GameTagName="LETTUCE_IS_COMBAT_ACTION_TAKEN"/>
+        <FullEntity id="58" cardID="LETL_407_01" EntityName="Flash Heal 1">
+          <Tag tag="50" value="2" GameTagName="CONTROLLER"/>
+          <Tag tag="202" value="5" GameTagName="CARDTYPE" CardTypeName="SPELL"/>
+          <Tag tag="466" value="4" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+          <Tag tag="48" value="4" GameTagName="COST"/>
+          <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+          <Tag tag="53" value="58" GameTagName="ENTITY_ID"/>
+          <Tag tag="313" value="46" GameTagName="CREATOR"/>
+          <Tag tag="1284" value="72548" GameTagName="CREATOR_DBID"/>
+          <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+          <Tag tag="1635" value="5" GameTagName="SPELL_SCHOOL" SpellSchoolName="HOLY"/>
+          <Tag tag="1653" value="2" GameTagName="LETTUCE_CONTROLLER"/>
+          <Tag tag="1654" value="44" GameTagName="LETTUCE_ABILITY_OWNER"/>
+          <Tag tag="1679" value="2"/>
+          <Tag tag="1724" value="1"/>
+          <Tag tag="2015" value="1" GameTagName="DONT_SHOW_IN_HISTORY"/>
+        </FullEntity>
+        <MetaData meta="20" data="3000" infoCount="1" MetaName="SLUSH_TIME">
+          <Info index="0" entity="58" EntityName="Flash Heal 1"/>
+        </MetaData>
+        <TagChange entity="58" tag="267" value="44" EntityCardID="LETL_407_01" EntityCardName="Flash Heal 1" GameTagName="CARD_TARGET"/>
+        <Block entity="58" type="3" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" target="44" ts="2021-11-17T15:54:08.485441" block_sequence_num="36" EntityCardID="LETL_407_01" EntityCardName="Flash Heal 1" TargetName="Death's Head Cultist" BlockTypeName="POWER">
+          <SubSpell spellPrefabGuid="ReuseFX_Holy_BuffImpact_Heal_Small_Super_WithIdle_Minion:841d04a62b8741b49941829815c28658" source="44" targetCount="1" ts="2021-11-17T15:54:08.485441">
+            <SubSpellTarget index="0" entity="44"/>
+            <MetaData meta="0" data="0" infoCount="1" MetaName="TARGET">
+              <Info index="0" entity="44" EntityName="Death's Head Cultist"/>
+            </MetaData>
+            <TagChange entity="44" tag="425" value="5" EntityCardID="LETL_815H2" EntityCardName="Death's Head Cultist" GameTagName="PREHEALING"/>
+            <TagChange entity="44" tag="425" value="0" EntityCardID="LETL_815H2" EntityCardName="Death's Head Cultist" GameTagName="PREHEALING"/>
+          </SubSpell>
+        </Block>
+        <TagChange entity="44" tag="1814" value="46" EntityCardID="LETL_815H2" EntityCardName="Death's Head Cultist"/>
+      </Block>
+      <Block entity="32" type="7" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2021-11-17T15:54:08.485441" block_sequence_num="37" EntityCardID="LT21_05P2_05" EntityCardName="Unknown card LT21_05P2_05" BlockTypeName="PLAY">
+        <TagChange entity="29" tag="1668" value="1" EntityCardID="LT21_05H_01" EntityCardName="Unknown card LT21_05H_01" GameTagName="LETTUCE_IS_COMBAT_ACTION_TAKEN"/>
+        <FullEntity id="60" cardID="LT21_05P2_05" EntityName="Unknown card LT21_05P2_05">
+          <Tag tag="50" value="1" GameTagName="CONTROLLER"/>
+          <Tag tag="202" value="5" GameTagName="CARDTYPE" CardTypeName="SPELL"/>
+          <Tag tag="466" value="4" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+          <Tag tag="48" value="4" GameTagName="COST"/>
+          <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+          <Tag tag="53" value="60" GameTagName="ENTITY_ID"/>
+          <Tag tag="313" value="32" GameTagName="CREATOR"/>
+          <Tag tag="1284" value="77417" GameTagName="CREATOR_DBID"/>
+          <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+          <Tag tag="1635" value="4" GameTagName="SPELL_SCHOOL" SpellSchoolName="NATURE"/>
+          <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+          <Tag tag="1654" value="29" GameTagName="LETTUCE_ABILITY_OWNER"/>
+          <Tag tag="1669" value="1" GameTagName="LETTUCE_COOLDOWN_CONFIG"/>
+          <Tag tag="2015" value="1" GameTagName="DONT_SHOW_IN_HISTORY"/>
+        </FullEntity>
+        <TagChange entity="32" tag="1850" value="1" EntityCardID="LT21_05P2_05" EntityCardName="Unknown card LT21_05P2_05"/>
+        <TagChange entity="32" tag="1850" value="0" EntityCardID="LT21_05P2_05" EntityCardName="Unknown card LT21_05P2_05"/>
+        <MetaData meta="20" data="3000" infoCount="1" MetaName="SLUSH_TIME">
+          <Info index="0" entity="60" EntityName="Unknown card LT21_05P2_05"/>
+        </MetaData>
+        <Block entity="60" type="3" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2021-11-17T15:54:08.485441" block_sequence_num="38" EntityCardID="LT21_05P2_05" EntityCardName="Unknown card LT21_05P2_05" BlockTypeName="POWER">
+          <FullEntity id="62" EntityName="Unknown card LT21_05P2_05mA">
+            <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+            <Tag tag="50" value="2" GameTagName="CONTROLLER"/>
+            <Tag tag="53" value="62" GameTagName="ENTITY_ID"/>
+            <Tag tag="1666" value="4" GameTagName="LETTUCE_ROLE" RoleName="NEUTRAL"/>
+          </FullEntity>
+          <FullEntity id="63">
+            <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+            <Tag tag="50" value="2" GameTagName="CONTROLLER"/>
+            <Tag tag="53" value="63" GameTagName="ENTITY_ID"/>
+            <Tag tag="1666" value="4" GameTagName="LETTUCE_ROLE" RoleName="NEUTRAL"/>
+          </FullEntity>
+          <ShowEntity entity="62" cardID="LT21_05P2_05mA" EntityName="Unknown card LT21_05P2_05mA">
+            <Tag tag="50" value="2" GameTagName="CONTROLLER"/>
+            <Tag tag="202" value="4" GameTagName="CARDTYPE" CardTypeName="MINION"/>
+            <Tag tag="466" value="4" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+            <Tag tag="48" value="4" GameTagName="COST"/>
+            <Tag tag="45" value="15" GameTagName="HEALTH"/>
+            <Tag tag="2" value="15" GameTagName="TAG_SCRIPT_DATA_NUM_1"/>
+            <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+            <Tag tag="53" value="62" GameTagName="ENTITY_ID"/>
+            <Tag tag="200" value="20" GameTagName="CARDRACE" RaceName="BEAST"/>
+            <Tag tag="201" value="3" GameTagName="FACTION" FactionName="NEUTRAL"/>
+            <Tag tag="203" value="1" GameTagName="RARITY" RarityName="COMMON"/>
+            <Tag tag="217" value="1" GameTagName="DEATHRATTLE"/>
+            <Tag tag="313" value="60" GameTagName="CREATOR"/>
+            <Tag tag="1037" value="1"/>
+            <Tag tag="1068" value="0"/>
+            <Tag tag="1254" value="60"/>
+            <Tag tag="1284" value="77417" GameTagName="CREATOR_DBID"/>
+            <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+            <Tag tag="1653" value="2" GameTagName="LETTUCE_CONTROLLER"/>
+            <Tag tag="1666" value="4" GameTagName="LETTUCE_ROLE" RoleName="NEUTRAL"/>
+            <Tag tag="2234" value="1"/>
+          </ShowEntity>
+          <TagChange entity="62" tag="263" value="3" EntityCardID="LT21_05P2_05mA" EntityCardName="Unknown card LT21_05P2_05mA" GameTagName="ZONE_POSITION"/>
+          <TagChange entity="62" tag="1196" value="1" EntityCardID="LT21_05P2_05mA" EntityCardName="Unknown card LT21_05P2_05mA"/>
+          <TagChange entity="62" tag="43" value="1" EntityCardID="LT21_05P2_05mA" EntityCardName="Unknown card LT21_05P2_05mA" GameTagName="EXHAUSTED"/>
+        </Block>
+        <TagChange entity="29" tag="1814" value="32" EntityCardID="LT21_05H_01" EntityCardName="Unknown card LT21_05H_01"/>
+      </Block>
+      <Block entity="20" type="7" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" target="44" ts="2021-11-17T15:54:08.485441" block_sequence_num="39" EntityCardID="LETL_031P4_05" EntityCardName="Flame Buffet 5" TargetName="Death's Head Cultist" BlockTypeName="PLAY">
+        <TagChange entity="18" tag="1668" value="1" EntityCardID="LETL_031H_02" EntityCardName="Alexstrasza" GameTagName="LETTUCE_IS_COMBAT_ACTION_TAKEN"/>
+        <FullEntity id="64" cardID="LETL_031P4_05" EntityName="Flame Buffet 5">
+          <Tag tag="50" value="1" GameTagName="CONTROLLER"/>
+          <Tag tag="202" value="5" GameTagName="CARDTYPE" CardTypeName="SPELL"/>
+          <Tag tag="466" value="5" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+          <Tag tag="48" value="5" GameTagName="COST"/>
+          <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+          <Tag tag="53" value="64" GameTagName="ENTITY_ID"/>
+          <Tag tag="313" value="20" GameTagName="CREATOR"/>
+          <Tag tag="1284" value="76519" GameTagName="CREATOR_DBID"/>
+          <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+          <Tag tag="1635" value="2" GameTagName="SPELL_SCHOOL" SpellSchoolName="FIRE"/>
+          <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+          <Tag tag="1654" value="18" GameTagName="LETTUCE_ABILITY_OWNER"/>
+          <Tag tag="1669" value="1" GameTagName="LETTUCE_COOLDOWN_CONFIG"/>
+          <Tag tag="2015" value="1" GameTagName="DONT_SHOW_IN_HISTORY"/>
+        </FullEntity>
+        <TagChange entity="20" tag="1850" value="1" EntityCardID="LETL_031P4_05" EntityCardName="Flame Buffet 5"/>
+        <TagChange entity="20" tag="1850" value="0" EntityCardID="LETL_031P4_05" EntityCardName="Flame Buffet 5"/>
+        <MetaData meta="20" data="3000" infoCount="1" MetaName="SLUSH_TIME">
+          <Info index="0" entity="64" EntityName="Flame Buffet 5"/>
+        </MetaData>
+        <TagChange entity="64" tag="267" value="44" EntityCardID="LETL_031P4_05" EntityCardName="Flame Buffet 5" GameTagName="CARD_TARGET"/>
+        <Block entity="64" type="3" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" target="44" ts="2021-11-17T15:54:08.485441" block_sequence_num="40" EntityCardID="LETL_031P4_05" EntityCardName="Flame Buffet 5" TargetName="Death's Head Cultist" BlockTypeName="POWER">
+          <SubSpell spellPrefabGuid="ReuseFX_Fire_AE_Targeted_Breath_Small_HitsAdjacent_Super:887cb223063747048aaca0fcde4ecb14" source="18" targetCount="1" ts="2021-11-17T15:54:08.485441">
+            <SubSpellTarget index="0" entity="44"/>
+            <MetaData meta="0" data="0" infoCount="3" MetaName="TARGET">
+              <Info index="0" entity="40" EntityName="Ferocious Quilboar"/>
+              <Info index="1" entity="62" EntityName="Unknown card LT21_05P2_05mA"/>
+              <Info index="2" entity="44" EntityName="Death's Head Cultist"/>
+            </MetaData>
+            <TagChange entity="40" tag="2187" value="64" EntityCardID="LETL_815H" EntityCardName="Ferocious Quilboar"/>
+            <TagChange entity="40" tag="318" value="16" EntityCardID="LETL_815H" EntityCardName="Ferocious Quilboar" GameTagName="PREDAMAGE"/>
+            <TagChange entity="40" tag="1173" value="40" EntityCardID="LETL_815H" EntityCardName="Ferocious Quilboar"/>
+            <TagChange entity="40" tag="2187" value="0" EntityCardID="LETL_815H" EntityCardName="Ferocious Quilboar"/>
+            <TagChange entity="40" tag="318" value="0" EntityCardID="LETL_815H" EntityCardName="Ferocious Quilboar" GameTagName="PREDAMAGE"/>
+            <TagChange entity="40" tag="1173" value="0" EntityCardID="LETL_815H" EntityCardName="Ferocious Quilboar"/>
+            <TagChange entity="40" tag="318" value="16" EntityCardID="LETL_815H" EntityCardName="Ferocious Quilboar" GameTagName="PREDAMAGE"/>
+            <Block entity="1" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="26" ts="2021-11-17T15:54:08.485441" block_sequence_num="41" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
+              <MetaData meta="0" data="0" infoCount="1" MetaName="TARGET">
+                <Info index="0" entity="40" EntityName="Ferocious Quilboar"/>
+              </MetaData>
+              <MetaData meta="23" data="0" infoCount="1" MetaName="CRITICAL_HIT">
+                <Info index="0" entity="40" EntityName="Ferocious Quilboar"/>
+              </MetaData>
+              <TagChange entity="40" tag="318" value="32" EntityCardID="LETL_815H" EntityCardName="Ferocious Quilboar" GameTagName="PREDAMAGE"/>
+            </Block>
+            <TagChange entity="40" tag="318" value="0" EntityCardID="LETL_815H" EntityCardName="Ferocious Quilboar" GameTagName="PREDAMAGE"/>
+            <MetaData meta="1" data="32" infoCount="1" MetaName="DAMAGE">
+              <Info index="0" entity="40" EntityName="Ferocious Quilboar"/>
+            </MetaData>
+            <TagChange entity="40" tag="18" value="64" EntityCardID="LETL_815H" EntityCardName="Ferocious Quilboar" ValueReferenceCardID="LETL_031P4_05" ValueReferenceCardName="Flame Buffet 5" GameTagName="LAST_AFFECTED_BY"/>
+            <TagChange entity="40" tag="44" value="32" EntityCardID="LETL_815H" EntityCardName="Ferocious Quilboar" GameTagName="DAMAGE"/>
+            <TagChange entity="62" tag="2187" value="64" EntityCardID="LT21_05P2_05mA" EntityCardName="Unknown card LT21_05P2_05mA"/>
+            <TagChange entity="62" tag="318" value="16" EntityCardID="LT21_05P2_05mA" EntityCardName="Unknown card LT21_05P2_05mA" GameTagName="PREDAMAGE"/>
+            <TagChange entity="62" tag="1173" value="62" EntityCardID="LT21_05P2_05mA" EntityCardName="Unknown card LT21_05P2_05mA"/>
+            <TagChange entity="62" tag="2187" value="0" EntityCardID="LT21_05P2_05mA" EntityCardName="Unknown card LT21_05P2_05mA"/>
+            <TagChange entity="62" tag="318" value="0" EntityCardID="LT21_05P2_05mA" EntityCardName="Unknown card LT21_05P2_05mA" GameTagName="PREDAMAGE"/>
+            <TagChange entity="62" tag="1173" value="0" EntityCardID="LT21_05P2_05mA" EntityCardName="Unknown card LT21_05P2_05mA"/>
+            <TagChange entity="62" tag="318" value="16" EntityCardID="LT21_05P2_05mA" EntityCardName="Unknown card LT21_05P2_05mA" GameTagName="PREDAMAGE"/>
+            <TagChange entity="62" tag="318" value="0" EntityCardID="LT21_05P2_05mA" EntityCardName="Unknown card LT21_05P2_05mA" GameTagName="PREDAMAGE"/>
+            <MetaData meta="1" data="16" infoCount="1" MetaName="DAMAGE">
+              <Info index="0" entity="62" EntityName="Unknown card LT21_05P2_05mA"/>
+            </MetaData>
+            <TagChange entity="62" tag="18" value="64" EntityCardID="LT21_05P2_05mA" EntityCardName="Unknown card LT21_05P2_05mA" ValueReferenceCardID="LETL_031P4_05" ValueReferenceCardName="Flame Buffet 5" GameTagName="LAST_AFFECTED_BY"/>
+            <TagChange entity="62" tag="44" value="16" EntityCardID="LT21_05P2_05mA" EntityCardName="Unknown card LT21_05P2_05mA" GameTagName="DAMAGE"/>
+            <TagChange entity="44" tag="2187" value="64" EntityCardID="LETL_815H2" EntityCardName="Death's Head Cultist"/>
+            <TagChange entity="44" tag="318" value="16" EntityCardID="LETL_815H2" EntityCardName="Death's Head Cultist" GameTagName="PREDAMAGE"/>
+            <TagChange entity="44" tag="1173" value="44" EntityCardID="LETL_815H2" EntityCardName="Death's Head Cultist"/>
+            <TagChange entity="44" tag="2187" value="0" EntityCardID="LETL_815H2" EntityCardName="Death's Head Cultist"/>
+            <TagChange entity="44" tag="318" value="0" EntityCardID="LETL_815H2" EntityCardName="Death's Head Cultist" GameTagName="PREDAMAGE"/>
+            <TagChange entity="44" tag="1173" value="0" EntityCardID="LETL_815H2" EntityCardName="Death's Head Cultist"/>
+            <TagChange entity="44" tag="318" value="16" EntityCardID="LETL_815H2" EntityCardName="Death's Head Cultist" GameTagName="PREDAMAGE"/>
+            <TagChange entity="44" tag="318" value="0" EntityCardID="LETL_815H2" EntityCardName="Death's Head Cultist" GameTagName="PREDAMAGE"/>
+            <MetaData meta="1" data="16" infoCount="1" MetaName="DAMAGE">
+              <Info index="0" entity="44" EntityName="Death's Head Cultist"/>
+            </MetaData>
+            <TagChange entity="44" tag="18" value="64" EntityCardID="LETL_815H2" EntityCardName="Death's Head Cultist" ValueReferenceCardID="LETL_031P4_05" ValueReferenceCardName="Flame Buffet 5" GameTagName="LAST_AFFECTED_BY"/>
+            <TagChange entity="44" tag="44" value="16" EntityCardID="LETL_815H2" EntityCardName="Death's Head Cultist" GameTagName="DAMAGE"/>
+            <Block entity="1" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="10" ts="2021-11-17T15:54:08.485441" block_sequence_num="42" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
+              <TagChange entity="40" tag="1775" value="1" EntityCardID="LETL_815H" EntityCardName="Ferocious Quilboar"/>
+            </Block>
+            <Block entity="1" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="10" ts="2021-11-17T15:54:08.485441" block_sequence_num="43" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
+              <TagChange entity="62" tag="1775" value="1" EntityCardID="LT21_05P2_05mA" EntityCardName="Unknown card LT21_05P2_05mA"/>
+            </Block>
+            <Block entity="1" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="10" ts="2021-11-17T15:54:08.485441" block_sequence_num="44" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
+              <TagChange entity="44" tag="1775" value="1" EntityCardID="LETL_815H2" EntityCardName="Death's Head Cultist"/>
+            </Block>
+          </SubSpell>
+        </Block>
+        <TagChange entity="18" tag="1814" value="20" EntityCardID="LETL_031H_02" EntityCardName="Alexstrasza"/>
+      </Block>
+      <Block entity="1" type="6" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2021-11-17T15:54:08.485441" block_sequence_num="45" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="DEATHS">
+        <TagChange entity="2" tag="368" value="1" GameTagName="NUM_MINIONS_PLAYER_KILLED_THIS_TURN"/>
+        <TagChange entity="1" tag="369" value="1" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NUM_MINIONS_KILLED_THIS_TURN"/>
+        <TagChange entity="40" tag="1068" value="4" EntityCardID="LETL_815H" EntityCardName="Ferocious Quilboar"/>
+        <TagChange entity="40" tag="1068" value="0" EntityCardID="LETL_815H" EntityCardName="Ferocious Quilboar"/>
+        <TagChange entity="40" tag="43" value="0" EntityCardID="LETL_815H" EntityCardName="Ferocious Quilboar" GameTagName="EXHAUSTED"/>
+        <TagChange entity="62" tag="263" value="2" EntityCardID="LT21_05P2_05mA" EntityCardName="Unknown card LT21_05P2_05mA" GameTagName="ZONE_POSITION"/>
+        <TagChange entity="44" tag="263" value="1" EntityCardID="LETL_815H2" EntityCardName="Death's Head Cultist" GameTagName="ZONE_POSITION"/>
+        <TagChange entity="40" tag="1037" value="0" EntityCardID="LETL_815H" EntityCardName="Ferocious Quilboar"/>
+        <TagChange entity="40" tag="263" value="0" EntityCardID="LETL_815H" EntityCardName="Ferocious Quilboar" GameTagName="ZONE_POSITION"/>
+        <TagChange entity="40" tag="49" value="4" EntityCardID="LETL_815H" EntityCardName="Ferocious Quilboar" GameTagName="ZONE" ZoneName="GRAVEYARD"/>
+        <TagChange entity="2" tag="398" value="1" GameTagName="NUM_FRIENDLY_MINIONS_THAT_DIED_THIS_TURN"/>
+        <TagChange entity="2" tag="412" value="1" GameTagName="NUM_FRIENDLY_MINIONS_THAT_DIED_THIS_GAME"/>
+        <TagChange entity="40" tag="44" value="0" EntityCardID="LETL_815H" EntityCardName="Ferocious Quilboar" GameTagName="DAMAGE"/>
+        <TagChange entity="2" tag="368" value="2" GameTagName="NUM_MINIONS_PLAYER_KILLED_THIS_TURN"/>
+        <TagChange entity="1" tag="369" value="2" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NUM_MINIONS_KILLED_THIS_TURN"/>
+        <TagChange entity="62" tag="1068" value="4" EntityCardID="LT21_05P2_05mA" EntityCardName="Unknown card LT21_05P2_05mA"/>
+        <TagChange entity="62" tag="1068" value="0" EntityCardID="LT21_05P2_05mA" EntityCardName="Unknown card LT21_05P2_05mA"/>
+        <TagChange entity="62" tag="43" value="0" EntityCardID="LT21_05P2_05mA" EntityCardName="Unknown card LT21_05P2_05mA" GameTagName="EXHAUSTED"/>
+        <TagChange entity="62" tag="1037" value="0" EntityCardID="LT21_05P2_05mA" EntityCardName="Unknown card LT21_05P2_05mA"/>
+        <TagChange entity="62" tag="263" value="0" EntityCardID="LT21_05P2_05mA" EntityCardName="Unknown card LT21_05P2_05mA" GameTagName="ZONE_POSITION"/>
+        <TagChange entity="62" tag="49" value="4" EntityCardID="LT21_05P2_05mA" EntityCardName="Unknown card LT21_05P2_05mA" GameTagName="ZONE" ZoneName="GRAVEYARD"/>
+        <TagChange entity="2" tag="398" value="2" GameTagName="NUM_FRIENDLY_MINIONS_THAT_DIED_THIS_TURN"/>
+        <TagChange entity="2" tag="412" value="2" GameTagName="NUM_FRIENDLY_MINIONS_THAT_DIED_THIS_GAME"/>
+        <TagChange entity="62" tag="44" value="0" EntityCardID="LT21_05P2_05mA" EntityCardName="Unknown card LT21_05P2_05mA" GameTagName="DAMAGE"/>
+      </Block>
+      <Block entity="62" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" triggerKeyword="217" ts="2021-11-17T15:54:08.485441" block_sequence_num="46" EntityCardID="LT21_05P2_05mA" EntityCardName="Unknown card LT21_05P2_05mA" TriggerKeywordName="DEATHRATTLE" BlockTypeName="TRIGGER">
+        <SubSpell spellPrefabGuid="ReuseFX_Water_DeckAE_Splash_FriendlySide_Super:e599f5992fe29b942b31429461edb73f" source="62" targetCount="1" ts="2021-11-17T15:54:08.485441">
+          <SubSpellTarget index="0" entity="44"/>
+          <MetaData meta="0" data="0" infoCount="1" MetaName="TARGET">
+            <Info index="0" entity="44" EntityName="Death's Head Cultist"/>
+          </MetaData>
+          <TagChange entity="44" tag="2187" value="62" EntityCardID="LETL_815H2" EntityCardName="Death's Head Cultist"/>
+          <TagChange entity="44" tag="318" value="15" EntityCardID="LETL_815H2" EntityCardName="Death's Head Cultist" GameTagName="PREDAMAGE"/>
+          <TagChange entity="44" tag="1173" value="44" EntityCardID="LETL_815H2" EntityCardName="Death's Head Cultist"/>
+          <TagChange entity="44" tag="2187" value="0" EntityCardID="LETL_815H2" EntityCardName="Death's Head Cultist"/>
+          <TagChange entity="44" tag="318" value="0" EntityCardID="LETL_815H2" EntityCardName="Death's Head Cultist" GameTagName="PREDAMAGE"/>
+          <TagChange entity="44" tag="1173" value="0" EntityCardID="LETL_815H2" EntityCardName="Death's Head Cultist"/>
+          <TagChange entity="44" tag="318" value="15" EntityCardID="LETL_815H2" EntityCardName="Death's Head Cultist" GameTagName="PREDAMAGE"/>
+          <TagChange entity="44" tag="318" value="0" EntityCardID="LETL_815H2" EntityCardName="Death's Head Cultist" GameTagName="PREDAMAGE"/>
+          <MetaData meta="1" data="15" infoCount="1" MetaName="DAMAGE">
+            <Info index="0" entity="44" EntityName="Death's Head Cultist"/>
+          </MetaData>
+          <TagChange entity="44" tag="18" value="62" EntityCardID="LETL_815H2" EntityCardName="Death's Head Cultist" ValueReferenceCardID="LT21_05P2_05mA" ValueReferenceCardName="Unknown card LT21_05P2_05mA" GameTagName="LAST_AFFECTED_BY"/>
+          <TagChange entity="44" tag="44" value="31" EntityCardID="LETL_815H2" EntityCardName="Death's Head Cultist" GameTagName="DAMAGE"/>
+          <Block entity="1" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="10" ts="2021-11-17T15:54:08.485441" block_sequence_num="47" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER"/>
+        </SubSpell>
+      </Block>
+      <MetaData meta="20" data="200" infoCount="1" MetaName="SLUSH_TIME">
+        <Info index="0" entity="62" EntityName="Unknown card LT21_05P2_05mA"/>
+      </MetaData>
+      <TagChange entity="2" tag="1420" value="1"/>
+      <Block entity="1" type="6" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2021-11-17T15:54:08.485441" block_sequence_num="48" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="DEATHS">
+        <TagChange entity="2" tag="368" value="3" GameTagName="NUM_MINIONS_PLAYER_KILLED_THIS_TURN"/>
+        <TagChange entity="1" tag="369" value="3" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NUM_MINIONS_KILLED_THIS_TURN"/>
+        <TagChange entity="44" tag="1068" value="4" EntityCardID="LETL_815H2" EntityCardName="Death's Head Cultist"/>
+        <TagChange entity="44" tag="1068" value="0" EntityCardID="LETL_815H2" EntityCardName="Death's Head Cultist"/>
+        <TagChange entity="44" tag="43" value="0" EntityCardID="LETL_815H2" EntityCardName="Death's Head Cultist" GameTagName="EXHAUSTED"/>
+        <TagChange entity="44" tag="1037" value="0" EntityCardID="LETL_815H2" EntityCardName="Death's Head Cultist"/>
+        <TagChange entity="44" tag="263" value="0" EntityCardID="LETL_815H2" EntityCardName="Death's Head Cultist" GameTagName="ZONE_POSITION"/>
+        <TagChange entity="44" tag="49" value="4" EntityCardID="LETL_815H2" EntityCardName="Death's Head Cultist" GameTagName="ZONE" ZoneName="GRAVEYARD"/>
+        <TagChange entity="2" tag="398" value="3" GameTagName="NUM_FRIENDLY_MINIONS_THAT_DIED_THIS_TURN"/>
+        <TagChange entity="2" tag="412" value="3" GameTagName="NUM_FRIENDLY_MINIONS_THAT_DIED_THIS_GAME"/>
+        <TagChange entity="44" tag="44" value="0" EntityCardID="LETL_815H2" EntityCardName="Death's Head Cultist" GameTagName="DAMAGE"/>
+      </Block>
+      <TagChange entity="2" tag="17" value="3" PlayStateName="LOSING" GameTagName="PLAYSTATE"/>
+      <TagChange entity="2" tag="17" value="2" PlayStateName="WINNING" GameTagName="PLAYSTATE"/>
+      <TagChange entity="4" tag="17" value="2" PlayStateName="WINNING" GameTagName="PLAYSTATE"/>
+      <TagChange entity="2" tag="17" value="4" PlayStateName="WON" GameTagName="PLAYSTATE"/>
+      <TagChange entity="2" tag="17" value="5" PlayStateName="LOST" GameTagName="PLAYSTATE"/>
+      <TagChange entity="4" tag="17" value="4" PlayStateName="WON" GameTagName="PLAYSTATE"/>
+      <TagChange entity="1" tag="198" value="14" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="FINAL_WRAPUP"/>
+      <TagChange entity="1" tag="19" value="14" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="FINAL_WRAPUP"/>
+      <TagChange entity="18" tag="1826" value="1" EntityCardID="LETL_031H_02" EntityCardName="Alexstrasza"/>
+      <TagChange entity="29" tag="1807" value="32" EntityCardID="LT21_05H_01" EntityCardName="Unknown card LT21_05H_01" GameTagName="LETTUCE_ABILITY_USED_LAST_TURN"/>
+      <TagChange entity="18" tag="1807" value="20" EntityCardID="LETL_031H_02" EntityCardName="Alexstrasza" GameTagName="LETTUCE_ABILITY_USED_LAST_TURN"/>
+    </Block>
+    <Block entity="1" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="25" ts="2021-11-17T15:54:08.985469" block_sequence_num="49" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
+      <SubSpell spellPrefabGuid="Mercenaries_EndOfGameSpell_Super.prefab:876139aaeeac35048acc1bc8a8854e0a" source="0" targetCount="0" ts="2021-11-17T15:54:08.985469"/>
+      <TagChange entity="1" tag="198" value="15" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="FINAL_GAMEOVER"/>
+    </Block>
+    <TagChange entity="1" tag="19" value="15" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="FINAL_GAMEOVER"/>
+    <TagChange entity="1" tag="204" value="3" EntityCardID="GameEntity" EntityCardName="GameEntity" StateName="COMPLETE" GameTagName="STATE"/>
+  </Game>
+</HSReplay>

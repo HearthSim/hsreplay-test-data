@@ -1,0 +1,1327 @@
+<HSReplay version="1.7">
+  <Game ts="2021-11-22T14:52:31.746241">
+    <GameEntity id="1">
+      <Tag tag="202" value="1" GameTagName="CARDTYPE" CardTypeName="GAME"/>
+      <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+      <Tag tag="53" value="1" GameTagName="ENTITY_ID"/>
+      <Tag tag="937" value="3743"/>
+      <Tag tag="1000" value="2" GameTagName="END_TURN_BUTTON_ALTERNATIVE_APPEARANCE"/>
+      <Tag tag="1402" value="1" GameTagName="USE_FAST_ACTOR_TRANSITION_ANIMATIONS"/>
+      <Tag tag="1448" value="1" GameTagName="DISABLE_TURN_INDICATORS"/>
+      <Tag tag="1473" value="1" GameTagName="ALWAYS_USE_FAST_ACTOR_TRIGGERS"/>
+      <Tag tag="1526" value="1" GameTagName="ALLOW_GAME_SPEEDUP"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1561" value="1" GameTagName="SKIP_MULLIGAN"/>
+      <Tag tag="1899" value="1"/>
+      <Tag tag="1960" value="1"/>
+      <Tag tag="1976" value="1" GameTagName="LETTUCE_KEEP_LAST_STANDING_MINION_ACTOR"/>
+      <Tag tag="1990" value="1" GameTagName="LETTUCE_USE_DETERMINISTIC_TEAM_ABILITY_QUEUING"/>
+      <Tag tag="2017" value="6"/>
+      <Tag tag="2042" value="496612513" GameTagName="GAME_SEED"/>
+      <Tag tag="2357" value="30"/>
+    </GameEntity>
+    <Player id="2" playerID="1" accountHi="0" accountLo="0">
+      <Tag tag="50" value="1" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="2" GameTagName="CARDTYPE" CardTypeName="PLAYER"/>
+      <Tag tag="30" value="1" GameTagName="PLAYER_ID"/>
+      <Tag tag="28" value="10" GameTagName="MAXHANDSIZE"/>
+      <Tag tag="29" value="4" GameTagName="STARTHANDSIZE"/>
+      <Tag tag="31" value="1" GameTagName="TEAM_ID"/>
+      <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+      <Tag tag="53" value="2" GameTagName="ENTITY_ID"/>
+      <Tag tag="176" value="10" GameTagName="MAXRESOURCES"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+    </Player>
+    <Player id="3" playerID="2" accountHi="0" accountLo="0">
+      <Tag tag="50" value="2" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="2" GameTagName="CARDTYPE" CardTypeName="PLAYER"/>
+      <Tag tag="30" value="2" GameTagName="PLAYER_ID"/>
+      <Tag tag="28" value="10" GameTagName="MAXHANDSIZE"/>
+      <Tag tag="29" value="4" GameTagName="STARTHANDSIZE"/>
+      <Tag tag="31" value="2" GameTagName="TEAM_ID"/>
+      <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+      <Tag tag="53" value="3" GameTagName="ENTITY_ID"/>
+      <Tag tag="176" value="10" GameTagName="MAXRESOURCES"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+    </Player>
+    <Player id="4" playerID="3" accountHi="144115198130930503" accountLo="41216574">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="2" GameTagName="CARDTYPE" CardTypeName="PLAYER"/>
+      <Tag tag="30" value="3" GameTagName="PLAYER_ID"/>
+      <Tag tag="28" value="10" GameTagName="MAXHANDSIZE"/>
+      <Tag tag="29" value="4" GameTagName="STARTHANDSIZE"/>
+      <Tag tag="31" value="1" GameTagName="TEAM_ID"/>
+      <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+      <Tag tag="53" value="4" GameTagName="ENTITY_ID"/>
+      <Tag tag="176" value="10" GameTagName="MAXRESOURCES"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1704" value="3" GameTagName="LETTUCE_MAX_IN_PLAY_MERCENARIES"/>
+      <Tag tag="1708" value="1" GameTagName="LETTUCE_COOLDOWN_WHILE_BENCHED"/>
+    </Player>
+    <Player id="5" playerID="4" accountHi="144115198130930503" accountLo="907366247">
+      <Tag tag="50" value="4" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="2" GameTagName="CARDTYPE" CardTypeName="PLAYER"/>
+      <Tag tag="30" value="4" GameTagName="PLAYER_ID"/>
+      <Tag tag="28" value="10" GameTagName="MAXHANDSIZE"/>
+      <Tag tag="29" value="4" GameTagName="STARTHANDSIZE"/>
+      <Tag tag="31" value="2" GameTagName="TEAM_ID"/>
+      <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+      <Tag tag="53" value="5" GameTagName="ENTITY_ID"/>
+      <Tag tag="176" value="10" GameTagName="MAXRESOURCES"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1704" value="3" GameTagName="LETTUCE_MAX_IN_PLAY_MERCENARIES"/>
+      <Tag tag="1708" value="1" GameTagName="LETTUCE_COOLDOWN_WHILE_BENCHED"/>
+    </Player>
+    <FullEntity id="6" cardID="LETL_038H_02" EntityName="King Mukla">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="4" GameTagName="CARDTYPE" CardTypeName="MINION"/>
+      <Tag tag="466" value="5" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="479" value="12"/>
+      <Tag tag="48" value="5" GameTagName="COST"/>
+      <Tag tag="47" value="12" GameTagName="ATK"/>
+      <Tag tag="45" value="82" GameTagName="HEALTH"/>
+      <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+      <Tag tag="53" value="6" GameTagName="ENTITY_ID"/>
+      <Tag tag="200" value="20" GameTagName="CARDRACE" RaceName="BEAST"/>
+      <Tag tag="201" value="3" GameTagName="FACTION" FactionName="NEUTRAL"/>
+      <Tag tag="203" value="4" GameTagName="RARITY" RarityName="EPIC"/>
+      <Tag tag="271" value="1" GameTagName="NUM_TURNS_IN_PLAY"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1665" value="1" GameTagName="LETTUCE_MERCENARY"/>
+      <Tag tag="1666" value="3" GameTagName="LETTUCE_ROLE" RoleName="TANK"/>
+      <Tag tag="1852" value="55000" GameTagName="LETTUCE_MERCENARY_EXPERIENCE"/>
+      <Tag tag="1856" value="70889" GameTagName="LETTUCE_EQUIPMENT_ID"/>
+      <Tag tag="2072" value="30"/>
+    </FullEntity>
+    <FullEntity id="7" cardID="LETL_274_05" EntityName="Banana Frenzy 5">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="23" GameTagName="CARDTYPE" CardTypeName="LETTUCE_ABILITY"/>
+      <Tag tag="466" value="7" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="48" value="7" GameTagName="COST"/>
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="53" value="7" GameTagName="ENTITY_ID"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1654" value="6" GameTagName="LETTUCE_ABILITY_OWNER"/>
+      <Tag tag="1666" value="3" GameTagName="LETTUCE_ROLE" RoleName="TANK"/>
+    </FullEntity>
+    <FullEntity id="8" cardID="LETL_275_05" EntityName="Dinner Time 5">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="23" GameTagName="CARDTYPE" CardTypeName="LETTUCE_ABILITY"/>
+      <Tag tag="466" value="2" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="48" value="2" GameTagName="COST"/>
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="53" value="8" GameTagName="ENTITY_ID"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1635" value="4" GameTagName="SPELL_SCHOOL" SpellSchoolName="NATURE"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1654" value="6" GameTagName="LETTUCE_ABILITY_OWNER"/>
+      <Tag tag="1666" value="3" GameTagName="LETTUCE_ROLE" RoleName="TANK"/>
+      <Tag tag="1669" value="1" GameTagName="LETTUCE_COOLDOWN_CONFIG"/>
+    </FullEntity>
+    <FullEntity id="9" cardID="LETL_276_05" EntityName="Primal Power 5">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="23" GameTagName="CARDTYPE" CardTypeName="LETTUCE_ABILITY"/>
+      <Tag tag="466" value="3" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="48" value="3" GameTagName="COST"/>
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="53" value="9" GameTagName="ENTITY_ID"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1635" value="4" GameTagName="SPELL_SCHOOL" SpellSchoolName="NATURE"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1654" value="6" GameTagName="LETTUCE_ABILITY_OWNER"/>
+      <Tag tag="1666" value="3" GameTagName="LETTUCE_ROLE" RoleName="TANK"/>
+      <Tag tag="1669" value="1" GameTagName="LETTUCE_COOLDOWN_CONFIG"/>
+    </FullEntity>
+    <FullEntity id="10" cardID="LETL_279_04" EntityName="Mukla's Big Brother 4">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="23" GameTagName="CARDTYPE" CardTypeName="LETTUCE_ABILITY"/>
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="53" value="10" GameTagName="ENTITY_ID"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="684" value="1" GameTagName="HIDE_COST"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1654" value="6" GameTagName="LETTUCE_ABILITY_OWNER"/>
+      <Tag tag="1666" value="3" GameTagName="LETTUCE_ROLE" RoleName="TANK"/>
+      <Tag tag="1715" value="1"/>
+      <Tag tag="1855" value="1" GameTagName="LETTUCE_IS_EQUPIMENT"/>
+    </FullEntity>
+    <FullEntity id="11" cardID="LETL_279e" EntityName="Mukla's Big Brother">
+      <Tag tag="50" value="1" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="6" GameTagName="CARDTYPE" CardTypeName="ENCHANTMENT"/>
+      <Tag tag="2" value="70896" GameTagName="TAG_SCRIPT_DATA_NUM_1"/>
+      <Tag tag="40" value="6" GameTagName="ATTACHED"/>
+      <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+      <Tag tag="53" value="11" GameTagName="ENTITY_ID"/>
+      <Tag tag="313" value="10" GameTagName="CREATOR"/>
+      <Tag tag="976" value="1" GameTagName="ENCHANTMENT_INVISIBLE"/>
+      <Tag tag="1037" value="3"/>
+      <Tag tag="1284" value="70889" GameTagName="CREATOR_DBID"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1724" value="1"/>
+    </FullEntity>
+    <FullEntity id="12" cardID="BARL_017H_01" EntityName="Malfurion Stormrage">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="4" GameTagName="CARDTYPE" CardTypeName="MINION"/>
+      <Tag tag="466" value="4" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="479" value="7"/>
+      <Tag tag="48" value="4" GameTagName="COST"/>
+      <Tag tag="47" value="6" GameTagName="ATK"/>
+      <Tag tag="45" value="68" GameTagName="HEALTH"/>
+      <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+      <Tag tag="53" value="12" GameTagName="ENTITY_ID"/>
+      <Tag tag="114" value="1" GameTagName="ELITE"/>
+      <Tag tag="200" value="7" GameTagName="CARDRACE" RaceName="NIGHTELF"/>
+      <Tag tag="201" value="3" GameTagName="FACTION" FactionName="NEUTRAL"/>
+      <Tag tag="203" value="5" GameTagName="RARITY" RarityName="LEGENDARY"/>
+      <Tag tag="271" value="1" GameTagName="NUM_TURNS_IN_PLAY"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1665" value="1" GameTagName="LETTUCE_MERCENARY"/>
+      <Tag tag="1666" value="3" GameTagName="LETTUCE_ROLE" RoleName="TANK"/>
+      <Tag tag="1852" value="55000" GameTagName="LETTUCE_MERCENARY_EXPERIENCE"/>
+      <Tag tag="1856" value="73811" GameTagName="LETTUCE_EQUIPMENT_ID"/>
+      <Tag tag="2072" value="30"/>
+    </FullEntity>
+    <FullEntity id="13" cardID="LETL_470_05" EntityName="Cenarion Surge 5">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="23" GameTagName="CARDTYPE" CardTypeName="LETTUCE_ABILITY"/>
+      <Tag tag="466" value="4" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="48" value="4" GameTagName="COST"/>
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="53" value="13" GameTagName="ENTITY_ID"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1635" value="4" GameTagName="SPELL_SCHOOL" SpellSchoolName="NATURE"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1654" value="12" GameTagName="LETTUCE_ABILITY_OWNER"/>
+      <Tag tag="1666" value="3" GameTagName="LETTUCE_ROLE" RoleName="TANK"/>
+      <Tag tag="1679" value="1"/>
+    </FullEntity>
+    <FullEntity id="14" cardID="LETL_471_05" EntityName="Entangling Roots 5">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="23" GameTagName="CARDTYPE" CardTypeName="LETTUCE_ABILITY"/>
+      <Tag tag="466" value="5" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="48" value="5" GameTagName="COST"/>
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="53" value="14" GameTagName="ENTITY_ID"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1635" value="4" GameTagName="SPELL_SCHOOL" SpellSchoolName="NATURE"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1654" value="12" GameTagName="LETTUCE_ABILITY_OWNER"/>
+      <Tag tag="1666" value="3" GameTagName="LETTUCE_ROLE" RoleName="TANK"/>
+      <Tag tag="1669" value="1" GameTagName="LETTUCE_COOLDOWN_CONFIG"/>
+      <Tag tag="1724" value="1"/>
+    </FullEntity>
+    <FullEntity id="15" cardID="LETL_472_05" EntityName="Archdruid's Call 5">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="23" GameTagName="CARDTYPE" CardTypeName="LETTUCE_ABILITY"/>
+      <Tag tag="466" value="8" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="48" value="8" GameTagName="COST"/>
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="53" value="15" GameTagName="ENTITY_ID"/>
+      <Tag tag="201" value="3" GameTagName="FACTION" FactionName="NEUTRAL"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="443" value="1" GameTagName="CHOOSE_ONE"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1635" value="4" GameTagName="SPELL_SCHOOL" SpellSchoolName="NATURE"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1654" value="12" GameTagName="LETTUCE_ABILITY_OWNER"/>
+      <Tag tag="1666" value="3" GameTagName="LETTUCE_ROLE" RoleName="TANK"/>
+      <Tag tag="1669" value="1" GameTagName="LETTUCE_COOLDOWN_CONFIG"/>
+      <Tag tag="1724" value="1"/>
+    </FullEntity>
+    <FullEntity id="16" cardID="LETL_472_05x" EntityName="Archdruid's Rage 5">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="5" GameTagName="CARDTYPE" CardTypeName="SPELL"/>
+      <Tag tag="466" value="8" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="48" value="8" GameTagName="COST"/>
+      <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+      <Tag tag="53" value="16" GameTagName="ENTITY_ID"/>
+      <Tag tag="201" value="3" GameTagName="FACTION" FactionName="NEUTRAL"/>
+      <Tag tag="313" value="15" GameTagName="CREATOR"/>
+      <Tag tag="316" value="15" GameTagName="PARENT_CARD"/>
+      <Tag tag="443" value="1" GameTagName="CHOOSE_ONE"/>
+      <Tag tag="1284" value="76736" GameTagName="CREATOR_DBID"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1635" value="4" GameTagName="SPELL_SCHOOL" SpellSchoolName="NATURE"/>
+      <Tag tag="1679" value="1"/>
+      <Tag tag="1724" value="1"/>
+    </FullEntity>
+    <FullEntity id="17" cardID="LETL_472_05y" EntityName="Archdruid's Blessing 5">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="5" GameTagName="CARDTYPE" CardTypeName="SPELL"/>
+      <Tag tag="466" value="8" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="48" value="8" GameTagName="COST"/>
+      <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+      <Tag tag="53" value="17" GameTagName="ENTITY_ID"/>
+      <Tag tag="201" value="3" GameTagName="FACTION" FactionName="NEUTRAL"/>
+      <Tag tag="313" value="15" GameTagName="CREATOR"/>
+      <Tag tag="316" value="15" GameTagName="PARENT_CARD"/>
+      <Tag tag="443" value="1" GameTagName="CHOOSE_ONE"/>
+      <Tag tag="1284" value="76736" GameTagName="CREATOR_DBID"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1635" value="4" GameTagName="SPELL_SCHOOL" SpellSchoolName="NATURE"/>
+      <Tag tag="1679" value="2"/>
+      <Tag tag="1724" value="1"/>
+    </FullEntity>
+    <FullEntity id="18" cardID="LETL_707_04" EntityName="Liferoot Staff 4">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="23" GameTagName="CARDTYPE" CardTypeName="LETTUCE_ABILITY"/>
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="53" value="18" GameTagName="ENTITY_ID"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="684" value="1" GameTagName="HIDE_COST"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1654" value="12" GameTagName="LETTUCE_ABILITY_OWNER"/>
+      <Tag tag="1666" value="3" GameTagName="LETTUCE_ROLE" RoleName="TANK"/>
+      <Tag tag="1715" value="1"/>
+      <Tag tag="1855" value="1" GameTagName="LETTUCE_IS_EQUPIMENT"/>
+    </FullEntity>
+    <FullEntity id="19" cardID="LETL_707e" EntityName="Liferoot Staff">
+      <Tag tag="50" value="1" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="6" GameTagName="CARDTYPE" CardTypeName="ENCHANTMENT"/>
+      <Tag tag="2" value="6" GameTagName="TAG_SCRIPT_DATA_NUM_1"/>
+      <Tag tag="32" value="1" GameTagName="TRIGGER_VISUAL"/>
+      <Tag tag="40" value="12" GameTagName="ATTACHED"/>
+      <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+      <Tag tag="53" value="19" GameTagName="ENTITY_ID"/>
+      <Tag tag="262" value="18" GameTagName="LINKED_ENTITY"/>
+      <Tag tag="313" value="18" GameTagName="CREATOR"/>
+      <Tag tag="976" value="1" GameTagName="ENCHANTMENT_INVISIBLE"/>
+      <Tag tag="1037" value="3"/>
+      <Tag tag="1284" value="73811" GameTagName="CREATOR_DBID"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+    </FullEntity>
+    <FullEntity id="20" cardID="BARL_024H_02" EntityName="Blademaster Samuro">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="4" GameTagName="CARDTYPE" CardTypeName="MINION"/>
+      <Tag tag="466" value="4" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="479" value="11"/>
+      <Tag tag="48" value="4" GameTagName="COST"/>
+      <Tag tag="47" value="11" GameTagName="ATK"/>
+      <Tag tag="45" value="71" GameTagName="HEALTH"/>
+      <Tag tag="12" value="1" GameTagName="PREMIUM"/>
+      <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+      <Tag tag="53" value="20" GameTagName="ENTITY_ID"/>
+      <Tag tag="200" value="8" GameTagName="CARDRACE" RaceName="ORC"/>
+      <Tag tag="201" value="3" GameTagName="FACTION" FactionName="NEUTRAL"/>
+      <Tag tag="203" value="3" GameTagName="RARITY" RarityName="RARE"/>
+      <Tag tag="271" value="1" GameTagName="NUM_TURNS_IN_PLAY"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1665" value="1" GameTagName="LETTUCE_MERCENARY"/>
+      <Tag tag="1666" value="2" GameTagName="LETTUCE_ROLE" RoleName="FIGHTER"/>
+      <Tag tag="1852" value="55000" GameTagName="LETTUCE_MERCENARY_EXPERIENCE"/>
+      <Tag tag="1856" value="74667" GameTagName="LETTUCE_EQUIPMENT_ID"/>
+      <Tag tag="2072" value="30"/>
+    </FullEntity>
+    <FullEntity id="21" cardID="LETL_232_05" EntityName="Double Strike 5">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="23" GameTagName="CARDTYPE" CardTypeName="LETTUCE_ABILITY"/>
+      <Tag tag="466" value="4" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="48" value="4" GameTagName="COST"/>
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="53" value="21" GameTagName="ENTITY_ID"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1654" value="20" GameTagName="LETTUCE_ABILITY_OWNER"/>
+      <Tag tag="1666" value="2" GameTagName="LETTUCE_ROLE" RoleName="FIGHTER"/>
+    </FullEntity>
+    <FullEntity id="22" cardID="LETL_233_05" EntityName="Mirror Image 5">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="23" GameTagName="CARDTYPE" CardTypeName="LETTUCE_ABILITY"/>
+      <Tag tag="466" value="3" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="48" value="3" GameTagName="COST"/>
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="53" value="22" GameTagName="ENTITY_ID"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1654" value="20" GameTagName="LETTUCE_ABILITY_OWNER"/>
+      <Tag tag="1666" value="2" GameTagName="LETTUCE_ROLE" RoleName="FIGHTER"/>
+      <Tag tag="1669" value="1" GameTagName="LETTUCE_COOLDOWN_CONFIG"/>
+      <Tag tag="1724" value="1"/>
+    </FullEntity>
+    <FullEntity id="23" cardID="LETL_234_05" EntityName="Whirling Blade 5">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="23" GameTagName="CARDTYPE" CardTypeName="LETTUCE_ABILITY"/>
+      <Tag tag="466" value="5" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="48" value="5" GameTagName="COST"/>
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="53" value="23" GameTagName="ENTITY_ID"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1654" value="20" GameTagName="LETTUCE_ABILITY_OWNER"/>
+      <Tag tag="1666" value="2" GameTagName="LETTUCE_ROLE" RoleName="FIGHTER"/>
+      <Tag tag="1669" value="1" GameTagName="LETTUCE_COOLDOWN_CONFIG"/>
+      <Tag tag="1724" value="1"/>
+    </FullEntity>
+    <FullEntity id="24" cardID="LETL_638_04" EntityName="Burning Blade 4">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="23" GameTagName="CARDTYPE" CardTypeName="LETTUCE_ABILITY"/>
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="53" value="24" GameTagName="ENTITY_ID"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="684" value="1" GameTagName="HIDE_COST"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1654" value="20" GameTagName="LETTUCE_ABILITY_OWNER"/>
+      <Tag tag="1666" value="2" GameTagName="LETTUCE_ROLE" RoleName="FIGHTER"/>
+      <Tag tag="1715" value="1"/>
+      <Tag tag="1855" value="1" GameTagName="LETTUCE_IS_EQUPIMENT"/>
+    </FullEntity>
+    <FullEntity id="25" cardID="LETL_638e" EntityName="Burning Blade">
+      <Tag tag="50" value="1" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="6" GameTagName="CARDTYPE" CardTypeName="ENCHANTMENT"/>
+      <Tag tag="2" value="2" GameTagName="TAG_SCRIPT_DATA_NUM_1"/>
+      <Tag tag="3" value="2" GameTagName="TAG_SCRIPT_DATA_NUM_2"/>
+      <Tag tag="12" value="1" GameTagName="PREMIUM"/>
+      <Tag tag="32" value="1" GameTagName="TRIGGER_VISUAL"/>
+      <Tag tag="40" value="20" GameTagName="ATTACHED"/>
+      <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+      <Tag tag="53" value="25" GameTagName="ENTITY_ID"/>
+      <Tag tag="262" value="24" GameTagName="LINKED_ENTITY"/>
+      <Tag tag="313" value="24" GameTagName="CREATOR"/>
+      <Tag tag="976" value="1" GameTagName="ENCHANTMENT_INVISIBLE"/>
+      <Tag tag="1037" value="3"/>
+      <Tag tag="1284" value="74667" GameTagName="CREATOR_DBID"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+    </FullEntity>
+    <FullEntity id="26" cardID="BARL_005H_02" EntityName="Vol'jin">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="4" GameTagName="CARDTYPE" CardTypeName="MINION"/>
+      <Tag tag="466" value="4" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="479" value="6"/>
+      <Tag tag="48" value="4" GameTagName="COST"/>
+      <Tag tag="47" value="6" GameTagName="ATK"/>
+      <Tag tag="45" value="70" GameTagName="HEALTH"/>
+      <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+      <Tag tag="53" value="26" GameTagName="ENTITY_ID"/>
+      <Tag tag="114" value="1" GameTagName="ELITE"/>
+      <Tag tag="200" value="10" GameTagName="CARDRACE" RaceName="TROLL"/>
+      <Tag tag="201" value="3" GameTagName="FACTION" FactionName="NEUTRAL"/>
+      <Tag tag="203" value="4" GameTagName="RARITY" RarityName="EPIC"/>
+      <Tag tag="271" value="1" GameTagName="NUM_TURNS_IN_PLAY"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1665" value="1" GameTagName="LETTUCE_MERCENARY"/>
+      <Tag tag="1666" value="1" GameTagName="LETTUCE_ROLE" RoleName="CASTER"/>
+      <Tag tag="1852" value="55000" GameTagName="LETTUCE_MERCENARY_EXPERIENCE"/>
+      <Tag tag="1856" value="72741" GameTagName="LETTUCE_EQUIPMENT_ID"/>
+      <Tag tag="2072" value="30"/>
+    </FullEntity>
+    <FullEntity id="27" cardID="LETL_320_05" EntityName="Shadow Shock 5">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="23" GameTagName="CARDTYPE" CardTypeName="LETTUCE_ABILITY"/>
+      <Tag tag="466" value="6" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="48" value="6" GameTagName="COST"/>
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="53" value="27" GameTagName="ENTITY_ID"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1635" value="6" GameTagName="SPELL_SCHOOL" SpellSchoolName="SHADOW"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1654" value="26" GameTagName="LETTUCE_ABILITY_OWNER"/>
+      <Tag tag="1666" value="1" GameTagName="LETTUCE_ROLE" RoleName="CASTER"/>
+      <Tag tag="1679" value="1"/>
+      <Tag tag="1724" value="1"/>
+    </FullEntity>
+    <FullEntity id="28" cardID="LETL_324_05" EntityName="Shadow Surge 5">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="23" GameTagName="CARDTYPE" CardTypeName="LETTUCE_ABILITY"/>
+      <Tag tag="466" value="5" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="48" value="5" GameTagName="COST"/>
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="53" value="28" GameTagName="ENTITY_ID"/>
+      <Tag tag="220" value="1" GameTagName="COMBO"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1635" value="6" GameTagName="SPELL_SCHOOL" SpellSchoolName="SHADOW"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1654" value="26" GameTagName="LETTUCE_ABILITY_OWNER"/>
+      <Tag tag="1666" value="1" GameTagName="LETTUCE_ROLE" RoleName="CASTER"/>
+      <Tag tag="1669" value="1" GameTagName="LETTUCE_COOLDOWN_CONFIG"/>
+      <Tag tag="1724" value="1"/>
+    </FullEntity>
+    <FullEntity id="29" cardID="LETL_328_05" EntityName="Curse of Weakness 5">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="23" GameTagName="CARDTYPE" CardTypeName="LETTUCE_ABILITY"/>
+      <Tag tag="466" value="4" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="48" value="4" GameTagName="COST"/>
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="53" value="29" GameTagName="ENTITY_ID"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1635" value="6" GameTagName="SPELL_SCHOOL" SpellSchoolName="SHADOW"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1654" value="26" GameTagName="LETTUCE_ABILITY_OWNER"/>
+      <Tag tag="1666" value="1" GameTagName="LETTUCE_ROLE" RoleName="CASTER"/>
+      <Tag tag="1669" value="1" GameTagName="LETTUCE_COOLDOWN_CONFIG"/>
+    </FullEntity>
+    <FullEntity id="30" cardID="LETL_326_04" EntityName="Ring of Haste 4">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="23" GameTagName="CARDTYPE" CardTypeName="LETTUCE_ABILITY"/>
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="53" value="30" GameTagName="ENTITY_ID"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="684" value="1" GameTagName="HIDE_COST"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1654" value="26" GameTagName="LETTUCE_ABILITY_OWNER"/>
+      <Tag tag="1666" value="1" GameTagName="LETTUCE_ROLE" RoleName="CASTER"/>
+      <Tag tag="1715" value="1"/>
+      <Tag tag="1855" value="1" GameTagName="LETTUCE_IS_EQUPIMENT"/>
+    </FullEntity>
+    <FullEntity id="31" cardID="LETL_326e" EntityName="Ring of Haste">
+      <Tag tag="50" value="1" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="6" GameTagName="CARDTYPE" CardTypeName="ENCHANTMENT"/>
+      <Tag tag="2" value="3" GameTagName="TAG_SCRIPT_DATA_NUM_1"/>
+      <Tag tag="40" value="26" GameTagName="ATTACHED"/>
+      <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+      <Tag tag="53" value="31" GameTagName="ENTITY_ID"/>
+      <Tag tag="313" value="30" GameTagName="CREATOR"/>
+      <Tag tag="976" value="1" GameTagName="ENCHANTMENT_INVISIBLE"/>
+      <Tag tag="1037" value="3"/>
+      <Tag tag="1284" value="72741" GameTagName="CREATOR_DBID"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+    </FullEntity>
+    <FullEntity id="32" cardID="LT21_05H_02" EntityName="Cookie, the Cook">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="4" GameTagName="CARDTYPE" CardTypeName="MINION"/>
+      <Tag tag="479" value="3"/>
+      <Tag tag="47" value="5" GameTagName="ATK"/>
+      <Tag tag="45" value="65" GameTagName="HEALTH"/>
+      <Tag tag="12" value="1" GameTagName="PREMIUM"/>
+      <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+      <Tag tag="53" value="32" GameTagName="ENTITY_ID"/>
+      <Tag tag="200" value="14" GameTagName="CARDRACE" RaceName="MURLOC"/>
+      <Tag tag="201" value="3" GameTagName="FACTION" FactionName="NEUTRAL"/>
+      <Tag tag="203" value="3" GameTagName="RARITY" RarityName="RARE"/>
+      <Tag tag="271" value="1" GameTagName="NUM_TURNS_IN_PLAY"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1665" value="1" GameTagName="LETTUCE_MERCENARY"/>
+      <Tag tag="1666" value="1" GameTagName="LETTUCE_ROLE" RoleName="CASTER"/>
+      <Tag tag="1852" value="55000" GameTagName="LETTUCE_MERCENARY_EXPERIENCE"/>
+      <Tag tag="1856" value="77399" GameTagName="LETTUCE_EQUIPMENT_ID"/>
+      <Tag tag="2072" value="30"/>
+    </FullEntity>
+    <FullEntity id="33" cardID="LT21_05P3_05" EntityName="Fish Feast 5">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="23" GameTagName="CARDTYPE" CardTypeName="LETTUCE_ABILITY"/>
+      <Tag tag="466" value="2" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="48" value="2" GameTagName="COST"/>
+      <Tag tag="2" value="10" GameTagName="TAG_SCRIPT_DATA_NUM_1"/>
+      <Tag tag="3" value="15" GameTagName="TAG_SCRIPT_DATA_NUM_2"/>
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="53" value="33" GameTagName="ENTITY_ID"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1635" value="4" GameTagName="SPELL_SCHOOL" SpellSchoolName="NATURE"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1654" value="32" GameTagName="LETTUCE_ABILITY_OWNER"/>
+      <Tag tag="1666" value="1" GameTagName="LETTUCE_ROLE" RoleName="CASTER"/>
+      <Tag tag="1724" value="1"/>
+      <Tag tag="2185" value="1" GameTagName="DEATHBLOW"/>
+    </FullEntity>
+    <FullEntity id="34" cardID="LT21_05P1_05" EntityName="Cookie's Cooking 5">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="23" GameTagName="CARDTYPE" CardTypeName="LETTUCE_ABILITY"/>
+      <Tag tag="466" value="5" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="48" value="5" GameTagName="COST"/>
+      <Tag tag="2" value="5" GameTagName="TAG_SCRIPT_DATA_NUM_1"/>
+      <Tag tag="3" value="5" GameTagName="TAG_SCRIPT_DATA_NUM_2"/>
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="53" value="34" GameTagName="ENTITY_ID"/>
+      <Tag tag="201" value="3" GameTagName="FACTION" FactionName="NEUTRAL"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="370" value="1" GameTagName="AFFECTED_BY_SPELL_POWER"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1635" value="4" GameTagName="SPELL_SCHOOL" SpellSchoolName="NATURE"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1654" value="32" GameTagName="LETTUCE_ABILITY_OWNER"/>
+      <Tag tag="1666" value="1" GameTagName="LETTUCE_ROLE" RoleName="CASTER"/>
+      <Tag tag="1669" value="1" GameTagName="LETTUCE_COOLDOWN_CONFIG"/>
+    </FullEntity>
+    <FullEntity id="35" cardID="LT21_05P2_05" EntityName="Go Fish! 5">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="23" GameTagName="CARDTYPE" CardTypeName="LETTUCE_ABILITY"/>
+      <Tag tag="466" value="4" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="48" value="4" GameTagName="COST"/>
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="53" value="35" GameTagName="ENTITY_ID"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1635" value="4" GameTagName="SPELL_SCHOOL" SpellSchoolName="NATURE"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1654" value="32" GameTagName="LETTUCE_ABILITY_OWNER"/>
+      <Tag tag="1666" value="1" GameTagName="LETTUCE_ROLE" RoleName="CASTER"/>
+      <Tag tag="1669" value="1" GameTagName="LETTUCE_COOLDOWN_CONFIG"/>
+    </FullEntity>
+    <FullEntity id="36" cardID="LT21_05E2_04" EntityName="Appetizers 4">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="23" GameTagName="CARDTYPE" CardTypeName="LETTUCE_ABILITY"/>
+      <Tag tag="2" value="9" GameTagName="TAG_SCRIPT_DATA_NUM_1"/>
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="53" value="36" GameTagName="ENTITY_ID"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="684" value="1" GameTagName="HIDE_COST"/>
+      <Tag tag="968" value="1" GameTagName="START_OF_GAME"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1654" value="32" GameTagName="LETTUCE_ABILITY_OWNER"/>
+      <Tag tag="1666" value="1" GameTagName="LETTUCE_ROLE" RoleName="CASTER"/>
+      <Tag tag="1855" value="1" GameTagName="LETTUCE_IS_EQUPIMENT"/>
+      <Tag tag="2241" value="1" GameTagName="LETTUCE_START_OF_GAME_ABILITY"/>
+    </FullEntity>
+    <FullEntity id="37" cardID="LETL_011H_01" EntityName="Natalie Seline">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="4" GameTagName="CARDTYPE" CardTypeName="MINION"/>
+      <Tag tag="466" value="5" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="479" value="5"/>
+      <Tag tag="48" value="5" GameTagName="COST"/>
+      <Tag tag="47" value="5" GameTagName="ATK"/>
+      <Tag tag="45" value="75" GameTagName="HEALTH"/>
+      <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+      <Tag tag="53" value="37" GameTagName="ENTITY_ID"/>
+      <Tag tag="200" value="6" GameTagName="CARDRACE" RaceName="HUMAN"/>
+      <Tag tag="203" value="4" GameTagName="RARITY" RarityName="EPIC"/>
+      <Tag tag="271" value="1" GameTagName="NUM_TURNS_IN_PLAY"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1665" value="1" GameTagName="LETTUCE_MERCENARY"/>
+      <Tag tag="1666" value="1" GameTagName="LETTUCE_ROLE" RoleName="CASTER"/>
+      <Tag tag="1852" value="55000" GameTagName="LETTUCE_MERCENARY_EXPERIENCE"/>
+      <Tag tag="1856" value="72774" GameTagName="LETTUCE_EQUIPMENT_ID"/>
+      <Tag tag="2072" value="30"/>
+    </FullEntity>
+    <FullEntity id="38" cardID="LETL_331_05" EntityName="Shadow Beam 5">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="23" GameTagName="CARDTYPE" CardTypeName="LETTUCE_ABILITY"/>
+      <Tag tag="466" value="4" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="48" value="4" GameTagName="COST"/>
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="53" value="38" GameTagName="ENTITY_ID"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="386" value="1" GameTagName="POWERED_UP"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1635" value="6" GameTagName="SPELL_SCHOOL" SpellSchoolName="SHADOW"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1654" value="37" GameTagName="LETTUCE_ABILITY_OWNER"/>
+      <Tag tag="1666" value="1" GameTagName="LETTUCE_ROLE" RoleName="CASTER"/>
+      <Tag tag="1679" value="1"/>
+      <Tag tag="1724" value="1"/>
+    </FullEntity>
+    <FullEntity id="39" cardID="LETL_330_05" EntityName="Light Beam 5">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="23" GameTagName="CARDTYPE" CardTypeName="LETTUCE_ABILITY"/>
+      <Tag tag="466" value="2" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="48" value="2" GameTagName="COST"/>
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="53" value="39" GameTagName="ENTITY_ID"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1635" value="5" GameTagName="SPELL_SCHOOL" SpellSchoolName="HOLY"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1654" value="37" GameTagName="LETTUCE_ABILITY_OWNER"/>
+      <Tag tag="1666" value="1" GameTagName="LETTUCE_ROLE" RoleName="CASTER"/>
+      <Tag tag="1679" value="2"/>
+      <Tag tag="1724" value="1"/>
+    </FullEntity>
+    <FullEntity id="40" cardID="LETL_332_05a" EntityName="Anathema 5">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="23" GameTagName="CARDTYPE" CardTypeName="LETTUCE_ABILITY"/>
+      <Tag tag="466" value="6" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
+      <Tag tag="48" value="6" GameTagName="COST"/>
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="53" value="40" GameTagName="ENTITY_ID"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1635" value="6" GameTagName="SPELL_SCHOOL" SpellSchoolName="SHADOW"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1654" value="37" GameTagName="LETTUCE_ABILITY_OWNER"/>
+      <Tag tag="1666" value="1" GameTagName="LETTUCE_ROLE" RoleName="CASTER"/>
+      <Tag tag="1724" value="1"/>
+    </FullEntity>
+    <FullEntity id="41" cardID="LETL_335_04" EntityName="Splinter of Nordrassil 4">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="23" GameTagName="CARDTYPE" CardTypeName="LETTUCE_ABILITY"/>
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="53" value="41" GameTagName="ENTITY_ID"/>
+      <Tag tag="313" value="1" GameTagName="CREATOR"/>
+      <Tag tag="684" value="1" GameTagName="HIDE_COST"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+      <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+      <Tag tag="1654" value="37" GameTagName="LETTUCE_ABILITY_OWNER"/>
+      <Tag tag="1666" value="1" GameTagName="LETTUCE_ROLE" RoleName="CASTER"/>
+      <Tag tag="1715" value="1"/>
+      <Tag tag="1855" value="1" GameTagName="LETTUCE_IS_EQUPIMENT"/>
+    </FullEntity>
+    <FullEntity id="42" cardID="LETL_335e" EntityName="Splinter of Nordrassil">
+      <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
+      <Tag tag="202" value="6" GameTagName="CARDTYPE" CardTypeName="ENCHANTMENT"/>
+      <Tag tag="40" value="40" GameTagName="ATTACHED"/>
+      <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+      <Tag tag="53" value="42" GameTagName="ENTITY_ID"/>
+      <Tag tag="313" value="41" GameTagName="CREATOR"/>
+      <Tag tag="976" value="1" GameTagName="ENCHANTMENT_INVISIBLE"/>
+      <Tag tag="1037" value="3"/>
+      <Tag tag="1284" value="72774" GameTagName="CREATOR_DBID"/>
+      <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+    </FullEntity>
+    <FullEntity id="43">
+      <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+      <Tag tag="50" value="4" GameTagName="CONTROLLER"/>
+      <Tag tag="53" value="43" GameTagName="ENTITY_ID"/>
+      <Tag tag="1665" value="1" GameTagName="LETTUCE_MERCENARY"/>
+      <Tag tag="1666" value="3" GameTagName="LETTUCE_ROLE" RoleName="TANK"/>
+    </FullEntity>
+    <FullEntity id="44">
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="50" value="4" GameTagName="CONTROLLER"/>
+      <Tag tag="53" value="44" GameTagName="ENTITY_ID"/>
+      <Tag tag="1666" value="3" GameTagName="LETTUCE_ROLE" RoleName="TANK"/>
+    </FullEntity>
+    <FullEntity id="45">
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="50" value="4" GameTagName="CONTROLLER"/>
+      <Tag tag="53" value="45" GameTagName="ENTITY_ID"/>
+      <Tag tag="1666" value="3" GameTagName="LETTUCE_ROLE" RoleName="TANK"/>
+    </FullEntity>
+    <FullEntity id="46">
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="50" value="4" GameTagName="CONTROLLER"/>
+      <Tag tag="53" value="46" GameTagName="ENTITY_ID"/>
+      <Tag tag="1666" value="3" GameTagName="LETTUCE_ROLE" RoleName="TANK"/>
+    </FullEntity>
+    <FullEntity id="47">
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="50" value="4" GameTagName="CONTROLLER"/>
+      <Tag tag="53" value="47" GameTagName="ENTITY_ID"/>
+      <Tag tag="1666" value="3" GameTagName="LETTUCE_ROLE" RoleName="TANK"/>
+    </FullEntity>
+    <FullEntity id="48">
+      <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+      <Tag tag="50" value="2" GameTagName="CONTROLLER"/>
+      <Tag tag="53" value="48" GameTagName="ENTITY_ID"/>
+    </FullEntity>
+    <FullEntity id="49">
+      <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+      <Tag tag="50" value="4" GameTagName="CONTROLLER"/>
+      <Tag tag="53" value="49" GameTagName="ENTITY_ID"/>
+      <Tag tag="1665" value="1" GameTagName="LETTUCE_MERCENARY"/>
+      <Tag tag="1666" value="3" GameTagName="LETTUCE_ROLE" RoleName="TANK"/>
+    </FullEntity>
+    <FullEntity id="50">
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="50" value="4" GameTagName="CONTROLLER"/>
+      <Tag tag="53" value="50" GameTagName="ENTITY_ID"/>
+      <Tag tag="1666" value="3" GameTagName="LETTUCE_ROLE" RoleName="TANK"/>
+    </FullEntity>
+    <FullEntity id="51">
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="50" value="4" GameTagName="CONTROLLER"/>
+      <Tag tag="53" value="51" GameTagName="ENTITY_ID"/>
+      <Tag tag="1666" value="3" GameTagName="LETTUCE_ROLE" RoleName="TANK"/>
+    </FullEntity>
+    <FullEntity id="52">
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="50" value="4" GameTagName="CONTROLLER"/>
+      <Tag tag="53" value="52" GameTagName="ENTITY_ID"/>
+      <Tag tag="1666" value="3" GameTagName="LETTUCE_ROLE" RoleName="TANK"/>
+    </FullEntity>
+    <FullEntity id="53">
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="50" value="4" GameTagName="CONTROLLER"/>
+      <Tag tag="53" value="53" GameTagName="ENTITY_ID"/>
+      <Tag tag="1666" value="3" GameTagName="LETTUCE_ROLE" RoleName="TANK"/>
+    </FullEntity>
+    <FullEntity id="54">
+      <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+      <Tag tag="50" value="2" GameTagName="CONTROLLER"/>
+      <Tag tag="53" value="54" GameTagName="ENTITY_ID"/>
+    </FullEntity>
+    <FullEntity id="55">
+      <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+      <Tag tag="50" value="4" GameTagName="CONTROLLER"/>
+      <Tag tag="53" value="55" GameTagName="ENTITY_ID"/>
+      <Tag tag="1665" value="1" GameTagName="LETTUCE_MERCENARY"/>
+      <Tag tag="1666" value="2" GameTagName="LETTUCE_ROLE" RoleName="FIGHTER"/>
+    </FullEntity>
+    <FullEntity id="56">
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="50" value="4" GameTagName="CONTROLLER"/>
+      <Tag tag="53" value="56" GameTagName="ENTITY_ID"/>
+      <Tag tag="1666" value="2" GameTagName="LETTUCE_ROLE" RoleName="FIGHTER"/>
+    </FullEntity>
+    <FullEntity id="57">
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="50" value="4" GameTagName="CONTROLLER"/>
+      <Tag tag="53" value="57" GameTagName="ENTITY_ID"/>
+      <Tag tag="1666" value="2" GameTagName="LETTUCE_ROLE" RoleName="FIGHTER"/>
+    </FullEntity>
+    <FullEntity id="58">
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="50" value="4" GameTagName="CONTROLLER"/>
+      <Tag tag="53" value="58" GameTagName="ENTITY_ID"/>
+      <Tag tag="1666" value="2" GameTagName="LETTUCE_ROLE" RoleName="FIGHTER"/>
+    </FullEntity>
+    <FullEntity id="59">
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="50" value="4" GameTagName="CONTROLLER"/>
+      <Tag tag="53" value="59" GameTagName="ENTITY_ID"/>
+      <Tag tag="1666" value="2" GameTagName="LETTUCE_ROLE" RoleName="FIGHTER"/>
+    </FullEntity>
+    <FullEntity id="60">
+      <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+      <Tag tag="50" value="2" GameTagName="CONTROLLER"/>
+      <Tag tag="53" value="60" GameTagName="ENTITY_ID"/>
+    </FullEntity>
+    <FullEntity id="61">
+      <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+      <Tag tag="50" value="4" GameTagName="CONTROLLER"/>
+      <Tag tag="53" value="61" GameTagName="ENTITY_ID"/>
+      <Tag tag="1665" value="1" GameTagName="LETTUCE_MERCENARY"/>
+      <Tag tag="1666" value="2" GameTagName="LETTUCE_ROLE" RoleName="FIGHTER"/>
+    </FullEntity>
+    <FullEntity id="62">
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="50" value="4" GameTagName="CONTROLLER"/>
+      <Tag tag="53" value="62" GameTagName="ENTITY_ID"/>
+      <Tag tag="1666" value="2" GameTagName="LETTUCE_ROLE" RoleName="FIGHTER"/>
+    </FullEntity>
+    <FullEntity id="63">
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="50" value="4" GameTagName="CONTROLLER"/>
+      <Tag tag="53" value="63" GameTagName="ENTITY_ID"/>
+      <Tag tag="1666" value="2" GameTagName="LETTUCE_ROLE" RoleName="FIGHTER"/>
+    </FullEntity>
+    <FullEntity id="64">
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="50" value="4" GameTagName="CONTROLLER"/>
+      <Tag tag="53" value="64" GameTagName="ENTITY_ID"/>
+      <Tag tag="1666" value="2" GameTagName="LETTUCE_ROLE" RoleName="FIGHTER"/>
+    </FullEntity>
+    <FullEntity id="65">
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="50" value="4" GameTagName="CONTROLLER"/>
+      <Tag tag="53" value="65" GameTagName="ENTITY_ID"/>
+      <Tag tag="1666" value="2" GameTagName="LETTUCE_ROLE" RoleName="FIGHTER"/>
+    </FullEntity>
+    <FullEntity id="66">
+      <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+      <Tag tag="50" value="2" GameTagName="CONTROLLER"/>
+      <Tag tag="53" value="66" GameTagName="ENTITY_ID"/>
+    </FullEntity>
+    <FullEntity id="67">
+      <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+      <Tag tag="50" value="4" GameTagName="CONTROLLER"/>
+      <Tag tag="53" value="67" GameTagName="ENTITY_ID"/>
+      <Tag tag="1665" value="1" GameTagName="LETTUCE_MERCENARY"/>
+      <Tag tag="1666" value="2" GameTagName="LETTUCE_ROLE" RoleName="FIGHTER"/>
+    </FullEntity>
+    <FullEntity id="68">
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="50" value="4" GameTagName="CONTROLLER"/>
+      <Tag tag="53" value="68" GameTagName="ENTITY_ID"/>
+      <Tag tag="1666" value="2" GameTagName="LETTUCE_ROLE" RoleName="FIGHTER"/>
+    </FullEntity>
+    <FullEntity id="69">
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="50" value="4" GameTagName="CONTROLLER"/>
+      <Tag tag="53" value="69" GameTagName="ENTITY_ID"/>
+      <Tag tag="1666" value="2" GameTagName="LETTUCE_ROLE" RoleName="FIGHTER"/>
+    </FullEntity>
+    <FullEntity id="70">
+      <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+      <Tag tag="50" value="4" GameTagName="CONTROLLER"/>
+      <Tag tag="53" value="70" GameTagName="ENTITY_ID"/>
+    </FullEntity>
+    <FullEntity id="71">
+      <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+      <Tag tag="50" value="4" GameTagName="CONTROLLER"/>
+      <Tag tag="53" value="71" GameTagName="ENTITY_ID"/>
+    </FullEntity>
+    <FullEntity id="72">
+      <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+      <Tag tag="50" value="4" GameTagName="CONTROLLER"/>
+      <Tag tag="53" value="72" GameTagName="ENTITY_ID"/>
+    </FullEntity>
+    <FullEntity id="73">
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="50" value="4" GameTagName="CONTROLLER"/>
+      <Tag tag="53" value="73" GameTagName="ENTITY_ID"/>
+      <Tag tag="1666" value="2" GameTagName="LETTUCE_ROLE" RoleName="FIGHTER"/>
+    </FullEntity>
+    <FullEntity id="74">
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="50" value="4" GameTagName="CONTROLLER"/>
+      <Tag tag="53" value="74" GameTagName="ENTITY_ID"/>
+      <Tag tag="1666" value="2" GameTagName="LETTUCE_ROLE" RoleName="FIGHTER"/>
+    </FullEntity>
+    <FullEntity id="75">
+      <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+      <Tag tag="50" value="2" GameTagName="CONTROLLER"/>
+      <Tag tag="53" value="75" GameTagName="ENTITY_ID"/>
+    </FullEntity>
+    <FullEntity id="76">
+      <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+      <Tag tag="50" value="4" GameTagName="CONTROLLER"/>
+      <Tag tag="53" value="76" GameTagName="ENTITY_ID"/>
+      <Tag tag="1665" value="1" GameTagName="LETTUCE_MERCENARY"/>
+      <Tag tag="1666" value="1" GameTagName="LETTUCE_ROLE" RoleName="CASTER"/>
+    </FullEntity>
+    <FullEntity id="77">
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="50" value="4" GameTagName="CONTROLLER"/>
+      <Tag tag="53" value="77" GameTagName="ENTITY_ID"/>
+      <Tag tag="1666" value="1" GameTagName="LETTUCE_ROLE" RoleName="CASTER"/>
+    </FullEntity>
+    <FullEntity id="78">
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="50" value="4" GameTagName="CONTROLLER"/>
+      <Tag tag="53" value="78" GameTagName="ENTITY_ID"/>
+      <Tag tag="1666" value="1" GameTagName="LETTUCE_ROLE" RoleName="CASTER"/>
+    </FullEntity>
+    <FullEntity id="79">
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="50" value="4" GameTagName="CONTROLLER"/>
+      <Tag tag="53" value="79" GameTagName="ENTITY_ID"/>
+      <Tag tag="1666" value="1" GameTagName="LETTUCE_ROLE" RoleName="CASTER"/>
+    </FullEntity>
+    <FullEntity id="80">
+      <Tag tag="49" value="8" GameTagName="ZONE" ZoneName="LETTUCE_ABILITY"/>
+      <Tag tag="50" value="4" GameTagName="CONTROLLER"/>
+      <Tag tag="53" value="80" GameTagName="ENTITY_ID"/>
+      <Tag tag="1666" value="1" GameTagName="LETTUCE_ROLE" RoleName="CASTER"/>
+    </FullEntity>
+    <TagChange entity="1" tag="204" value="2" EntityCardID="GameEntity" EntityCardName="GameEntity" StateName="RUNNING" GameTagName="STATE"/>
+    <TagChange entity="2" tag="17" value="1" PlayStateName="PLAYING" GameTagName="PLAYSTATE"/>
+    <TagChange entity="3" tag="17" value="1" PlayStateName="PLAYING" GameTagName="PLAYSTATE"/>
+    <TagChange entity="4" tag="17" value="1" PlayStateName="PLAYING" GameTagName="PLAYSTATE"/>
+    <TagChange entity="5" tag="17" value="1" PlayStateName="PLAYING" GameTagName="PLAYSTATE"/>
+    <Block entity="1" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="14" ts="2021-11-22T14:52:31.746241" block_sequence_num="1" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
+      <TagChange entity="2" tag="23" value="1" GameTagName="CURRENT_PLAYER"/>
+      <TagChange entity="2" tag="7" value="90" GameTagName="TIMEOUT"/>
+      <TagChange entity="1" tag="198" value="13" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_NEXT"/>
+    </Block>
+    <TagChange entity="1" tag="19" value="13" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_NEXT"/>
+    <Block entity="1" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="15" ts="2021-11-22T14:52:32.268468" block_sequence_num="2" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
+      <TagChange entity="2" tag="23" value="0" GameTagName="CURRENT_PLAYER"/>
+      <TagChange entity="2" tag="23" value="1" GameTagName="CURRENT_PLAYER"/>
+      <TagChange entity="2" tag="272" value="1" GameTagName="NUM_TURNS_LEFT"/>
+      <TagChange entity="1" tag="20" value="1" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="TURN"/>
+      <TagChange entity="1" tag="1882" value="1" EntityCardID="GameEntity" EntityCardName="GameEntity"/>
+      <TagChange entity="2" tag="20" value="1" GameTagName="TURN"/>
+      <TagChange entity="1" tag="198" value="9" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_START"/>
+    </Block>
+    <TagChange entity="1" tag="19" value="9" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_START"/>
+    <Block entity="1" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="16" ts="2021-11-22T14:52:32.268468" block_sequence_num="3" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
+      <TagChange entity="1" tag="198" value="18" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_SET_ACTION_STEP_TYPE"/>
+    </Block>
+    <TagChange entity="1" tag="19" value="18" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_SET_ACTION_STEP_TYPE"/>
+    <Block entity="1" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="17" ts="2021-11-22T14:52:32.268468" block_sequence_num="4" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
+      <TagChange entity="4" tag="1705" value="3" GameTagName="LETTUCE_MERCENARIES_TO_NOMINATE"/>
+      <TagChange entity="3" tag="1705" value="3" GameTagName="LETTUCE_MERCENARIES_TO_NOMINATE"/>
+      <TagChange entity="1" tag="1700" value="1" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="ACTION_STEP_TYPE"/>
+      <TagChange entity="1" tag="198" value="19" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_PRE_ACTION"/>
+    </Block>
+    <TagChange entity="1" tag="19" value="19" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_PRE_ACTION"/>
+    <Block entity="1" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="18" ts="2021-11-22T14:52:32.268468" block_sequence_num="5" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
+      <TagChange entity="1" tag="6" value="1" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="MISSION_EVENT"/>
+      <TagChange entity="1" tag="1356" value="1" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="ALLOW_MOVE_MINION"/>
+      <MetaData meta="20" data="2000" infoCount="1" MetaName="SLUSH_TIME">
+        <Info index="0" entity="1" EntityName="GameEntity"/>
+      </MetaData>
+      <TagChange entity="1" tag="2228" value="3" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="LETTUCE_VERSUS_SPELL_STATE"/>
+      <TagChange entity="6" tag="1702" value="3" EntityCardID="LETL_038H_02" EntityCardName="King Mukla" GameTagName="FAKE_ZONE" ZoneName="HAND"/>
+      <TagChange entity="6" tag="1702" value="3" EntityCardID="LETL_038H_02" EntityCardName="King Mukla" GameTagName="FAKE_ZONE" ZoneName="HAND"/>
+      <TagChange entity="6" tag="1703" value="1" EntityCardID="LETL_038H_02" EntityCardName="King Mukla" GameTagName="FAKE_ZONE_POSITION"/>
+      <TagChange entity="12" tag="1702" value="3" EntityCardID="BARL_017H_01" EntityCardName="Malfurion Stormrage" GameTagName="FAKE_ZONE" ZoneName="HAND"/>
+      <TagChange entity="12" tag="1702" value="3" EntityCardID="BARL_017H_01" EntityCardName="Malfurion Stormrage" GameTagName="FAKE_ZONE" ZoneName="HAND"/>
+      <TagChange entity="12" tag="1703" value="2" EntityCardID="BARL_017H_01" EntityCardName="Malfurion Stormrage" GameTagName="FAKE_ZONE_POSITION"/>
+      <TagChange entity="20" tag="1702" value="3" EntityCardID="BARL_024H_02" EntityCardName="Blademaster Samuro" GameTagName="FAKE_ZONE" ZoneName="HAND"/>
+      <TagChange entity="20" tag="1702" value="3" EntityCardID="BARL_024H_02" EntityCardName="Blademaster Samuro" GameTagName="FAKE_ZONE" ZoneName="HAND"/>
+      <TagChange entity="20" tag="1703" value="3" EntityCardID="BARL_024H_02" EntityCardName="Blademaster Samuro" GameTagName="FAKE_ZONE_POSITION"/>
+      <TagChange entity="26" tag="1702" value="3" EntityCardID="BARL_005H_02" EntityCardName="Vol'jin" GameTagName="FAKE_ZONE" ZoneName="HAND"/>
+      <TagChange entity="26" tag="1702" value="3" EntityCardID="BARL_005H_02" EntityCardName="Vol'jin" GameTagName="FAKE_ZONE" ZoneName="HAND"/>
+      <TagChange entity="26" tag="1703" value="4" EntityCardID="BARL_005H_02" EntityCardName="Vol'jin" GameTagName="FAKE_ZONE_POSITION"/>
+      <TagChange entity="32" tag="1702" value="3" EntityCardID="LT21_05H_02" EntityCardName="Cookie, the Cook" GameTagName="FAKE_ZONE" ZoneName="HAND"/>
+      <TagChange entity="32" tag="1702" value="3" EntityCardID="LT21_05H_02" EntityCardName="Cookie, the Cook" GameTagName="FAKE_ZONE" ZoneName="HAND"/>
+      <TagChange entity="32" tag="1703" value="5" EntityCardID="LT21_05H_02" EntityCardName="Cookie, the Cook" GameTagName="FAKE_ZONE_POSITION"/>
+      <TagChange entity="37" tag="1702" value="3" EntityCardID="LETL_011H_01" EntityCardName="Natalie Seline" GameTagName="FAKE_ZONE" ZoneName="HAND"/>
+      <TagChange entity="37" tag="1702" value="3" EntityCardID="LETL_011H_01" EntityCardName="Natalie Seline" GameTagName="FAKE_ZONE" ZoneName="HAND"/>
+      <TagChange entity="37" tag="1703" value="6" EntityCardID="LETL_011H_01" EntityCardName="Natalie Seline" GameTagName="FAKE_ZONE_POSITION"/>
+      <MetaData meta="21" data="0" infoCount="1" MetaName="ARTIFICIAL_HISTORY_INTERRUPT">
+        <Info index="0" entity="1" EntityName="GameEntity"/>
+      </MetaData>
+      <TagChange entity="1" tag="2224" value="1" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="LETTUCE_SHOW_OPPOSING_FAKE_HAND"/>
+      <TagChange entity="1" tag="2228" value="5" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="LETTUCE_VERSUS_SPELL_STATE"/>
+      <SubSpell spellPrefabGuid="Lettuce_MercNomination_ToastSpell.prefab:08b446f360f30b64e81dce29abc7e06c" source="1" targetCount="0" ts="2021-11-22T14:52:32.268468"/>
+      <MetaData meta="20" data="2000" infoCount="1" MetaName="SLUSH_TIME">
+        <Info index="0" entity="1" EntityName="GameEntity"/>
+      </MetaData>
+      <TagChange entity="2" tag="7" value="75" GameTagName="TIMEOUT"/>
+      <TagChange entity="2" tag="7" value="50" GameTagName="TIMEOUT"/>
+      <MetaData meta="5" data="0" infoCount="2" MetaName="SHOW_BIG_CARD">
+        <Info index="0" entity="36" EntityName="Appetizers 4"/>
+        <Info index="1" entity="1500"/>
+      </MetaData>
+      <TagChange entity="36" tag="1715" value="1" EntityCardID="LT21_05E2_04" EntityCardName="Appetizers 4"/>
+      <MetaData meta="20" data="3000" infoCount="1" MetaName="SLUSH_TIME">
+        <Info index="0" entity="36" EntityName="Appetizers 4"/>
+      </MetaData>
+      <Block entity="36" type="3" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2021-11-22T14:52:32.268468" block_sequence_num="6" EntityCardID="LT21_05E2_04" EntityCardName="Appetizers 4" BlockTypeName="POWER">
+        <FullEntity id="81" EntityName="Appetizers">
+          <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+          <Tag tag="50" value="1" GameTagName="CONTROLLER"/>
+          <Tag tag="53" value="81" GameTagName="ENTITY_ID"/>
+        </FullEntity>
+        <ShowEntity entity="81" cardID="LT21_05E2e" EntityName="Appetizers">
+          <Tag tag="50" value="1" GameTagName="CONTROLLER"/>
+          <Tag tag="202" value="6" GameTagName="CARDTYPE" CardTypeName="ENCHANTMENT"/>
+          <Tag tag="2" value="9" GameTagName="TAG_SCRIPT_DATA_NUM_1"/>
+          <Tag tag="40" value="6" GameTagName="ATTACHED"/>
+          <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+          <Tag tag="53" value="81" GameTagName="ENTITY_ID"/>
+          <Tag tag="313" value="36" GameTagName="CREATOR"/>
+          <Tag tag="1037" value="3"/>
+          <Tag tag="1068" value="0"/>
+          <Tag tag="1284" value="77399" GameTagName="CREATOR_DBID"/>
+          <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+          <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+        </ShowEntity>
+        <TagChange entity="81" tag="1068" value="1" EntityCardID="LT21_05E2e" EntityCardName="Appetizers"/>
+        <TagChange entity="81" tag="1068" value="0" EntityCardID="LT21_05E2e" EntityCardName="Appetizers"/>
+        <TagChange entity="81" tag="49" value="1" EntityCardID="LT21_05E2e" EntityCardName="Appetizers" GameTagName="ZONE" ZoneName="PLAY"/>
+        <TagChange entity="6" tag="45" value="91" EntityCardID="LETL_038H_02" EntityCardName="King Mukla" GameTagName="HEALTH"/>
+        <FullEntity id="82" EntityName="Appetizers">
+          <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+          <Tag tag="50" value="1" GameTagName="CONTROLLER"/>
+          <Tag tag="53" value="82" GameTagName="ENTITY_ID"/>
+        </FullEntity>
+        <ShowEntity entity="82" cardID="LT21_05E2e" EntityName="Appetizers">
+          <Tag tag="50" value="1" GameTagName="CONTROLLER"/>
+          <Tag tag="202" value="6" GameTagName="CARDTYPE" CardTypeName="ENCHANTMENT"/>
+          <Tag tag="2" value="9" GameTagName="TAG_SCRIPT_DATA_NUM_1"/>
+          <Tag tag="40" value="12" GameTagName="ATTACHED"/>
+          <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+          <Tag tag="53" value="82" GameTagName="ENTITY_ID"/>
+          <Tag tag="313" value="36" GameTagName="CREATOR"/>
+          <Tag tag="1037" value="3"/>
+          <Tag tag="1068" value="0"/>
+          <Tag tag="1284" value="77399" GameTagName="CREATOR_DBID"/>
+          <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+          <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+        </ShowEntity>
+        <TagChange entity="82" tag="1068" value="1" EntityCardID="LT21_05E2e" EntityCardName="Appetizers"/>
+        <TagChange entity="82" tag="1068" value="0" EntityCardID="LT21_05E2e" EntityCardName="Appetizers"/>
+        <TagChange entity="82" tag="49" value="1" EntityCardID="LT21_05E2e" EntityCardName="Appetizers" GameTagName="ZONE" ZoneName="PLAY"/>
+        <TagChange entity="12" tag="45" value="77" EntityCardID="BARL_017H_01" EntityCardName="Malfurion Stormrage" GameTagName="HEALTH"/>
+        <FullEntity id="83" EntityName="Appetizers">
+          <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+          <Tag tag="50" value="1" GameTagName="CONTROLLER"/>
+          <Tag tag="53" value="83" GameTagName="ENTITY_ID"/>
+        </FullEntity>
+        <ShowEntity entity="83" cardID="LT21_05E2e" EntityName="Appetizers">
+          <Tag tag="50" value="1" GameTagName="CONTROLLER"/>
+          <Tag tag="202" value="6" GameTagName="CARDTYPE" CardTypeName="ENCHANTMENT"/>
+          <Tag tag="2" value="9" GameTagName="TAG_SCRIPT_DATA_NUM_1"/>
+          <Tag tag="12" value="1" GameTagName="PREMIUM"/>
+          <Tag tag="40" value="20" GameTagName="ATTACHED"/>
+          <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+          <Tag tag="53" value="83" GameTagName="ENTITY_ID"/>
+          <Tag tag="313" value="36" GameTagName="CREATOR"/>
+          <Tag tag="1037" value="3"/>
+          <Tag tag="1068" value="0"/>
+          <Tag tag="1284" value="77399" GameTagName="CREATOR_DBID"/>
+          <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+          <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+        </ShowEntity>
+        <TagChange entity="83" tag="1068" value="1" EntityCardID="LT21_05E2e" EntityCardName="Appetizers"/>
+        <TagChange entity="83" tag="1068" value="0" EntityCardID="LT21_05E2e" EntityCardName="Appetizers"/>
+        <TagChange entity="83" tag="49" value="1" EntityCardID="LT21_05E2e" EntityCardName="Appetizers" GameTagName="ZONE" ZoneName="PLAY"/>
+        <TagChange entity="20" tag="45" value="80" EntityCardID="BARL_024H_02" EntityCardName="Blademaster Samuro" GameTagName="HEALTH"/>
+        <FullEntity id="84" EntityName="Appetizers">
+          <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+          <Tag tag="50" value="1" GameTagName="CONTROLLER"/>
+          <Tag tag="53" value="84" GameTagName="ENTITY_ID"/>
+        </FullEntity>
+        <ShowEntity entity="84" cardID="LT21_05E2e" EntityName="Appetizers">
+          <Tag tag="50" value="1" GameTagName="CONTROLLER"/>
+          <Tag tag="202" value="6" GameTagName="CARDTYPE" CardTypeName="ENCHANTMENT"/>
+          <Tag tag="2" value="9" GameTagName="TAG_SCRIPT_DATA_NUM_1"/>
+          <Tag tag="40" value="26" GameTagName="ATTACHED"/>
+          <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+          <Tag tag="53" value="84" GameTagName="ENTITY_ID"/>
+          <Tag tag="313" value="36" GameTagName="CREATOR"/>
+          <Tag tag="1037" value="3"/>
+          <Tag tag="1068" value="0"/>
+          <Tag tag="1284" value="77399" GameTagName="CREATOR_DBID"/>
+          <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+          <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+        </ShowEntity>
+        <TagChange entity="84" tag="1068" value="1" EntityCardID="LT21_05E2e" EntityCardName="Appetizers"/>
+        <TagChange entity="84" tag="1068" value="0" EntityCardID="LT21_05E2e" EntityCardName="Appetizers"/>
+        <TagChange entity="84" tag="49" value="1" EntityCardID="LT21_05E2e" EntityCardName="Appetizers" GameTagName="ZONE" ZoneName="PLAY"/>
+        <TagChange entity="26" tag="45" value="79" EntityCardID="BARL_005H_02" EntityCardName="Vol'jin" GameTagName="HEALTH"/>
+        <FullEntity id="85" EntityName="Appetizers">
+          <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+          <Tag tag="50" value="1" GameTagName="CONTROLLER"/>
+          <Tag tag="53" value="85" GameTagName="ENTITY_ID"/>
+        </FullEntity>
+        <ShowEntity entity="85" cardID="LT21_05E2e" EntityName="Appetizers">
+          <Tag tag="50" value="1" GameTagName="CONTROLLER"/>
+          <Tag tag="202" value="6" GameTagName="CARDTYPE" CardTypeName="ENCHANTMENT"/>
+          <Tag tag="2" value="9" GameTagName="TAG_SCRIPT_DATA_NUM_1"/>
+          <Tag tag="12" value="1" GameTagName="PREMIUM"/>
+          <Tag tag="40" value="32" GameTagName="ATTACHED"/>
+          <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+          <Tag tag="53" value="85" GameTagName="ENTITY_ID"/>
+          <Tag tag="313" value="36" GameTagName="CREATOR"/>
+          <Tag tag="1037" value="3"/>
+          <Tag tag="1068" value="0"/>
+          <Tag tag="1284" value="77399" GameTagName="CREATOR_DBID"/>
+          <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+          <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+        </ShowEntity>
+        <TagChange entity="85" tag="1068" value="1" EntityCardID="LT21_05E2e" EntityCardName="Appetizers"/>
+        <TagChange entity="85" tag="1068" value="0" EntityCardID="LT21_05E2e" EntityCardName="Appetizers"/>
+        <TagChange entity="85" tag="49" value="1" EntityCardID="LT21_05E2e" EntityCardName="Appetizers" GameTagName="ZONE" ZoneName="PLAY"/>
+        <TagChange entity="32" tag="45" value="74" EntityCardID="LT21_05H_02" EntityCardName="Cookie, the Cook" GameTagName="HEALTH"/>
+        <FullEntity id="86" EntityName="Appetizers">
+          <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+          <Tag tag="50" value="1" GameTagName="CONTROLLER"/>
+          <Tag tag="53" value="86" GameTagName="ENTITY_ID"/>
+        </FullEntity>
+        <ShowEntity entity="86" cardID="LT21_05E2e" EntityName="Appetizers">
+          <Tag tag="50" value="1" GameTagName="CONTROLLER"/>
+          <Tag tag="202" value="6" GameTagName="CARDTYPE" CardTypeName="ENCHANTMENT"/>
+          <Tag tag="2" value="9" GameTagName="TAG_SCRIPT_DATA_NUM_1"/>
+          <Tag tag="40" value="37" GameTagName="ATTACHED"/>
+          <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+          <Tag tag="53" value="86" GameTagName="ENTITY_ID"/>
+          <Tag tag="313" value="36" GameTagName="CREATOR"/>
+          <Tag tag="1037" value="3"/>
+          <Tag tag="1068" value="0"/>
+          <Tag tag="1284" value="77399" GameTagName="CREATOR_DBID"/>
+          <Tag tag="1556" value="1" GameTagName="SPAWN_TIME_COUNT"/>
+          <Tag tag="1653" value="3" GameTagName="LETTUCE_CONTROLLER"/>
+        </ShowEntity>
+        <TagChange entity="86" tag="1068" value="1" EntityCardID="LT21_05E2e" EntityCardName="Appetizers"/>
+        <TagChange entity="86" tag="1068" value="0" EntityCardID="LT21_05E2e" EntityCardName="Appetizers"/>
+        <TagChange entity="86" tag="49" value="1" EntityCardID="LT21_05E2e" EntityCardName="Appetizers" GameTagName="ZONE" ZoneName="PLAY"/>
+        <TagChange entity="37" tag="45" value="84" EntityCardID="LETL_011H_01" EntityCardName="Natalie Seline" GameTagName="HEALTH"/>
+        <MetaData meta="10" data="0" infoCount="1" MetaName="BEGIN_ARTIFICIAL_HISTORY_TILE">
+          <Info index="0" entity="36" EntityName="Appetizers 4"/>
+        </MetaData>
+        <MetaData meta="25" data="0" infoCount="1" MetaName="HISTORY_SOURCE_OWNER">
+          <Info index="0" entity="32" EntityName="Cookie, the Cook"/>
+        </MetaData>
+        <MetaData meta="24" data="0" infoCount="1" MetaName="HISTORY_TRIGGER_SOURCE">
+          <Info index="0" entity="36" EntityName="Appetizers 4"/>
+        </MetaData>
+        <MetaData meta="7" data="0" infoCount="6" MetaName="HISTORY_TARGET">
+          <Info index="0" entity="6" EntityName="King Mukla"/>
+          <Info index="1" entity="12" EntityName="Malfurion Stormrage"/>
+          <Info index="2" entity="20" EntityName="Blademaster Samuro"/>
+          <Info index="3" entity="26" EntityName="Vol'jin"/>
+          <Info index="4" entity="32" EntityName="Cookie, the Cook"/>
+          <Info index="5" entity="37" EntityName="Natalie Seline"/>
+        </MetaData>
+        <MetaData meta="12" data="0" infoCount="1" MetaName="END_ARTIFICIAL_HISTORY_TILE">
+          <Info index="0" entity="36" EntityName="Appetizers 4"/>
+        </MetaData>
+        <TagChange entity="36" tag="1020" value="1" EntityCardID="LT21_05E2_04" EntityCardName="Appetizers 4"/>
+      </Block>
+      <MetaData meta="20" data="1000" infoCount="1" MetaName="SLUSH_TIME">
+        <Info index="0" entity="36" EntityName="Appetizers 4"/>
+      </MetaData>
+      <MetaData meta="5" data="0" infoCount="2" MetaName="SHOW_BIG_CARD">
+        <Info index="0" entity="80"/>
+        <Info index="1" entity="1500"/>
+      </MetaData>
+      <MetaData meta="20" data="3000" infoCount="1" MetaName="SLUSH_TIME">
+        <Info index="0" entity="80"/>
+      </MetaData>
+      <Block entity="80" type="3" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2021-11-22T14:52:32.268468" block_sequence_num="7" BlockTypeName="POWER">
+        <FullEntity id="87">
+          <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+          <Tag tag="50" value="2" GameTagName="CONTROLLER"/>
+          <Tag tag="53" value="87" GameTagName="ENTITY_ID"/>
+        </FullEntity>
+        <TagChange entity="87" tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+        <FullEntity id="88">
+          <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+          <Tag tag="50" value="2" GameTagName="CONTROLLER"/>
+          <Tag tag="53" value="88" GameTagName="ENTITY_ID"/>
+        </FullEntity>
+        <TagChange entity="88" tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+        <FullEntity id="89">
+          <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+          <Tag tag="50" value="2" GameTagName="CONTROLLER"/>
+          <Tag tag="53" value="89" GameTagName="ENTITY_ID"/>
+        </FullEntity>
+        <TagChange entity="89" tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+        <FullEntity id="90">
+          <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+          <Tag tag="50" value="2" GameTagName="CONTROLLER"/>
+          <Tag tag="53" value="90" GameTagName="ENTITY_ID"/>
+        </FullEntity>
+        <TagChange entity="90" tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+        <FullEntity id="91">
+          <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+          <Tag tag="50" value="2" GameTagName="CONTROLLER"/>
+          <Tag tag="53" value="91" GameTagName="ENTITY_ID"/>
+        </FullEntity>
+        <TagChange entity="91" tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+        <FullEntity id="92">
+          <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
+          <Tag tag="50" value="2" GameTagName="CONTROLLER"/>
+          <Tag tag="53" value="92" GameTagName="ENTITY_ID"/>
+        </FullEntity>
+        <TagChange entity="92" tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
+        <MetaData meta="10" data="0" infoCount="1" MetaName="BEGIN_ARTIFICIAL_HISTORY_TILE">
+          <Info index="0" entity="80"/>
+        </MetaData>
+        <MetaData meta="25" data="0" infoCount="1" MetaName="HISTORY_SOURCE_OWNER">
+          <Info index="0" entity="76"/>
+        </MetaData>
+        <MetaData meta="24" data="0" infoCount="1" MetaName="HISTORY_TRIGGER_SOURCE">
+          <Info index="0" entity="80"/>
+        </MetaData>
+        <MetaData meta="7" data="0" infoCount="6" MetaName="HISTORY_TARGET">
+          <Info index="0" entity="43"/>
+          <Info index="1" entity="49"/>
+          <Info index="2" entity="55"/>
+          <Info index="3" entity="61"/>
+          <Info index="4" entity="67"/>
+          <Info index="5" entity="76"/>
+        </MetaData>
+        <MetaData meta="12" data="0" infoCount="1" MetaName="END_ARTIFICIAL_HISTORY_TILE">
+          <Info index="0" entity="80"/>
+        </MetaData>
+      </Block>
+      <MetaData meta="20" data="1000" infoCount="1" MetaName="SLUSH_TIME">
+        <Info index="0" entity="80"/>
+      </MetaData>
+      <TagChange entity="1" tag="198" value="10" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_ACTION"/>
+    </Block>
+    <TagChange entity="1" tag="19" value="10" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_ACTION"/>
+    <Block entity="1" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="19" ts="2021-11-22T14:52:32.268468" block_sequence_num="8" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
+      <TagChange entity="1" tag="198" value="20" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_POST_ACTION"/>
+    </Block>
+    <Options id="1" ts="2021-11-22T14:52:32.451661">
+      <Option index="0" error="-1" type="2"/>
+      <Option index="1" entity="6" type="3" EntityCardID="LETL_038H_02" EntityName="King Mukla"/>
+      <Option index="2" entity="12" type="3" EntityCardID="BARL_017H_01" EntityName="Malfurion Stormrage"/>
+      <Option index="3" entity="20" type="3" EntityCardID="BARL_024H_02" EntityName="Blademaster Samuro"/>
+      <Option index="4" entity="26" type="3" EntityCardID="BARL_005H_02" EntityName="Vol'jin"/>
+      <Option index="5" entity="32" type="3" EntityCardID="LT21_05H_02" EntityName="Cookie, the Cook"/>
+      <Option index="6" entity="37" type="3" EntityCardID="LETL_011H_01" EntityName="Natalie Seline"/>
+      <Option index="7" entity="19" type="3" EntityCardID="LETL_707e" EntityName="Liferoot Staff"/>
+      <Option index="8" entity="25" type="3" EntityCardID="LETL_638e" EntityName="Burning Blade"/>
+      <Option index="9" entity="31" type="3" EntityCardID="LETL_326e" EntityName="Ring of Haste"/>
+      <Option index="10" entity="81" type="3" EntityCardID="LT21_05E2e" EntityName="Appetizers"/>
+      <Option index="11" entity="82" type="3" EntityCardID="LT21_05E2e" EntityName="Appetizers"/>
+      <Option index="12" entity="83" type="3" EntityCardID="LT21_05E2e" EntityName="Appetizers"/>
+      <Option index="13" entity="84" type="3" EntityCardID="LT21_05E2e" EntityName="Appetizers"/>
+      <Option index="14" entity="85" type="3" EntityCardID="LT21_05E2e" EntityName="Appetizers"/>
+      <Option index="15" entity="86" type="3" EntityCardID="LT21_05E2e" EntityName="Appetizers"/>
+    </Options>
+    <SendOption option="4" subOption="-1" target="0" position="1" ts="2021-11-22T14:53:05.613024"/>
+    <MetaData meta="18" data="0" infoCount="5" MetaName="CONTROLLER_AND_ZONE_CHANGE">
+      <Info index="0" entity="26" EntityName="Vol'jin"/>
+      <Info index="1" entity="2"/>
+      <Info index="2" entity="1" EntityName="GameEntity"/>
+      <Info index="3" entity="2"/>
+      <Info index="4" entity="1" EntityName="GameEntity"/>
+    </MetaData>
+    <TagChange entity="26" tag="2032" value="1" EntityCardID="BARL_005H_02" EntityCardName="Vol'jin" GameTagName="FAKE_CONTROLLER"/>
+    <TagChange entity="26" tag="1702" value="1" EntityCardID="BARL_005H_02" EntityCardName="Vol'jin" GameTagName="FAKE_ZONE" ZoneName="PLAY"/>
+    <TagChange entity="26" tag="1703" value="1" EntityCardID="BARL_005H_02" EntityCardName="Vol'jin" GameTagName="FAKE_ZONE_POSITION"/>
+    <Options id="2" ts="2021-11-22T14:53:05.946167">
+      <Option index="0" error="-1" type="2"/>
+      <Option index="1" entity="6" type="3" EntityCardID="LETL_038H_02" EntityName="King Mukla"/>
+      <Option index="2" entity="12" type="3" EntityCardID="BARL_017H_01" EntityName="Malfurion Stormrage"/>
+      <Option index="3" entity="20" type="3" EntityCardID="BARL_024H_02" EntityName="Blademaster Samuro"/>
+      <Option index="4" entity="32" type="3" EntityCardID="LT21_05H_02" EntityName="Cookie, the Cook"/>
+      <Option index="5" entity="37" type="3" EntityCardID="LETL_011H_01" EntityName="Natalie Seline"/>
+      <Option index="6" entity="26" type="3" EntityCardID="BARL_005H_02" EntityName="Vol'jin"/>
+      <Option index="7" entity="19" type="3" EntityCardID="LETL_707e" EntityName="Liferoot Staff"/>
+      <Option index="8" entity="25" type="3" EntityCardID="LETL_638e" EntityName="Burning Blade"/>
+      <Option index="9" entity="31" type="3" EntityCardID="LETL_326e" EntityName="Ring of Haste"/>
+      <Option index="10" entity="81" type="3" EntityCardID="LT21_05E2e" EntityName="Appetizers"/>
+      <Option index="11" entity="82" type="3" EntityCardID="LT21_05E2e" EntityName="Appetizers"/>
+      <Option index="12" entity="83" type="3" EntityCardID="LT21_05E2e" EntityName="Appetizers"/>
+      <Option index="13" entity="84" type="3" EntityCardID="LT21_05E2e" EntityName="Appetizers"/>
+      <Option index="14" entity="85" type="3" EntityCardID="LT21_05E2e" EntityName="Appetizers"/>
+      <Option index="15" entity="86" type="3" EntityCardID="LT21_05E2e" EntityName="Appetizers"/>
+    </Options>
+    <SendOption option="5" subOption="-1" target="0" position="1" ts="2021-11-22T14:53:07.013098"/>
+    <MetaData meta="18" data="0" infoCount="5" MetaName="CONTROLLER_AND_ZONE_CHANGE">
+      <Info index="0" entity="37" EntityName="Natalie Seline"/>
+      <Info index="1" entity="2"/>
+      <Info index="2" entity="1" EntityName="GameEntity"/>
+      <Info index="3" entity="2"/>
+      <Info index="4" entity="1" EntityName="GameEntity"/>
+    </MetaData>
+    <TagChange entity="37" tag="2032" value="1" EntityCardID="LETL_011H_01" EntityCardName="Natalie Seline" GameTagName="FAKE_CONTROLLER"/>
+    <TagChange entity="37" tag="1702" value="1" EntityCardID="LETL_011H_01" EntityCardName="Natalie Seline" GameTagName="FAKE_ZONE" ZoneName="PLAY"/>
+    <TagChange entity="37" tag="1703" value="1" EntityCardID="LETL_011H_01" EntityCardName="Natalie Seline" GameTagName="FAKE_ZONE_POSITION"/>
+    <TagChange entity="26" tag="1703" value="2" EntityCardID="BARL_005H_02" EntityCardName="Vol'jin" GameTagName="FAKE_ZONE_POSITION"/>
+    <Options id="3" ts="2021-11-22T14:53:07.329987">
+      <Option index="0" error="-1" type="2"/>
+      <Option index="1" entity="6" type="3" EntityCardID="LETL_038H_02" EntityName="King Mukla"/>
+      <Option index="2" entity="12" type="3" EntityCardID="BARL_017H_01" EntityName="Malfurion Stormrage"/>
+      <Option index="3" entity="20" type="3" EntityCardID="BARL_024H_02" EntityName="Blademaster Samuro"/>
+      <Option index="4" entity="32" type="3" EntityCardID="LT21_05H_02" EntityName="Cookie, the Cook"/>
+      <Option index="5" entity="26" type="3" EntityCardID="BARL_005H_02" EntityName="Vol'jin"/>
+      <Option index="6" entity="37" type="3" EntityCardID="LETL_011H_01" EntityName="Natalie Seline"/>
+      <Option index="7" entity="19" type="3" EntityCardID="LETL_707e" EntityName="Liferoot Staff"/>
+      <Option index="8" entity="25" type="3" EntityCardID="LETL_638e" EntityName="Burning Blade"/>
+      <Option index="9" entity="31" type="3" EntityCardID="LETL_326e" EntityName="Ring of Haste"/>
+      <Option index="10" entity="81" type="3" EntityCardID="LT21_05E2e" EntityName="Appetizers"/>
+      <Option index="11" entity="82" type="3" EntityCardID="LT21_05E2e" EntityName="Appetizers"/>
+      <Option index="12" entity="83" type="3" EntityCardID="LT21_05E2e" EntityName="Appetizers"/>
+      <Option index="13" entity="84" type="3" EntityCardID="LT21_05E2e" EntityName="Appetizers"/>
+      <Option index="14" entity="85" type="3" EntityCardID="LT21_05E2e" EntityName="Appetizers"/>
+      <Option index="15" entity="86" type="3" EntityCardID="LT21_05E2e" EntityName="Appetizers"/>
+    </Options>
+    <TagChange entity="3" tag="17" value="8" PlayStateName="CONCEDED" GameTagName="PLAYSTATE"/>
+    <TagChange entity="2" tag="17" value="3" PlayStateName="LOSING" GameTagName="PLAYSTATE"/>
+    <TagChange entity="2" tag="17" value="2" PlayStateName="WINNING" GameTagName="PLAYSTATE"/>
+    <TagChange entity="4" tag="17" value="2" PlayStateName="WINNING" GameTagName="PLAYSTATE"/>
+    <TagChange entity="2" tag="17" value="4" PlayStateName="WON" GameTagName="PLAYSTATE"/>
+    <TagChange entity="2" tag="17" value="5" PlayStateName="LOST" GameTagName="PLAYSTATE"/>
+    <TagChange entity="4" tag="17" value="4" PlayStateName="WON" GameTagName="PLAYSTATE"/>
+    <TagChange entity="3" tag="17" value="5" PlayStateName="LOST" GameTagName="PLAYSTATE"/>
+    <TagChange entity="1" tag="198" value="14" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="FINAL_WRAPUP"/>
+    <TagChange entity="1" tag="19" value="14" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="FINAL_WRAPUP"/>
+    <Block entity="1" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="25" ts="2021-11-22T14:53:07.446675" block_sequence_num="9" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
+      <SubSpell spellPrefabGuid="Mercenaries_EndOfGameSpell_Super.prefab:876139aaeeac35048acc1bc8a8854e0a" source="0" targetCount="0" ts="2021-11-22T14:53:07.446675"/>
+      <TagChange entity="1" tag="198" value="15" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="FINAL_GAMEOVER"/>
+    </Block>
+    <TagChange entity="1" tag="19" value="15" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="FINAL_GAMEOVER"/>
+    <TagChange entity="1" tag="204" value="3" EntityCardID="GameEntity" EntityCardName="GameEntity" StateName="COMPLETE" GameTagName="STATE"/>
+  </Game>
+</HSReplay>

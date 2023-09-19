@@ -1,5 +1,5 @@
 <HSReplay version="1.7">
-  <Game ts="22:17:17.087080">
+  <Game ts="2023-09-19T22:17:17.087080">
     <GameEntity id="1">
       <Tag tag="202" value="1" GameTagName="CARDTYPE" CardTypeName="GAME"/>
       <Tag tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
@@ -482,7 +482,7 @@
     <TagChange entity="1" tag="204" value="2" EntityCardID="GameEntity" EntityCardName="GameEntity" StateName="RUNNING" GameTagName="STATE"/>
     <TagChange entity="2" tag="17" value="1" PlayStateName="PLAYING" GameTagName="PLAYSTATE"/>
     <TagChange entity="3" tag="17" value="1" PlayStateName="PLAYING" GameTagName="PLAYSTATE"/>
-    <Block entity="1" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="6" ts="22:17:17.087080" block_sequence_num="1" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
+    <Block entity="1" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="6" ts="2023-09-19T22:17:17.087080" block_sequence_num="1" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
       <FullEntity id="84" EntityName="Your Eyes Betray You">
         <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
         <Tag tag="50" value="2" GameTagName="CONTROLLER"/>
@@ -522,7 +522,7 @@
       </ShowEntity>
       <TagChange entity="1" tag="3183" value="85" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="ANOMALY2"/>
     </Block>
-    <Block entity="1" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:17:17.087080" block_sequence_num="2" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
+    <Block entity="1" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:17:17.087080" block_sequence_num="2" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
       <TagChange entity="2" tag="23" value="1" GameTagName="CURRENT_PLAYER"/>
       <TagChange entity="2" tag="24" value="1" GameTagName="FIRST_PLAYER"/>
       <TagChange entity="1" tag="20" value="1" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="TURN"/>
@@ -634,46 +634,46 @@
       <TagChange entity="1" tag="198" value="4" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="BEGIN_MULLIGAN"/>
     </Block>
     <TagChange entity="1" tag="19" value="4" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="BEGIN_MULLIGAN"/>
-    <Block entity="1" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:17:17.190839" block_sequence_num="3" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
+    <Block entity="1" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:17:17.190839" block_sequence_num="3" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
       <TagChange entity="2" tag="305" value="1" GameTagName="MULLIGAN_STATE" MulliganName="INPUT"/>
-      <Choices entity="2" id="1" taskList="5" type="1" min="0" max="3" source="1" ts="22:17:17.237059" SourceCardID="GameEntity" SourceName="GameEntity">
+      <Choices entity="2" id="1" taskList="5" type="1" min="0" max="3" source="1" ts="2023-09-19T22:17:17.237059" SourceCardID="GameEntity" SourceName="GameEntity">
         <Choice index="0" entity="12" EntityCardID="CORE_EX1_007" EntityName="Acolyte of Pain"/>
         <Choice index="1" entity="15" EntityCardID="CORE_EX1_095" EntityName="Gadgetzan Auctioneer"/>
         <Choice index="2" entity="19" EntityCardID="CORE_CS2_179" EntityName="Sen'jin Shieldmasta"/>
       </Choices>
       <TagChange entity="3" tag="305" value="1" GameTagName="MULLIGAN_STATE" MulliganName="INPUT"/>
-      <Choices entity="3" id="2" taskList="6" type="1" min="0" max="5" source="1" ts="22:17:17.246571" SourceCardID="GameEntity" SourceName="GameEntity">
+      <Choices entity="3" id="2" taskList="6" type="1" min="0" max="5" source="1" ts="2023-09-19T22:17:17.246571" SourceCardID="GameEntity" SourceName="GameEntity">
         <Choice index="0" entity="56" EntityCardID="REV_332" EntityName="Anima Extractor"/>
         <Choice index="1" entity="64"/>
         <Choice index="2" entity="52" EntityCardID="CORE_ULD_195" EntityName="Frightened Flunky"/>
         <Choice index="3" entity="54"/>
         <Choice index="4" entity="86"/>
       </Choices>
-      <SendChoices id="1" type="1" ts="22:17:42.588889">
+      <SendChoices id="1" type="1" ts="2023-09-19T22:17:42.588889">
         <Choice index="0" entity="12" EntityCardID="CORE_EX1_007" EntityName="Acolyte of Pain"/>
       </SendChoices>
-      <ChosenEntities entity="3" id="2" ts="22:17:42.656243">
+      <ChosenEntities entity="3" id="2" ts="2023-09-19T22:17:42.656243">
         <Choice index="0" entity="56" EntityCardID="REV_332" EntityName="Anima Extractor"/>
         <Choice index="1" entity="52" EntityCardID="CORE_ULD_195" EntityName="Frightened Flunky"/>
         <Choice index="2" entity="54"/>
       </ChosenEntities>
-      <ChosenEntities entity="2" id="1" ts="22:17:42.821813">
+      <ChosenEntities entity="2" id="1" ts="2023-09-19T22:17:42.821813">
         <Choice index="0" entity="12" EntityCardID="CORE_EX1_007" EntityName="Acolyte of Pain"/>
       </ChosenEntities>
     </Block>
     <TagChange entity="3" tag="305" value="2" GameTagName="MULLIGAN_STATE" MulliganName="DEALING"/>
-    <Block entity="3" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:17:42.856493" block_sequence_num="4" BlockTypeName="TRIGGER">
+    <Block entity="3" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:17:42.856493" block_sequence_num="4" BlockTypeName="TRIGGER">
       <TagChange entity="51" tag="49" value="3" GameTagName="ZONE" ZoneName="HAND"/>
       <TagChange entity="51" tag="263" value="2" GameTagName="ZONE_POSITION"/>
       <TagChange entity="64" tag="263" value="0" GameTagName="ZONE_POSITION"/>
       <TagChange entity="64" tag="49" value="2" GameTagName="ZONE" ZoneName="DECK"/>
       <TagChange entity="3" tag="305" value="3" GameTagName="MULLIGAN_STATE" MulliganName="WAITING"/>
     </Block>
-    <Block entity="3" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:17:42.856493" block_sequence_num="5" BlockTypeName="TRIGGER">
+    <Block entity="3" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:17:42.856493" block_sequence_num="5" BlockTypeName="TRIGGER">
       <TagChange entity="3" tag="305" value="4" GameTagName="MULLIGAN_STATE" MulliganName="DONE"/>
     </Block>
     <TagChange entity="2" tag="305" value="2" GameTagName="MULLIGAN_STATE" MulliganName="DEALING"/>
-    <Block entity="2" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:17:42.856493" block_sequence_num="6" BlockTypeName="TRIGGER">
+    <Block entity="2" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:17:42.856493" block_sequence_num="6" BlockTypeName="TRIGGER">
       <ShowEntity entity="9" cardID="CORE_CS2_179" EntityName="Sen'jin Shieldmasta">
         <Tag tag="50" value="1" GameTagName="CONTROLLER"/>
         <Tag tag="202" value="4" GameTagName="CARDTYPE" CardTypeName="MINION"/>
@@ -704,7 +704,7 @@
       <TagChange entity="15" tag="1037" value="1" EntityCardID="CORE_EX1_095" EntityCardName="Gadgetzan Auctioneer"/>
       <TagChange entity="15" tag="263" value="0" EntityCardID="CORE_EX1_095" EntityCardName="Gadgetzan Auctioneer" GameTagName="ZONE_POSITION"/>
       <TagChange entity="15" tag="1043" value="0" EntityCardID="CORE_EX1_095" EntityCardName="Gadgetzan Auctioneer"/>
-      <HideEntity entity="15" zone="2" ts="22:17:42.856493"/>
+      <HideEntity entity="15" zone="2" ts="2023-09-19T22:17:42.856493"/>
       <TagChange entity="15" tag="49" value="2" EntityCardID="CORE_EX1_095" EntityCardName="Gadgetzan Auctioneer" GameTagName="ZONE" ZoneName="DECK"/>
       <ShowEntity entity="17" cardID="CORE_EX1_096" EntityName="Loot Hoarder">
         <Tag tag="50" value="1" GameTagName="CONTROLLER"/>
@@ -736,18 +736,18 @@
       <TagChange entity="19" tag="1037" value="1" EntityCardID="CORE_CS2_179" EntityCardName="Sen'jin Shieldmasta"/>
       <TagChange entity="19" tag="263" value="0" EntityCardID="CORE_CS2_179" EntityCardName="Sen'jin Shieldmasta" GameTagName="ZONE_POSITION"/>
       <TagChange entity="19" tag="1043" value="0" EntityCardID="CORE_CS2_179" EntityCardName="Sen'jin Shieldmasta"/>
-      <HideEntity entity="19" zone="2" ts="22:17:42.856493"/>
+      <HideEntity entity="19" zone="2" ts="2023-09-19T22:17:42.856493"/>
       <TagChange entity="19" tag="49" value="2" EntityCardID="CORE_CS2_179" EntityCardName="Sen'jin Shieldmasta" GameTagName="ZONE" ZoneName="DECK"/>
       <TagChange entity="2" tag="305" value="3" GameTagName="MULLIGAN_STATE" MulliganName="WAITING"/>
     </Block>
-    <Block entity="2" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:17:42.856493" block_sequence_num="7" BlockTypeName="TRIGGER">
+    <Block entity="2" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:17:42.856493" block_sequence_num="7" BlockTypeName="TRIGGER">
       <TagChange entity="2" tag="305" value="4" GameTagName="MULLIGAN_STATE" MulliganName="DONE"/>
       <ShuffleDeck player_id="1"/>
       <ShuffleDeck player_id="2"/>
       <TagChange entity="2" tag="20" value="1" GameTagName="TURN"/>
       <TagChange entity="1" tag="198" value="6" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_READY"/>
     </Block>
-    <Block entity="58" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="4" ts="22:17:42.856493" block_sequence_num="8" EntityCardID="YOG_530" EntityCardName="Cho'gall, Twilight Chieftain" BlockTypeName="TRIGGER">
+    <Block entity="58" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="4" ts="2023-09-19T22:17:42.856493" block_sequence_num="8" EntityCardID="YOG_530" EntityCardName="Cho'gall, Twilight Chieftain" BlockTypeName="TRIGGER">
       <ShowEntity entity="58" cardID="YOG_530" EntityName="Cho'gall, Twilight Chieftain">
         <Tag tag="50" value="2" GameTagName="CONTROLLER"/>
         <Tag tag="202" value="4" GameTagName="CARDTYPE" CardTypeName="MINION"/>
@@ -775,7 +775,7 @@
         <Tag tag="3085" value="7"/>
       </ShowEntity>
     </Block>
-    <Block entity="66" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="2" ts="22:17:42.856493" block_sequence_num="9" EntityCardID="REV_018" EntityCardName="Prince Renathal" BlockTypeName="TRIGGER">
+    <Block entity="66" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="2" ts="2023-09-19T22:17:42.856493" block_sequence_num="9" EntityCardID="REV_018" EntityCardName="Prince Renathal" BlockTypeName="TRIGGER">
       <ShowEntity entity="66" cardID="REV_018" EntityName="Prince Renathal">
         <Tag tag="50" value="2" GameTagName="CONTROLLER"/>
         <Tag tag="202" value="4" GameTagName="CARDTYPE" CardTypeName="MINION"/>
@@ -799,7 +799,7 @@
         <Tag tag="3085" value="4"/>
       </ShowEntity>
     </Block>
-    <Block entity="1" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="4" ts="22:17:42.856493" block_sequence_num="10" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
+    <Block entity="1" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="4" ts="2023-09-19T22:17:42.856493" block_sequence_num="10" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
       <TagChange entity="84" tag="1715" value="1" EntityCardID="TTN_002t35" EntityCardName="Your Eyes Betray You"/>
       <TagChange entity="84" tag="1068" value="1" EntityCardID="TTN_002t35" EntityCardName="Your Eyes Betray You"/>
       <TagChange entity="84" tag="1068" value="0" EntityCardID="TTN_002t35" EntityCardName="Your Eyes Betray You"/>
@@ -807,8 +807,8 @@
       <MetaData meta="20" data="3000" infoCount="1" MetaName="SLUSH_TIME">
         <Info index="0" entity="84" EntityName="Your Eyes Betray You"/>
       </MetaData>
-      <Block entity="84" type="3" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="22:17:42.856493" block_sequence_num="11" EntityCardID="TTN_002t35" EntityCardName="Your Eyes Betray You" BlockTypeName="POWER">
-        <SubSpell spellPrefabGuid="ReuseFX_Shadow_Impact_Transform_CardInHand_HandAE_Super:6ae9bc00b06cc684c9a89a8356230a6b" source="84" targetCount="5" ts="22:17:42.856493">
+      <Block entity="84" type="3" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2023-09-19T22:17:42.856493" block_sequence_num="11" EntityCardID="TTN_002t35" EntityCardName="Your Eyes Betray You" BlockTypeName="POWER">
+        <SubSpell spellPrefabGuid="ReuseFX_Shadow_Impact_Transform_CardInHand_HandAE_Super:6ae9bc00b06cc684c9a89a8356230a6b" source="84" targetCount="5" ts="2023-09-19T22:17:42.856493">
           <SubSpellTarget index="0" entity="56"/>
           <SubSpellTarget index="1" entity="52"/>
           <SubSpellTarget index="2" entity="54"/>
@@ -834,7 +834,7 @@
       <MetaData meta="20" data="3000" infoCount="1" MetaName="SLUSH_TIME">
         <Info index="0" entity="85" EntityName="Army of the Corrupted"/>
       </MetaData>
-      <Block entity="85" type="3" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="22:17:42.856493" block_sequence_num="12" EntityCardID="TTN_002t43" EntityCardName="Army of the Corrupted" BlockTypeName="POWER">
+      <Block entity="85" type="3" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2023-09-19T22:17:42.856493" block_sequence_num="12" EntityCardID="TTN_002t43" EntityCardName="Army of the Corrupted" BlockTypeName="POWER">
         <FullEntity id="87" EntityName="Chaotic Minion Reduction">
           <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
           <Tag tag="50" value="2" GameTagName="CONTROLLER"/>
@@ -976,13 +976,13 @@
         <Info index="0" entity="85" EntityName="Army of the Corrupted"/>
       </MetaData>
     </Block>
-    <Block entity="58" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" triggerKeyword="968" ts="22:17:42.856493" block_sequence_num="13" EntityCardID="YOG_530" EntityCardName="Cho'gall, Twilight Chieftain" TriggerKeywordName="START_OF_GAME" BlockTypeName="TRIGGER">
-      <HideEntity entity="58" zone="2" ts="22:17:42.856493"/>
+    <Block entity="58" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" triggerKeyword="968" ts="2023-09-19T22:17:42.856493" block_sequence_num="13" EntityCardID="YOG_530" EntityCardName="Cho'gall, Twilight Chieftain" TriggerKeywordName="START_OF_GAME" BlockTypeName="TRIGGER">
+      <HideEntity entity="58" zone="2" ts="2023-09-19T22:17:42.856493"/>
       <TagChange entity="58" tag="410" value="0" EntityCardID="YOG_530" EntityCardName="Cho'gall, Twilight Chieftain" GameTagName="REVEALED"/>
     </Block>
-    <Block entity="66" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="22:17:42.856493" block_sequence_num="14" EntityCardID="REV_018" EntityCardName="Prince Renathal" BlockTypeName="TRIGGER">
+    <Block entity="66" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2023-09-19T22:17:42.856493" block_sequence_num="14" EntityCardID="REV_018" EntityCardName="Prince Renathal" BlockTypeName="TRIGGER">
       <TagChange entity="66" tag="2" value="1" EntityCardID="REV_018" EntityCardName="Prince Renathal" GameTagName="TAG_SCRIPT_DATA_NUM_1"/>
-      <HideEntity entity="66" zone="2" ts="22:17:42.856493"/>
+      <HideEntity entity="66" zone="2" ts="2023-09-19T22:17:42.856493"/>
       <TagChange entity="66" tag="410" value="0" EntityCardID="REV_018" EntityCardName="Prince Renathal" GameTagName="REVEALED"/>
       <TagChange entity="82" tag="45" value="35" EntityCardID="HERO_01" EntityCardName="Garrosh Hellscream" GameTagName="HEALTH"/>
       <MetaData meta="8" data="0" infoCount="1" MetaName="OVERRIDE_HISTORY">
@@ -997,7 +997,7 @@
     <TagChange entity="12" tag="48" value="2" EntityCardID="CORE_EX1_007" EntityCardName="Acolyte of Pain" GameTagName="COST"/>
     <TagChange entity="9" tag="48" value="3" EntityCardID="CORE_CS2_179" EntityCardName="Sen'jin Shieldmasta" GameTagName="COST"/>
     <TagChange entity="1" tag="19" value="6" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_READY"/>
-    <Block entity="2" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:17:43.221674" block_sequence_num="15" BlockTypeName="TRIGGER">
+    <Block entity="2" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:17:43.221674" block_sequence_num="15" BlockTypeName="TRIGGER">
       <TagChange entity="1" tag="271" value="1" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NUM_TURNS_IN_PLAY"/>
       <TagChange entity="2" tag="271" value="1" GameTagName="NUM_TURNS_IN_PLAY"/>
       <TagChange entity="3" tag="271" value="1" GameTagName="NUM_TURNS_IN_PLAY"/>
@@ -1009,11 +1009,11 @@
       <TagChange entity="1" tag="198" value="17" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_START_TRIGGERS"/>
     </Block>
     <TagChange entity="1" tag="19" value="17" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_START_TRIGGERS"/>
-    <Block entity="2" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:17:43.221674" block_sequence_num="16" BlockTypeName="TRIGGER">
+    <Block entity="2" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:17:43.221674" block_sequence_num="16" BlockTypeName="TRIGGER">
       <TagChange entity="1" tag="198" value="9" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_START"/>
     </Block>
     <TagChange entity="1" tag="19" value="9" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_START"/>
-    <Block entity="2" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:17:43.221674" block_sequence_num="17" BlockTypeName="TRIGGER">
+    <Block entity="2" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:17:43.221674" block_sequence_num="17" BlockTypeName="TRIGGER">
       <TagChange entity="2" tag="2166" value="26"/>
       <TagChange entity="2" tag="467" value="1"/>
       <ShowEntity entity="26" cardID="CORE_BOT_453" EntityName="Shooting Star">
@@ -1043,10 +1043,10 @@
       <TagChange entity="1" tag="198" value="10" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_ACTION"/>
     </Block>
     <TagChange entity="1" tag="19" value="10" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_ACTION"/>
-    <Block entity="2" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:17:43.221674" block_sequence_num="18" BlockTypeName="TRIGGER">
+    <Block entity="2" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:17:43.221674" block_sequence_num="18" BlockTypeName="TRIGGER">
       <TagChange entity="1" tag="198" value="12" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_END"/>
     </Block>
-    <Options id="1" ts="22:17:43.291209">
+    <Options id="1" ts="2023-09-19T22:17:43.291209">
       <Option index="0" error="-1" type="2"/>
       <Option index="1" entity="17" type="3" EntityCardID="CORE_EX1_096" EntityName="Loot Hoarder"/>
       <Option index="2" entity="12" error="14" type="3" EntityCardID="CORE_EX1_007" EntityName="Acolyte of Pain"/>
@@ -1057,8 +1057,8 @@
       <Option index="7" entity="82" error="15" type="3" EntityCardID="HERO_01" EntityName="Garrosh Hellscream"/>
       <Option index="8" entity="83" error="15" type="3" EntityCardID="HERO_01bp" EntityName="Armor Up!"/>
     </Options>
-    <SendOption option="1" subOption="-1" target="0" position="1" ts="22:18:06.031659"/>
-    <Block entity="17" type="7" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="22:18:06.378030" block_sequence_num="19" EntityCardID="CORE_EX1_096" EntityCardName="Loot Hoarder" BlockTypeName="PLAY">
+    <SendOption option="1" subOption="-1" target="0" position="1" ts="2023-09-19T22:18:06.031659"/>
+    <Block entity="17" type="7" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2023-09-19T22:18:06.378030" block_sequence_num="19" EntityCardID="CORE_EX1_096" EntityCardName="Loot Hoarder" BlockTypeName="PLAY">
       <TagChange entity="2" tag="2245" value="1"/>
       <TagChange entity="2" tag="25" value="1" GameTagName="RESOURCES_USED"/>
       <TagChange entity="2" tag="418" value="1" GameTagName="NUM_RESOURCES_SPENT_THIS_GAME"/>
@@ -1084,25 +1084,25 @@
       <TagChange entity="90" tag="1037" value="0" EntityCardID="TTN_002t43e1" EntityCardName="Chaotic Reduction"/>
       <TagChange entity="90" tag="49" value="5" EntityCardID="TTN_002t43e1" EntityCardName="Chaotic Reduction" GameTagName="ZONE" ZoneName="REMOVEDFROMGAME"/>
       <TagChange entity="90" tag="1234" value="17" EntityCardID="TTN_002t43e1" EntityCardName="Chaotic Reduction"/>
-      <HideEntity entity="90" zone="5" ts="22:18:06.378030"/>
+      <HideEntity entity="90" zone="5" ts="2023-09-19T22:18:06.378030"/>
       <TagChange entity="89" tag="1068" value="5" EntityCardID="TTN_002t43e1" EntityCardName="Chaotic Reduction"/>
       <TagChange entity="89" tag="1068" value="0" EntityCardID="TTN_002t43e1" EntityCardName="Chaotic Reduction"/>
       <TagChange entity="89" tag="1037" value="0" EntityCardID="TTN_002t43e1" EntityCardName="Chaotic Reduction"/>
       <TagChange entity="89" tag="49" value="5" EntityCardID="TTN_002t43e1" EntityCardName="Chaotic Reduction" GameTagName="ZONE" ZoneName="REMOVEDFROMGAME"/>
       <TagChange entity="89" tag="1234" value="9" EntityCardID="TTN_002t43e1" EntityCardName="Chaotic Reduction"/>
-      <HideEntity entity="89" zone="5" ts="22:18:06.378030"/>
+      <HideEntity entity="89" zone="5" ts="2023-09-19T22:18:06.378030"/>
       <TagChange entity="88" tag="1068" value="5" EntityCardID="TTN_002t43e1" EntityCardName="Chaotic Reduction"/>
       <TagChange entity="88" tag="1068" value="0" EntityCardID="TTN_002t43e1" EntityCardName="Chaotic Reduction"/>
       <TagChange entity="88" tag="1037" value="0" EntityCardID="TTN_002t43e1" EntityCardName="Chaotic Reduction"/>
       <TagChange entity="88" tag="49" value="5" EntityCardID="TTN_002t43e1" EntityCardName="Chaotic Reduction" GameTagName="ZONE" ZoneName="REMOVEDFROMGAME"/>
       <TagChange entity="88" tag="1234" value="12" EntityCardID="TTN_002t43e1" EntityCardName="Chaotic Reduction"/>
-      <HideEntity entity="88" zone="5" ts="22:18:06.378030"/>
+      <HideEntity entity="88" zone="5" ts="2023-09-19T22:18:06.378030"/>
       <TagChange entity="12" tag="466" value="3" EntityCardID="CORE_EX1_007" EntityCardName="Acolyte of Pain" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
       <TagChange entity="9" tag="466" value="4" EntityCardID="CORE_CS2_179" EntityCardName="Sen'jin Shieldmasta" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
       <TagChange entity="17" tag="48" value="2" EntityCardID="CORE_EX1_096" EntityCardName="Loot Hoarder" GameTagName="COST"/>
       <TagChange entity="12" tag="48" value="3" EntityCardID="CORE_EX1_007" EntityCardName="Acolyte of Pain" GameTagName="COST"/>
       <TagChange entity="9" tag="48" value="4" EntityCardID="CORE_CS2_179" EntityCardName="Sen'jin Shieldmasta" GameTagName="COST"/>
-      <Block entity="17" type="3" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="22:18:06.378030" block_sequence_num="20" EntityCardID="CORE_EX1_096" EntityCardName="Loot Hoarder" BlockTypeName="POWER"/>
+      <Block entity="17" type="3" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2023-09-19T22:18:06.378030" block_sequence_num="20" EntityCardID="CORE_EX1_096" EntityCardName="Loot Hoarder" BlockTypeName="POWER"/>
       <TagChange entity="2" tag="266" value="1" GameTagName="COMBO_ACTIVE"/>
       <TagChange entity="1" tag="1323" value="1" EntityCardID="GameEntity" EntityCardName="GameEntity"/>
       <TagChange entity="2" tag="358" value="1" GameTagName="NUM_OPTIONS_PLAYED_THIS_TURN"/>
@@ -1110,7 +1110,7 @@
     <MetaData meta="20" data="1000" infoCount="1" MetaName="SLUSH_TIME">
       <Info index="0" entity="17" EntityName="Loot Hoarder"/>
     </MetaData>
-    <Options id="2" ts="22:18:06.394048">
+    <Options id="2" ts="2023-09-19T22:18:06.394048">
       <Option index="0" error="-1" type="2"/>
       <Option index="1" entity="12" error="14" type="3" EntityCardID="CORE_EX1_007" EntityName="Acolyte of Pain"/>
       <Option index="2" entity="9" error="14" type="3" EntityCardID="CORE_CS2_179" EntityName="Sen'jin Shieldmasta"/>
@@ -1121,22 +1121,22 @@
       <Option index="7" entity="83" error="15" type="3" EntityCardID="HERO_01bp" EntityName="Armor Up!"/>
       <Option index="8" entity="17" error="37" type="3" EntityCardID="CORE_EX1_096" EntityName="Loot Hoarder"/>
     </Options>
-    <SendOption option="0" subOption="-1" target="0" position="0" ts="22:18:06.728834"/>
+    <SendOption option="0" subOption="-1" target="0" position="0" ts="2023-09-19T22:18:06.728834"/>
     <TagChange entity="17" tag="1196" value="0" EntityCardID="CORE_EX1_096" EntityCardName="Loot Hoarder"/>
     <TagChange entity="1" tag="19" value="12" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_END"/>
-    <Block entity="2" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:18:07.529649" block_sequence_num="21" BlockTypeName="TRIGGER">
+    <Block entity="2" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:18:07.529649" block_sequence_num="21" BlockTypeName="TRIGGER">
       <TagChange entity="1" tag="198" value="16" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_CLEANUP"/>
     </Block>
-    <Block entity="2" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:18:07.529649" block_sequence_num="22" BlockTypeName="TRIGGER"/>
-    <Block entity="3" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:18:07.529649" block_sequence_num="23" BlockTypeName="TRIGGER"/>
+    <Block entity="2" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:18:07.529649" block_sequence_num="22" BlockTypeName="TRIGGER"/>
+    <Block entity="3" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:18:07.529649" block_sequence_num="23" BlockTypeName="TRIGGER"/>
     <TagChange entity="1" tag="19" value="16" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_CLEANUP"/>
-    <Block entity="2" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:18:07.529649" block_sequence_num="24" BlockTypeName="TRIGGER">
+    <Block entity="2" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:18:07.529649" block_sequence_num="24" BlockTypeName="TRIGGER">
       <TagChange entity="17" tag="261" value="0" EntityCardID="CORE_EX1_096" EntityCardName="Loot Hoarder" GameTagName="JUST_PLAYED"/>
       <TagChange entity="2" tag="266" value="0" GameTagName="COMBO_ACTIVE"/>
       <TagChange entity="1" tag="198" value="13" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_NEXT"/>
     </Block>
     <TagChange entity="1" tag="19" value="13" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_NEXT"/>
-    <Block entity="1" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:18:07.529649" block_sequence_num="25" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
+    <Block entity="1" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:18:07.529649" block_sequence_num="25" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
       <TagChange entity="2" tag="1292" value="1"/>
       <TagChange entity="2" tag="1292" value="0"/>
       <TagChange entity="3" tag="1292" value="1"/>
@@ -1152,7 +1152,7 @@
       <TagChange entity="1" tag="198" value="6" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_READY"/>
     </Block>
     <TagChange entity="1" tag="19" value="6" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_READY"/>
-    <Block entity="3" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:18:07.529649" block_sequence_num="26" BlockTypeName="TRIGGER">
+    <Block entity="3" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:18:07.529649" block_sequence_num="26" BlockTypeName="TRIGGER">
       <TagChange entity="1" tag="271" value="2" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NUM_TURNS_IN_PLAY"/>
       <TagChange entity="2" tag="271" value="2" GameTagName="NUM_TURNS_IN_PLAY"/>
       <TagChange entity="3" tag="271" value="2" GameTagName="NUM_TURNS_IN_PLAY"/>
@@ -1166,11 +1166,11 @@
       <TagChange entity="1" tag="198" value="17" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_START_TRIGGERS"/>
     </Block>
     <TagChange entity="1" tag="19" value="17" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_START_TRIGGERS"/>
-    <Block entity="3" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:18:07.529649" block_sequence_num="27" BlockTypeName="TRIGGER">
+    <Block entity="3" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:18:07.529649" block_sequence_num="27" BlockTypeName="TRIGGER">
       <TagChange entity="1" tag="198" value="9" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_START"/>
     </Block>
     <TagChange entity="1" tag="19" value="9" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_START"/>
-    <Block entity="3" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:18:07.529649" block_sequence_num="28" BlockTypeName="TRIGGER">
+    <Block entity="3" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:18:07.529649" block_sequence_num="28" BlockTypeName="TRIGGER">
       <TagChange entity="3" tag="2166" value="39"/>
       <TagChange entity="3" tag="467" value="1"/>
       <TagChange entity="39" tag="49" value="3" EntityCardID="CORE_LOOT_516" EntityCardName="Zola the Gorgon" GameTagName="ZONE" ZoneName="HAND"/>
@@ -1187,10 +1187,10 @@
     </FullEntity>
     <TagChange entity="105" tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
     <TagChange entity="1" tag="19" value="10" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_ACTION"/>
-    <Block entity="3" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:18:07.529649" block_sequence_num="29" BlockTypeName="TRIGGER">
+    <Block entity="3" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:18:07.529649" block_sequence_num="29" BlockTypeName="TRIGGER">
       <TagChange entity="1" tag="198" value="12" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_END"/>
     </Block>
-    <Block entity="56" type="7" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="22:18:10.831867" block_sequence_num="30" EntityCardID="REV_332" EntityCardName="Anima Extractor" BlockTypeName="PLAY">
+    <Block entity="56" type="7" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2023-09-19T22:18:10.831867" block_sequence_num="30" EntityCardID="REV_332" EntityCardName="Anima Extractor" BlockTypeName="PLAY">
       <TagChange entity="3" tag="2245" value="1"/>
       <TagChange entity="3" tag="25" value="1" GameTagName="RESOURCES_USED"/>
       <TagChange entity="3" tag="418" value="1" GameTagName="NUM_RESOURCES_SPENT_THIS_GAME"/>
@@ -1266,9 +1266,9 @@
       <TagChange entity="92" tag="1037" value="0" EntityCardID="TTN_002t43e1" EntityCardName="Chaotic Reduction"/>
       <TagChange entity="92" tag="49" value="5" EntityCardID="TTN_002t43e1" EntityCardName="Chaotic Reduction" GameTagName="ZONE" ZoneName="REMOVEDFROMGAME"/>
       <TagChange entity="92" tag="1234" value="56" EntityCardID="TTN_002t43e1" EntityCardName="Chaotic Reduction"/>
-      <HideEntity entity="92" zone="5" ts="22:18:10.831867"/>
+      <HideEntity entity="92" zone="5" ts="2023-09-19T22:18:10.831867"/>
       <TagChange entity="56" tag="48" value="2" EntityCardID="REV_332" EntityCardName="Anima Extractor" GameTagName="COST"/>
-      <Block entity="56" type="3" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="22:18:10.831867" block_sequence_num="31" EntityCardID="REV_332" EntityCardName="Anima Extractor" BlockTypeName="POWER"/>
+      <Block entity="56" type="3" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2023-09-19T22:18:10.831867" block_sequence_num="31" EntityCardID="REV_332" EntityCardName="Anima Extractor" BlockTypeName="POWER"/>
       <TagChange entity="3" tag="266" value="1" GameTagName="COMBO_ACTIVE"/>
       <TagChange entity="1" tag="1323" value="2" EntityCardID="GameEntity" EntityCardName="GameEntity"/>
       <TagChange entity="3" tag="358" value="1" GameTagName="NUM_OPTIONS_PLAYED_THIS_TURN"/>
@@ -1278,19 +1278,19 @@
     </MetaData>
     <TagChange entity="56" tag="1196" value="0" EntityCardID="REV_332" EntityCardName="Anima Extractor"/>
     <TagChange entity="1" tag="19" value="12" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_END"/>
-    <Block entity="2" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:18:12.133245" block_sequence_num="32" BlockTypeName="TRIGGER"/>
-    <Block entity="3" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:18:12.133245" block_sequence_num="33" BlockTypeName="TRIGGER">
+    <Block entity="2" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:18:12.133245" block_sequence_num="32" BlockTypeName="TRIGGER"/>
+    <Block entity="3" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:18:12.133245" block_sequence_num="33" BlockTypeName="TRIGGER">
       <TagChange entity="1" tag="198" value="16" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_CLEANUP"/>
     </Block>
-    <Block entity="3" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:18:12.133245" block_sequence_num="34" BlockTypeName="TRIGGER"/>
+    <Block entity="3" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:18:12.133245" block_sequence_num="34" BlockTypeName="TRIGGER"/>
     <TagChange entity="1" tag="19" value="16" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_CLEANUP"/>
-    <Block entity="3" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:18:12.133245" block_sequence_num="35" BlockTypeName="TRIGGER">
+    <Block entity="3" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:18:12.133245" block_sequence_num="35" BlockTypeName="TRIGGER">
       <TagChange entity="56" tag="261" value="0" EntityCardID="REV_332" EntityCardName="Anima Extractor" GameTagName="JUST_PLAYED"/>
       <TagChange entity="3" tag="266" value="0" GameTagName="COMBO_ACTIVE"/>
       <TagChange entity="1" tag="198" value="13" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_NEXT"/>
     </Block>
     <TagChange entity="1" tag="19" value="13" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_NEXT"/>
-    <Block entity="1" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:18:12.133245" block_sequence_num="36" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
+    <Block entity="1" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:18:12.133245" block_sequence_num="36" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
       <TagChange entity="3" tag="1292" value="0"/>
       <TagChange entity="2" tag="1292" value="1"/>
       <TagChange entity="3" tag="7" value="55" GameTagName="TIMEOUT"/>
@@ -1302,7 +1302,7 @@
       <TagChange entity="1" tag="198" value="6" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_READY"/>
     </Block>
     <TagChange entity="1" tag="19" value="6" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_READY"/>
-    <Block entity="2" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:18:12.133245" block_sequence_num="37" BlockTypeName="TRIGGER">
+    <Block entity="2" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:18:12.133245" block_sequence_num="37" BlockTypeName="TRIGGER">
       <TagChange entity="1" tag="271" value="3" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NUM_TURNS_IN_PLAY"/>
       <TagChange entity="2" tag="271" value="3" GameTagName="NUM_TURNS_IN_PLAY"/>
       <TagChange entity="3" tag="271" value="3" GameTagName="NUM_TURNS_IN_PLAY"/>
@@ -1373,11 +1373,11 @@
     <TagChange entity="12" tag="48" value="2" EntityCardID="CORE_EX1_007" EntityCardName="Acolyte of Pain" GameTagName="COST"/>
     <TagChange entity="9" tag="48" value="3" EntityCardID="CORE_CS2_179" EntityCardName="Sen'jin Shieldmasta" GameTagName="COST"/>
     <TagChange entity="1" tag="19" value="17" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_START_TRIGGERS"/>
-    <Block entity="2" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:18:12.133245" block_sequence_num="38" BlockTypeName="TRIGGER">
+    <Block entity="2" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:18:12.133245" block_sequence_num="38" BlockTypeName="TRIGGER">
       <TagChange entity="1" tag="198" value="9" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_START"/>
     </Block>
     <TagChange entity="1" tag="19" value="9" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_START"/>
-    <Block entity="2" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:18:12.133245" block_sequence_num="39" BlockTypeName="TRIGGER">
+    <Block entity="2" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:18:12.133245" block_sequence_num="39" BlockTypeName="TRIGGER">
       <TagChange entity="2" tag="2166" value="14"/>
       <TagChange entity="2" tag="467" value="1"/>
       <ShowEntity entity="14" cardID="CORE_EX1_284" EntityName="Azure Drake">
@@ -1439,10 +1439,10 @@
     <TagChange entity="14" tag="466" value="4" EntityCardID="CORE_EX1_284" EntityCardName="Azure Drake" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
     <TagChange entity="14" tag="48" value="4" EntityCardID="CORE_EX1_284" EntityCardName="Azure Drake" GameTagName="COST"/>
     <TagChange entity="1" tag="19" value="10" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_ACTION"/>
-    <Block entity="2" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:18:12.133245" block_sequence_num="40" BlockTypeName="TRIGGER">
+    <Block entity="2" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:18:12.133245" block_sequence_num="40" BlockTypeName="TRIGGER">
       <TagChange entity="1" tag="198" value="12" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_END"/>
     </Block>
-    <Options id="5" ts="22:18:12.151276">
+    <Options id="5" ts="2023-09-19T22:18:12.151276">
       <Option index="0" error="-1" type="2"/>
       <Option index="1" entity="12" type="3" EntityCardID="CORE_EX1_007" EntityName="Acolyte of Pain"/>
       <Option index="2" entity="26" type="3" EntityCardID="CORE_BOT_453" EntityName="Shooting Star">
@@ -1470,9 +1470,9 @@
       <Option index="9" entity="83" error="15" type="3" EntityCardID="HERO_01bp" EntityName="Armor Up!"/>
       <Option index="10" entity="56" error="15" type="3" EntityCardID="REV_332" EntityName="Anima Extractor"/>
     </Options>
-    <SendOption option="4" subOption="-1" target="82" position="0" ts="22:18:40.296257"/>
+    <SendOption option="4" subOption="-1" target="82" position="0" ts="2023-09-19T22:18:40.296257"/>
     <TagChange entity="17" tag="267" value="82" EntityCardID="CORE_EX1_096" EntityCardName="Loot Hoarder" GameTagName="CARD_TARGET"/>
-    <Block entity="17" type="1" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" target="82" ts="22:18:40.528234" block_sequence_num="41" EntityCardID="CORE_EX1_096" EntityCardName="Loot Hoarder" TargetName="Garrosh Hellscream" BlockTypeName="ATTACK">
+    <Block entity="17" type="1" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" target="82" ts="2023-09-19T22:18:40.528234" block_sequence_num="41" EntityCardID="CORE_EX1_096" EntityCardName="Loot Hoarder" TargetName="Garrosh Hellscream" BlockTypeName="ATTACK">
       <TagChange entity="17" tag="1715" value="17" EntityCardID="CORE_EX1_096" EntityCardName="Loot Hoarder"/>
       <TagChange entity="82" tag="1715" value="17" EntityCardID="HERO_01" EntityCardName="Garrosh Hellscream"/>
       <TagChange entity="2" tag="417" value="1" GameTagName="NUM_FRIENDLY_MINIONS_THAT_ATTACKED_THIS_TURN"/>
@@ -1514,7 +1514,7 @@
     <MetaData meta="20" data="1000" infoCount="1" MetaName="SLUSH_TIME">
       <Info index="0" entity="17" EntityName="Loot Hoarder"/>
     </MetaData>
-    <Options id="6" ts="22:18:40.594900">
+    <Options id="6" ts="2023-09-19T22:18:40.594900">
       <Option index="0" error="-1" type="2"/>
       <Option index="1" entity="12" type="3" EntityCardID="CORE_EX1_007" EntityName="Acolyte of Pain"/>
       <Option index="2" entity="26" type="3" EntityCardID="CORE_BOT_453" EntityName="Shooting Star">
@@ -1537,8 +1537,8 @@
       <Option index="9" entity="17" error="25" type="3" EntityCardID="CORE_EX1_096" EntityName="Loot Hoarder"/>
       <Option index="10" entity="56" error="15" type="3" EntityCardID="REV_332" EntityName="Anima Extractor"/>
     </Options>
-    <SendOption option="1" subOption="-1" target="0" position="2" ts="22:18:42.081599"/>
-    <Block entity="12" type="7" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="22:18:42.329796" block_sequence_num="42" EntityCardID="CORE_EX1_007" EntityCardName="Acolyte of Pain" BlockTypeName="PLAY">
+    <SendOption option="1" subOption="-1" target="0" position="2" ts="2023-09-19T22:18:42.081599"/>
+    <Block entity="12" type="7" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2023-09-19T22:18:42.329796" block_sequence_num="42" EntityCardID="CORE_EX1_007" EntityCardName="Acolyte of Pain" BlockTypeName="PLAY">
       <TagChange entity="2" tag="2245" value="3"/>
       <TagChange entity="2" tag="25" value="2" GameTagName="RESOURCES_USED"/>
       <TagChange entity="2" tag="418" value="3" GameTagName="NUM_RESOURCES_SPENT_THIS_GAME"/>
@@ -1565,25 +1565,25 @@
       <TagChange entity="109" tag="1037" value="0" EntityCardID="TTN_002t43e1" EntityCardName="Chaotic Reduction"/>
       <TagChange entity="109" tag="49" value="5" EntityCardID="TTN_002t43e1" EntityCardName="Chaotic Reduction" GameTagName="ZONE" ZoneName="REMOVEDFROMGAME"/>
       <TagChange entity="109" tag="1234" value="14" EntityCardID="TTN_002t43e1" EntityCardName="Chaotic Reduction"/>
-      <HideEntity entity="109" zone="5" ts="22:18:42.329796"/>
+      <HideEntity entity="109" zone="5" ts="2023-09-19T22:18:42.329796"/>
       <TagChange entity="108" tag="1068" value="5" EntityCardID="TTN_002t43e1" EntityCardName="Chaotic Reduction"/>
       <TagChange entity="108" tag="1068" value="0" EntityCardID="TTN_002t43e1" EntityCardName="Chaotic Reduction"/>
       <TagChange entity="108" tag="1037" value="0" EntityCardID="TTN_002t43e1" EntityCardName="Chaotic Reduction"/>
       <TagChange entity="108" tag="49" value="5" EntityCardID="TTN_002t43e1" EntityCardName="Chaotic Reduction" GameTagName="ZONE" ZoneName="REMOVEDFROMGAME"/>
       <TagChange entity="108" tag="1234" value="9" EntityCardID="TTN_002t43e1" EntityCardName="Chaotic Reduction"/>
-      <HideEntity entity="108" zone="5" ts="22:18:42.329796"/>
+      <HideEntity entity="108" zone="5" ts="2023-09-19T22:18:42.329796"/>
       <TagChange entity="107" tag="1068" value="5" EntityCardID="TTN_002t43e1" EntityCardName="Chaotic Reduction"/>
       <TagChange entity="107" tag="1068" value="0" EntityCardID="TTN_002t43e1" EntityCardName="Chaotic Reduction"/>
       <TagChange entity="107" tag="1037" value="0" EntityCardID="TTN_002t43e1" EntityCardName="Chaotic Reduction"/>
       <TagChange entity="107" tag="49" value="5" EntityCardID="TTN_002t43e1" EntityCardName="Chaotic Reduction" GameTagName="ZONE" ZoneName="REMOVEDFROMGAME"/>
       <TagChange entity="107" tag="1234" value="12" EntityCardID="TTN_002t43e1" EntityCardName="Chaotic Reduction"/>
-      <HideEntity entity="107" zone="5" ts="22:18:42.329796"/>
+      <HideEntity entity="107" zone="5" ts="2023-09-19T22:18:42.329796"/>
       <TagChange entity="14" tag="466" value="5" EntityCardID="CORE_EX1_284" EntityCardName="Azure Drake" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
       <TagChange entity="9" tag="466" value="4" EntityCardID="CORE_CS2_179" EntityCardName="Sen'jin Shieldmasta" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
       <TagChange entity="14" tag="48" value="5" EntityCardID="CORE_EX1_284" EntityCardName="Azure Drake" GameTagName="COST"/>
       <TagChange entity="12" tag="48" value="3" EntityCardID="CORE_EX1_007" EntityCardName="Acolyte of Pain" GameTagName="COST"/>
       <TagChange entity="9" tag="48" value="4" EntityCardID="CORE_CS2_179" EntityCardName="Sen'jin Shieldmasta" GameTagName="COST"/>
-      <Block entity="12" type="3" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="22:18:42.329796" block_sequence_num="43" EntityCardID="CORE_EX1_007" EntityCardName="Acolyte of Pain" BlockTypeName="POWER"/>
+      <Block entity="12" type="3" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2023-09-19T22:18:42.329796" block_sequence_num="43" EntityCardID="CORE_EX1_007" EntityCardName="Acolyte of Pain" BlockTypeName="POWER"/>
       <TagChange entity="2" tag="266" value="1" GameTagName="COMBO_ACTIVE"/>
       <TagChange entity="1" tag="1323" value="4" EntityCardID="GameEntity" EntityCardName="GameEntity"/>
       <TagChange entity="2" tag="358" value="2" GameTagName="NUM_OPTIONS_PLAYED_THIS_TURN"/>
@@ -1591,7 +1591,7 @@
     <MetaData meta="20" data="1000" infoCount="1" MetaName="SLUSH_TIME">
       <Info index="0" entity="12" EntityName="Acolyte of Pain"/>
     </MetaData>
-    <Options id="7" ts="22:18:42.396638">
+    <Options id="7" ts="2023-09-19T22:18:42.396638">
       <Option index="0" error="-1" type="2"/>
       <Option index="1" entity="9" error="14" type="3" EntityCardID="CORE_CS2_179" EntityName="Sen'jin Shieldmasta"/>
       <Option index="2" entity="26" error="14" type="3" EntityCardID="CORE_BOT_453" EntityName="Shooting Star"/>
@@ -1604,22 +1604,22 @@
       <Option index="9" entity="56" error="15" type="3" EntityCardID="REV_332" EntityName="Anima Extractor"/>
       <Option index="10" entity="12" error="37" type="3" EntityCardID="CORE_EX1_007" EntityName="Acolyte of Pain"/>
     </Options>
-    <SendOption option="0" subOption="-1" target="0" position="0" ts="22:18:42.763721"/>
+    <SendOption option="0" subOption="-1" target="0" position="0" ts="2023-09-19T22:18:42.763721"/>
     <TagChange entity="12" tag="1196" value="0" EntityCardID="CORE_EX1_007" EntityCardName="Acolyte of Pain"/>
     <TagChange entity="1" tag="19" value="12" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_END"/>
-    <Block entity="2" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:18:43.530824" block_sequence_num="44" BlockTypeName="TRIGGER">
+    <Block entity="2" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:18:43.530824" block_sequence_num="44" BlockTypeName="TRIGGER">
       <TagChange entity="1" tag="198" value="16" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_CLEANUP"/>
     </Block>
-    <Block entity="2" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:18:43.530824" block_sequence_num="45" BlockTypeName="TRIGGER"/>
-    <Block entity="3" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:18:43.530824" block_sequence_num="46" BlockTypeName="TRIGGER"/>
+    <Block entity="2" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:18:43.530824" block_sequence_num="45" BlockTypeName="TRIGGER"/>
+    <Block entity="3" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:18:43.530824" block_sequence_num="46" BlockTypeName="TRIGGER"/>
     <TagChange entity="1" tag="19" value="16" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_CLEANUP"/>
-    <Block entity="2" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:18:43.530824" block_sequence_num="47" BlockTypeName="TRIGGER">
+    <Block entity="2" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:18:43.530824" block_sequence_num="47" BlockTypeName="TRIGGER">
       <TagChange entity="12" tag="261" value="0" EntityCardID="CORE_EX1_007" EntityCardName="Acolyte of Pain" GameTagName="JUST_PLAYED"/>
       <TagChange entity="2" tag="266" value="0" GameTagName="COMBO_ACTIVE"/>
       <TagChange entity="1" tag="198" value="13" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_NEXT"/>
     </Block>
     <TagChange entity="1" tag="19" value="13" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_NEXT"/>
-    <Block entity="1" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:18:43.530824" block_sequence_num="48" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
+    <Block entity="1" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:18:43.530824" block_sequence_num="48" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
       <TagChange entity="2" tag="1292" value="0"/>
       <TagChange entity="3" tag="1292" value="1"/>
       <TagChange entity="2" tag="7" value="75" GameTagName="TIMEOUT"/>
@@ -1634,7 +1634,7 @@
       <TagChange entity="1" tag="198" value="6" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_READY"/>
     </Block>
     <TagChange entity="1" tag="19" value="6" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_READY"/>
-    <Block entity="3" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:18:43.530824" block_sequence_num="49" BlockTypeName="TRIGGER">
+    <Block entity="3" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:18:43.530824" block_sequence_num="49" BlockTypeName="TRIGGER">
       <TagChange entity="1" tag="271" value="4" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NUM_TURNS_IN_PLAY"/>
       <TagChange entity="2" tag="271" value="4" GameTagName="NUM_TURNS_IN_PLAY"/>
       <TagChange entity="3" tag="271" value="4" GameTagName="NUM_TURNS_IN_PLAY"/>
@@ -1683,11 +1683,11 @@
     </FullEntity>
     <TagChange entity="114" tag="49" value="1" EntityCardID="TTN_002t43e1" EntityCardName="Chaotic Reduction" GameTagName="ZONE" ZoneName="PLAY"/>
     <TagChange entity="1" tag="19" value="17" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_START_TRIGGERS"/>
-    <Block entity="3" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:18:43.530824" block_sequence_num="50" BlockTypeName="TRIGGER">
+    <Block entity="3" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:18:43.530824" block_sequence_num="50" BlockTypeName="TRIGGER">
       <TagChange entity="1" tag="198" value="9" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_START"/>
     </Block>
     <TagChange entity="1" tag="19" value="9" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_START"/>
-    <Block entity="3" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:18:43.530824" block_sequence_num="51" BlockTypeName="TRIGGER">
+    <Block entity="3" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:18:43.530824" block_sequence_num="51" BlockTypeName="TRIGGER">
       <TagChange entity="3" tag="2166" value="67"/>
       <TagChange entity="3" tag="467" value="1"/>
       <TagChange entity="67" tag="49" value="3" GameTagName="ZONE" ZoneName="HAND"/>
@@ -1704,10 +1704,10 @@
     </FullEntity>
     <TagChange entity="115" tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
     <TagChange entity="1" tag="19" value="10" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_ACTION"/>
-    <Block entity="3" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:18:43.530824" block_sequence_num="52" BlockTypeName="TRIGGER">
+    <Block entity="3" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:18:43.530824" block_sequence_num="52" BlockTypeName="TRIGGER">
       <TagChange entity="1" tag="198" value="12" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_END"/>
     </Block>
-    <Block entity="39" type="7" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" target="56" ts="22:18:54.607920" block_sequence_num="53" EntityCardID="CORE_LOOT_516" EntityCardName="Zola the Gorgon" TargetName="Anima Extractor" BlockTypeName="PLAY">
+    <Block entity="39" type="7" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" target="56" ts="2023-09-19T22:18:54.607920" block_sequence_num="53" EntityCardID="CORE_LOOT_516" EntityCardName="Zola the Gorgon" TargetName="Anima Extractor" BlockTypeName="PLAY">
       <TagChange entity="3" tag="2245" value="3"/>
       <TagChange entity="3" tag="25" value="2" GameTagName="RESOURCES_USED"/>
       <TagChange entity="3" tag="418" value="3" GameTagName="NUM_RESOURCES_SPENT_THIS_GAME"/>
@@ -1782,12 +1782,12 @@
       <TagChange entity="114" tag="1037" value="0" EntityCardID="TTN_002t43e1" EntityCardName="Chaotic Reduction"/>
       <TagChange entity="114" tag="49" value="5" EntityCardID="TTN_002t43e1" EntityCardName="Chaotic Reduction" GameTagName="ZONE" ZoneName="REMOVEDFROMGAME"/>
       <TagChange entity="114" tag="1234" value="39" EntityCardID="TTN_002t43e1" EntityCardName="Chaotic Reduction"/>
-      <HideEntity entity="114" zone="5" ts="22:18:54.607920"/>
+      <HideEntity entity="114" zone="5" ts="2023-09-19T22:18:54.607920"/>
       <TagChange entity="113" tag="49" value="5" GameTagName="ZONE" ZoneName="REMOVEDFROMGAME"/>
       <TagChange entity="112" tag="49" value="5" GameTagName="ZONE" ZoneName="REMOVEDFROMGAME"/>
       <TagChange entity="111" tag="49" value="5" GameTagName="ZONE" ZoneName="REMOVEDFROMGAME"/>
       <TagChange entity="39" tag="48" value="3" EntityCardID="CORE_LOOT_516" EntityCardName="Zola the Gorgon" GameTagName="COST"/>
-      <Block entity="39" type="3" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" target="56" ts="22:18:54.607920" block_sequence_num="54" EntityCardID="CORE_LOOT_516" EntityCardName="Zola the Gorgon" TargetName="Anima Extractor" BlockTypeName="POWER">
+      <Block entity="39" type="3" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" target="56" ts="2023-09-19T22:18:54.607920" block_sequence_num="54" EntityCardID="CORE_LOOT_516" EntityCardName="Zola the Gorgon" TargetName="Anima Extractor" BlockTypeName="POWER">
         <FullEntity id="117" EntityName="Anima Extractor">
           <Tag tag="49" value="3" GameTagName="ZONE" ZoneName="HAND"/>
           <Tag tag="50" value="2" GameTagName="CONTROLLER"/>
@@ -1805,7 +1805,7 @@
     </MetaData>
     <TagChange entity="39" tag="1196" value="0" EntityCardID="CORE_LOOT_516" EntityCardName="Zola the Gorgon"/>
     <TagChange entity="56" tag="267" value="17" EntityCardID="REV_332" EntityCardName="Anima Extractor" GameTagName="CARD_TARGET"/>
-    <Block entity="56" type="1" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" target="17" ts="22:18:55.408793" block_sequence_num="55" EntityCardID="REV_332" EntityCardName="Anima Extractor" TargetName="Loot Hoarder" BlockTypeName="ATTACK">
+    <Block entity="56" type="1" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" target="17" ts="2023-09-19T22:18:55.408793" block_sequence_num="55" EntityCardID="REV_332" EntityCardName="Anima Extractor" TargetName="Loot Hoarder" BlockTypeName="ATTACK">
       <TagChange entity="56" tag="1715" value="56" EntityCardID="REV_332" EntityCardName="Anima Extractor"/>
       <TagChange entity="17" tag="1715" value="56" EntityCardID="CORE_EX1_096" EntityCardName="Loot Hoarder"/>
       <TagChange entity="3" tag="417" value="1" GameTagName="NUM_FRIENDLY_MINIONS_THAT_ATTACKED_THIS_TURN"/>
@@ -1847,8 +1847,8 @@
       <TagChange entity="1" tag="1710" value="1" EntityCardID="GameEntity" EntityCardName="GameEntity"/>
       <TagChange entity="1" tag="1710" value="0" EntityCardID="GameEntity" EntityCardName="GameEntity"/>
       <TagChange entity="1" tag="1710" value="1" EntityCardID="GameEntity" EntityCardName="GameEntity"/>
-      <Block entity="56" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" triggerKeyword="32" ts="22:18:55.408793" block_sequence_num="56" EntityCardID="REV_332" EntityCardName="Anima Extractor" TriggerKeywordName="TRIGGER_VISUAL" BlockTypeName="TRIGGER">
-        <SubSpell spellPrefabGuid="ReuseFX_Generic_HandBuff_ScaleUp_OpponentAE_Red_Super_FastActorTrigger:c7b29cc16e8bf2f498cc87fdfff92549" source="56" targetCount="1" ts="22:18:55.408793">
+      <Block entity="56" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" triggerKeyword="32" ts="2023-09-19T22:18:55.408793" block_sequence_num="56" EntityCardID="REV_332" EntityCardName="Anima Extractor" TriggerKeywordName="TRIGGER_VISUAL" BlockTypeName="TRIGGER">
+        <SubSpell spellPrefabGuid="ReuseFX_Generic_HandBuff_ScaleUp_OpponentAE_Red_Super_FastActorTrigger:c7b29cc16e8bf2f498cc87fdfff92549" source="56" targetCount="1" ts="2023-09-19T22:18:55.408793">
           <SubSpellTarget index="0" entity="67"/>
           <FullEntity id="118">
             <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
@@ -1868,7 +1868,7 @@
       <TagChange entity="56" tag="38" value="0" EntityCardID="REV_332" EntityCardName="Anima Extractor" GameTagName="ATTACKING"/>
       <TagChange entity="17" tag="36" value="0" EntityCardID="CORE_EX1_096" EntityCardName="Loot Hoarder" GameTagName="DEFENDING"/>
     </Block>
-    <Block entity="1" type="6" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="22:18:55.408793" block_sequence_num="57" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="DEATHS">
+    <Block entity="1" type="6" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2023-09-19T22:18:55.408793" block_sequence_num="57" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="DEATHS">
       <TagChange entity="2" tag="368" value="1" GameTagName="NUM_MINIONS_PLAYER_KILLED_THIS_TURN"/>
       <TagChange entity="1" tag="369" value="1" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NUM_MINIONS_KILLED_THIS_TURN"/>
       <TagChange entity="17" tag="1068" value="4" EntityCardID="CORE_EX1_096" EntityCardName="Loot Hoarder"/>
@@ -1882,7 +1882,7 @@
       <TagChange entity="2" tag="2186" value="1" GameTagName="CORPSES"/>
       <TagChange entity="17" tag="44" value="0" EntityCardID="CORE_EX1_096" EntityCardName="Loot Hoarder" GameTagName="DAMAGE"/>
     </Block>
-    <Block entity="17" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" triggerKeyword="217" ts="22:18:55.408793" block_sequence_num="58" EntityCardID="CORE_EX1_096" EntityCardName="Loot Hoarder" TriggerKeywordName="DEATHRATTLE" BlockTypeName="TRIGGER">
+    <Block entity="17" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" triggerKeyword="217" ts="2023-09-19T22:18:55.408793" block_sequence_num="58" EntityCardID="CORE_EX1_096" EntityCardName="Loot Hoarder" TriggerKeywordName="DEATHRATTLE" BlockTypeName="TRIGGER">
       <TagChange entity="2" tag="2166" value="18"/>
       <TagChange entity="2" tag="467" value="1"/>
       <ShowEntity entity="18" cardID="CORE_EX1_012" EntityName="Bloodmage Thalnos">
@@ -1928,19 +1928,19 @@
       <Info index="0" entity="56" EntityName="Anima Extractor"/>
     </MetaData>
     <TagChange entity="1" tag="19" value="12" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_END"/>
-    <Block entity="2" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:18:56.543641" block_sequence_num="59" BlockTypeName="TRIGGER"/>
-    <Block entity="3" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:18:56.543641" block_sequence_num="60" BlockTypeName="TRIGGER">
+    <Block entity="2" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:18:56.543641" block_sequence_num="59" BlockTypeName="TRIGGER"/>
+    <Block entity="3" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:18:56.543641" block_sequence_num="60" BlockTypeName="TRIGGER">
       <TagChange entity="1" tag="198" value="16" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_CLEANUP"/>
     </Block>
-    <Block entity="3" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:18:56.543641" block_sequence_num="61" BlockTypeName="TRIGGER"/>
+    <Block entity="3" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:18:56.543641" block_sequence_num="61" BlockTypeName="TRIGGER"/>
     <TagChange entity="1" tag="19" value="16" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_CLEANUP"/>
-    <Block entity="3" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:18:56.543641" block_sequence_num="62" BlockTypeName="TRIGGER">
+    <Block entity="3" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:18:56.543641" block_sequence_num="62" BlockTypeName="TRIGGER">
       <TagChange entity="39" tag="261" value="0" EntityCardID="CORE_LOOT_516" EntityCardName="Zola the Gorgon" GameTagName="JUST_PLAYED"/>
       <TagChange entity="3" tag="266" value="0" GameTagName="COMBO_ACTIVE"/>
       <TagChange entity="1" tag="198" value="13" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_NEXT"/>
     </Block>
     <TagChange entity="1" tag="19" value="13" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_NEXT"/>
-    <Block entity="1" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:18:56.543641" block_sequence_num="63" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
+    <Block entity="1" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:18:56.543641" block_sequence_num="63" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
       <TagChange entity="3" tag="1292" value="0"/>
       <TagChange entity="2" tag="1292" value="1"/>
       <TagChange entity="3" tag="7" value="75" GameTagName="TIMEOUT"/>
@@ -1952,7 +1952,7 @@
       <TagChange entity="1" tag="198" value="6" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_READY"/>
     </Block>
     <TagChange entity="1" tag="19" value="6" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_READY"/>
-    <Block entity="2" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:18:56.543641" block_sequence_num="64" BlockTypeName="TRIGGER">
+    <Block entity="2" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:18:56.543641" block_sequence_num="64" BlockTypeName="TRIGGER">
       <TagChange entity="1" tag="271" value="5" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NUM_TURNS_IN_PLAY"/>
       <TagChange entity="2" tag="271" value="5" GameTagName="NUM_TURNS_IN_PLAY"/>
       <TagChange entity="3" tag="271" value="5" GameTagName="NUM_TURNS_IN_PLAY"/>
@@ -2056,11 +2056,11 @@
     <TagChange entity="14" tag="48" value="4" EntityCardID="CORE_EX1_284" EntityCardName="Azure Drake" GameTagName="COST"/>
     <TagChange entity="9" tag="48" value="3" EntityCardID="CORE_CS2_179" EntityCardName="Sen'jin Shieldmasta" GameTagName="COST"/>
     <TagChange entity="1" tag="19" value="17" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_START_TRIGGERS"/>
-    <Block entity="2" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:18:56.543641" block_sequence_num="65" BlockTypeName="TRIGGER">
+    <Block entity="2" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:18:56.543641" block_sequence_num="65" BlockTypeName="TRIGGER">
       <TagChange entity="1" tag="198" value="9" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_START"/>
     </Block>
     <TagChange entity="1" tag="19" value="9" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_START"/>
-    <Block entity="2" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:18:56.543641" block_sequence_num="66" BlockTypeName="TRIGGER">
+    <Block entity="2" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:18:56.543641" block_sequence_num="66" BlockTypeName="TRIGGER">
       <TagChange entity="2" tag="2166" value="30"/>
       <TagChange entity="2" tag="467" value="1"/>
       <ShowEntity entity="30" cardID="CORE_KAR_076" EntityName="Firelands Portal">
@@ -2090,10 +2090,10 @@
       <TagChange entity="1" tag="198" value="10" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_ACTION"/>
     </Block>
     <TagChange entity="1" tag="19" value="10" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_ACTION"/>
-    <Block entity="2" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:18:56.543641" block_sequence_num="67" BlockTypeName="TRIGGER">
+    <Block entity="2" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:18:56.543641" block_sequence_num="67" BlockTypeName="TRIGGER">
       <TagChange entity="1" tag="198" value="12" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_END"/>
     </Block>
-    <Options id="11" ts="22:18:56.559674">
+    <Options id="11" ts="2023-09-19T22:18:56.559674">
       <Option index="0" error="-1" type="2"/>
       <Option index="1" entity="9" type="3" EntityCardID="CORE_CS2_179" EntityName="Sen'jin Shieldmasta"/>
       <Option index="2" entity="26" type="3" EntityCardID="CORE_BOT_453" EntityName="Shooting Star">
@@ -2126,8 +2126,8 @@
       <Option index="11" entity="56" error="15" type="3" EntityCardID="REV_332" EntityName="Anima Extractor"/>
       <Option index="12" entity="39" error="15" type="3" EntityCardID="CORE_LOOT_516" EntityName="Zola the Gorgon"/>
     </Options>
-    <SendOption option="3" subOption="-1" target="0" position="2" ts="22:19:47.511790"/>
-    <Block entity="18" type="7" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="22:19:48.027181" block_sequence_num="68" EntityCardID="CORE_EX1_012" EntityCardName="Bloodmage Thalnos" BlockTypeName="PLAY">
+    <SendOption option="3" subOption="-1" target="0" position="2" ts="2023-09-19T22:19:47.511790"/>
+    <Block entity="18" type="7" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2023-09-19T22:19:48.027181" block_sequence_num="68" EntityCardID="CORE_EX1_012" EntityCardName="Bloodmage Thalnos" BlockTypeName="PLAY">
       <TagChange entity="2" tag="2245" value="4"/>
       <TagChange entity="2" tag="25" value="1" GameTagName="RESOURCES_USED"/>
       <TagChange entity="2" tag="418" value="4" GameTagName="NUM_RESOURCES_SPENT_THIS_GAME"/>
@@ -2153,26 +2153,26 @@
       <TagChange entity="121" tag="1037" value="0" EntityCardID="TTN_002t43e1" EntityCardName="Chaotic Reduction"/>
       <TagChange entity="121" tag="49" value="5" EntityCardID="TTN_002t43e1" EntityCardName="Chaotic Reduction" GameTagName="ZONE" ZoneName="REMOVEDFROMGAME"/>
       <TagChange entity="121" tag="1234" value="18" EntityCardID="TTN_002t43e1" EntityCardName="Chaotic Reduction"/>
-      <HideEntity entity="121" zone="5" ts="22:19:48.027181"/>
+      <HideEntity entity="121" zone="5" ts="2023-09-19T22:19:48.027181"/>
       <TagChange entity="120" tag="1068" value="5" EntityCardID="TTN_002t43e1" EntityCardName="Chaotic Reduction"/>
       <TagChange entity="120" tag="1068" value="0" EntityCardID="TTN_002t43e1" EntityCardName="Chaotic Reduction"/>
       <TagChange entity="120" tag="1037" value="0" EntityCardID="TTN_002t43e1" EntityCardName="Chaotic Reduction"/>
       <TagChange entity="120" tag="49" value="5" EntityCardID="TTN_002t43e1" EntityCardName="Chaotic Reduction" GameTagName="ZONE" ZoneName="REMOVEDFROMGAME"/>
       <TagChange entity="120" tag="1234" value="14" EntityCardID="TTN_002t43e1" EntityCardName="Chaotic Reduction"/>
-      <HideEntity entity="120" zone="5" ts="22:19:48.027181"/>
+      <HideEntity entity="120" zone="5" ts="2023-09-19T22:19:48.027181"/>
       <TagChange entity="119" tag="1068" value="5" EntityCardID="TTN_002t43e1" EntityCardName="Chaotic Reduction"/>
       <TagChange entity="119" tag="1068" value="0" EntityCardID="TTN_002t43e1" EntityCardName="Chaotic Reduction"/>
       <TagChange entity="119" tag="1037" value="0" EntityCardID="TTN_002t43e1" EntityCardName="Chaotic Reduction"/>
       <TagChange entity="119" tag="49" value="5" EntityCardID="TTN_002t43e1" EntityCardName="Chaotic Reduction" GameTagName="ZONE" ZoneName="REMOVEDFROMGAME"/>
       <TagChange entity="119" tag="1234" value="9" EntityCardID="TTN_002t43e1" EntityCardName="Chaotic Reduction"/>
-      <HideEntity entity="119" zone="5" ts="22:19:48.027181"/>
+      <HideEntity entity="119" zone="5" ts="2023-09-19T22:19:48.027181"/>
       <TagChange entity="2" tag="291" value="1" GameTagName="CURRENT_SPELLPOWER"/>
       <TagChange entity="14" tag="466" value="5" EntityCardID="CORE_EX1_284" EntityCardName="Azure Drake" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
       <TagChange entity="9" tag="466" value="4" EntityCardID="CORE_CS2_179" EntityCardName="Sen'jin Shieldmasta" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
       <TagChange entity="18" tag="48" value="2" EntityCardID="CORE_EX1_012" EntityCardName="Bloodmage Thalnos" GameTagName="COST"/>
       <TagChange entity="14" tag="48" value="5" EntityCardID="CORE_EX1_284" EntityCardName="Azure Drake" GameTagName="COST"/>
       <TagChange entity="9" tag="48" value="4" EntityCardID="CORE_CS2_179" EntityCardName="Sen'jin Shieldmasta" GameTagName="COST"/>
-      <Block entity="18" type="3" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="22:19:48.027181" block_sequence_num="69" EntityCardID="CORE_EX1_012" EntityCardName="Bloodmage Thalnos" BlockTypeName="POWER"/>
+      <Block entity="18" type="3" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2023-09-19T22:19:48.027181" block_sequence_num="69" EntityCardID="CORE_EX1_012" EntityCardName="Bloodmage Thalnos" BlockTypeName="POWER"/>
       <TagChange entity="2" tag="266" value="1" GameTagName="COMBO_ACTIVE"/>
       <TagChange entity="1" tag="1323" value="7" EntityCardID="GameEntity" EntityCardName="GameEntity"/>
       <TagChange entity="2" tag="358" value="1" GameTagName="NUM_OPTIONS_PLAYED_THIS_TURN"/>
@@ -2180,7 +2180,7 @@
     <MetaData meta="20" data="1000" infoCount="1" MetaName="SLUSH_TIME">
       <Info index="0" entity="18" EntityName="Bloodmage Thalnos"/>
     </MetaData>
-    <Options id="12" ts="22:19:48.043689">
+    <Options id="12" ts="2023-09-19T22:19:48.043689">
       <Option index="0" error="-1" type="2"/>
       <Option index="1" entity="26" type="3" EntityCardID="CORE_BOT_453" EntityName="Shooting Star">
         <Target index="0" entity="56" EntityCardID="REV_332" EntityName="Anima Extractor"/>
@@ -2216,9 +2216,9 @@
       <Option index="11" entity="39" error="15" type="3" EntityCardID="CORE_LOOT_516" EntityName="Zola the Gorgon"/>
       <Option index="12" entity="18" error="37" type="3" EntityCardID="CORE_EX1_012" EntityName="Bloodmage Thalnos"/>
     </Options>
-    <SendOption option="1" subOption="-1" target="56" position="0" ts="22:19:49.512723"/>
+    <SendOption option="1" subOption="-1" target="56" position="0" ts="2023-09-19T22:19:49.512723"/>
     <TagChange entity="18" tag="1196" value="0" EntityCardID="CORE_EX1_012" EntityCardName="Bloodmage Thalnos"/>
-    <Block entity="26" type="7" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" target="56" ts="22:19:50.062006" block_sequence_num="70" EntityCardID="CORE_BOT_453" EntityCardName="Shooting Star" TargetName="Anima Extractor" BlockTypeName="PLAY">
+    <Block entity="26" type="7" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" target="56" ts="2023-09-19T22:19:50.062006" block_sequence_num="70" EntityCardID="CORE_BOT_453" EntityCardName="Shooting Star" TargetName="Anima Extractor" BlockTypeName="PLAY">
       <TagChange entity="2" tag="2245" value="5"/>
       <TagChange entity="2" tag="25" value="2" GameTagName="RESOURCES_USED"/>
       <TagChange entity="2" tag="418" value="5" GameTagName="NUM_RESOURCES_SPENT_THIS_GAME"/>
@@ -2239,7 +2239,7 @@
         <Info index="0" entity="26" EntityName="Shooting Star"/>
       </MetaData>
       <TagChange entity="2" tag="1780" value="1" GameTagName="NUM_SPELLS_PLAYED_THIS_GAME"/>
-      <Block entity="26" type="3" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" target="56" ts="22:19:50.062006" block_sequence_num="71" EntityCardID="CORE_BOT_453" EntityCardName="Shooting Star" TargetName="Anima Extractor" BlockTypeName="POWER">
+      <Block entity="26" type="3" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" target="56" ts="2023-09-19T22:19:50.062006" block_sequence_num="71" EntityCardID="CORE_BOT_453" EntityCardName="Shooting Star" TargetName="Anima Extractor" BlockTypeName="POWER">
         <MetaData meta="0" data="0" infoCount="1" MetaName="TARGET">
           <Info index="0" entity="56" EntityName="Anima Extractor"/>
         </MetaData>
@@ -2272,8 +2272,8 @@
         </MetaData>
         <TagChange entity="39" tag="18" value="26" EntityCardID="CORE_LOOT_516" EntityCardName="Zola the Gorgon" ValueReferenceCardID="CORE_BOT_453" ValueReferenceCardName="Shooting Star" GameTagName="LAST_AFFECTED_BY"/>
         <TagChange entity="39" tag="44" value="2" EntityCardID="CORE_LOOT_516" EntityCardName="Zola the Gorgon" GameTagName="DAMAGE"/>
-        <Block entity="56" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" triggerKeyword="32" ts="22:19:50.062006" block_sequence_num="72" EntityCardID="REV_332" EntityCardName="Anima Extractor" TriggerKeywordName="TRIGGER_VISUAL" BlockTypeName="TRIGGER">
-          <SubSpell spellPrefabGuid="ReuseFX_Generic_HandBuff_ScaleUp_OpponentAE_Red_Super_FastActorTrigger:c7b29cc16e8bf2f498cc87fdfff92549" source="56" targetCount="1" ts="22:19:50.062006">
+        <Block entity="56" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" triggerKeyword="32" ts="2023-09-19T22:19:50.062006" block_sequence_num="72" EntityCardID="REV_332" EntityCardName="Anima Extractor" TriggerKeywordName="TRIGGER_VISUAL" BlockTypeName="TRIGGER">
+          <SubSpell spellPrefabGuid="ReuseFX_Generic_HandBuff_ScaleUp_OpponentAE_Red_Super_FastActorTrigger:c7b29cc16e8bf2f498cc87fdfff92549" source="56" targetCount="1" ts="2023-09-19T22:19:50.062006">
             <SubSpellTarget index="0" entity="52"/>
             <FullEntity id="124" EntityName="Extracted">
               <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
@@ -2287,8 +2287,8 @@
         <MetaData meta="20" data="200" infoCount="1" MetaName="SLUSH_TIME">
           <Info index="0" entity="56" EntityName="Anima Extractor"/>
         </MetaData>
-        <Block entity="56" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" triggerKeyword="32" ts="22:19:50.062006" block_sequence_num="73" EntityCardID="REV_332" EntityCardName="Anima Extractor" TriggerKeywordName="TRIGGER_VISUAL" BlockTypeName="TRIGGER">
-          <SubSpell spellPrefabGuid="ReuseFX_Generic_HandBuff_ScaleUp_OpponentAE_Red_Super_FastActorTrigger:c7b29cc16e8bf2f498cc87fdfff92549" source="56" targetCount="1" ts="22:19:50.062006">
+        <Block entity="56" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" triggerKeyword="32" ts="2023-09-19T22:19:50.062006" block_sequence_num="73" EntityCardID="REV_332" EntityCardName="Anima Extractor" TriggerKeywordName="TRIGGER_VISUAL" BlockTypeName="TRIGGER">
+          <SubSpell spellPrefabGuid="ReuseFX_Generic_HandBuff_ScaleUp_OpponentAE_Red_Super_FastActorTrigger:c7b29cc16e8bf2f498cc87fdfff92549" source="56" targetCount="1" ts="2023-09-19T22:19:50.062006">
             <SubSpellTarget index="0" entity="67"/>
             <TagChange entity="56" tag="2" value="3" EntityCardID="REV_332" EntityCardName="Anima Extractor" GameTagName="TAG_SCRIPT_DATA_NUM_1"/>
           </SubSpell>
@@ -2300,7 +2300,7 @@
       <TagChange entity="26" tag="1068" value="4" EntityCardID="CORE_BOT_453" EntityCardName="Shooting Star"/>
       <TagChange entity="26" tag="1068" value="0" EntityCardID="CORE_BOT_453" EntityCardName="Shooting Star"/>
       <TagChange entity="26" tag="49" value="4" EntityCardID="CORE_BOT_453" EntityCardName="Shooting Star" GameTagName="ZONE" ZoneName="GRAVEYARD"/>
-      <Block entity="1" type="6" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="22:19:50.062006" block_sequence_num="74" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="DEATHS">
+      <Block entity="1" type="6" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2023-09-19T22:19:50.062006" block_sequence_num="74" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="DEATHS">
         <TagChange entity="3" tag="368" value="1" GameTagName="NUM_MINIONS_PLAYER_KILLED_THIS_TURN"/>
         <TagChange entity="1" tag="369" value="1" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NUM_MINIONS_KILLED_THIS_TURN"/>
         <TagChange entity="56" tag="1068" value="4" EntityCardID="REV_332" EntityCardName="Anima Extractor"/>
@@ -2331,7 +2331,7 @@
     <MetaData meta="20" data="1000" infoCount="1" MetaName="SLUSH_TIME">
       <Info index="0" entity="26" EntityName="Shooting Star"/>
     </MetaData>
-    <Options id="13" ts="22:19:50.079658">
+    <Options id="13" ts="2023-09-19T22:19:50.079658">
       <Option index="0" error="-1" type="2"/>
       <Option index="1" entity="12" type="3" EntityCardID="CORE_EX1_007" EntityName="Acolyte of Pain">
         <Target index="0" entity="82" EntityCardID="HERO_01" EntityName="Garrosh Hellscream"/>
@@ -2348,9 +2348,9 @@
       <Option index="8" entity="83" error="15" type="3" EntityCardID="HERO_01bp" EntityName="Armor Up!"/>
       <Option index="9" entity="18" error="37" type="3" EntityCardID="CORE_EX1_012" EntityName="Bloodmage Thalnos"/>
     </Options>
-    <SendOption option="1" subOption="-1" target="82" position="0" ts="22:19:52.281981"/>
+    <SendOption option="1" subOption="-1" target="82" position="0" ts="2023-09-19T22:19:52.281981"/>
     <TagChange entity="12" tag="267" value="82" EntityCardID="CORE_EX1_007" EntityCardName="Acolyte of Pain" GameTagName="CARD_TARGET"/>
-    <Block entity="12" type="1" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" target="82" ts="22:19:52.498268" block_sequence_num="75" EntityCardID="CORE_EX1_007" EntityCardName="Acolyte of Pain" TargetName="Garrosh Hellscream" BlockTypeName="ATTACK">
+    <Block entity="12" type="1" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" target="82" ts="2023-09-19T22:19:52.498268" block_sequence_num="75" EntityCardID="CORE_EX1_007" EntityCardName="Acolyte of Pain" TargetName="Garrosh Hellscream" BlockTypeName="ATTACK">
       <TagChange entity="12" tag="1715" value="12" EntityCardID="CORE_EX1_007" EntityCardName="Acolyte of Pain"/>
       <TagChange entity="82" tag="1715" value="12" EntityCardID="HERO_01" EntityCardName="Garrosh Hellscream"/>
       <TagChange entity="2" tag="417" value="1" GameTagName="NUM_FRIENDLY_MINIONS_THAT_ATTACKED_THIS_TURN"/>
@@ -2392,7 +2392,7 @@
     <MetaData meta="20" data="1000" infoCount="1" MetaName="SLUSH_TIME">
       <Info index="0" entity="12" EntityName="Acolyte of Pain"/>
     </MetaData>
-    <Options id="14" ts="22:19:52.581610">
+    <Options id="14" ts="2023-09-19T22:19:52.581610">
       <Option index="0" error="-1" type="2"/>
       <Option index="1" entity="9" error="14" type="3" EntityCardID="CORE_CS2_179" EntityName="Sen'jin Shieldmasta"/>
       <Option index="2" entity="14" error="14" type="3" EntityCardID="CORE_EX1_284" EntityName="Azure Drake"/>
@@ -2404,22 +2404,22 @@
       <Option index="8" entity="12" error="25" type="3" EntityCardID="CORE_EX1_007" EntityName="Acolyte of Pain"/>
       <Option index="9" entity="18" error="37" type="3" EntityCardID="CORE_EX1_012" EntityName="Bloodmage Thalnos"/>
     </Options>
-    <SendOption option="0" subOption="-1" target="0" position="0" ts="22:19:53.266203"/>
+    <SendOption option="0" subOption="-1" target="0" position="0" ts="2023-09-19T22:19:53.266203"/>
     <TagChange entity="1" tag="19" value="12" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_END"/>
-    <Block entity="2" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:19:54.099836" block_sequence_num="76" BlockTypeName="TRIGGER">
+    <Block entity="2" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:19:54.099836" block_sequence_num="76" BlockTypeName="TRIGGER">
       <TagChange entity="1" tag="198" value="16" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_CLEANUP"/>
     </Block>
-    <Block entity="2" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:19:54.099836" block_sequence_num="77" BlockTypeName="TRIGGER"/>
-    <Block entity="3" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:19:54.099836" block_sequence_num="78" BlockTypeName="TRIGGER"/>
+    <Block entity="2" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:19:54.099836" block_sequence_num="77" BlockTypeName="TRIGGER"/>
+    <Block entity="3" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:19:54.099836" block_sequence_num="78" BlockTypeName="TRIGGER"/>
     <TagChange entity="1" tag="19" value="16" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_CLEANUP"/>
-    <Block entity="2" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:19:54.099836" block_sequence_num="79" BlockTypeName="TRIGGER">
+    <Block entity="2" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:19:54.099836" block_sequence_num="79" BlockTypeName="TRIGGER">
       <TagChange entity="18" tag="261" value="0" EntityCardID="CORE_EX1_012" EntityCardName="Bloodmage Thalnos" GameTagName="JUST_PLAYED"/>
       <TagChange entity="2" tag="1854" value="1"/>
       <TagChange entity="2" tag="266" value="0" GameTagName="COMBO_ACTIVE"/>
       <TagChange entity="1" tag="198" value="13" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_NEXT"/>
     </Block>
     <TagChange entity="1" tag="19" value="13" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_NEXT"/>
-    <Block entity="1" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:19:54.099836" block_sequence_num="80" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
+    <Block entity="1" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:19:54.099836" block_sequence_num="80" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
       <TagChange entity="2" tag="1292" value="0"/>
       <TagChange entity="3" tag="1292" value="1"/>
       <TagChange entity="9" tag="273" value="3" EntityCardID="CORE_CS2_179" EntityCardName="Sen'jin Shieldmasta" GameTagName="NUM_TURNS_IN_HAND"/>
@@ -2433,7 +2433,7 @@
       <TagChange entity="1" tag="198" value="6" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_READY"/>
     </Block>
     <TagChange entity="1" tag="19" value="6" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_READY"/>
-    <Block entity="3" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:19:54.099836" block_sequence_num="81" BlockTypeName="TRIGGER">
+    <Block entity="3" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:19:54.099836" block_sequence_num="81" BlockTypeName="TRIGGER">
       <TagChange entity="1" tag="271" value="6" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NUM_TURNS_IN_PLAY"/>
       <TagChange entity="2" tag="271" value="6" GameTagName="NUM_TURNS_IN_PLAY"/>
       <TagChange entity="3" tag="271" value="6" GameTagName="NUM_TURNS_IN_PLAY"/>
@@ -2489,11 +2489,11 @@
     </FullEntity>
     <TagChange entity="129" tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
     <TagChange entity="1" tag="19" value="17" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_START_TRIGGERS"/>
-    <Block entity="3" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:19:54.099836" block_sequence_num="82" BlockTypeName="TRIGGER">
+    <Block entity="3" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:19:54.099836" block_sequence_num="82" BlockTypeName="TRIGGER">
       <TagChange entity="1" tag="198" value="9" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_START"/>
     </Block>
     <TagChange entity="1" tag="19" value="9" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_START"/>
-    <Block entity="3" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:19:54.099836" block_sequence_num="83" BlockTypeName="TRIGGER">
+    <Block entity="3" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:19:54.099836" block_sequence_num="83" BlockTypeName="TRIGGER">
       <TagChange entity="3" tag="2166" value="60"/>
       <TagChange entity="3" tag="467" value="1"/>
       <TagChange entity="60" tag="49" value="3" EntityCardID="TSC_069" EntityCardName="Amalgam of the Deep" GameTagName="ZONE" ZoneName="HAND"/>
@@ -2510,10 +2510,10 @@
     </FullEntity>
     <TagChange entity="130" tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
     <TagChange entity="1" tag="19" value="10" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_ACTION"/>
-    <Block entity="3" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:19:54.099836" block_sequence_num="84" BlockTypeName="TRIGGER">
+    <Block entity="3" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:19:54.099836" block_sequence_num="84" BlockTypeName="TRIGGER">
       <TagChange entity="1" tag="198" value="12" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_END"/>
     </Block>
-    <Block entity="52" type="7" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="22:20:01.223635" block_sequence_num="85" EntityCardID="CORE_ULD_195" EntityCardName="Frightened Flunky" BlockTypeName="PLAY">
+    <Block entity="52" type="7" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2023-09-19T22:20:01.223635" block_sequence_num="85" EntityCardID="CORE_ULD_195" EntityCardName="Frightened Flunky" BlockTypeName="PLAY">
       <TagChange entity="3" tag="2245" value="4"/>
       <TagChange entity="3" tag="25" value="1" GameTagName="RESOURCES_USED"/>
       <TagChange entity="3" tag="418" value="4" GameTagName="NUM_RESOURCES_SPENT_THIS_GAME"/>
@@ -2607,11 +2607,11 @@
       <TagChange entity="125" tag="1037" value="0" EntityCardID="TTN_002t43e1" EntityCardName="Chaotic Reduction"/>
       <TagChange entity="125" tag="49" value="5" EntityCardID="TTN_002t43e1" EntityCardName="Chaotic Reduction" GameTagName="ZONE" ZoneName="REMOVEDFROMGAME"/>
       <TagChange entity="125" tag="1234" value="52" EntityCardID="TTN_002t43e1" EntityCardName="Chaotic Reduction"/>
-      <HideEntity entity="125" zone="5" ts="22:20:01.223635"/>
+      <HideEntity entity="125" zone="5" ts="2023-09-19T22:20:01.223635"/>
       <TagChange entity="52" tag="479" value="3" EntityCardID="CORE_ULD_195" EntityCardName="Frightened Flunky"/>
       <TagChange entity="52" tag="3085" value="4" EntityCardID="CORE_ULD_195" EntityCardName="Frightened Flunky"/>
       <TagChange entity="52" tag="48" value="2" EntityCardID="CORE_ULD_195" EntityCardName="Frightened Flunky" GameTagName="COST"/>
-      <Block entity="52" type="3" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="22:20:01.223635" block_sequence_num="86" EntityCardID="CORE_ULD_195" EntityCardName="Frightened Flunky" BlockTypeName="POWER">
+      <Block entity="52" type="3" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2023-09-19T22:20:01.223635" block_sequence_num="86" EntityCardID="CORE_ULD_195" EntityCardName="Frightened Flunky" BlockTypeName="POWER">
         <FullEntity id="132" EntityName="Silvermoon Sentinel">
           <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
           <Tag tag="50" value="2" GameTagName="CONTROLLER"/>
@@ -2627,12 +2627,12 @@
           <Tag tag="50" value="2" GameTagName="CONTROLLER"/>
           <Tag tag="53" value="134" GameTagName="ENTITY_ID"/>
         </FullEntity>
-        <Choices entity="3" id="3" taskList="165" type="2" min="1" max="1" source="52" ts="22:20:01.299391" SourceCardID="CORE_ULD_195" SourceName="Frightened Flunky">
+        <Choices entity="3" id="3" taskList="165" type="2" min="1" max="1" source="52" ts="2023-09-19T22:20:01.299391" SourceCardID="CORE_ULD_195" SourceName="Frightened Flunky">
           <Choice index="0" entity="133" EntityCardID="TSC_020" EntityName="Barbaric Sorceress"/>
           <Choice index="1" entity="134"/>
           <Choice index="2" entity="132" EntityCardID="RLK_518" EntityName="Silvermoon Sentinel"/>
         </Choices>
-        <ChosenEntities entity="3" id="3" ts="22:20:13.968726">
+        <ChosenEntities entity="3" id="3" ts="2023-09-19T22:20:13.968726">
           <Choice index="0" entity="134"/>
         </ChosenEntities>
         <ShowEntity entity="132" cardID="RLK_518" EntityName="Silvermoon Sentinel">
@@ -2700,7 +2700,7 @@
       <Info index="0" entity="52" EntityName="Frightened Flunky"/>
     </MetaData>
     <TagChange entity="52" tag="1196" value="0" EntityCardID="CORE_ULD_195" EntityCardName="Frightened Flunky"/>
-    <Block entity="117" type="7" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="22:20:15.286996" block_sequence_num="87" EntityCardID="REV_332" EntityCardName="Anima Extractor" BlockTypeName="PLAY">
+    <Block entity="117" type="7" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2023-09-19T22:20:15.286996" block_sequence_num="87" EntityCardID="REV_332" EntityCardName="Anima Extractor" BlockTypeName="PLAY">
       <TagChange entity="3" tag="2245" value="6"/>
       <TagChange entity="3" tag="25" value="3" GameTagName="RESOURCES_USED"/>
       <TagChange entity="3" tag="418" value="6" GameTagName="NUM_RESOURCES_SPENT_THIS_GAME"/>
@@ -2744,7 +2744,7 @@
       <MetaData meta="20" data="3000" infoCount="1" MetaName="SLUSH_TIME">
         <Info index="0" entity="117" EntityName="Anima Extractor"/>
       </MetaData>
-      <Block entity="117" type="3" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="22:20:15.286996" block_sequence_num="88" EntityCardID="REV_332" EntityCardName="Anima Extractor" BlockTypeName="POWER"/>
+      <Block entity="117" type="3" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2023-09-19T22:20:15.286996" block_sequence_num="88" EntityCardID="REV_332" EntityCardName="Anima Extractor" BlockTypeName="POWER"/>
       <TagChange entity="1" tag="1323" value="11" EntityCardID="GameEntity" EntityCardName="GameEntity"/>
       <TagChange entity="3" tag="358" value="2" GameTagName="NUM_OPTIONS_PLAYED_THIS_TURN"/>
     </Block>
@@ -2753,20 +2753,20 @@
     </MetaData>
     <TagChange entity="117" tag="1196" value="0" EntityCardID="REV_332" EntityCardName="Anima Extractor"/>
     <TagChange entity="1" tag="19" value="12" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_END"/>
-    <Block entity="2" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:20:16.872118" block_sequence_num="89" BlockTypeName="TRIGGER"/>
-    <Block entity="3" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:20:16.872118" block_sequence_num="90" BlockTypeName="TRIGGER">
+    <Block entity="2" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:20:16.872118" block_sequence_num="89" BlockTypeName="TRIGGER"/>
+    <Block entity="3" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:20:16.872118" block_sequence_num="90" BlockTypeName="TRIGGER">
       <TagChange entity="1" tag="198" value="16" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_CLEANUP"/>
     </Block>
-    <Block entity="3" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:20:16.872118" block_sequence_num="91" BlockTypeName="TRIGGER"/>
+    <Block entity="3" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:20:16.872118" block_sequence_num="91" BlockTypeName="TRIGGER"/>
     <TagChange entity="1" tag="19" value="16" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_CLEANUP"/>
-    <Block entity="3" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:20:16.872118" block_sequence_num="92" BlockTypeName="TRIGGER">
+    <Block entity="3" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:20:16.872118" block_sequence_num="92" BlockTypeName="TRIGGER">
       <TagChange entity="52" tag="261" value="0" EntityCardID="CORE_ULD_195" EntityCardName="Frightened Flunky" GameTagName="JUST_PLAYED"/>
       <TagChange entity="117" tag="261" value="0" EntityCardID="REV_332" EntityCardName="Anima Extractor" GameTagName="JUST_PLAYED"/>
       <TagChange entity="3" tag="266" value="0" GameTagName="COMBO_ACTIVE"/>
       <TagChange entity="1" tag="198" value="13" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_NEXT"/>
     </Block>
     <TagChange entity="1" tag="19" value="13" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_NEXT"/>
-    <Block entity="1" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:20:16.872118" block_sequence_num="93" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
+    <Block entity="1" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:20:16.872118" block_sequence_num="93" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
       <TagChange entity="3" tag="1292" value="0"/>
       <TagChange entity="2" tag="1292" value="1"/>
       <TagChange entity="3" tag="23" value="0" GameTagName="CURRENT_PLAYER"/>
@@ -2777,7 +2777,7 @@
       <TagChange entity="1" tag="198" value="6" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_READY"/>
     </Block>
     <TagChange entity="1" tag="19" value="6" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_READY"/>
-    <Block entity="2" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:20:16.872118" block_sequence_num="94" BlockTypeName="TRIGGER">
+    <Block entity="2" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:20:16.872118" block_sequence_num="94" BlockTypeName="TRIGGER">
       <TagChange entity="1" tag="271" value="7" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NUM_TURNS_IN_PLAY"/>
       <TagChange entity="2" tag="271" value="7" GameTagName="NUM_TURNS_IN_PLAY"/>
       <TagChange entity="3" tag="271" value="7" GameTagName="NUM_TURNS_IN_PLAY"/>
@@ -2853,11 +2853,11 @@
     <TagChange entity="14" tag="48" value="4" EntityCardID="CORE_EX1_284" EntityCardName="Azure Drake" GameTagName="COST"/>
     <TagChange entity="9" tag="48" value="3" EntityCardID="CORE_CS2_179" EntityCardName="Sen'jin Shieldmasta" GameTagName="COST"/>
     <TagChange entity="1" tag="19" value="17" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_START_TRIGGERS"/>
-    <Block entity="2" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:20:16.872118" block_sequence_num="95" BlockTypeName="TRIGGER">
+    <Block entity="2" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:20:16.872118" block_sequence_num="95" BlockTypeName="TRIGGER">
       <TagChange entity="1" tag="198" value="9" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_START"/>
     </Block>
     <TagChange entity="1" tag="19" value="9" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_START"/>
-    <Block entity="2" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:20:16.872118" block_sequence_num="96" BlockTypeName="TRIGGER">
+    <Block entity="2" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:20:16.872118" block_sequence_num="96" BlockTypeName="TRIGGER">
       <TagChange entity="2" tag="2166" value="22"/>
       <TagChange entity="2" tag="467" value="1"/>
       <ShowEntity entity="22" cardID="CORE_EX1_095" EntityName="Gadgetzan Auctioneer">
@@ -2917,10 +2917,10 @@
     <TagChange entity="22" tag="466" value="5" EntityCardID="CORE_EX1_095" EntityCardName="Gadgetzan Auctioneer" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
     <TagChange entity="22" tag="48" value="5" EntityCardID="CORE_EX1_095" EntityCardName="Gadgetzan Auctioneer" GameTagName="COST"/>
     <TagChange entity="1" tag="19" value="10" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_ACTION"/>
-    <Block entity="2" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:20:16.872118" block_sequence_num="97" BlockTypeName="TRIGGER">
+    <Block entity="2" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:20:16.872118" block_sequence_num="97" BlockTypeName="TRIGGER">
       <TagChange entity="1" tag="198" value="12" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_END"/>
     </Block>
-    <Options id="18" ts="22:20:16.904789">
+    <Options id="18" ts="2023-09-19T22:20:16.904789">
       <Option index="0" error="-1" type="2"/>
       <Option index="1" entity="9" type="3" EntityCardID="CORE_CS2_179" EntityName="Sen'jin Shieldmasta"/>
       <Option index="2" entity="14" type="3" EntityCardID="CORE_EX1_284" EntityName="Azure Drake"/>
@@ -2956,8 +2956,8 @@
       <Option index="11" entity="52" error="15" type="3" EntityCardID="CORE_ULD_195" EntityName="Frightened Flunky"/>
       <Option index="12" entity="117" error="15" type="3" EntityCardID="REV_332" EntityName="Anima Extractor"/>
     </Options>
-    <SendOption option="3" subOption="-1" target="12" position="0" ts="22:20:24.613830"/>
-    <Block entity="81" type="7" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" target="12" ts="22:20:24.962988" block_sequence_num="98" EntityCardID="HERO_08bp" EntityCardName="Fireblast" TargetName="Acolyte of Pain" BlockTypeName="PLAY">
+    <SendOption option="3" subOption="-1" target="12" position="0" ts="2023-09-19T22:20:24.613830"/>
+    <Block entity="81" type="7" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" target="12" ts="2023-09-19T22:20:24.962988" block_sequence_num="98" EntityCardID="HERO_08bp" EntityCardName="Fireblast" TargetName="Acolyte of Pain" BlockTypeName="PLAY">
       <TagChange entity="2" tag="2245" value="7"/>
       <TagChange entity="2" tag="25" value="2" GameTagName="RESOURCES_USED"/>
       <TagChange entity="2" tag="418" value="7" GameTagName="NUM_RESOURCES_SPENT_THIS_GAME"/>
@@ -2965,7 +2965,7 @@
       <MetaData meta="20" data="2000" infoCount="1" MetaName="SLUSH_TIME">
         <Info index="0" entity="81" EntityName="Fireblast"/>
       </MetaData>
-      <Block entity="81" type="3" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" target="12" ts="22:20:24.962988" block_sequence_num="99" EntityCardID="HERO_08bp" EntityCardName="Fireblast" TargetName="Acolyte of Pain" BlockTypeName="POWER">
+      <Block entity="81" type="3" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" target="12" ts="2023-09-19T22:20:24.962988" block_sequence_num="99" EntityCardID="HERO_08bp" EntityCardName="Fireblast" TargetName="Acolyte of Pain" BlockTypeName="POWER">
         <MetaData meta="0" data="0" infoCount="1" MetaName="TARGET">
           <Info index="0" entity="12" EntityName="Acolyte of Pain"/>
         </MetaData>
@@ -2983,7 +2983,7 @@
         <TagChange entity="12" tag="18" value="81" EntityCardID="CORE_EX1_007" EntityCardName="Acolyte of Pain" ValueReferenceCardID="HERO_08bp" ValueReferenceCardName="Fireblast" GameTagName="LAST_AFFECTED_BY"/>
         <TagChange entity="12" tag="44" value="1" EntityCardID="CORE_EX1_007" EntityCardName="Acolyte of Pain" GameTagName="DAMAGE"/>
         <TagChange entity="2" tag="1025" value="1" GameTagName="NUM_HERO_POWER_DAMAGE_THIS_GAME"/>
-        <Block entity="12" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" triggerKeyword="32" ts="22:20:24.962988" block_sequence_num="100" EntityCardID="CORE_EX1_007" EntityCardName="Acolyte of Pain" TriggerKeywordName="TRIGGER_VISUAL" BlockTypeName="TRIGGER">
+        <Block entity="12" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" triggerKeyword="32" ts="2023-09-19T22:20:24.962988" block_sequence_num="100" EntityCardID="CORE_EX1_007" EntityCardName="Acolyte of Pain" TriggerKeywordName="TRIGGER_VISUAL" BlockTypeName="TRIGGER">
           <MetaData meta="0" data="0" infoCount="1" MetaName="TARGET">
             <Info index="0" entity="12" EntityName="Acolyte of Pain"/>
           </MetaData>
@@ -3029,7 +3029,7 @@
     <MetaData meta="20" data="1000" infoCount="1" MetaName="SLUSH_TIME">
       <Info index="0" entity="81" EntityName="Fireblast"/>
     </MetaData>
-    <Options id="19" ts="22:20:24.981011">
+    <Options id="19" ts="2023-09-19T22:20:24.981011">
       <Option index="0" error="-1" type="2"/>
       <Option index="1" entity="12" type="3" EntityCardID="CORE_EX1_007" EntityName="Acolyte of Pain">
         <Target index="0" entity="52" EntityCardID="CORE_ULD_195" EntityName="Frightened Flunky"/>
@@ -3059,20 +3059,20 @@
       <Option index="12" entity="52" error="15" type="3" EntityCardID="CORE_ULD_195" EntityName="Frightened Flunky"/>
       <Option index="13" entity="117" error="15" type="3" EntityCardID="REV_332" EntityName="Anima Extractor"/>
     </Options>
-    <SendOption option="0" subOption="-1" target="0" position="0" ts="22:20:35.507133"/>
+    <SendOption option="0" subOption="-1" target="0" position="0" ts="2023-09-19T22:20:35.507133"/>
     <TagChange entity="1" tag="19" value="12" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_END"/>
-    <Block entity="2" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:20:36.307581" block_sequence_num="101" BlockTypeName="TRIGGER">
+    <Block entity="2" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:20:36.307581" block_sequence_num="101" BlockTypeName="TRIGGER">
       <TagChange entity="1" tag="198" value="16" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_CLEANUP"/>
     </Block>
-    <Block entity="2" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:20:36.307581" block_sequence_num="102" BlockTypeName="TRIGGER"/>
-    <Block entity="3" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:20:36.307581" block_sequence_num="103" BlockTypeName="TRIGGER"/>
+    <Block entity="2" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:20:36.307581" block_sequence_num="102" BlockTypeName="TRIGGER"/>
+    <Block entity="3" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:20:36.307581" block_sequence_num="103" BlockTypeName="TRIGGER"/>
     <TagChange entity="1" tag="19" value="16" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_CLEANUP"/>
-    <Block entity="2" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:20:36.307581" block_sequence_num="104" BlockTypeName="TRIGGER">
+    <Block entity="2" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:20:36.307581" block_sequence_num="104" BlockTypeName="TRIGGER">
       <TagChange entity="2" tag="1854" value="3"/>
       <TagChange entity="1" tag="198" value="13" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_NEXT"/>
     </Block>
     <TagChange entity="1" tag="19" value="13" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_NEXT"/>
-    <Block entity="1" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:20:36.307581" block_sequence_num="105" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
+    <Block entity="1" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:20:36.307581" block_sequence_num="105" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
       <TagChange entity="2" tag="1292" value="0"/>
       <TagChange entity="3" tag="1292" value="1"/>
       <TagChange entity="9" tag="273" value="4" EntityCardID="CORE_CS2_179" EntityCardName="Sen'jin Shieldmasta" GameTagName="NUM_TURNS_IN_HAND"/>
@@ -3088,7 +3088,7 @@
       <TagChange entity="1" tag="198" value="6" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_READY"/>
     </Block>
     <TagChange entity="1" tag="19" value="6" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_READY"/>
-    <Block entity="3" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:20:36.307581" block_sequence_num="106" BlockTypeName="TRIGGER">
+    <Block entity="3" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:20:36.307581" block_sequence_num="106" BlockTypeName="TRIGGER">
       <TagChange entity="1" tag="271" value="8" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NUM_TURNS_IN_PLAY"/>
       <TagChange entity="2" tag="271" value="8" GameTagName="NUM_TURNS_IN_PLAY"/>
       <TagChange entity="3" tag="271" value="8" GameTagName="NUM_TURNS_IN_PLAY"/>
@@ -3141,11 +3141,11 @@
     </FullEntity>
     <TagChange entity="143" tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
     <TagChange entity="1" tag="19" value="17" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_START_TRIGGERS"/>
-    <Block entity="3" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:20:36.307581" block_sequence_num="107" BlockTypeName="TRIGGER">
+    <Block entity="3" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:20:36.307581" block_sequence_num="107" BlockTypeName="TRIGGER">
       <TagChange entity="1" tag="198" value="9" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_START"/>
     </Block>
     <TagChange entity="1" tag="19" value="9" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_START"/>
-    <Block entity="3" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:20:36.307581" block_sequence_num="108" BlockTypeName="TRIGGER">
+    <Block entity="3" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:20:36.307581" block_sequence_num="108" BlockTypeName="TRIGGER">
       <TagChange entity="3" tag="2166" value="40"/>
       <TagChange entity="3" tag="467" value="1"/>
       <TagChange entity="40" tag="49" value="3" EntityCardID="TSC_942" EntityCardName="Obsidiansmith" GameTagName="ZONE" ZoneName="HAND"/>
@@ -3162,10 +3162,10 @@
     </FullEntity>
     <TagChange entity="144" tag="49" value="1" EntityCardID="TTN_002t43e1" EntityCardName="Chaotic Reduction" GameTagName="ZONE" ZoneName="PLAY"/>
     <TagChange entity="1" tag="19" value="10" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_ACTION"/>
-    <Block entity="3" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:20:36.307581" block_sequence_num="109" BlockTypeName="TRIGGER">
+    <Block entity="3" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:20:36.307581" block_sequence_num="109" BlockTypeName="TRIGGER">
       <TagChange entity="1" tag="198" value="12" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_END"/>
     </Block>
-    <Block entity="40" type="7" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="22:20:41.395986" block_sequence_num="110" EntityCardID="TSC_942" EntityCardName="Obsidiansmith" BlockTypeName="PLAY">
+    <Block entity="40" type="7" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2023-09-19T22:20:41.395986" block_sequence_num="110" EntityCardID="TSC_942" EntityCardName="Obsidiansmith" BlockTypeName="PLAY">
       <TagChange entity="3" tag="2245" value="7"/>
       <TagChange entity="3" tag="25" value="1" GameTagName="RESOURCES_USED"/>
       <TagChange entity="3" tag="418" value="7" GameTagName="NUM_RESOURCES_SPENT_THIS_GAME"/>
@@ -3233,14 +3233,14 @@
       <TagChange entity="144" tag="1037" value="0" EntityCardID="TTN_002t43e1" EntityCardName="Chaotic Reduction"/>
       <TagChange entity="144" tag="49" value="5" EntityCardID="TTN_002t43e1" EntityCardName="Chaotic Reduction" GameTagName="ZONE" ZoneName="REMOVEDFROMGAME"/>
       <TagChange entity="144" tag="1234" value="40" EntityCardID="TTN_002t43e1" EntityCardName="Chaotic Reduction"/>
-      <HideEntity entity="144" zone="5" ts="22:20:41.395986"/>
+      <HideEntity entity="144" zone="5" ts="2023-09-19T22:20:41.395986"/>
       <TagChange entity="143" tag="49" value="5" GameTagName="ZONE" ZoneName="REMOVEDFROMGAME"/>
       <TagChange entity="142" tag="49" value="5" GameTagName="ZONE" ZoneName="REMOVEDFROMGAME"/>
       <TagChange entity="141" tag="49" value="5" GameTagName="ZONE" ZoneName="REMOVEDFROMGAME"/>
       <TagChange entity="140" tag="49" value="5" GameTagName="ZONE" ZoneName="REMOVEDFROMGAME"/>
       <TagChange entity="139" tag="49" value="5" GameTagName="ZONE" ZoneName="REMOVEDFROMGAME"/>
       <TagChange entity="40" tag="48" value="2" EntityCardID="TSC_942" EntityCardName="Obsidiansmith" GameTagName="COST"/>
-      <Block entity="40" type="3" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="22:20:41.395986" block_sequence_num="111" EntityCardID="TSC_942" EntityCardName="Obsidiansmith" BlockTypeName="POWER">
+      <Block entity="40" type="3" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2023-09-19T22:20:41.395986" block_sequence_num="111" EntityCardID="TSC_942" EntityCardName="Obsidiansmith" BlockTypeName="POWER">
         <MetaData meta="20" data="7000" infoCount="1" MetaName="SLUSH_TIME">
           <Info index="0" entity="40" EntityName="Obsidiansmith"/>
         </MetaData>
@@ -3262,12 +3262,12 @@
           <Tag tag="50" value="2" GameTagName="CONTROLLER"/>
           <Tag tag="53" value="148" GameTagName="ENTITY_ID"/>
         </FullEntity>
-        <Choices entity="3" id="4" taskList="213" type="2" min="1" max="1" source="40" ts="22:20:41.478502" SourceCardID="TSC_942" SourceName="Obsidiansmith">
+        <Choices entity="3" id="4" taskList="213" type="2" min="1" max="1" source="40" ts="2023-09-19T22:20:41.478502" SourceCardID="TSC_942" SourceName="Obsidiansmith">
           <Choice index="0" entity="147" EntityCardID="CORE_DMF_521" EntityName="Sword Eater"/>
           <Choice index="1" entity="146"/>
           <Choice index="2" entity="148"/>
         </Choices>
-        <ChosenEntities entity="3" id="4" ts="22:20:50.070834">
+        <ChosenEntities entity="3" id="4" ts="2023-09-19T22:20:50.070834">
           <Choice index="0" entity="147" EntityCardID="CORE_DMF_521" EntityName="Sword Eater"/>
         </ChosenEntities>
         <ShowEntity entity="147" cardID="CORE_DMF_521" EntityName="Sword Eater">
@@ -3304,8 +3304,8 @@
         <MetaData meta="7" data="0" infoCount="1" MetaName="HISTORY_TARGET">
           <Info index="0" entity="72"/>
         </MetaData>
-        <SubSpell spellPrefabGuid="ReuseFX_Generic_DeckAE_SpawnToDeckQuick_Blue_Super:c3cd0c226de505b40bb1cee891c7733c" source="82" targetCount="0" ts="22:20:50.137826"/>
-        <SubSpell spellPrefabGuid="ReuseFX_Water_DeckAE_DeckBuff_Super:e1aa3e05a67ea7a4598e743c24394d40" source="82" targetCount="0" ts="22:20:50.137826">
+        <SubSpell spellPrefabGuid="ReuseFX_Generic_DeckAE_SpawnToDeckQuick_Blue_Super:c3cd0c226de505b40bb1cee891c7733c" source="82" targetCount="0" ts="2023-09-19T22:20:50.137826"/>
+        <SubSpell spellPrefabGuid="ReuseFX_Water_DeckAE_DeckBuff_Super:e1aa3e05a67ea7a4598e743c24394d40" source="82" targetCount="0" ts="2023-09-19T22:20:50.137826">
           <FullEntity id="149">
             <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
             <Tag tag="50" value="2" GameTagName="CONTROLLER"/>
@@ -3323,7 +3323,7 @@
     </MetaData>
     <TagChange entity="40" tag="1196" value="0" EntityCardID="TSC_942" EntityCardName="Obsidiansmith"/>
     <TagChange entity="52" tag="267" value="12" EntityCardID="CORE_ULD_195" EntityCardName="Frightened Flunky" GameTagName="CARD_TARGET"/>
-    <Block entity="52" type="1" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" target="12" ts="22:20:52.689742" block_sequence_num="112" EntityCardID="CORE_ULD_195" EntityCardName="Frightened Flunky" TargetName="Acolyte of Pain" BlockTypeName="ATTACK">
+    <Block entity="52" type="1" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" target="12" ts="2023-09-19T22:20:52.689742" block_sequence_num="112" EntityCardID="CORE_ULD_195" EntityCardName="Frightened Flunky" TargetName="Acolyte of Pain" BlockTypeName="ATTACK">
       <TagChange entity="52" tag="1715" value="52" EntityCardID="CORE_ULD_195" EntityCardName="Frightened Flunky"/>
       <TagChange entity="12" tag="1715" value="52" EntityCardID="CORE_EX1_007" EntityCardName="Acolyte of Pain"/>
       <TagChange entity="3" tag="417" value="1" GameTagName="NUM_FRIENDLY_MINIONS_THAT_ATTACKED_THIS_TURN"/>
@@ -3363,7 +3363,7 @@
       <TagChange entity="52" tag="18" value="12" EntityCardID="CORE_ULD_195" EntityCardName="Frightened Flunky" ValueReferenceCardID="CORE_EX1_007" ValueReferenceCardName="Acolyte of Pain" GameTagName="LAST_AFFECTED_BY"/>
       <TagChange entity="52" tag="44" value="1" EntityCardID="CORE_ULD_195" EntityCardName="Frightened Flunky" GameTagName="DAMAGE"/>
       <TagChange entity="1" tag="1710" value="1" EntityCardID="GameEntity" EntityCardName="GameEntity"/>
-      <Block entity="12" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" triggerKeyword="32" ts="22:20:52.689742" block_sequence_num="113" EntityCardID="CORE_EX1_007" EntityCardName="Acolyte of Pain" TriggerKeywordName="TRIGGER_VISUAL" BlockTypeName="TRIGGER">
+      <Block entity="12" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" triggerKeyword="32" ts="2023-09-19T22:20:52.689742" block_sequence_num="113" EntityCardID="CORE_EX1_007" EntityCardName="Acolyte of Pain" TriggerKeywordName="TRIGGER_VISUAL" BlockTypeName="TRIGGER">
         <MetaData meta="0" data="0" infoCount="1" MetaName="TARGET">
           <Info index="0" entity="12" EntityName="Acolyte of Pain"/>
         </MetaData>
@@ -3404,8 +3404,8 @@
       </MetaData>
       <TagChange entity="1" tag="1710" value="0" EntityCardID="GameEntity" EntityCardName="GameEntity"/>
       <TagChange entity="1" tag="1710" value="1" EntityCardID="GameEntity" EntityCardName="GameEntity"/>
-      <Block entity="117" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" triggerKeyword="32" ts="22:20:52.689742" block_sequence_num="114" EntityCardID="REV_332" EntityCardName="Anima Extractor" TriggerKeywordName="TRIGGER_VISUAL" BlockTypeName="TRIGGER">
-        <SubSpell spellPrefabGuid="ReuseFX_Generic_HandBuff_ScaleUp_OpponentAE_Red_Super_FastActorTrigger:c7b29cc16e8bf2f498cc87fdfff92549" source="117" targetCount="1" ts="22:20:52.689742">
+      <Block entity="117" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" triggerKeyword="32" ts="2023-09-19T22:20:52.689742" block_sequence_num="114" EntityCardID="REV_332" EntityCardName="Anima Extractor" TriggerKeywordName="TRIGGER_VISUAL" BlockTypeName="TRIGGER">
+        <SubSpell spellPrefabGuid="ReuseFX_Generic_HandBuff_ScaleUp_OpponentAE_Red_Super_FastActorTrigger:c7b29cc16e8bf2f498cc87fdfff92549" source="117" targetCount="1" ts="2023-09-19T22:20:52.689742">
           <SubSpellTarget index="0" entity="60"/>
           <FullEntity id="150" EntityName="Extracted">
             <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
@@ -3450,7 +3450,7 @@
     <TagChange entity="151" tag="324" value="1" EntityCardID="TTN_002t43e1" EntityCardName="Chaotic Reduction"/>
     <TagChange entity="4" tag="466" value="1" EntityCardID="CORE_EX1_096" EntityCardName="Loot Hoarder" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
     <TagChange entity="4" tag="48" value="1" EntityCardID="CORE_EX1_096" EntityCardName="Loot Hoarder" GameTagName="COST"/>
-    <Block entity="1" type="6" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="22:20:52.689742" block_sequence_num="115" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="DEATHS">
+    <Block entity="1" type="6" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2023-09-19T22:20:52.689742" block_sequence_num="115" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="DEATHS">
       <TagChange entity="2" tag="368" value="1" GameTagName="NUM_MINIONS_PLAYER_KILLED_THIS_TURN"/>
       <TagChange entity="1" tag="369" value="1" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NUM_MINIONS_KILLED_THIS_TURN"/>
       <TagChange entity="12" tag="1068" value="4" EntityCardID="CORE_EX1_007" EntityCardName="Acolyte of Pain"/>
@@ -3469,7 +3469,7 @@
       <Info index="0" entity="52" EntityName="Frightened Flunky"/>
     </MetaData>
     <TagChange entity="117" tag="267" value="18" EntityCardID="REV_332" EntityCardName="Anima Extractor" GameTagName="CARD_TARGET"/>
-    <Block entity="117" type="1" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" target="18" ts="22:20:53.407980" block_sequence_num="116" EntityCardID="REV_332" EntityCardName="Anima Extractor" TargetName="Bloodmage Thalnos" BlockTypeName="ATTACK">
+    <Block entity="117" type="1" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" target="18" ts="2023-09-19T22:20:53.407980" block_sequence_num="116" EntityCardID="REV_332" EntityCardName="Anima Extractor" TargetName="Bloodmage Thalnos" BlockTypeName="ATTACK">
       <TagChange entity="117" tag="1715" value="117" EntityCardID="REV_332" EntityCardName="Anima Extractor"/>
       <TagChange entity="18" tag="1715" value="117" EntityCardID="CORE_EX1_012" EntityCardName="Bloodmage Thalnos"/>
       <TagChange entity="3" tag="417" value="2" GameTagName="NUM_FRIENDLY_MINIONS_THAT_ATTACKED_THIS_TURN"/>
@@ -3511,8 +3511,8 @@
       <TagChange entity="1" tag="1710" value="1" EntityCardID="GameEntity" EntityCardName="GameEntity"/>
       <TagChange entity="1" tag="1710" value="0" EntityCardID="GameEntity" EntityCardName="GameEntity"/>
       <TagChange entity="1" tag="1710" value="1" EntityCardID="GameEntity" EntityCardName="GameEntity"/>
-      <Block entity="117" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" triggerKeyword="32" ts="22:20:53.407980" block_sequence_num="117" EntityCardID="REV_332" EntityCardName="Anima Extractor" TriggerKeywordName="TRIGGER_VISUAL" BlockTypeName="TRIGGER">
-        <SubSpell spellPrefabGuid="ReuseFX_Generic_HandBuff_ScaleUp_OpponentAE_Red_Super_FastActorTrigger:c7b29cc16e8bf2f498cc87fdfff92549" source="117" targetCount="1" ts="22:20:53.407980">
+      <Block entity="117" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" triggerKeyword="32" ts="2023-09-19T22:20:53.407980" block_sequence_num="117" EntityCardID="REV_332" EntityCardName="Anima Extractor" TriggerKeywordName="TRIGGER_VISUAL" BlockTypeName="TRIGGER">
+        <SubSpell spellPrefabGuid="ReuseFX_Generic_HandBuff_ScaleUp_OpponentAE_Red_Super_FastActorTrigger:c7b29cc16e8bf2f498cc87fdfff92549" source="117" targetCount="1" ts="2023-09-19T22:20:53.407980">
           <SubSpellTarget index="0" entity="54"/>
           <FullEntity id="152">
             <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
@@ -3532,7 +3532,7 @@
       <TagChange entity="117" tag="38" value="0" EntityCardID="REV_332" EntityCardName="Anima Extractor" GameTagName="ATTACKING"/>
       <TagChange entity="18" tag="36" value="0" EntityCardID="CORE_EX1_012" EntityCardName="Bloodmage Thalnos" GameTagName="DEFENDING"/>
     </Block>
-    <Block entity="1" type="6" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="22:20:53.407980" block_sequence_num="118" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="DEATHS">
+    <Block entity="1" type="6" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2023-09-19T22:20:53.407980" block_sequence_num="118" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="DEATHS">
       <TagChange entity="2" tag="368" value="2" GameTagName="NUM_MINIONS_PLAYER_KILLED_THIS_TURN"/>
       <TagChange entity="1" tag="369" value="2" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NUM_MINIONS_KILLED_THIS_TURN"/>
       <TagChange entity="18" tag="1068" value="4" EntityCardID="CORE_EX1_012" EntityCardName="Bloodmage Thalnos"/>
@@ -3545,7 +3545,7 @@
       <TagChange entity="18" tag="44" value="0" EntityCardID="CORE_EX1_012" EntityCardName="Bloodmage Thalnos" GameTagName="DAMAGE"/>
     </Block>
     <TagChange entity="2" tag="291" value="0" GameTagName="CURRENT_SPELLPOWER"/>
-    <Block entity="18" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" triggerKeyword="217" ts="22:20:53.407980" block_sequence_num="119" EntityCardID="CORE_EX1_012" EntityCardName="Bloodmage Thalnos" TriggerKeywordName="DEATHRATTLE" BlockTypeName="TRIGGER">
+    <Block entity="18" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" triggerKeyword="217" ts="2023-09-19T22:20:53.407980" block_sequence_num="119" EntityCardID="CORE_EX1_012" EntityCardName="Bloodmage Thalnos" TriggerKeywordName="DEATHRATTLE" BlockTypeName="TRIGGER">
       <TagChange entity="2" tag="2166" value="28"/>
       <TagChange entity="2" tag="467" value="1"/>
       <ShowEntity entity="28" cardID="CORE_CS2_028" EntityName="Blizzard">
@@ -3584,7 +3584,7 @@
     <MetaData meta="20" data="1000" infoCount="1" MetaName="SLUSH_TIME">
       <Info index="0" entity="117" EntityName="Anima Extractor"/>
     </MetaData>
-    <Block entity="60" type="7" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" target="40" ts="22:20:59.396997" block_sequence_num="120" EntityCardID="TSC_069" EntityCardName="Amalgam of the Deep" TargetName="Obsidiansmith" BlockTypeName="PLAY">
+    <Block entity="60" type="7" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" target="40" ts="2023-09-19T22:20:59.396997" block_sequence_num="120" EntityCardID="TSC_069" EntityCardName="Amalgam of the Deep" TargetName="Obsidiansmith" BlockTypeName="PLAY">
       <TagChange entity="3" tag="2245" value="9"/>
       <TagChange entity="3" tag="25" value="3" GameTagName="RESOURCES_USED"/>
       <TagChange entity="3" tag="418" value="9" GameTagName="NUM_RESOURCES_SPENT_THIS_GAME"/>
@@ -3649,7 +3649,7 @@
       <TagChange entity="60" tag="479" value="3" EntityCardID="TSC_069" EntityCardName="Amalgam of the Deep"/>
       <TagChange entity="60" tag="3085" value="4" EntityCardID="TSC_069" EntityCardName="Amalgam of the Deep"/>
       <TagChange entity="60" tag="386" value="0" EntityCardID="TSC_069" EntityCardName="Amalgam of the Deep" GameTagName="POWERED_UP"/>
-      <Block entity="60" type="3" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" target="40" ts="22:20:59.396997" block_sequence_num="121" EntityCardID="TSC_069" EntityCardName="Amalgam of the Deep" TargetName="Obsidiansmith" BlockTypeName="POWER">
+      <Block entity="60" type="3" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" target="40" ts="2023-09-19T22:20:59.396997" block_sequence_num="121" EntityCardID="TSC_069" EntityCardName="Amalgam of the Deep" TargetName="Obsidiansmith" BlockTypeName="POWER">
         <FullEntity id="154" EntityName="Tuskarrrr Trawler">
           <Tag tag="49" value="6" GameTagName="ZONE" ZoneName="SETASIDE"/>
           <Tag tag="50" value="2" GameTagName="CONTROLLER"/>
@@ -3665,12 +3665,12 @@
           <Tag tag="50" value="2" GameTagName="CONTROLLER"/>
           <Tag tag="53" value="156" GameTagName="ENTITY_ID"/>
         </FullEntity>
-        <Choices entity="3" id="5" taskList="243" type="2" min="1" max="1" source="60" ts="22:20:59.464145" SourceCardID="TSC_069" SourceName="Amalgam of the Deep">
+        <Choices entity="3" id="5" taskList="243" type="2" min="1" max="1" source="60" ts="2023-09-19T22:20:59.464145" SourceCardID="TSC_069" SourceName="Amalgam of the Deep">
           <Choice index="0" entity="155" EntityCardID="CORE_NEW1_027" EntityName="Southsea Captain"/>
           <Choice index="1" entity="156"/>
           <Choice index="2" entity="154" EntityCardID="TSC_909" EntityName="Tuskarrrr Trawler"/>
         </Choices>
-        <ChosenEntities entity="3" id="5" ts="22:21:05.385673">
+        <ChosenEntities entity="3" id="5" ts="2023-09-19T22:21:05.385673">
           <Choice index="0" entity="156"/>
         </ChosenEntities>
         <ShowEntity entity="154" cardID="TSC_909" EntityName="Tuskarrrr Trawler">
@@ -3738,13 +3738,13 @@
     </MetaData>
     <TagChange entity="60" tag="1196" value="0" EntityCardID="TSC_069" EntityCardName="Amalgam of the Deep"/>
     <TagChange entity="1" tag="19" value="12" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_END"/>
-    <Block entity="2" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:21:08.173213" block_sequence_num="122" BlockTypeName="TRIGGER"/>
-    <Block entity="3" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:21:08.173213" block_sequence_num="123" BlockTypeName="TRIGGER">
+    <Block entity="2" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:21:08.173213" block_sequence_num="122" BlockTypeName="TRIGGER"/>
+    <Block entity="3" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:21:08.173213" block_sequence_num="123" BlockTypeName="TRIGGER">
       <TagChange entity="1" tag="198" value="16" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_CLEANUP"/>
     </Block>
-    <Block entity="3" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:21:08.173213" block_sequence_num="124" BlockTypeName="TRIGGER"/>
+    <Block entity="3" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:21:08.173213" block_sequence_num="124" BlockTypeName="TRIGGER"/>
     <TagChange entity="1" tag="19" value="16" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_CLEANUP"/>
-    <Block entity="3" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:21:08.173213" block_sequence_num="125" BlockTypeName="TRIGGER">
+    <Block entity="3" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:21:08.173213" block_sequence_num="125" BlockTypeName="TRIGGER">
       <TagChange entity="40" tag="261" value="0" EntityCardID="TSC_942" EntityCardName="Obsidiansmith" GameTagName="JUST_PLAYED"/>
       <TagChange entity="60" tag="261" value="0" EntityCardID="TSC_069" EntityCardName="Amalgam of the Deep" GameTagName="JUST_PLAYED"/>
       <TagChange entity="3" tag="1854" value="1"/>
@@ -3752,7 +3752,7 @@
       <TagChange entity="1" tag="198" value="13" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_NEXT"/>
     </Block>
     <TagChange entity="1" tag="19" value="13" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_NEXT"/>
-    <Block entity="1" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:21:08.173213" block_sequence_num="126" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
+    <Block entity="1" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:21:08.173213" block_sequence_num="126" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
       <TagChange entity="3" tag="1292" value="0"/>
       <TagChange entity="2" tag="1292" value="1"/>
       <TagChange entity="3" tag="23" value="0" GameTagName="CURRENT_PLAYER"/>
@@ -3763,7 +3763,7 @@
       <TagChange entity="1" tag="198" value="6" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_READY"/>
     </Block>
     <TagChange entity="1" tag="19" value="6" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_READY"/>
-    <Block entity="2" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:21:08.173213" block_sequence_num="127" BlockTypeName="TRIGGER">
+    <Block entity="2" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:21:08.173213" block_sequence_num="127" BlockTypeName="TRIGGER">
       <TagChange entity="1" tag="271" value="9" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NUM_TURNS_IN_PLAY"/>
       <TagChange entity="2" tag="271" value="9" GameTagName="NUM_TURNS_IN_PLAY"/>
       <TagChange entity="3" tag="271" value="9" GameTagName="NUM_TURNS_IN_PLAY"/>
@@ -3794,11 +3794,11 @@
       <TagChange entity="2" tag="1739" value="0"/>
     </Block>
     <TagChange entity="1" tag="19" value="17" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_START_TRIGGERS"/>
-    <Block entity="2" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:21:08.173213" block_sequence_num="128" BlockTypeName="TRIGGER">
+    <Block entity="2" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:21:08.173213" block_sequence_num="128" BlockTypeName="TRIGGER">
       <TagChange entity="1" tag="198" value="9" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_START"/>
     </Block>
     <TagChange entity="1" tag="19" value="9" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_START"/>
-    <Block entity="2" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:21:08.173213" block_sequence_num="129" BlockTypeName="TRIGGER">
+    <Block entity="2" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:21:08.173213" block_sequence_num="129" BlockTypeName="TRIGGER">
       <TagChange entity="2" tag="2166" value="32"/>
       <TagChange entity="2" tag="467" value="1"/>
       <ShowEntity entity="32" cardID="CORE_NEW1_023" EntityName="Faerie Dragon">
@@ -3857,10 +3857,10 @@
     <TagChange entity="32" tag="466" value="1" EntityCardID="CORE_NEW1_023" EntityCardName="Faerie Dragon" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
     <TagChange entity="32" tag="48" value="1" EntityCardID="CORE_NEW1_023" EntityCardName="Faerie Dragon" GameTagName="COST"/>
     <TagChange entity="1" tag="19" value="10" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_ACTION"/>
-    <Block entity="2" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:21:08.173213" block_sequence_num="130" BlockTypeName="TRIGGER">
+    <Block entity="2" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:21:08.173213" block_sequence_num="130" BlockTypeName="TRIGGER">
       <TagChange entity="1" tag="198" value="12" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_END"/>
     </Block>
-    <Options id="25" ts="22:21:08.238696">
+    <Options id="25" ts="2023-09-19T22:21:08.238696">
       <Option index="0" error="-1" type="2"/>
       <Option index="1" entity="9" type="3" EntityCardID="CORE_CS2_179" EntityName="Sen'jin Shieldmasta"/>
       <Option index="2" entity="14" type="3" EntityCardID="CORE_EX1_284" EntityName="Azure Drake"/>
@@ -3893,8 +3893,8 @@
       <Option index="15" entity="40" error="15" type="3" EntityCardID="TSC_942" EntityName="Obsidiansmith"/>
       <Option index="16" entity="60" error="15" type="3" EntityCardID="TSC_069" EntityName="Amalgam of the Deep"/>
     </Options>
-    <SendOption option="6" subOption="-1" target="0" position="1" ts="22:21:13.494703"/>
-    <Block entity="32" type="7" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="22:21:13.810778" block_sequence_num="131" EntityCardID="CORE_NEW1_023" EntityCardName="Faerie Dragon" BlockTypeName="PLAY">
+    <SendOption option="6" subOption="-1" target="0" position="1" ts="2023-09-19T22:21:13.494703"/>
+    <Block entity="32" type="7" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2023-09-19T22:21:13.810778" block_sequence_num="131" EntityCardID="CORE_NEW1_023" EntityCardName="Faerie Dragon" BlockTypeName="PLAY">
       <TagChange entity="2" tag="2245" value="8"/>
       <TagChange entity="2" tag="25" value="1" GameTagName="RESOURCES_USED"/>
       <TagChange entity="2" tag="418" value="8" GameTagName="NUM_RESOURCES_SPENT_THIS_GAME"/>
@@ -3919,31 +3919,31 @@
       <TagChange entity="157" tag="1037" value="0" EntityCardID="TTN_002t43e1" EntityCardName="Chaotic Reduction"/>
       <TagChange entity="157" tag="49" value="5" EntityCardID="TTN_002t43e1" EntityCardName="Chaotic Reduction" GameTagName="ZONE" ZoneName="REMOVEDFROMGAME"/>
       <TagChange entity="157" tag="1234" value="32" EntityCardID="TTN_002t43e1" EntityCardName="Chaotic Reduction"/>
-      <HideEntity entity="157" zone="5" ts="22:21:13.810778"/>
+      <HideEntity entity="157" zone="5" ts="2023-09-19T22:21:13.810778"/>
       <TagChange entity="151" tag="1068" value="5" EntityCardID="TTN_002t43e1" EntityCardName="Chaotic Reduction"/>
       <TagChange entity="151" tag="1068" value="0" EntityCardID="TTN_002t43e1" EntityCardName="Chaotic Reduction"/>
       <TagChange entity="151" tag="1037" value="0" EntityCardID="TTN_002t43e1" EntityCardName="Chaotic Reduction"/>
       <TagChange entity="151" tag="49" value="5" EntityCardID="TTN_002t43e1" EntityCardName="Chaotic Reduction" GameTagName="ZONE" ZoneName="REMOVEDFROMGAME"/>
       <TagChange entity="151" tag="1234" value="4" EntityCardID="TTN_002t43e1" EntityCardName="Chaotic Reduction"/>
-      <HideEntity entity="151" zone="5" ts="22:21:13.810778"/>
+      <HideEntity entity="151" zone="5" ts="2023-09-19T22:21:13.810778"/>
       <TagChange entity="138" tag="1068" value="5" EntityCardID="TTN_002t43e1" EntityCardName="Chaotic Reduction"/>
       <TagChange entity="138" tag="1068" value="0" EntityCardID="TTN_002t43e1" EntityCardName="Chaotic Reduction"/>
       <TagChange entity="138" tag="1037" value="0" EntityCardID="TTN_002t43e1" EntityCardName="Chaotic Reduction"/>
       <TagChange entity="138" tag="49" value="5" EntityCardID="TTN_002t43e1" EntityCardName="Chaotic Reduction" GameTagName="ZONE" ZoneName="REMOVEDFROMGAME"/>
       <TagChange entity="138" tag="1234" value="22" EntityCardID="TTN_002t43e1" EntityCardName="Chaotic Reduction"/>
-      <HideEntity entity="138" zone="5" ts="22:21:13.810778"/>
+      <HideEntity entity="138" zone="5" ts="2023-09-19T22:21:13.810778"/>
       <TagChange entity="137" tag="1068" value="5" EntityCardID="TTN_002t43e1" EntityCardName="Chaotic Reduction"/>
       <TagChange entity="137" tag="1068" value="0" EntityCardID="TTN_002t43e1" EntityCardName="Chaotic Reduction"/>
       <TagChange entity="137" tag="1037" value="0" EntityCardID="TTN_002t43e1" EntityCardName="Chaotic Reduction"/>
       <TagChange entity="137" tag="49" value="5" EntityCardID="TTN_002t43e1" EntityCardName="Chaotic Reduction" GameTagName="ZONE" ZoneName="REMOVEDFROMGAME"/>
       <TagChange entity="137" tag="1234" value="14" EntityCardID="TTN_002t43e1" EntityCardName="Chaotic Reduction"/>
-      <HideEntity entity="137" zone="5" ts="22:21:13.810778"/>
+      <HideEntity entity="137" zone="5" ts="2023-09-19T22:21:13.810778"/>
       <TagChange entity="136" tag="1068" value="5" EntityCardID="TTN_002t43e1" EntityCardName="Chaotic Reduction"/>
       <TagChange entity="136" tag="1068" value="0" EntityCardID="TTN_002t43e1" EntityCardName="Chaotic Reduction"/>
       <TagChange entity="136" tag="1037" value="0" EntityCardID="TTN_002t43e1" EntityCardName="Chaotic Reduction"/>
       <TagChange entity="136" tag="49" value="5" EntityCardID="TTN_002t43e1" EntityCardName="Chaotic Reduction" GameTagName="ZONE" ZoneName="REMOVEDFROMGAME"/>
       <TagChange entity="136" tag="1234" value="9" EntityCardID="TTN_002t43e1" EntityCardName="Chaotic Reduction"/>
-      <HideEntity entity="136" zone="5" ts="22:21:13.810778"/>
+      <HideEntity entity="136" zone="5" ts="2023-09-19T22:21:13.810778"/>
       <TagChange entity="32" tag="311" value="1" EntityCardID="CORE_NEW1_023" EntityCardName="Faerie Dragon" GameTagName="CANT_BE_TARGETED_BY_SPELLS"/>
       <TagChange entity="32" tag="332" value="1" EntityCardID="CORE_NEW1_023" EntityCardName="Faerie Dragon" GameTagName="CANT_BE_TARGETED_BY_HERO_POWERS"/>
       <TagChange entity="22" tag="466" value="6" EntityCardID="CORE_EX1_095" EntityCardName="Gadgetzan Auctioneer" GameTagName="TAG_LAST_KNOWN_COST_IN_HAND"/>
@@ -3955,7 +3955,7 @@
       <TagChange entity="14" tag="48" value="5" EntityCardID="CORE_EX1_284" EntityCardName="Azure Drake" GameTagName="COST"/>
       <TagChange entity="9" tag="48" value="4" EntityCardID="CORE_CS2_179" EntityCardName="Sen'jin Shieldmasta" GameTagName="COST"/>
       <TagChange entity="4" tag="48" value="2" EntityCardID="CORE_EX1_096" EntityCardName="Loot Hoarder" GameTagName="COST"/>
-      <Block entity="32" type="3" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="22:21:13.810778" block_sequence_num="132" EntityCardID="CORE_NEW1_023" EntityCardName="Faerie Dragon" BlockTypeName="POWER"/>
+      <Block entity="32" type="3" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2023-09-19T22:21:13.810778" block_sequence_num="132" EntityCardID="CORE_NEW1_023" EntityCardName="Faerie Dragon" BlockTypeName="POWER"/>
       <TagChange entity="2" tag="266" value="1" GameTagName="COMBO_ACTIVE"/>
       <TagChange entity="1" tag="1323" value="17" EntityCardID="GameEntity" EntityCardName="GameEntity"/>
       <TagChange entity="2" tag="358" value="1" GameTagName="NUM_OPTIONS_PLAYED_THIS_TURN"/>
@@ -3963,7 +3963,7 @@
     <MetaData meta="20" data="1000" infoCount="1" MetaName="SLUSH_TIME">
       <Info index="0" entity="32" EntityName="Faerie Dragon"/>
     </MetaData>
-    <Options id="26" ts="22:21:13.827327">
+    <Options id="26" ts="2023-09-19T22:21:13.827327">
       <Option index="0" error="-1" type="2"/>
       <Option index="1" entity="9" type="3" EntityCardID="CORE_CS2_179" EntityName="Sen'jin Shieldmasta"/>
       <Option index="2" entity="6" type="3" EntityCardID="CORE_CS2_029" EntityName="Fireball">
@@ -3998,9 +3998,9 @@
       <Option index="15" entity="60" error="15" type="3" EntityCardID="TSC_069" EntityName="Amalgam of the Deep"/>
       <Option index="16" entity="32" error="37" type="3" EntityCardID="CORE_NEW1_023" EntityName="Faerie Dragon"/>
     </Options>
-    <SendOption option="2" subOption="-1" target="82" position="0" ts="22:21:25.155943"/>
+    <SendOption option="2" subOption="-1" target="82" position="0" ts="2023-09-19T22:21:25.155943"/>
     <TagChange entity="32" tag="1196" value="0" EntityCardID="CORE_NEW1_023" EntityCardName="Faerie Dragon"/>
-    <Block entity="6" type="7" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" target="82" ts="22:21:25.555597" block_sequence_num="133" EntityCardID="CORE_CS2_029" EntityCardName="Fireball" TargetName="Garrosh Hellscream" BlockTypeName="PLAY">
+    <Block entity="6" type="7" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" target="82" ts="2023-09-19T22:21:25.555597" block_sequence_num="133" EntityCardID="CORE_CS2_029" EntityCardName="Fireball" TargetName="Garrosh Hellscream" BlockTypeName="PLAY">
       <TagChange entity="2" tag="2245" value="12"/>
       <TagChange entity="2" tag="25" value="5" GameTagName="RESOURCES_USED"/>
       <TagChange entity="2" tag="418" value="12" GameTagName="NUM_RESOURCES_SPENT_THIS_GAME"/>
@@ -4021,7 +4021,7 @@
         <Info index="0" entity="6" EntityName="Fireball"/>
       </MetaData>
       <TagChange entity="2" tag="1780" value="2" GameTagName="NUM_SPELLS_PLAYED_THIS_GAME"/>
-      <Block entity="6" type="3" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" target="82" ts="22:21:25.555597" block_sequence_num="134" EntityCardID="CORE_CS2_029" EntityCardName="Fireball" TargetName="Garrosh Hellscream" BlockTypeName="POWER">
+      <Block entity="6" type="3" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" target="82" ts="2023-09-19T22:21:25.555597" block_sequence_num="134" EntityCardID="CORE_CS2_029" EntityCardName="Fireball" TargetName="Garrosh Hellscream" BlockTypeName="POWER">
         <MetaData meta="0" data="0" infoCount="1" MetaName="TARGET">
           <Info index="0" entity="82" EntityName="Garrosh Hellscream"/>
         </MetaData>
@@ -4052,7 +4052,7 @@
     <MetaData meta="20" data="1000" infoCount="1" MetaName="SLUSH_TIME">
       <Info index="0" entity="6" EntityName="Fireball"/>
     </MetaData>
-    <Options id="27" ts="22:21:25.572697">
+    <Options id="27" ts="2023-09-19T22:21:25.572697">
       <Option index="0" error="-1" type="2"/>
       <Option index="1" entity="9" error="14" type="3" EntityCardID="CORE_CS2_179" EntityName="Sen'jin Shieldmasta"/>
       <Option index="2" entity="14" error="14" type="3" EntityCardID="CORE_EX1_284" EntityName="Azure Drake"/>
@@ -4070,21 +4070,21 @@
       <Option index="14" entity="60" error="15" type="3" EntityCardID="TSC_069" EntityName="Amalgam of the Deep"/>
       <Option index="15" entity="32" error="37" type="3" EntityCardID="CORE_NEW1_023" EntityName="Faerie Dragon"/>
     </Options>
-    <SendOption option="0" subOption="-1" target="0" position="0" ts="22:21:26.206479"/>
+    <SendOption option="0" subOption="-1" target="0" position="0" ts="2023-09-19T22:21:26.206479"/>
     <TagChange entity="1" tag="19" value="12" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_END"/>
-    <Block entity="2" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:21:27.040232" block_sequence_num="135" BlockTypeName="TRIGGER">
+    <Block entity="2" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:21:27.040232" block_sequence_num="135" BlockTypeName="TRIGGER">
       <TagChange entity="1" tag="198" value="16" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_CLEANUP"/>
     </Block>
-    <Block entity="2" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:21:27.040232" block_sequence_num="136" BlockTypeName="TRIGGER"/>
-    <Block entity="3" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:21:27.040232" block_sequence_num="137" BlockTypeName="TRIGGER"/>
+    <Block entity="2" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:21:27.040232" block_sequence_num="136" BlockTypeName="TRIGGER"/>
+    <Block entity="3" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:21:27.040232" block_sequence_num="137" BlockTypeName="TRIGGER"/>
     <TagChange entity="1" tag="19" value="16" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_CLEANUP"/>
-    <Block entity="2" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:21:27.040232" block_sequence_num="138" BlockTypeName="TRIGGER">
+    <Block entity="2" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:21:27.040232" block_sequence_num="138" BlockTypeName="TRIGGER">
       <TagChange entity="32" tag="261" value="0" EntityCardID="CORE_NEW1_023" EntityCardName="Faerie Dragon" GameTagName="JUST_PLAYED"/>
       <TagChange entity="2" tag="266" value="0" GameTagName="COMBO_ACTIVE"/>
       <TagChange entity="1" tag="198" value="13" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_NEXT"/>
     </Block>
     <TagChange entity="1" tag="19" value="13" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_NEXT"/>
-    <Block entity="1" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:21:27.040232" block_sequence_num="139" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
+    <Block entity="1" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:21:27.040232" block_sequence_num="139" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
       <TagChange entity="2" tag="1292" value="0"/>
       <TagChange entity="3" tag="1292" value="1"/>
       <TagChange entity="9" tag="273" value="5" EntityCardID="CORE_CS2_179" EntityCardName="Sen'jin Shieldmasta" GameTagName="NUM_TURNS_IN_HAND"/>
@@ -4101,7 +4101,7 @@
       <TagChange entity="1" tag="198" value="6" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_READY"/>
     </Block>
     <TagChange entity="1" tag="19" value="6" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_READY"/>
-    <Block entity="3" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:21:27.040232" block_sequence_num="140" BlockTypeName="TRIGGER">
+    <Block entity="3" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:21:27.040232" block_sequence_num="140" BlockTypeName="TRIGGER">
       <TagChange entity="1" tag="271" value="10" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NUM_TURNS_IN_PLAY"/>
       <TagChange entity="2" tag="271" value="10" GameTagName="NUM_TURNS_IN_PLAY"/>
       <TagChange entity="3" tag="271" value="10" GameTagName="NUM_TURNS_IN_PLAY"/>
@@ -4159,11 +4159,11 @@
     </FullEntity>
     <TagChange entity="164" tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
     <TagChange entity="1" tag="19" value="17" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_START_TRIGGERS"/>
-    <Block entity="3" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:21:27.040232" block_sequence_num="141" BlockTypeName="TRIGGER">
+    <Block entity="3" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:21:27.040232" block_sequence_num="141" BlockTypeName="TRIGGER">
       <TagChange entity="1" tag="198" value="9" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_START"/>
     </Block>
     <TagChange entity="1" tag="19" value="9" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_START"/>
-    <Block entity="3" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:21:27.040232" block_sequence_num="142" BlockTypeName="TRIGGER">
+    <Block entity="3" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:21:27.040232" block_sequence_num="142" BlockTypeName="TRIGGER">
       <TagChange entity="3" tag="2166" value="72"/>
       <TagChange entity="3" tag="467" value="1"/>
       <TagChange entity="72" tag="49" value="3" GameTagName="ZONE" ZoneName="HAND"/>
@@ -4180,7 +4180,7 @@
     </FullEntity>
     <TagChange entity="165" tag="49" value="1" GameTagName="ZONE" ZoneName="PLAY"/>
     <TagChange entity="1" tag="19" value="10" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_ACTION"/>
-    <Block entity="3" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:21:27.040232" block_sequence_num="143" BlockTypeName="TRIGGER">
+    <Block entity="3" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:21:27.040232" block_sequence_num="143" BlockTypeName="TRIGGER">
       <TagChange entity="1" tag="198" value="12" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_END"/>
     </Block>
     <TagChange entity="2" tag="17" value="8" PlayStateName="CONCEDED" GameTagName="PLAYSTATE"/>
@@ -4188,7 +4188,7 @@
     <TagChange entity="3" tag="17" value="4" PlayStateName="WON" GameTagName="PLAYSTATE"/>
     <TagChange entity="1" tag="198" value="14" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="FINAL_WRAPUP"/>
     <TagChange entity="1" tag="19" value="14" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="FINAL_WRAPUP"/>
-    <Block entity="1" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="22:21:29.926447" block_sequence_num="144" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
+    <Block entity="1" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2023-09-19T22:21:29.926447" block_sequence_num="144" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
       <TagChange entity="1" tag="198" value="15" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="FINAL_GAMEOVER"/>
     </Block>
     <TagChange entity="1" tag="19" value="15" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="FINAL_GAMEOVER"/>

@@ -261,7 +261,7 @@
       <Tag tag="1491" value="1" GameTagName="BACON_HERO_CAN_BE_DRAFTED"/>
     </FullEntity>
     <TagChange entity="116" tag="262" value="37" EntityCardID="TB_BaconShop_HERO_21" EntityCardName="The Great Akazamzarak" GameTagName="LINKED_ENTITY"/>
-    <FullEntity id="124" cardID="TB_BaconShop_HERO_44" EntityName="Sylvanas Windrunner">
+    <FullEntity id="124" cardID="BG23_HERO_306" EntityName="Sylvanas Windrunner">
       <Tag tag="50" value="10" GameTagName="CONTROLLER"/>
       <Tag tag="202" value="3" GameTagName="CARDTYPE"/>
       <Tag tag="30" value="8" GameTagName="PLAYER_ID"/>
@@ -270,14 +270,14 @@
       <Tag tag="53" value="124" GameTagName="ENTITY_ID"/>
       <Tag tag="201" value="3" GameTagName="FACTION"/>
       <Tag tag="313" value="87" GameTagName="CREATOR"/>
-      <Tag tag="380" value="60373" GameTagName="HERO_POWER"/>
+      <Tag tag="380" value="89294" GameTagName="HERO_POWER"/>
       <Tag tag="410" value="1" GameTagName="REVEALED"/>
       <Tag tag="684" value="1" GameTagName="HIDE_COST"/>
-      <Tag tag="1284" value="60361" GameTagName="CREATOR_DBID"/>
+      <Tag tag="1284" value="89293" GameTagName="CREATOR_DBID"/>
       <Tag tag="1373" value="1" GameTagName="PLAYER_LEADERBOARD_PLACE"/>
       <Tag tag="1491" value="1" GameTagName="BACON_HERO_CAN_BE_DRAFTED"/>
     </FullEntity>
-    <TagChange entity="124" tag="262" value="39" EntityCardID="TB_BaconShop_HERO_44" EntityCardName="Sylvanas Windrunner" GameTagName="LINKED_ENTITY"/>
+    <TagChange entity="124" tag="262" value="39" EntityCardID="BG23_HERO_306" EntityCardName="Sylvanas Windrunner" GameTagName="LINKED_ENTITY"/>
     <FullEntity id="132" cardID="TB_BaconShop_HERO_11" EntityName="Ragnaros the Firelord">
       <Tag tag="50" value="10" GameTagName="CONTROLLER"/>
       <Tag tag="202" value="3" GameTagName="CARDTYPE"/>
@@ -385,7 +385,7 @@
     <TagChange entity="92" tag="1377" value="1" EntityCardID="TB_BaconShop_HERO_14" EntityCardName="Queen Wagtoggle" GameTagName="PLAYER_TECH_LEVEL"/>
     <TagChange entity="132" tag="1377" value="1" EntityCardID="TB_BaconShop_HERO_11" EntityCardName="Ragnaros the Firelord" GameTagName="PLAYER_TECH_LEVEL"/>
     <TagChange entity="116" tag="1377" value="1" EntityCardID="TB_BaconShop_HERO_21" EntityCardName="The Great Akazamzarak" GameTagName="PLAYER_TECH_LEVEL"/>
-    <TagChange entity="124" tag="1377" value="1" EntityCardID="TB_BaconShop_HERO_44" EntityCardName="Sylvanas Windrunner" GameTagName="PLAYER_TECH_LEVEL"/>
+    <TagChange entity="124" tag="1377" value="1" EntityCardID="BG23_HERO_306" EntityCardName="Sylvanas Windrunner" GameTagName="PLAYER_TECH_LEVEL"/>
     <TagChange entity="99" tag="1377" value="1" EntityCardID="TB_BaconShop_HERO_45" EntityCardName="Arch-Villain Rafaam" GameTagName="PLAYER_TECH_LEVEL"/>
     <TagChange entity="4" tag="19" value="9" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_START"/>
     <Block entity="5" type="5" ts="2019-12-13T00:15:34.512416+01:00" block_sequence_num="18" EntityCardID="BehEh#1355" EntityCardName="BehEh#1355" BlockTypeName="TRIGGER">
@@ -1257,7 +1257,7 @@
       <TagChange entity="4" tag="198" value="13" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_NEXT"/>
     </Block>
     <TagChange entity="116" tag="1373" value="2" EntityCardID="TB_BaconShop_HERO_21" EntityCardName="The Great Akazamzarak" GameTagName="PLAYER_LEADERBOARD_PLACE"/>
-    <TagChange entity="124" tag="1373" value="3" EntityCardID="TB_BaconShop_HERO_44" EntityCardName="Sylvanas Windrunner" GameTagName="PLAYER_LEADERBOARD_PLACE"/>
+    <TagChange entity="124" tag="1373" value="3" EntityCardID="BG23_HERO_306" EntityCardName="Sylvanas Windrunner" GameTagName="PLAYER_LEADERBOARD_PLACE"/>
     <TagChange entity="99" tag="1373" value="4" EntityCardID="TB_BaconShop_HERO_45" EntityCardName="Arch-Villain Rafaam" GameTagName="PLAYER_LEADERBOARD_PLACE"/>
     <TagChange entity="76" tag="1373" value="5" EntityCardID="TB_BaconShop_HERO_37" EntityCardName="Lord Jaraxxus" GameTagName="PLAYER_LEADERBOARD_PLACE"/>
     <TagChange entity="148" tag="1373" value="6" EntityCardID="TB_BaconShop_HERO_40" EntityCardName="Sir Finley Mrrgglton" GameTagName="PLAYER_LEADERBOARD_PLACE"/>
@@ -1465,7 +1465,7 @@
       <Option index="12" entity="46" error="15" type="3" EntityCardID="TB_BaconShopBob" EntityName="Bob's Tavern"/>
       <Option index="13" entity="250" error="40" type="3" EntityCardID="LOOT_013" EntityName="Vulgar Homunculus"/>
     </Options>
-    <TagChange entity="124" tag="1377" value="2" EntityCardID="TB_BaconShop_HERO_44" EntityCardName="Sylvanas Windrunner" GameTagName="PLAYER_TECH_LEVEL"/>
+    <TagChange entity="124" tag="1377" value="2" EntityCardID="BG23_HERO_306" EntityCardName="Sylvanas Windrunner" GameTagName="PLAYER_TECH_LEVEL"/>
     <TagChange entity="116" tag="1377" value="2" EntityCardID="TB_BaconShop_HERO_21" EntityCardName="The Great Akazamzarak" GameTagName="PLAYER_TECH_LEVEL"/>
     <TagChange entity="92" tag="1377" value="2" EntityCardID="TB_BaconShop_HERO_14" EntityCardName="Queen Wagtoggle" GameTagName="PLAYER_TECH_LEVEL"/>
     <SendOption option="2" subOption="-1" target="0" position="0" ts="2019-12-13T00:16:51.217382+01:00"/>
@@ -2699,7 +2699,7 @@
     </Block>
     <TagChange entity="148" tag="44" value="4" EntityCardID="TB_BaconShop_HERO_40" EntityCardName="Sir Finley Mrrgglton" GameTagName="DAMAGE"/>
     <TagChange entity="92" tag="44" value="5" EntityCardID="TB_BaconShop_HERO_14" EntityCardName="Queen Wagtoggle" GameTagName="DAMAGE"/>
-    <TagChange entity="124" tag="44" value="3" EntityCardID="TB_BaconShop_HERO_44" EntityCardName="Sylvanas Windrunner" GameTagName="DAMAGE"/>
+    <TagChange entity="124" tag="44" value="3" EntityCardID="BG23_HERO_306" EntityCardName="Sylvanas Windrunner" GameTagName="DAMAGE"/>
     <Block entity="47" type="5" ts="2019-12-13T00:17:16.167657+01:00" block_sequence_num="122" EntityCardID="TB_BaconShop_8P_PlayerE" EntityCardName="BaconShop8PlayerEnchant" BlockTypeName="TRIGGER">
       <TagChange entity="4" tag="1453" value="1" EntityCardID="GameEntity" EntityCardName="GameEntity"/>
       <TagChange entity="418" tag="1068" value="5" EntityCardID="TB_BaconUps_003" EntityCardName="Murloc Tidehunter"/>
@@ -3015,7 +3015,7 @@
     </Block>
     <TagChange entity="99" tag="1373" value="3" EntityCardID="TB_BaconShop_HERO_45" EntityCardName="Arch-Villain Rafaam" GameTagName="PLAYER_LEADERBOARD_PLACE"/>
     <TagChange entity="132" tag="1373" value="4" EntityCardID="TB_BaconShop_HERO_11" EntityCardName="Ragnaros the Firelord" GameTagName="PLAYER_LEADERBOARD_PLACE"/>
-    <TagChange entity="124" tag="1373" value="5" EntityCardID="TB_BaconShop_HERO_44" EntityCardName="Sylvanas Windrunner" GameTagName="PLAYER_LEADERBOARD_PLACE"/>
+    <TagChange entity="124" tag="1373" value="5" EntityCardID="BG23_HERO_306" EntityCardName="Sylvanas Windrunner" GameTagName="PLAYER_LEADERBOARD_PLACE"/>
     <TagChange entity="76" tag="1373" value="7" EntityCardID="TB_BaconShop_HERO_37" EntityCardName="Lord Jaraxxus" GameTagName="PLAYER_LEADERBOARD_PLACE"/>
     <TagChange entity="92" tag="1373" value="8" EntityCardID="TB_BaconShop_HERO_14" EntityCardName="Queen Wagtoggle" GameTagName="PLAYER_LEADERBOARD_PLACE"/>
     <TagChange entity="5" tag="1360" value="4" EntityCardID="BehEh#1355" EntityCardName="BehEh#1355" GameTagName="NEXT_OPPONENT_PLAYER_ID"/>
@@ -4404,7 +4404,7 @@
     <TagChange entity="148" tag="44" value="6" EntityCardID="TB_BaconShop_HERO_40" EntityCardName="Sir Finley Mrrgglton" GameTagName="DAMAGE"/>
     <TagChange entity="92" tag="44" value="9" EntityCardID="TB_BaconShop_HERO_14" EntityCardName="Queen Wagtoggle" GameTagName="DAMAGE"/>
     <TagChange entity="116" tag="44" value="4" EntityCardID="TB_BaconShop_HERO_21" EntityCardName="The Great Akazamzarak" GameTagName="DAMAGE"/>
-    <TagChange entity="124" tag="44" value="6" EntityCardID="TB_BaconShop_HERO_44" EntityCardName="Sylvanas Windrunner" GameTagName="DAMAGE"/>
+    <TagChange entity="124" tag="44" value="6" EntityCardID="BG23_HERO_306" EntityCardName="Sylvanas Windrunner" GameTagName="DAMAGE"/>
     <Block entity="47" type="5" ts="2019-12-13T00:18:15.973627+01:00" block_sequence_num="194" EntityCardID="TB_BaconShop_8P_PlayerE" EntityCardName="BaconShop8PlayerEnchant" BlockTypeName="TRIGGER">
       <TagChange entity="4" tag="1453" value="1" EntityCardID="GameEntity" EntityCardName="GameEntity"/>
       <TagChange entity="423" tag="1068" value="5" EntityCardID="LOOT_013" EntityCardName="Vulgar Homunculus"/>
@@ -4643,7 +4643,7 @@
     <TagChange entity="132" tag="1373" value="3" EntityCardID="TB_BaconShop_HERO_11" EntityCardName="Ragnaros the Firelord" GameTagName="PLAYER_LEADERBOARD_PLACE"/>
     <TagChange entity="116" tag="1373" value="4" EntityCardID="TB_BaconShop_HERO_21" EntityCardName="The Great Akazamzarak" GameTagName="PLAYER_LEADERBOARD_PLACE"/>
     <TagChange entity="148" tag="1373" value="5" EntityCardID="TB_BaconShop_HERO_40" EntityCardName="Sir Finley Mrrgglton" GameTagName="PLAYER_LEADERBOARD_PLACE"/>
-    <TagChange entity="124" tag="1373" value="6" EntityCardID="TB_BaconShop_HERO_44" EntityCardName="Sylvanas Windrunner" GameTagName="PLAYER_LEADERBOARD_PLACE"/>
+    <TagChange entity="124" tag="1373" value="6" EntityCardID="BG23_HERO_306" EntityCardName="Sylvanas Windrunner" GameTagName="PLAYER_LEADERBOARD_PLACE"/>
     <TagChange entity="5" tag="1360" value="7" EntityCardID="BehEh#1355" EntityCardName="BehEh#1355" GameTagName="NEXT_OPPONENT_PLAYER_ID"/>
     <TagChange entity="4" tag="19" value="13" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_NEXT"/>
     <Block entity="4" type="5" effectIndex="5" ts="2019-12-13T00:18:16.406491+01:00" block_sequence_num="200" EntityCardID="GameEntity" EntityCardName="GameEntity" BlockTypeName="TRIGGER">
@@ -7049,7 +7049,7 @@
     </Options>
     <TagChange entity="116" tag="1377" value="3" EntityCardID="TB_BaconShop_HERO_21" EntityCardName="The Great Akazamzarak" GameTagName="PLAYER_TECH_LEVEL"/>
     <TagChange entity="99" tag="1377" value="4" EntityCardID="TB_BaconShop_HERO_45" EntityCardName="Arch-Villain Rafaam" GameTagName="PLAYER_TECH_LEVEL"/>
-    <TagChange entity="124" tag="44" value="7" EntityCardID="TB_BaconShop_HERO_44" EntityCardName="Sylvanas Windrunner" GameTagName="DAMAGE"/>
+    <TagChange entity="124" tag="44" value="7" EntityCardID="BG23_HERO_306" EntityCardName="Sylvanas Windrunner" GameTagName="DAMAGE"/>
     <SendOption option="5" subOption="-1" target="0" position="0" ts="2019-12-13T00:20:07.638049+01:00"/>
     <TagChange entity="919" tag="1196" value="0" EntityCardID="LOOT_013" EntityCardName="Vulgar Homunculus"/>
     <TagChange entity="920" tag="1196" value="0" EntityCardID="LOOT_013" EntityCardName="Vulgar Homunculus"/>
@@ -9403,7 +9403,7 @@
     </Block>
     <TagChange entity="132" tag="44" value="9" EntityCardID="TB_BaconShop_HERO_11" EntityCardName="Ragnaros the Firelord" GameTagName="DAMAGE"/>
     <TagChange entity="116" tag="44" value="11" EntityCardID="TB_BaconShop_HERO_21" EntityCardName="The Great Akazamzarak" GameTagName="DAMAGE"/>
-    <TagChange entity="124" tag="44" value="13" EntityCardID="TB_BaconShop_HERO_44" EntityCardName="Sylvanas Windrunner" GameTagName="DAMAGE"/>
+    <TagChange entity="124" tag="44" value="13" EntityCardID="BG23_HERO_306" EntityCardName="Sylvanas Windrunner" GameTagName="DAMAGE"/>
     <Block entity="47" type="5" ts="2019-12-13T00:20:26.904409+01:00" block_sequence_num="366" EntityCardID="TB_BaconShop_8P_PlayerE" EntityCardName="BaconShop8PlayerEnchant" BlockTypeName="TRIGGER">
       <TagChange entity="4" tag="1453" value="1" EntityCardID="GameEntity" EntityCardName="GameEntity"/>
       <TagChange entity="1254" tag="1068" value="5" EntityCardID="EX1_062" EntityCardName="Old Murk-Eye"/>
@@ -10034,7 +10034,7 @@
     <Block entity="47" type="5" effectIndex="13" ts="2019-12-13T00:20:52.811640+01:00" block_sequence_num="386" EntityCardID="TB_BaconShop_8P_PlayerE" EntityCardName="BaconShop8PlayerEnchant" BlockTypeName="TRIGGER"/>
     <TagChange entity="5" tag="13" value="1" EntityCardID="BehEh#1355" EntityCardName="BehEh#1355" GameTagName="GOLD_REWARD_STATE"/>
     <TagChange entity="92" tag="1377" value="3" EntityCardID="TB_BaconShop_HERO_14" EntityCardName="Queen Wagtoggle" GameTagName="PLAYER_TECH_LEVEL"/>
-    <TagChange entity="124" tag="1377" value="3" EntityCardID="TB_BaconShop_HERO_44" EntityCardName="Sylvanas Windrunner" GameTagName="PLAYER_TECH_LEVEL"/>
+    <TagChange entity="124" tag="1377" value="3" EntityCardID="BG23_HERO_306" EntityCardName="Sylvanas Windrunner" GameTagName="PLAYER_TECH_LEVEL"/>
     <TagChange entity="92" tag="1447" value="1" EntityCardID="TB_BaconShop_HERO_14" EntityCardName="Queen Wagtoggle" GameTagName="PLAYER_TRIPLES"/>
   </Game>
 </HSReplay>

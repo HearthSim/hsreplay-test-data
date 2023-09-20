@@ -144,7 +144,7 @@
         <Tag tag="684" value="1" GameTagName="HIDE_COST"/>
         <Tag tag="1491" value="1" GameTagName="BACON_HERO_CAN_BE_DRAFTED"/>
       </FullEntity>
-      <FullEntity id="78" cardID="TB_BaconShop_HERO_44" EntityName="Sylvanas Windrunner">
+      <FullEntity id="78" cardID="BG23_HERO_306" EntityName="Sylvanas Windrunner">
         <Tag tag="50" value="3" GameTagName="CONTROLLER"/>
         <Tag tag="202" value="3" GameTagName="CARDTYPE"/>
         <Tag tag="45" value="40" GameTagName="HEALTH"/>
@@ -153,14 +153,14 @@
         <Tag tag="201" value="3" GameTagName="FACTION"/>
         <Tag tag="263" value="2" GameTagName="ZONE_POSITION"/>
         <Tag tag="313" value="7" GameTagName="CREATOR"/>
-        <Tag tag="380" value="60373" GameTagName="HERO_POWER"/>
+        <Tag tag="380" value="89294" GameTagName="HERO_POWER"/>
         <Tag tag="684" value="1" GameTagName="HIDE_COST"/>
         <Tag tag="1491" value="1" GameTagName="BACON_HERO_CAN_BE_DRAFTED"/>
       </FullEntity>
       <TagChange entity="8" tag="305" value="1" EntityCardID="&#47561;&#44053;&#54620;&#48148;&#51648;#33605" EntityCardName="&#47561;&#44053;&#54620;&#48148;&#51648;#33605" GameTagName="MULLIGAN_STATE" MulliganStateName="INPUT"/>
       <Choices entity="8" id="1" taskList="6" type="1" min="1" max="1" source="7" ts="2019-12-10T23:04:00.381205+09:00" EntityCardID="&#47561;&#44053;&#54620;&#48148;&#51648;#33605" EntityName="&#47561;&#44053;&#54620;&#48148;&#51648;#33605" SourceCardID="GameEntity" SourceName="GameEntity">
         <Choice index="0" entity="77" EntityCardID="TB_BaconShop_HERO_12" EntityName="The Rat King"/>
-        <Choice index="1" entity="78" EntityCardID="TB_BaconShop_HERO_44" EntityName="Sylvanas Windrunner"/>
+        <Choice index="1" entity="78" EntityCardID="BG23_HERO_306" EntityName="Sylvanas Windrunner"/>
       </Choices>
       <ChosenEntities entity="8" id="1" ts="2019-12-10T23:04:07.685205+09:00">
         <Choice index="0" entity="77" EntityCardID="TB_BaconShop_HERO_12" EntityName="The Rat King"/>
@@ -168,12 +168,12 @@
     </Block>
     <TagChange entity="8" tag="305" value="2" EntityCardID="&#47561;&#44053;&#54620;&#48148;&#51648;#33605" EntityCardName="&#47561;&#44053;&#54620;&#48148;&#51648;#33605" GameTagName="MULLIGAN_STATE" MulliganStateName="DEALING"/>
     <Block entity="8" type="5" effectIndex="0" ts="2019-12-10T23:04:07.896205+09:00" block_sequence_num="5" EntityCardID="&#47561;&#44053;&#54620;&#48148;&#51648;#33605" EntityCardName="&#47561;&#44053;&#54620;&#48148;&#51648;#33605" BlockTypeName="TRIGGER">
-      <TagChange entity="78" tag="18" value="8" EntityCardID="TB_BaconShop_HERO_44" EntityCardName="Sylvanas Windrunner" ValueReferenceCardID="&#47561;&#44053;&#54620;&#48148;&#51648;#33605" ValueReferenceCardName="&#47561;&#44053;&#54620;&#48148;&#51648;#33605" GameTagName="LAST_AFFECTED_BY"/>
-      <TagChange entity="78" tag="1068" value="4" EntityCardID="TB_BaconShop_HERO_44" EntityCardName="Sylvanas Windrunner"/>
-      <TagChange entity="78" tag="1068" value="0" EntityCardID="TB_BaconShop_HERO_44" EntityCardName="Sylvanas Windrunner"/>
-      <TagChange entity="78" tag="1037" value="3" EntityCardID="TB_BaconShop_HERO_44" EntityCardName="Sylvanas Windrunner"/>
-      <TagChange entity="78" tag="263" value="0" EntityCardID="TB_BaconShop_HERO_44" EntityCardName="Sylvanas Windrunner" GameTagName="ZONE_POSITION"/>
-      <TagChange entity="78" tag="49" value="4" EntityCardID="TB_BaconShop_HERO_44" EntityCardName="Sylvanas Windrunner" GameTagName="ZONE" ZoneName="GRAVEYARD"/>
+      <TagChange entity="78" tag="18" value="8" EntityCardID="BG23_HERO_306" EntityCardName="Sylvanas Windrunner" ValueReferenceCardID="&#47561;&#44053;&#54620;&#48148;&#51648;#33605" ValueReferenceCardName="&#47561;&#44053;&#54620;&#48148;&#51648;#33605" GameTagName="LAST_AFFECTED_BY"/>
+      <TagChange entity="78" tag="1068" value="4" EntityCardID="BG23_HERO_306" EntityCardName="Sylvanas Windrunner"/>
+      <TagChange entity="78" tag="1068" value="0" EntityCardID="BG23_HERO_306" EntityCardName="Sylvanas Windrunner"/>
+      <TagChange entity="78" tag="1037" value="3" EntityCardID="BG23_HERO_306" EntityCardName="Sylvanas Windrunner"/>
+      <TagChange entity="78" tag="263" value="0" EntityCardID="BG23_HERO_306" EntityCardName="Sylvanas Windrunner" GameTagName="ZONE_POSITION"/>
+      <TagChange entity="78" tag="49" value="4" EntityCardID="BG23_HERO_306" EntityCardName="Sylvanas Windrunner" GameTagName="ZONE" ZoneName="GRAVEYARD"/>
       <TagChange entity="77" tag="1068" value="1" EntityCardID="TB_BaconShop_HERO_12" EntityCardName="The Rat King"/>
       <TagChange entity="77" tag="1068" value="0" EntityCardID="TB_BaconShop_HERO_12" EntityCardName="The Rat King"/>
       <TagChange entity="77" tag="1037" value="3" EntityCardID="TB_BaconShop_HERO_12" EntityCardName="The Rat King"/>

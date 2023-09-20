@@ -217,7 +217,7 @@
       <Tag tag="1491" value="1" GameTagName="BACON_HERO_CAN_BE_DRAFTED"/>
     </FullEntity>
     <TagChange entity="111" tag="262" value="35" EntityCardID="TB_BaconShop_HERO_28" EntityCardName="Infinite Toki" GameTagName="LINKED_ENTITY"/>
-    <FullEntity id="119" cardID="TB_BaconShop_HERO_44" EntityName="Sylvanas Windrunner">
+    <FullEntity id="119" cardID="BG23_HERO_306" EntityName="Sylvanas Windrunner">
       <Tag tag="50" value="15" GameTagName="CONTROLLER"/>
       <Tag tag="202" value="3" GameTagName="CARDTYPE"/>
       <Tag tag="30" value="3" GameTagName="PLAYER_ID"/>
@@ -226,14 +226,14 @@
       <Tag tag="53" value="119" GameTagName="ENTITY_ID"/>
       <Tag tag="201" value="3" GameTagName="FACTION"/>
       <Tag tag="313" value="77" GameTagName="CREATOR"/>
-      <Tag tag="380" value="60373" GameTagName="HERO_POWER"/>
+      <Tag tag="380" value="89294" GameTagName="HERO_POWER"/>
       <Tag tag="410" value="1" GameTagName="REVEALED"/>
       <Tag tag="684" value="1" GameTagName="HIDE_COST"/>
-      <Tag tag="1284" value="60361" GameTagName="CREATOR_DBID"/>
+      <Tag tag="1284" value="89293" GameTagName="CREATOR_DBID"/>
       <Tag tag="1373" value="1" GameTagName="PLAYER_LEADERBOARD_PLACE"/>
       <Tag tag="1491" value="1" GameTagName="BACON_HERO_CAN_BE_DRAFTED"/>
     </FullEntity>
-    <TagChange entity="119" tag="262" value="29" EntityCardID="TB_BaconShop_HERO_44" EntityCardName="Sylvanas Windrunner" GameTagName="LINKED_ENTITY"/>
+    <TagChange entity="119" tag="262" value="29" EntityCardID="BG23_HERO_306" EntityCardName="Sylvanas Windrunner" GameTagName="LINKED_ENTITY"/>
     <FullEntity id="127" cardID="TB_BaconShop_HERO_43" EntityName="Brann Bronzebeard">
       <Tag tag="50" value="15" GameTagName="CONTROLLER"/>
       <Tag tag="202" value="3" GameTagName="CARDTYPE"/>
@@ -553,7 +553,7 @@
     <TagChange entity="152" tag="1377" value="1" EntityCardID="TB_BaconShop_HERO_34" EntityCardName="Patchwerk" GameTagName="PLAYER_TECH_LEVEL"/>
     <TagChange entity="95" tag="1377" value="1" EntityCardID="TB_BaconShop_HERO_35" EntityCardName="Yogg-Saron, Hope's End" GameTagName="PLAYER_TECH_LEVEL"/>
     <TagChange entity="127" tag="1377" value="1" EntityCardID="TB_BaconShop_HERO_43" EntityCardName="Brann Bronzebeard" GameTagName="PLAYER_TECH_LEVEL"/>
-    <TagChange entity="119" tag="1377" value="1" EntityCardID="TB_BaconShop_HERO_44" EntityCardName="Sylvanas Windrunner" GameTagName="PLAYER_TECH_LEVEL"/>
+    <TagChange entity="119" tag="1377" value="1" EntityCardID="BG23_HERO_306" EntityCardName="Sylvanas Windrunner" GameTagName="PLAYER_TECH_LEVEL"/>
     <TagChange entity="19" tag="19" value="10" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="STEP" StepName="MAIN_ACTION"/>
     <Block entity="20" type="5" ts="2019-12-06T14:56:00.781597+01:00" block_sequence_num="21" EntityCardID="Rafaleo#21458" EntityCardName="Rafaleo#21458" BlockTypeName="TRIGGER">
       <TagChange entity="19" tag="198" value="12" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_END"/>
@@ -955,7 +955,7 @@
     <Block entity="21" type="5" ts="2019-12-06T14:56:47.536886+01:00" block_sequence_num="39" EntityCardID="Captao" EntityCardName="Captao" BlockTypeName="TRIGGER">
       <TagChange entity="19" tag="198" value="9" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_START"/>
     </Block>
-    <TagChange entity="119" tag="44" value="2" EntityCardID="TB_BaconShop_HERO_44" EntityCardName="Sylvanas Windrunner" GameTagName="DAMAGE"/>
+    <TagChange entity="119" tag="44" value="2" EntityCardID="BG23_HERO_306" EntityCardName="Sylvanas Windrunner" GameTagName="DAMAGE"/>
     <TagChange entity="135" tag="44" value="2" EntityCardID="TB_BaconShop_HERO_14" EntityCardName="Queen Wagtoggle" GameTagName="DAMAGE"/>
     <Block entity="67" type="5" ts="2019-12-06T14:56:47.597761+01:00" block_sequence_num="40" EntityCardID="TB_BaconShop_8P_PlayerE" EntityCardName="BaconShop8PlayerEnchant" BlockTypeName="TRIGGER">
       <MetaData meta="19" data="1000" infoCount="1" MetaName="ARTIFICIAL_PAUSE">
@@ -1152,7 +1152,7 @@
     </Block>
     <TagChange entity="127" tag="1373" value="2" EntityCardID="TB_BaconShop_HERO_43" EntityCardName="Brann Bronzebeard" GameTagName="PLAYER_LEADERBOARD_PLACE"/>
     <TagChange entity="103" tag="1373" value="3" EntityCardID="TB_BaconShop_HERO_12" EntityCardName="The Rat King" GameTagName="PLAYER_LEADERBOARD_PLACE"/>
-    <TagChange entity="119" tag="1373" value="4" EntityCardID="TB_BaconShop_HERO_44" EntityCardName="Sylvanas Windrunner" GameTagName="PLAYER_LEADERBOARD_PLACE"/>
+    <TagChange entity="119" tag="1373" value="4" EntityCardID="BG23_HERO_306" EntityCardName="Sylvanas Windrunner" GameTagName="PLAYER_LEADERBOARD_PLACE"/>
     <TagChange entity="135" tag="1373" value="5" EntityCardID="TB_BaconShop_HERO_14" EntityCardName="Queen Wagtoggle" GameTagName="PLAYER_LEADERBOARD_PLACE"/>
     <TagChange entity="111" tag="1373" value="6" EntityCardID="TB_BaconShop_HERO_28" EntityCardName="Infinite Toki" GameTagName="PLAYER_LEADERBOARD_PLACE"/>
     <TagChange entity="85" tag="1373" value="7" EntityCardID="TB_BaconShop_HERO_42" EntityCardName="Elise Starseeker" GameTagName="PLAYER_LEADERBOARD_PLACE"/>
@@ -1341,7 +1341,7 @@
     <TagChange entity="152" tag="44" value="50" EntityCardID="TB_BaconShop_HERO_34" EntityCardName="Patchwerk" GameTagName="DAMAGE"/>
     <TagChange entity="95" tag="1377" value="2" EntityCardID="TB_BaconShop_HERO_35" EntityCardName="Yogg-Saron, Hope's End" GameTagName="PLAYER_TECH_LEVEL"/>
     <TagChange entity="111" tag="1377" value="2" EntityCardID="TB_BaconShop_HERO_28" EntityCardName="Infinite Toki" GameTagName="PLAYER_TECH_LEVEL"/>
-    <TagChange entity="119" tag="1377" value="2" EntityCardID="TB_BaconShop_HERO_44" EntityCardName="Sylvanas Windrunner" GameTagName="PLAYER_TECH_LEVEL"/>
+    <TagChange entity="119" tag="1377" value="2" EntityCardID="BG23_HERO_306" EntityCardName="Sylvanas Windrunner" GameTagName="PLAYER_TECH_LEVEL"/>
     <TagChange entity="127" tag="1377" value="2" EntityCardID="TB_BaconShop_HERO_43" EntityCardName="Brann Bronzebeard" GameTagName="PLAYER_TECH_LEVEL"/>
     <SendOption option="1" subOption="-1" target="0" position="1" ts="2019-12-06T14:57:11.728496+01:00"/>
     <TagChange entity="336" tag="1196" value="0" EntityCardID="EX1_509" EntityCardName="Murloc Tidecaller"/>
@@ -1787,7 +1787,7 @@
       <TagChange entity="19" tag="198" value="17" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_START_TRIGGERS"/>
       <TagChange entity="387" tag="297" value="0" EntityCardID="TB_BaconShop_HERO_43" EntityCardName="Brann Bronzebeard" GameTagName="NUM_ATTACKS_THIS_TURN"/>
     </Block>
-    <TagChange entity="119" tag="44" value="5" EntityCardID="TB_BaconShop_HERO_44" EntityCardName="Sylvanas Windrunner" GameTagName="DAMAGE"/>
+    <TagChange entity="119" tag="44" value="5" EntityCardID="BG23_HERO_306" EntityCardName="Sylvanas Windrunner" GameTagName="DAMAGE"/>
     <TagChange entity="135" tag="44" value="5" EntityCardID="TB_BaconShop_HERO_14" EntityCardName="Queen Wagtoggle" GameTagName="DAMAGE"/>
     <Block entity="67" type="5" ts="2019-12-06T14:57:40.153205+01:00" block_sequence_num="81" EntityCardID="TB_BaconShop_8P_PlayerE" EntityCardName="BaconShop8PlayerEnchant" BlockTypeName="TRIGGER">
       <MetaData meta="19" data="1000" infoCount="1" MetaName="ARTIFICIAL_PAUSE">
@@ -2057,7 +2057,7 @@
       <TagChange entity="19" tag="198" value="13" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_NEXT"/>
     </Block>
     <TagChange entity="111" tag="1373" value="4" EntityCardID="TB_BaconShop_HERO_28" EntityCardName="Infinite Toki" GameTagName="PLAYER_LEADERBOARD_PLACE"/>
-    <TagChange entity="119" tag="1373" value="5" EntityCardID="TB_BaconShop_HERO_44" EntityCardName="Sylvanas Windrunner" GameTagName="PLAYER_LEADERBOARD_PLACE"/>
+    <TagChange entity="119" tag="1373" value="5" EntityCardID="BG23_HERO_306" EntityCardName="Sylvanas Windrunner" GameTagName="PLAYER_LEADERBOARD_PLACE"/>
     <TagChange entity="135" tag="1373" value="6" EntityCardID="TB_BaconShop_HERO_14" EntityCardName="Queen Wagtoggle" GameTagName="PLAYER_LEADERBOARD_PLACE"/>
     <TagChange entity="20" tag="1415" value="1" EntityCardID="Rafaleo#21458" EntityCardName="Rafaleo#21458" GameTagName="BACON_ODD_PLAYER_OUT"/>
     <TagChange entity="20" tag="1360" value="8" EntityCardID="Rafaleo#21458" EntityCardName="Rafaleo#21458" GameTagName="NEXT_OPPONENT_PLAYER_ID"/>
@@ -3161,7 +3161,7 @@
       <TagChange entity="19" tag="198" value="13" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_NEXT"/>
     </Block>
     <TagChange entity="111" tag="1373" value="3" EntityCardID="TB_BaconShop_HERO_28" EntityCardName="Infinite Toki" GameTagName="PLAYER_LEADERBOARD_PLACE"/>
-    <TagChange entity="119" tag="1373" value="4" EntityCardID="TB_BaconShop_HERO_44" EntityCardName="Sylvanas Windrunner" GameTagName="PLAYER_LEADERBOARD_PLACE"/>
+    <TagChange entity="119" tag="1373" value="4" EntityCardID="BG23_HERO_306" EntityCardName="Sylvanas Windrunner" GameTagName="PLAYER_LEADERBOARD_PLACE"/>
     <TagChange entity="85" tag="1373" value="5" EntityCardID="TB_BaconShop_HERO_42" EntityCardName="Elise Starseeker" GameTagName="PLAYER_LEADERBOARD_PLACE"/>
     <TagChange entity="103" tag="1373" value="6" EntityCardID="TB_BaconShop_HERO_12" EntityCardName="The Rat King" GameTagName="PLAYER_LEADERBOARD_PLACE"/>
     <TagChange entity="20" tag="1415" value="0" EntityCardID="Rafaleo#21458" EntityCardName="Rafaleo#21458" GameTagName="BACON_ODD_PLAYER_OUT"/>
@@ -4410,7 +4410,7 @@
       <TagChange entity="21" tag="26" value="5" EntityCardID="Captao" EntityCardName="Captao" GameTagName="RESOURCES"/>
       <TagChange entity="19" tag="198" value="17" EntityCardID="GameEntity" EntityCardName="GameEntity" GameTagName="NEXT_STEP" StepName="MAIN_START_TRIGGERS"/>
     </Block>
-    <TagChange entity="119" tag="44" value="9" EntityCardID="TB_BaconShop_HERO_44" EntityCardName="Sylvanas Windrunner" GameTagName="DAMAGE"/>
+    <TagChange entity="119" tag="44" value="9" EntityCardID="BG23_HERO_306" EntityCardName="Sylvanas Windrunner" GameTagName="DAMAGE"/>
     <TagChange entity="103" tag="44" value="11" EntityCardID="TB_BaconShop_HERO_12" EntityCardName="The Rat King" GameTagName="DAMAGE"/>
     <Block entity="67" type="5" ts="2019-12-06T14:59:35.564517+01:00" block_sequence_num="200" EntityCardID="TB_BaconShop_8P_PlayerE" EntityCardName="BaconShop8PlayerEnchant" BlockTypeName="TRIGGER">
       <MetaData meta="19" data="1000" infoCount="1" MetaName="ARTIFICIAL_PAUSE">

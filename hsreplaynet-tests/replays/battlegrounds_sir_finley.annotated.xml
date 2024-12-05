@@ -1,0 +1,3977 @@
+<HSReplay build="210640" version="1.7">
+<style class="adjust-screen-brightness" media="screen">html { filter: brightness(1) !important; }</style>
+<Game ts="2024-12-01T09:10:19.498701+08:00" id="34347" format="1" type="23" scenarioID="3459">
+<GameEntity id="4">
+<Tag tag="202" value="1"/>
+<Tag tag="49" value="1"/>
+<Tag tag="53" value="4"/>
+<Tag tag="937" value="3459"/>
+<Tag tag="1000" value="3"/>
+<Tag tag="1199" value="1"/>
+<Tag tag="1442" value="1"/>
+<Tag tag="1448" value="1"/>
+<Tag tag="1458" value="1"/>
+<Tag tag="1473" value="1"/>
+<Tag tag="1488" value="1"/>
+<Tag tag="1514" value="1"/>
+<Tag tag="1526" value="1"/>
+<Tag tag="1543" value="1"/>
+<Tag tag="1556" value="1"/>
+<Tag tag="1643" value="1"/>
+<Tag tag="2042" value="556379057"/>
+<Tag tag="2053" value="104477"/>
+<Tag tag="2955" value="1"/>
+<Tag tag="2956" value="1"/>
+<Tag tag="3032" value="1"/>
+<Tag tag="3033" value="1"/>
+<Tag tag="3084" value="1"/>
+<Tag tag="3165" value="1"/>
+<Tag tag="3169" value="1"/>
+<Tag tag="3170" value="1"/>
+<Tag tag="3494" value="1"/>
+<Tag tag="3740" value="1"/>
+</GameEntity>
+<Player id="5" playerID="2" accountHi="144115211015832391" accountLo="104891695" name="judge#5151">
+<Tag tag="50" value="2"/>
+<Tag tag="202" value="2"/>
+<Tag tag="30" value="2"/>
+<Tag tag="18" value="5"/>
+<Tag tag="27" value="27"/>
+<Tag tag="28" value="10"/>
+<Tag tag="29" value="4"/>
+<Tag tag="31" value="2"/>
+<Tag tag="49" value="1"/>
+<Tag tag="53" value="5"/>
+<Tag tag="232" value="1"/>
+<Tag tag="740" value="15"/>
+<Tag tag="741" value="16"/>
+<Tag tag="742" value="17"/>
+<Tag tag="743" value="18"/>
+<Tag tag="744" value="19"/>
+<Tag tag="745" value="20"/>
+<Tag tag="1355" value="1"/>
+<Tag tag="1360" value="6"/>
+<Tag tag="1377" value="1"/>
+<Tag tag="1462" value="1"/>
+<Tag tag="1494" value="6"/>
+<Tag tag="1556" value="1"/>
+<Tag tag="2452" value="1"/>
+<Tag tag="3326" value="2"/>
+</Player>
+<Player id="6" playerID="10" accountHi="0" accountLo="0" name="莉莉安·辛恩">
+<Tag tag="50" value="10"/>
+<Tag tag="202" value="2"/>
+<Tag tag="30" value="10"/>
+<Tag tag="27" value="46"/>
+<Tag tag="28" value="10"/>
+<Tag tag="29" value="4"/>
+<Tag tag="31" value="10"/>
+<Tag tag="49" value="1"/>
+<Tag tag="53" value="6"/>
+<Tag tag="232" value="1"/>
+<Tag tag="740" value="15"/>
+<Tag tag="741" value="16"/>
+<Tag tag="742" value="17"/>
+<Tag tag="743" value="18"/>
+<Tag tag="744" value="19"/>
+<Tag tag="745" value="20"/>
+<Tag tag="1349" value="1"/>
+<Tag tag="1521" value="1"/>
+<Tag tag="1556" value="1"/>
+<Tag tag="3326" value="2"/>
+</Player>
+<FullEntity id="27" cardID="TB_BaconShop_HERO_PH">
+<Tag tag="50" value="2"/>
+<Tag tag="202" value="3"/>
+<Tag tag="45" value="30"/>
+<Tag tag="49" value="1"/>
+<Tag tag="53" value="27"/>
+<Tag tag="2840" value="1"/>
+<Tag tag="3085" value="30"/>
+<Tag tag="3234" value="1"/>
+</FullEntity>
+<FullEntity id="28" cardID="TB_BaconShop_HERO_PH">
+<Tag tag="50" value="10"/>
+<Tag tag="202" value="3"/>
+<Tag tag="45" value="30"/>
+<Tag tag="49" value="6"/>
+<Tag tag="53" value="28"/>
+<Tag tag="410" value="1"/>
+<Tag tag="2840" value="1"/>
+<Tag tag="3085" value="30"/>
+<Tag tag="3234" value="1"/>
+</FullEntity>
+<FullEntity id="45" cardID="TB_BaconShop_HERO_KelThuzad">
+<Tag tag="50" value="2"/>
+<Tag tag="202" value="3"/>
+<Tag tag="49" value="6"/>
+<Tag tag="53" value="45"/>
+<Tag tag="247" value="1"/>
+<Tag tag="313" value="4"/>
+<Tag tag="1423" value="1"/>
+<Tag tag="2840" value="1"/>
+</FullEntity>
+<FullEntity id="46" cardID="TB_BaconShopBob">
+<Tag tag="50" value="10"/>
+<Tag tag="202" value="3"/>
+<Tag tag="45" value="60"/>
+<Tag tag="49" value="1"/>
+<Tag tag="53" value="46"/>
+<Tag tag="262" value="28"/>
+<Tag tag="313" value="4"/>
+<Tag tag="402" value="1"/>
+<Tag tag="682" value="1"/>
+<Tag tag="2039" value="57110"/>
+<Tag tag="2049" value="1"/>
+<Tag tag="2840" value="1"/>
+<Tag tag="3085" value="60"/>
+</FullEntity>
+<FullEntity id="47" cardID="TB_BaconShop_8P_PlayerE">
+<Tag tag="50" value="2"/>
+<Tag tag="202" value="6"/>
+<Tag tag="40" value="5"/>
+<Tag tag="49" value="1"/>
+<Tag tag="53" value="47"/>
+<Tag tag="313" value="5"/>
+<Tag tag="1724" value="1"/>
+<Tag tag="1816" value="1"/>
+<Tag tag="2882" value="1"/>
+</FullEntity>
+<FullEntity id="48" cardID="TB_BaconShop_3ofKindChecke">
+<Tag tag="50" value="2"/>
+<Tag tag="202" value="6"/>
+<Tag tag="40" value="5"/>
+<Tag tag="49" value="1"/>
+<Tag tag="53" value="48"/>
+<Tag tag="313" value="5"/>
+</FullEntity>
+<TagChange entity="4" tag="204" value="2"/>
+<TagChange entity="5" tag="17" value="1"/>
+<TagChange entity="6" tag="17" value="1"/>
+<Block entity="4" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" triggerKeyword="3169" ts="2024-12-01T09:10:19.498701+08:00"/>
+<Block entity="4" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2024-12-01T09:10:19.498701+08:00"/>
+<Block entity="4" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2024-12-01T09:10:19.498701+08:00"/>
+<Block entity="4" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2024-12-01T09:10:19.498701+08:00">
+<TagChange entity="6" tag="23" value="1"/>
+<TagChange entity="6" tag="24" value="1"/>
+<TagChange entity="5" tag="272" value="1"/>
+<TagChange entity="6" tag="272" value="1"/>
+<TagChange entity="5" tag="7" value="45"/>
+<TagChange entity="4" tag="198" value="4"/>
+<TagChange entity="4" tag="1356" value="1"/>
+<TagChange entity="4" tag="3111" value="1"/>
+<TagChange entity="4" tag="1614" value="1"/>
+<TagChange entity="4" tag="1613" value="1"/>
+<TagChange entity="4" tag="1402" value="1"/>
+<TagChange entity="4" tag="1424" value="1"/>
+<TagChange entity="4" tag="2636" value="1"/>
+<TagChange entity="4" tag="2935" value="1"/>
+<TagChange entity="4" tag="3196" value="20"/>
+<TagChange entity="4" tag="2089" value="15"/>
+<TagChange entity="4" tag="3403" value="1"/>
+<TagChange entity="4" tag="2867" value="20"/>
+</Block>
+<TagChange entity="4" tag="19" value="4"/>
+<Block entity="4" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2024-12-01T09:10:19.671786+08:00">
+<FullEntity id="77" cardID="TB_BaconShop_HERO_40">
+<Tag tag="50" value="2"/>
+<Tag tag="202" value="3"/>
+<Tag tag="45" value="30"/>
+<Tag tag="49" value="3"/>
+<Tag tag="53" value="77"/>
+<Tag tag="263" value="1"/>
+<Tag tag="273" value="1"/>
+<Tag tag="292" value="12"/>
+<Tag tag="313" value="4"/>
+<Tag tag="380" value="60450"/>
+<Tag tag="1491" value="1"/>
+<Tag tag="2130" value="77831"/>
+<Tag tag="2840" value="1"/>
+<Tag tag="3085" value="30"/>
+<Tag tag="3167" value="1"/>
+<Tag tag="3206" value="10"/>
+<Tag tag="3323" value="18632"/>
+</FullEntity>
+<FullEntity id="78" cardID="TB_BaconShop_HERO_14">
+<Tag tag="50" value="2"/>
+<Tag tag="202" value="3"/>
+<Tag tag="45" value="30"/>
+<Tag tag="49" value="3"/>
+<Tag tag="53" value="78"/>
+<Tag tag="263" value="2"/>
+<Tag tag="273" value="1"/>
+<Tag tag="313" value="4"/>
+<Tag tag="380" value="59863"/>
+<Tag tag="684" value="1"/>
+<Tag tag="2038" value="1"/>
+<Tag tag="2039" value="57924"/>
+<Tag tag="2840" value="1"/>
+<Tag tag="3085" value="30"/>
+</FullEntity>
+<TagChange entity="78" tag="292" value="15"/>
+<FullEntity id="79" cardID="TB_BaconShop_HERO_41">
+<Tag tag="50" value="2"/>
+<Tag tag="202" value="3"/>
+<Tag tag="45" value="30"/>
+<Tag tag="49" value="3"/>
+<Tag tag="53" value="79"/>
+<Tag tag="263" value="3"/>
+<Tag tag="273" value="1"/>
+<Tag tag="292" value="16"/>
+<Tag tag="313" value="4"/>
+<Tag tag="380" value="60216"/>
+<Tag tag="1491" value="1"/>
+<Tag tag="2130" value="77825"/>
+<Tag tag="2840" value="1"/>
+<Tag tag="3085" value="30"/>
+<Tag tag="3206" value="13"/>
+</FullEntity>
+<FullEntity id="80" cardID="TB_BaconShop_HERO_27">
+<Tag tag="50" value="2"/>
+<Tag tag="202" value="3"/>
+<Tag tag="45" value="30"/>
+<Tag tag="49" value="3"/>
+<Tag tag="53" value="80"/>
+<Tag tag="263" value="4"/>
+<Tag tag="273" value="1"/>
+<Tag tag="313" value="4"/>
+<Tag tag="380" value="57945"/>
+<Tag tag="2038" value="1"/>
+<Tag tag="2039" value="58435"/>
+<Tag tag="2840" value="1"/>
+<Tag tag="3085" value="30"/>
+</FullEntity>
+<TagChange entity="80" tag="292" value="18"/>
+<TagChange entity="78" tag="2348" value="76"/>
+<TagChange entity="80" tag="263" value="3"/>
+<TagChange entity="79" tag="263" value="2"/>
+<TagChange entity="78" tag="263" value="0"/>
+<TagChange entity="78" tag="49" value="6"/>
+<TagChange entity="78" tag="18" value="4"/>
+<TagChange entity="78" tag="49" value="3"/>
+<TagChange entity="78" tag="263" value="4"/>
+<TagChange entity="77" tag="2348" value="76"/>
+<TagChange entity="78" tag="263" value="3"/>
+<TagChange entity="80" tag="263" value="2"/>
+<TagChange entity="79" tag="263" value="1"/>
+<TagChange entity="77" tag="263" value="0"/>
+<TagChange entity="77" tag="49" value="6"/>
+<TagChange entity="77" tag="18" value="4"/>
+<TagChange entity="77" tag="49" value="3"/>
+<TagChange entity="77" tag="263" value="4"/>
+<TagChange entity="80" tag="2348" value="76"/>
+<TagChange entity="77" tag="263" value="3"/>
+<TagChange entity="78" tag="263" value="2"/>
+<TagChange entity="80" tag="263" value="0"/>
+<TagChange entity="80" tag="49" value="6"/>
+<TagChange entity="80" tag="18" value="4"/>
+<TagChange entity="80" tag="49" value="3"/>
+<TagChange entity="80" tag="263" value="4"/>
+<TagChange entity="79" tag="2348" value="76"/>
+<TagChange entity="80" tag="263" value="3"/>
+<TagChange entity="77" tag="263" value="2"/>
+<TagChange entity="78" tag="263" value="1"/>
+<TagChange entity="79" tag="263" value="0"/>
+<TagChange entity="79" tag="49" value="6"/>
+<TagChange entity="79" tag="18" value="4"/>
+<TagChange entity="79" tag="49" value="3"/>
+<TagChange entity="79" tag="263" value="4"/>
+<TagChange entity="5" tag="305" value="1"/>
+<Choices entity="5" id="1" taskList="7" type="1" min="1" max="1" source="4" ts="2024-12-01T09:10:19.686692+08:00">
+<Choice index="0" entity="78"/>
+<Choice index="1" entity="77"/>
+<Choice index="2" entity="80"/>
+<Choice index="3" entity="79"/>
+</Choices>
+</Block>
+<FullEntity id="100" cardID="BG20_HERO_101p">
+<Tag tag="50" value="10"/>
+<Tag tag="202" value="10"/>
+<Tag tag="49" value="6"/>
+<Tag tag="53" value="100"/>
+<Tag tag="313" value="97"/>
+<Tag tag="410" value="1"/>
+<Tag tag="1284" value="70957"/>
+<Tag tag="2169" value="6"/>
+<Tag tag="2376" value="70956"/>
+<Tag tag="2840" value="1"/>
+</FullEntity>
+<TagChange entity="100" tag="1565" value="97"/>
+<FullEntity id="101" cardID="BG20_HERO_101">
+<Tag tag="50" value="10"/>
+<Tag tag="202" value="3"/>
+<Tag tag="30" value="6"/>
+<Tag tag="45" value="30"/>
+<Tag tag="49" value="6"/>
+<Tag tag="53" value="101"/>
+<Tag tag="292" value="8"/>
+<Tag tag="313" value="75"/>
+<Tag tag="380" value="70957"/>
+<Tag tag="410" value="1"/>
+<Tag tag="1284" value="70956"/>
+<Tag tag="1373" value="1"/>
+<Tag tag="1491" value="1"/>
+<Tag tag="1628" value="1"/>
+<Tag tag="1646" value="100"/>
+<Tag tag="2130" value="77851"/>
+<Tag tag="2840" value="1"/>
+<Tag tag="2954" value="10"/>
+<Tag tag="3085" value="30"/>
+<Tag tag="3206" value="5"/>
+</FullEntity>
+<TagChange entity="101" tag="262" value="35"/>
+<TagChange entity="101" tag="2348" value="76"/>
+<TagChange entity="101" tag="18" value="16"/>
+<TagChange entity="101" tag="1565" value="75"/>
+<TagChange entity="101" tag="262" value="0"/>
+<FullEntity id="115" cardID="BG22_HERO_201p">
+<Tag tag="50" value="10"/>
+<Tag tag="202" value="10"/>
+<Tag tag="49" value="6"/>
+<Tag tag="53" value="115"/>
+<Tag tag="313" value="112"/>
+<Tag tag="410" value="1"/>
+<Tag tag="684" value="1"/>
+<Tag tag="1284" value="81570"/>
+<Tag tag="1342" value="1"/>
+<Tag tag="2169" value="5"/>
+<Tag tag="2376" value="81569"/>
+<Tag tag="2474" value="1"/>
+</FullEntity>
+<TagChange entity="115" tag="1565" value="112"/>
+<FullEntity id="116" cardID="BG22_HERO_201">
+<Tag tag="50" value="10"/>
+<Tag tag="202" value="3"/>
+<Tag tag="30" value="5"/>
+<Tag tag="45" value="30"/>
+<Tag tag="49" value="6"/>
+<Tag tag="53" value="116"/>
+<Tag tag="292" value="14"/>
+<Tag tag="313" value="86"/>
+<Tag tag="380" value="81570"/>
+<Tag tag="410" value="1"/>
+<Tag tag="1284" value="81569"/>
+<Tag tag="1373" value="1"/>
+<Tag tag="1491" value="1"/>
+<Tag tag="1628" value="1"/>
+<Tag tag="1646" value="115"/>
+<Tag tag="2130" value="82604"/>
+<Tag tag="2840" value="1"/>
+<Tag tag="3085" value="30"/>
+<Tag tag="3190" value="25"/>
+<Tag tag="3206" value="12"/>
+<Tag tag="3323" value="18629"/>
+</FullEntity>
+<TagChange entity="116" tag="262" value="33"/>
+<TagChange entity="116" tag="2348" value="77"/>
+<TagChange entity="116" tag="18" value="13"/>
+<TagChange entity="116" tag="1565" value="86"/>
+<TagChange entity="116" tag="262" value="0"/>
+<FullEntity id="130" cardID="TB_BaconShop_HP_049">
+<Tag tag="50" value="10"/>
+<Tag tag="202" value="10"/>
+<Tag tag="49" value="6"/>
+<Tag tag="53" value="130"/>
+<Tag tag="313" value="127"/>
+<Tag tag="410" value="1"/>
+<Tag tag="1284" value="60285"/>
+<Tag tag="2169" value="7"/>
+<Tag tag="2376" value="58044"/>
+<Tag tag="2840" value="1"/>
+</FullEntity>
+<TagChange entity="130" tag="1565" value="127"/>
+<FullEntity id="131" cardID="TB_BaconShop_HERO_25">
+<Tag tag="50" value="10"/>
+<Tag tag="202" value="3"/>
+<Tag tag="30" value="7"/>
+<Tag tag="45" value="30"/>
+<Tag tag="49" value="6"/>
+<Tag tag="53" value="131"/>
+<Tag tag="292" value="16"/>
+<Tag tag="313" value="94"/>
+<Tag tag="380" value="60285"/>
+<Tag tag="410" value="1"/>
+<Tag tag="1284" value="58044"/>
+<Tag tag="1373" value="1"/>
+<Tag tag="1491" value="1"/>
+<Tag tag="1593" value="1"/>
+<Tag tag="1628" value="1"/>
+<Tag tag="1646" value="130"/>
+<Tag tag="2130" value="77510"/>
+<Tag tag="2840" value="1"/>
+<Tag tag="3085" value="30"/>
+<Tag tag="3190" value="100"/>
+<Tag tag="3206" value="13"/>
+</FullEntity>
+<TagChange entity="131" tag="262" value="37"/>
+<TagChange entity="131" tag="2348" value="75"/>
+<TagChange entity="131" tag="18" value="19"/>
+<TagChange entity="131" tag="1565" value="94"/>
+<TagChange entity="131" tag="262" value="0"/>
+<FullEntity id="145" cardID="BG22_HERO_004p">
+<Tag tag="50" value="10"/>
+<Tag tag="202" value="10"/>
+<Tag tag="49" value="6"/>
+<Tag tag="53" value="145"/>
+<Tag tag="313" value="142"/>
+<Tag tag="410" value="1"/>
+<Tag tag="684" value="1"/>
+<Tag tag="1284" value="80539"/>
+<Tag tag="2169" value="4"/>
+<Tag tag="2376" value="79615"/>
+</FullEntity>
+<TagChange entity="145" tag="1565" value="142"/>
+<FullEntity id="146" cardID="BG22_HERO_004">
+<Tag tag="50" value="10"/>
+<Tag tag="202" value="3"/>
+<Tag tag="30" value="4"/>
+<Tag tag="45" value="30"/>
+<Tag tag="49" value="6"/>
+<Tag tag="53" value="146"/>
+<Tag tag="292" value="15"/>
+<Tag tag="313" value="83"/>
+<Tag tag="380" value="80539"/>
+<Tag tag="410" value="1"/>
+<Tag tag="1284" value="79615"/>
+<Tag tag="1373" value="1"/>
+<Tag tag="1491" value="1"/>
+<Tag tag="1628" value="1"/>
+<Tag tag="1646" value="145"/>
+<Tag tag="2130" value="77888"/>
+<Tag tag="2840" value="1"/>
+<Tag tag="3085" value="30"/>
+<Tag tag="3190" value="100"/>
+<Tag tag="3206" value="13"/>
+</FullEntity>
+<TagChange entity="146" tag="262" value="31"/>
+<TagChange entity="146" tag="2348" value="36"/>
+<TagChange entity="146" tag="18" value="10"/>
+<TagChange entity="146" tag="1565" value="83"/>
+<TagChange entity="146" tag="262" value="0"/>
+<FullEntity id="160" cardID="BG23_HERO_304p">
+<Tag tag="50" value="10"/>
+<Tag tag="202" value="10"/>
+<Tag tag="49" value="6"/>
+<Tag tag="53" value="160"/>
+<Tag tag="313" value="157"/>
+<Tag tag="410" value="1"/>
+<Tag tag="1284" value="85126"/>
+<Tag tag="1342" value="1"/>
+<Tag tag="2169" value="8"/>
+<Tag tag="2376" value="85125"/>
+<Tag tag="2840" value="1"/>
+</FullEntity>
+<TagChange entity="160" tag="1565" value="157"/>
+<FullEntity id="161" cardID="BG23_HERO_304">
+<Tag tag="50" value="10"/>
+<Tag tag="202" value="3"/>
+<Tag tag="30" value="8"/>
+<Tag tag="45" value="30"/>
+<Tag tag="49" value="6"/>
+<Tag tag="53" value="161"/>
+<Tag tag="292" value="13"/>
+<Tag tag="313" value="73"/>
+<Tag tag="380" value="85126"/>
+<Tag tag="410" value="1"/>
+<Tag tag="1284" value="85125"/>
+<Tag tag="1373" value="1"/>
+<Tag tag="1491" value="1"/>
+<Tag tag="1628" value="1"/>
+<Tag tag="1646" value="160"/>
+<Tag tag="2130" value="101458"/>
+<Tag tag="2272" value="1"/>
+<Tag tag="2840" value="1"/>
+<Tag tag="3085" value="30"/>
+<Tag tag="3190" value="100"/>
+<Tag tag="3206" value="10"/>
+</FullEntity>
+<TagChange entity="161" tag="262" value="39"/>
+<TagChange entity="161" tag="2348" value="29"/>
+<TagChange entity="161" tag="18" value="22"/>
+<TagChange entity="161" tag="1565" value="73"/>
+<TagChange entity="161" tag="262" value="0"/>
+<FullEntity id="175" cardID="TB_BaconShop_HP_101">
+<Tag tag="50" value="10"/>
+<Tag tag="202" value="10"/>
+<Tag tag="49" value="6"/>
+<Tag tag="53" value="175"/>
+<Tag tag="313" value="172"/>
+<Tag tag="410" value="1"/>
+<Tag tag="684" value="1"/>
+<Tag tag="1284" value="64481"/>
+<Tag tag="2169" value="3"/>
+<Tag tag="2376" value="64480"/>
+</FullEntity>
+<TagChange entity="175" tag="1565" value="172"/>
+<FullEntity id="176" cardID="TB_BaconShop_HERO_90">
+<Tag tag="50" value="10"/>
+<Tag tag="202" value="3"/>
+<Tag tag="30" value="3"/>
+<Tag tag="45" value="30"/>
+<Tag tag="49" value="6"/>
+<Tag tag="53" value="176"/>
+<Tag tag="292" value="10"/>
+<Tag tag="313" value="96"/>
+<Tag tag="380" value="64481"/>
+<Tag tag="410" value="1"/>
+<Tag tag="1284" value="64480"/>
+<Tag tag="1373" value="1"/>
+<Tag tag="1491" value="1"/>
+<Tag tag="1628" value="1"/>
+<Tag tag="1646" value="175"/>
+<Tag tag="2130" value="77829"/>
+<Tag tag="2840" value="1"/>
+<Tag tag="3085" value="30"/>
+<Tag tag="3190" value="100"/>
+<Tag tag="3206" value="8"/>
+</FullEntity>
+<TagChange entity="176" tag="262" value="29"/>
+<TagChange entity="176" tag="2348" value="40"/>
+<TagChange entity="176" tag="18" value="7"/>
+<TagChange entity="176" tag="1565" value="96"/>
+<TagChange entity="176" tag="262" value="0"/>
+<FullEntity id="188" cardID="TB_BaconShop_HP_048">
+<Tag tag="50" value="10"/>
+<Tag tag="202" value="10"/>
+<Tag tag="49" value="6"/>
+<Tag tag="53" value="188"/>
+<Tag tag="313" value="187"/>
+<Tag tag="410" value="1"/>
+<Tag tag="451" value="4"/>
+<Tag tag="684" value="1"/>
+<Tag tag="1284" value="60218"/>
+<Tag tag="2169" value="1"/>
+<Tag tag="2376" value="60214"/>
+</FullEntity>
+<TagChange entity="188" tag="1565" value="187"/>
+<FullEntity id="189" cardID="TB_BaconShop_HERO_43">
+<Tag tag="50" value="10"/>
+<Tag tag="202" value="3"/>
+<Tag tag="30" value="1"/>
+<Tag tag="45" value="30"/>
+<Tag tag="49" value="6"/>
+<Tag tag="53" value="189"/>
+<Tag tag="292" value="14"/>
+<Tag tag="313" value="89"/>
+<Tag tag="380" value="60218"/>
+<Tag tag="410" value="1"/>
+<Tag tag="1284" value="60214"/>
+<Tag tag="1373" value="1"/>
+<Tag tag="1491" value="1"/>
+<Tag tag="1628" value="1"/>
+<Tag tag="1646" value="188"/>
+<Tag tag="2130" value="77784"/>
+<Tag tag="2840" value="1"/>
+<Tag tag="3085" value="30"/>
+<Tag tag="3206" value="11"/>
+</FullEntity>
+<TagChange entity="189" tag="262" value="25"/>
+<TagChange entity="189" tag="2348" value="75"/>
+<TagChange entity="189" tag="18" value="1"/>
+<TagChange entity="189" tag="1565" value="89"/>
+<TagChange entity="189" tag="262" value="0"/>
+<SendChoices id="1" type="1" ts="2024-12-01T09:10:54.755934+08:00">
+<Choice index="0" entity="77"/>
+</SendChoices>
+<ChosenEntities entity="5" id="1" ts="2024-12-01T09:10:54.986144+08:00">
+<Choice index="0" entity="77"/>
+</ChosenEntities>
+<TagChange entity="5" tag="305" value="2"/>
+<Block entity="5" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="7" ts="2024-12-01T09:10:55.036094+08:00">
+<TagChange entity="79" tag="263" value="3"/>
+<TagChange entity="80" tag="263" value="2"/>
+<TagChange entity="77" tag="263" value="1"/>
+<TagChange entity="78" tag="263" value="0"/>
+<TagChange entity="78" tag="49" value="6"/>
+<TagChange entity="78" tag="18" value="5"/>
+<TagChange entity="78" tag="49" value="4"/>
+<TagChange entity="79" tag="263" value="2"/>
+<TagChange entity="80" tag="263" value="0"/>
+<TagChange entity="80" tag="49" value="6"/>
+<TagChange entity="80" tag="18" value="5"/>
+<TagChange entity="80" tag="49" value="4"/>
+<TagChange entity="79" tag="263" value="0"/>
+<TagChange entity="79" tag="49" value="6"/>
+<TagChange entity="79" tag="18" value="5"/>
+<TagChange entity="79" tag="49" value="4"/>
+<TagChange entity="77" tag="263" value="0"/>
+<TagChange entity="77" tag="1556" value="0"/>
+<TagChange entity="77" tag="1556" value="1"/>
+<TagChange entity="77" tag="49" value="1"/>
+<TagChange entity="77" tag="262" value="27"/>
+<TagChange entity="27" tag="49" value="6"/>
+<TagChange entity="27" tag="410" value="1"/>
+<TagChange entity="5" tag="27" value="77"/>
+<TagChange entity="77" tag="30" value="2"/>
+<TagChange entity="77" tag="1373" value="1"/>
+<FullEntity id="202" cardID="TB_BaconShop_HP_057">
+<Tag tag="50" value="2"/>
+<Tag tag="202" value="10"/>
+<Tag tag="49" value="1"/>
+<Tag tag="53" value="202"/>
+<Tag tag="313" value="5"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="2376" value="60211"/>
+</FullEntity>
+<TagChange entity="5" tag="305" value="3"/>
+</Block>
+<Block entity="5" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="8" ts="2024-12-01T09:10:55.036094+08:00">
+<TagChange entity="5" tag="305" value="4"/>
+<TagChange entity="4" tag="198" value="6"/>
+</Block>
+<Block entity="5" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="14" ts="2024-12-01T09:10:55.487387+08:00"/>
+<Block entity="6" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="14" ts="2024-12-01T09:10:55.487387+08:00"/>
+<TagChange entity="4" tag="19" value="6"/>
+<Block entity="6" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2024-12-01T09:10:55.487387+08:00">
+<TagChange entity="4" tag="198" value="17"/>
+</Block>
+<TagChange entity="4" tag="19" value="17"/>
+<Block entity="4" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2024-12-01T09:10:55.487387+08:00">
+<TagChange entity="4" tag="19" value="12"/>
+</Block>
+<Block entity="6" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2024-12-01T09:10:55.487387+08:00">
+<TagChange entity="4" tag="198" value="9"/>
+</Block>
+<Block entity="47" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="33" ts="2024-12-01T09:10:55.487387+08:00"/>
+<Block entity="5" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2024-12-01T09:10:55.487387+08:00"/>
+<Block entity="6" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2024-12-01T09:10:55.487387+08:00">
+<TagChange entity="4" tag="198" value="16"/>
+</Block>
+<Block entity="6" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2024-12-01T09:10:55.487387+08:00"/>
+<TagChange entity="4" tag="19" value="16"/>
+<Block entity="5" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2024-12-01T09:10:55.487387+08:00"/>
+<Block entity="6" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2024-12-01T09:10:55.487387+08:00">
+<TagChange entity="4" tag="198" value="13"/>
+</Block>
+<TagChange entity="4" tag="19" value="13"/>
+<Block entity="4" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2024-12-01T09:10:55.487387+08:00">
+<TagChange entity="6" tag="23" value="0"/>
+<TagChange entity="5" tag="23" value="1"/>
+<TagChange entity="4" tag="20" value="1"/>
+<TagChange entity="5" tag="20" value="1"/>
+<TagChange entity="4" tag="198" value="6"/>
+</Block>
+<TagChange entity="4" tag="19" value="6"/>
+<Block entity="5" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2024-12-01T09:10:55.487387+08:00">
+<TagChange entity="4" tag="198" value="17"/>
+</Block>
+<Block entity="47" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="30" ts="2024-12-01T09:10:55.487387+08:00">
+<FullEntity id="217">
+<Tag tag="49" value="6"/>
+<Tag tag="50" value="2"/>
+<Tag tag="53" value="217"/>
+</FullEntity>
+<ShowEntity entity="217" cardID="TB_BaconShop_HP_038e">
+<Tag tag="50" value="2"/>
+<Tag tag="202" value="6"/>
+<Tag tag="40" value="5"/>
+<Tag tag="49" value="6"/>
+<Tag tag="53" value="217"/>
+<Tag tag="313" value="47"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1068" value="0"/>
+<Tag tag="1284" value="57980"/>
+<Tag tag="2882" value="1"/>
+</ShowEntity>
+<TagChange entity="217" tag="49" value="1"/>
+<TagChange entity="5" tag="18" value="47"/>
+</Block>
+<Block entity="47" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="37" ts="2024-12-01T09:10:55.487387+08:00">
+<FullEntity id="218">
+<Tag tag="49" value="6"/>
+<Tag tag="50" value="2"/>
+<Tag tag="53" value="218"/>
+</FullEntity>
+<ShowEntity entity="218" cardID="BG29_813e">
+<Tag tag="50" value="2"/>
+<Tag tag="202" value="6"/>
+<Tag tag="40" value="5"/>
+<Tag tag="49" value="6"/>
+<Tag tag="53" value="218"/>
+<Tag tag="313" value="47"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1068" value="0"/>
+<Tag tag="1284" value="57980"/>
+<Tag tag="2860" value="1"/>
+</ShowEntity>
+<TagChange entity="218" tag="49" value="1"/>
+</Block>
+<TagChange entity="4" tag="19" value="17"/>
+<Block entity="47" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2024-12-01T09:10:55.487387+08:00"/>
+<Block entity="47" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="2" ts="2024-12-01T09:10:55.487387+08:00">
+<TagChange entity="77" tag="1360" value="6"/>
+<TagChange entity="146" tag="1373" value="2"/>
+<TagChange entity="116" tag="1373" value="3"/>
+<TagChange entity="189" tag="1373" value="4"/>
+<TagChange entity="161" tag="1373" value="5"/>
+<TagChange entity="77" tag="1373" value="6"/>
+<TagChange entity="176" tag="1373" value="7"/>
+<TagChange entity="101" tag="1373" value="8"/>
+<FullEntity id="233" cardID="TB_BaconShop_UpdateDmgCap">
+<Tag tag="50" value="2"/>
+<Tag tag="202" value="5"/>
+<Tag tag="49" value="6"/>
+<Tag tag="53" value="233"/>
+<Tag tag="313" value="47"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1200" value="1"/>
+<Tag tag="1284" value="57980"/>
+</FullEntity>
+<TagChange entity="233" tag="49" value="1"/>
+<MetaData meta="7" data="0" infoCount="1">
+<Info index="0" entity="233"/>
+</MetaData>
+<Block entity="233" type="3" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2024-12-01T09:10:55.602386+08:00"/>
+<TagChange entity="233" tag="1458" value="0"/>
+<TagChange entity="233" tag="49" value="4"/>
+</Block>
+<Block entity="47" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="29" ts="2024-12-01T09:10:55.602386+08:00"/>
+<Block entity="47" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="35" ts="2024-12-01T09:10:55.602386+08:00"/>
+<Block entity="217" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" triggerKeyword="2882" ts="2024-12-01T09:10:55.602386+08:00"/>
+<Block entity="5" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2024-12-01T09:10:55.602386+08:00">
+<TagChange entity="4" tag="198" value="9"/>
+</Block>
+<Block entity="47" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="7" ts="2024-12-01T09:10:55.602386+08:00"/>
+<TagChange entity="189" tag="1373" value="3"/>
+<TagChange entity="116" tag="1373" value="4"/>
+<TagChange entity="116" tag="1373" value="3"/>
+<TagChange entity="189" tag="1373" value="4"/>
+<TagChange entity="4" tag="19" value="9"/>
+<Block entity="4" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2024-12-01T09:10:55.736437+08:00">
+<TagChange entity="189" tag="1373" value="3"/>
+<TagChange entity="116" tag="1373" value="4"/>
+</Block>
+<Block entity="5" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2024-12-01T09:10:55.785553+08:00">
+<TagChange entity="4" tag="198" value="10"/>
+</Block>
+<Block entity="47" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2024-12-01T09:10:55.785553+08:00">
+<TagChange entity="77" tag="1377" value="1"/>
+<TagChange entity="77" tag="1494" value="6"/>
+<TagChange entity="5" tag="176" value="99"/>
+<TagChange entity="5" tag="26" value="3"/>
+<FullEntity id="241" cardID="TB_BaconShop_8p_Reroll_Button">
+<Tag tag="50" value="2"/>
+<Tag tag="202" value="12"/>
+<Tag tag="49" value="1"/>
+<Tag tag="53" value="241"/>
+<Tag tag="313" value="47"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1284" value="57980"/>
+<Tag tag="2840" value="1"/>
+</FullEntity>
+<FullEntity id="242" cardID="TB_BaconShopLockAll_Button">
+<Tag tag="50" value="2"/>
+<Tag tag="202" value="12"/>
+<Tag tag="49" value="1"/>
+<Tag tag="53" value="242"/>
+<Tag tag="313" value="47"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1270" value="1"/>
+<Tag tag="1284" value="57980"/>
+<Tag tag="2840" value="1"/>
+</FullEntity>
+<FullEntity id="243" cardID="TB_BaconShop_DragSell">
+<Tag tag="50" value="2"/>
+<Tag tag="202" value="22"/>
+<Tag tag="49" value="1"/>
+<Tag tag="53" value="243"/>
+<Tag tag="313" value="47"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1284" value="57980"/>
+<Tag tag="2840" value="1"/>
+</FullEntity>
+<FullEntity id="244" cardID="TB_BaconShopTechUp02_Button">
+<Tag tag="50" value="2"/>
+<Tag tag="202" value="12"/>
+<Tag tag="49" value="1"/>
+<Tag tag="53" value="244"/>
+<Tag tag="313" value="47"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1284" value="57980"/>
+<Tag tag="2840" value="1"/>
+</FullEntity>
+<FullEntity id="245">
+<Tag tag="49" value="6"/>
+<Tag tag="50" value="2"/>
+<Tag tag="53" value="245"/>
+</FullEntity>
+<ShowEntity entity="245" cardID="TB_BaconShop_FXWatcher">
+<Tag tag="50" value="2"/>
+<Tag tag="202" value="6"/>
+<Tag tag="40" value="5"/>
+<Tag tag="49" value="6"/>
+<Tag tag="53" value="245"/>
+<Tag tag="313" value="47"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1068" value="0"/>
+<Tag tag="1284" value="57980"/>
+</ShowEntity>
+<TagChange entity="245" tag="49" value="1"/>
+<FullEntity id="246" cardID="BG30_Trinket_1st">
+<Tag tag="50" value="2"/>
+<Tag tag="202" value="44"/>
+<Tag tag="49" value="1"/>
+<Tag tag="53" value="246"/>
+<Tag tag="313" value="47"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1284" value="57980"/>
+<Tag tag="1635" value="11"/>
+<Tag tag="2921" value="1"/>
+<Tag tag="3169" value="1"/>
+<Tag tag="3565" value="1"/>
+<Tag tag="3639" value="1"/>
+<Tag tag="3705" value="1"/>
+<Tag tag="3738" value="5"/>
+</FullEntity>
+<FullEntity id="247" cardID="BG30_Trinket_2nd">
+<Tag tag="50" value="2"/>
+<Tag tag="202" value="44"/>
+<Tag tag="49" value="1"/>
+<Tag tag="53" value="247"/>
+<Tag tag="313" value="47"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1284" value="57980"/>
+<Tag tag="1635" value="12"/>
+<Tag tag="2921" value="2"/>
+<Tag tag="3565" value="1"/>
+<Tag tag="3639" value="1"/>
+<Tag tag="3705" value="1"/>
+<Tag tag="3738" value="8"/>
+</FullEntity>
+</Block>
+<Block entity="47" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="1" ts="2024-12-01T09:10:55.785553+08:00">
+<TagChange entity="4" tag="6" value="5"/>
+<TagChange entity="4" tag="1467" value="1"/>
+<FullEntity id="248" cardID="BGS_061">
+<Tag tag="50" value="2"/>
+<Tag tag="202" value="4"/>
+<Tag tag="479" value="3"/>
+<Tag tag="47" value="3"/>
+<Tag tag="45" value="1"/>
+<Tag tag="49" value="6"/>
+<Tag tag="53" value="248"/>
+<Tag tag="217" value="1"/>
+<Tag tag="313" value="47"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1284" value="57980"/>
+<Tag tag="1429" value="62262"/>
+<Tag tag="1596" value="1"/>
+<Tag tag="2840" value="1"/>
+<Tag tag="3085" value="1"/>
+</FullEntity>
+<FullEntity id="249" cardID="BG20_100">
+<Tag tag="50" value="2"/>
+<Tag tag="202" value="4"/>
+<Tag tag="479" value="3"/>
+<Tag tag="47" value="3"/>
+<Tag tag="45" value="1"/>
+<Tag tag="49" value="6"/>
+<Tag tag="53" value="249"/>
+<Tag tag="313" value="47"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1284" value="57980"/>
+<Tag tag="1429" value="70150"/>
+<Tag tag="1845" value="1"/>
+<Tag tag="2840" value="1"/>
+<Tag tag="3085" value="1"/>
+</FullEntity>
+<FullEntity id="250" cardID="BG26_135">
+<Tag tag="50" value="2"/>
+<Tag tag="202" value="4"/>
+<Tag tag="479" value="3"/>
+<Tag tag="47" value="3"/>
+<Tag tag="45" value="1"/>
+<Tag tag="49" value="6"/>
+<Tag tag="53" value="250"/>
+<Tag tag="313" value="47"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1284" value="57980"/>
+<Tag tag="1429" value="98502"/>
+<Tag tag="1596" value="1"/>
+<Tag tag="2840" value="1"/>
+<Tag tag="3085" value="1"/>
+</FullEntity>
+<FullEntity id="251" cardID="BG28_966">
+<Tag tag="50" value="2"/>
+<Tag tag="202" value="42"/>
+<Tag tag="49" value="6"/>
+<Tag tag="53" value="251"/>
+<Tag tag="313" value="47"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1284" value="57980"/>
+<Tag tag="1635" value="9"/>
+<Tag tag="2840" value="1"/>
+<Tag tag="3081" value="1"/>
+</FullEntity>
+<SubSpell spellPrefabGuid="Bacon_MinionSwap_OverrideSpawnIn_Super:69498edad9bb7594e89a3b5e0e41f026" source="47" targetCount="0" ts="2024-12-01T09:10:55.785553+08:00">
+<FullEntity id="252" cardID="BGS_061">
+<Tag tag="50" value="10"/>
+<Tag tag="202" value="4"/>
+<Tag tag="1196" value="1"/>
+<Tag tag="479" value="3"/>
+<Tag tag="47" value="3"/>
+<Tag tag="45" value="1"/>
+<Tag tag="49" value="1"/>
+<Tag tag="53" value="252"/>
+<Tag tag="217" value="1"/>
+<Tag tag="263" value="1"/>
+<Tag tag="313" value="47"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1254" value="47"/>
+<Tag tag="1284" value="57980"/>
+<Tag tag="1429" value="62262"/>
+<Tag tag="1596" value="1"/>
+<Tag tag="2840" value="1"/>
+<Tag tag="3085" value="1"/>
+</FullEntity>
+<FullEntity id="253" cardID="TB_BaconShop_DragBuy">
+<Tag tag="50" value="2"/>
+<Tag tag="202" value="22"/>
+<Tag tag="49" value="1"/>
+<Tag tag="53" value="253"/>
+<Tag tag="313" value="47"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1284" value="57980"/>
+<Tag tag="2840" value="1"/>
+</FullEntity>
+<TagChange entity="252" tag="2458" value="1"/>
+<TagChange entity="253" tag="48" value="3"/>
+<TagChange entity="252" tag="227" value="1"/>
+<TagChange entity="248" tag="49" value="5"/>
+<TagChange entity="248" tag="2840" value="0"/>
+<TagChange entity="248" tag="48" value="0"/>
+<TagChange entity="248" tag="47" value="0"/>
+<TagChange entity="248" tag="45" value="0"/>
+<TagChange entity="248" tag="217" value="0"/>
+<TagChange entity="248" tag="1429" value="0"/>
+<TagChange entity="248" tag="1456" value="0"/>
+<TagChange entity="248" tag="1458" value="0"/>
+<TagChange entity="248" tag="1556" value="0"/>
+<TagChange entity="248" tag="48" value="1"/>
+<TagChange entity="248" tag="47" value="3"/>
+<TagChange entity="248" tag="45" value="1"/>
+<TagChange entity="248" tag="217" value="1"/>
+<TagChange entity="248" tag="1429" value="62262"/>
+<TagChange entity="248" tag="1456" value="1"/>
+<TagChange entity="248" tag="2840" value="1"/>
+<FullEntity id="254" cardID="BG20_100">
+<Tag tag="50" value="10"/>
+<Tag tag="202" value="4"/>
+<Tag tag="1196" value="1"/>
+<Tag tag="479" value="3"/>
+<Tag tag="47" value="3"/>
+<Tag tag="45" value="1"/>
+<Tag tag="49" value="1"/>
+<Tag tag="53" value="254"/>
+<Tag tag="263" value="2"/>
+<Tag tag="313" value="47"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1254" value="47"/>
+<Tag tag="1284" value="57980"/>
+<Tag tag="1429" value="70150"/>
+<Tag tag="1845" value="1"/>
+<Tag tag="2840" value="1"/>
+<Tag tag="3085" value="1"/>
+</FullEntity>
+<FullEntity id="255" cardID="TB_BaconShop_DragBuy">
+<Tag tag="50" value="2"/>
+<Tag tag="202" value="22"/>
+<Tag tag="49" value="1"/>
+<Tag tag="53" value="255"/>
+<Tag tag="313" value="47"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1284" value="57980"/>
+<Tag tag="2840" value="1"/>
+</FullEntity>
+<TagChange entity="254" tag="2458" value="1"/>
+<TagChange entity="255" tag="48" value="3"/>
+<TagChange entity="254" tag="227" value="1"/>
+<TagChange entity="249" tag="49" value="5"/>
+<TagChange entity="249" tag="2840" value="0"/>
+<TagChange entity="249" tag="48" value="0"/>
+<TagChange entity="249" tag="47" value="0"/>
+<TagChange entity="249" tag="45" value="0"/>
+<TagChange entity="249" tag="218" value="0"/>
+<TagChange entity="249" tag="1429" value="0"/>
+<TagChange entity="249" tag="1456" value="0"/>
+<TagChange entity="249" tag="1458" value="0"/>
+<TagChange entity="249" tag="1556" value="0"/>
+<TagChange entity="249" tag="48" value="1"/>
+<TagChange entity="249" tag="47" value="3"/>
+<TagChange entity="249" tag="45" value="1"/>
+<TagChange entity="249" tag="218" value="1"/>
+<TagChange entity="249" tag="1429" value="70150"/>
+<TagChange entity="249" tag="1456" value="1"/>
+<TagChange entity="249" tag="2840" value="1"/>
+<FullEntity id="256" cardID="BG26_135">
+<Tag tag="50" value="10"/>
+<Tag tag="202" value="4"/>
+<Tag tag="1196" value="1"/>
+<Tag tag="479" value="3"/>
+<Tag tag="47" value="3"/>
+<Tag tag="45" value="1"/>
+<Tag tag="49" value="1"/>
+<Tag tag="53" value="256"/>
+<Tag tag="263" value="3"/>
+<Tag tag="313" value="47"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1254" value="47"/>
+<Tag tag="1284" value="57980"/>
+<Tag tag="1429" value="98502"/>
+<Tag tag="1596" value="1"/>
+<Tag tag="2840" value="1"/>
+<Tag tag="3085" value="1"/>
+</FullEntity>
+<FullEntity id="257" cardID="TB_BaconShop_DragBuy">
+<Tag tag="50" value="2"/>
+<Tag tag="202" value="22"/>
+<Tag tag="49" value="1"/>
+<Tag tag="53" value="257"/>
+<Tag tag="313" value="47"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1284" value="57980"/>
+<Tag tag="2840" value="1"/>
+</FullEntity>
+<TagChange entity="256" tag="2458" value="1"/>
+<TagChange entity="257" tag="48" value="3"/>
+<TagChange entity="256" tag="227" value="1"/>
+<TagChange entity="250" tag="49" value="5"/>
+<TagChange entity="250" tag="2840" value="0"/>
+<TagChange entity="250" tag="48" value="0"/>
+<TagChange entity="250" tag="47" value="0"/>
+<TagChange entity="250" tag="45" value="0"/>
+<TagChange entity="250" tag="218" value="0"/>
+<TagChange entity="250" tag="1429" value="0"/>
+<TagChange entity="250" tag="1456" value="0"/>
+<TagChange entity="250" tag="1458" value="0"/>
+<TagChange entity="250" tag="1556" value="0"/>
+<TagChange entity="250" tag="48" value="1"/>
+<TagChange entity="250" tag="47" value="3"/>
+<TagChange entity="250" tag="45" value="1"/>
+<TagChange entity="250" tag="218" value="1"/>
+<TagChange entity="250" tag="1429" value="98502"/>
+<TagChange entity="250" tag="1456" value="1"/>
+<TagChange entity="250" tag="2840" value="1"/>
+<FullEntity id="258" cardID="BG28_966">
+<Tag tag="50" value="10"/>
+<Tag tag="202" value="42"/>
+<Tag tag="49" value="1"/>
+<Tag tag="53" value="258"/>
+<Tag tag="263" value="4"/>
+<Tag tag="313" value="47"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1284" value="57980"/>
+<Tag tag="1635" value="9"/>
+<Tag tag="2840" value="1"/>
+<Tag tag="3081" value="1"/>
+</FullEntity>
+<TagChange entity="258" tag="227" value="1"/>
+<TagChange entity="251" tag="49" value="5"/>
+<TagChange entity="251" tag="2840" value="0"/>
+<TagChange entity="251" tag="48" value="0"/>
+<TagChange entity="251" tag="1458" value="0"/>
+<TagChange entity="251" tag="1556" value="0"/>
+<TagChange entity="251" tag="1635" value="0"/>
+<TagChange entity="251" tag="48" value="1"/>
+<TagChange entity="251" tag="1635" value="9"/>
+<TagChange entity="251" tag="2840" value="1"/>
+</SubSpell>
+<TagChange entity="4" tag="1458" value="0"/>
+<TagChange entity="4" tag="6" value="111"/>
+<Block entity="241" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2024-12-01T09:10:55.785553+08:00"/>
+</Block>
+<Block entity="202" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" triggerKeyword="32" ts="2024-12-01T09:10:55.785553+08:00">
+<MetaData meta="19" data="2750" infoCount="1">
+<Info index="0" entity="202"/>
+</MetaData>
+<FullEntity id="259" cardID="BG23_HERO_305p">
+<Tag tag="50" value="2"/>
+<Tag tag="202" value="10"/>
+<Tag tag="49" value="6"/>
+<Tag tag="53" value="259"/>
+<Tag tag="262" value="202"/>
+<Tag tag="313" value="202"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1284" value="60450"/>
+<Tag tag="2376" value="86291"/>
+<Tag tag="2840" value="1"/>
+</FullEntity>
+<FullEntity id="260" cardID="BG20_HERO_280p5">
+<Tag tag="50" value="2"/>
+<Tag tag="202" value="10"/>
+<Tag tag="49" value="6"/>
+<Tag tag="53" value="260"/>
+<Tag tag="262" value="202"/>
+<Tag tag="313" value="202"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1284" value="60450"/>
+<Tag tag="2376" value="74631"/>
+<Tag tag="3047" value="1"/>
+</FullEntity>
+<FullEntity id="261" cardID="BG28_HERO_800p">
+<Tag tag="50" value="2"/>
+<Tag tag="202" value="10"/>
+<Tag tag="49" value="6"/>
+<Tag tag="53" value="261"/>
+<Tag tag="262" value="202"/>
+<Tag tag="313" value="202"/>
+<Tag tag="684" value="1"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1284" value="60450"/>
+<Tag tag="2376" value="105431"/>
+</FullEntity>
+<FullEntity id="262" cardID="TB_BaconShop_DragBuy_Spell">
+<Tag tag="50" value="2"/>
+<Tag tag="202" value="22"/>
+<Tag tag="49" value="1"/>
+<Tag tag="53" value="262"/>
+<Tag tag="313" value="47"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1284" value="57980"/>
+<Tag tag="2840" value="1"/>
+</FullEntity>
+<TagChange entity="258" tag="2458" value="1"/>
+<TagChange entity="262" tag="48" value="1"/>
+<Choices entity="5" id="2" taskList="80" type="2" min="1" max="1" source="202" ts="2024-12-01T09:10:55.802554+08:00">
+<Choice index="0" entity="259"/>
+<Choice index="1" entity="260"/>
+<Choice index="2" entity="261"/>
+</Choices>
+<TagChange entity="116" tag="1373" value="3"/>
+<TagChange entity="189" tag="1373" value="4"/>
+<TagChange entity="146" tag="1377" value="1"/>
+<TagChange entity="146" tag="1494" value="6"/>
+<TagChange entity="189" tag="1373" value="3"/>
+<TagChange entity="116" tag="1373" value="4"/>
+<TagChange entity="116" tag="1377" value="1"/>
+<TagChange entity="116" tag="1494" value="6"/>
+<TagChange entity="116" tag="1373" value="3"/>
+<TagChange entity="189" tag="1373" value="4"/>
+<TagChange entity="189" tag="1377" value="1"/>
+<TagChange entity="189" tag="1494" value="6"/>
+<TagChange entity="189" tag="1373" value="3"/>
+<TagChange entity="116" tag="1373" value="4"/>
+<TagChange entity="131" tag="1377" value="1"/>
+<TagChange entity="131" tag="1494" value="6"/>
+<TagChange entity="176" tag="1377" value="1"/>
+<TagChange entity="176" tag="1494" value="6"/>
+<TagChange entity="161" tag="1377" value="1"/>
+<TagChange entity="161" tag="1494" value="6"/>
+<TagChange entity="101" tag="1377" value="1"/>
+<TagChange entity="101" tag="1494" value="6"/>
+<TagChange entity="131" tag="292" value="15"/>
+<TagChange entity="146" tag="292" value="14"/>
+<SendChoices id="2" type="2" ts="2024-12-01T09:11:26.960227+08:00">
+<Choice index="0" entity="259"/>
+</SendChoices>
+<ChosenEntities entity="5" id="2" ts="2024-12-01T09:11:27.242332+08:00">
+<Choice index="0" entity="259"/>
+</ChosenEntities>
+<Block entity="5" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="14" ts="2024-12-01T09:11:27.425393+08:00"/>
+<Block entity="6" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="14" ts="2024-12-01T09:11:27.425393+08:00"/>
+<TagChange entity="260" tag="18" value="202"/>
+<TagChange entity="260" tag="49" value="4"/>
+<TagChange entity="261" tag="18" value="202"/>
+<TagChange entity="261" tag="49" value="4"/>
+<TagChange entity="259" tag="49" value="5"/>
+<TagChange entity="259" tag="2840" value="0"/>
+<TagChange entity="259" tag="48" value="0"/>
+<TagChange entity="259" tag="262" value="0"/>
+<TagChange entity="259" tag="1556" value="0"/>
+<TagChange entity="259" tag="2376" value="0"/>
+<TagChange entity="259" tag="48" value="11"/>
+<TagChange entity="259" tag="2376" value="86291"/>
+<TagChange entity="259" tag="2840" value="1"/>
+<FullEntity id="458" cardID="BG23_HERO_305p">
+<Tag tag="50" value="2"/>
+<Tag tag="202" value="10"/>
+<Tag tag="49" value="1"/>
+<Tag tag="53" value="458"/>
+<Tag tag="262" value="202"/>
+<Tag tag="313" value="202"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1284" value="60450"/>
+<Tag tag="2376" value="86291"/>
+<Tag tag="2840" value="1"/>
+</FullEntity>
+<TagChange entity="202" tag="1458" value="0"/>
+<TagChange entity="202" tag="49" value="6"/>
+<TagChange entity="77" tag="1646" value="458"/>
+<TagChange entity="77" tag="380" value="86292"/>
+</Block>
+<Block entity="47" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="4" ts="2024-12-01T09:11:27.425393+08:00">
+<FullEntity id="466" cardID="TB_BaconShop_CheckTriples">
+<Tag tag="50" value="2"/>
+<Tag tag="202" value="5"/>
+<Tag tag="49" value="6"/>
+<Tag tag="53" value="466"/>
+<Tag tag="313" value="47"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1200" value="1"/>
+<Tag tag="1284" value="57980"/>
+</FullEntity>
+<TagChange entity="466" tag="49" value="1"/>
+<MetaData meta="7" data="0" infoCount="1">
+<Info index="0" entity="466"/>
+</MetaData>
+<Block entity="466" type="3" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2024-12-01T09:11:27.425393+08:00"/>
+<TagChange entity="466" tag="49" value="4"/>
+</Block>
+<TagChange entity="4" tag="19" value="10"/>
+<Block entity="5" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2024-12-01T09:11:27.425393+08:00">
+<TagChange entity="4" tag="198" value="12"/>
+</Block>
+<SendOption option="7" subOption="-1" target="0" position="3" ts="2024-12-01T09:11:32.458073+08:00"/>
+<Block entity="256" type="12" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2024-12-01T09:11:32.607085+08:00"/>
+<Block entity="48" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2024-12-01T09:11:32.607085+08:00"/>
+<TagChange entity="5" tag="358" value="1"/>
+<Block entity="5" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="14" ts="2024-12-01T09:11:32.607085+08:00"/>
+<Block entity="6" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="14" ts="2024-12-01T09:11:32.607085+08:00"/>
+<SendOption option="4" subOption="-1" target="252" position="0" ts="2024-12-01T09:11:33.441650+08:00"/>
+<Block entity="253" type="7" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" target="252" ts="2024-12-01T09:11:33.606660+08:00">
+<TagChange entity="5" tag="25" value="3"/>
+<TagChange entity="5" tag="418" value="3"/>
+<TagChange entity="253" tag="267" value="252"/>
+<Block entity="253" type="3" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" target="252" ts="2024-12-01T09:11:33.606660+08:00">
+<SubSpell spellPrefabGuid="Bacon_Purchase_AE_CoinThrow_Super:b574389c122b28e44b7340491b4190d2" source="77" targetCount="0" ts="2024-12-01T09:11:33.606660+08:00"/>
+<TagChange entity="252" tag="18" value="253"/>
+<TagChange entity="252" tag="1458" value="0"/>
+<TagChange entity="258" tag="263" value="3"/>
+<TagChange entity="256" tag="263" value="2"/>
+<TagChange entity="254" tag="263" value="1"/>
+<MetaData meta="18" data="0" infoCount="5">
+<Info index="0" entity="252"/>
+<Info index="1" entity="10"/>
+<Info index="2" entity="2"/>
+<Info index="3" entity="1"/>
+<Info index="4" entity="3"/>
+</MetaData>
+<TagChange entity="252" tag="50" value="2"/>
+<TagChange entity="252" tag="263" value="0"/>
+<TagChange entity="252" tag="49" value="3"/>
+<TagChange entity="252" tag="273" value="1"/>
+<TagChange entity="252" tag="263" value="1"/>
+<Block entity="48" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="1" ts="2024-12-01T09:11:33.606660+08:00"/>
+<Block entity="48" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="5" ts="2024-12-01T09:11:33.606660+08:00"/>
+<FullEntity id="474">
+<Tag tag="49" value="6"/>
+<Tag tag="50" value="2"/>
+<Tag tag="53" value="474"/>
+</FullEntity>
+<ShowEntity entity="474" cardID="TB_BaconShopBadsongE">
+<Tag tag="50" value="2"/>
+<Tag tag="202" value="6"/>
+<Tag tag="40" value="252"/>
+<Tag tag="49" value="6"/>
+<Tag tag="53" value="474"/>
+<Tag tag="313" value="253"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1068" value="0"/>
+<Tag tag="1284" value="59894"/>
+</ShowEntity>
+<TagChange entity="474" tag="49" value="1"/>
+<TagChange entity="252" tag="466" value="0"/>
+<TagChange entity="252" tag="48" value="0"/>
+<TagChange entity="4" tag="6" value="0"/>
+<TagChange entity="4" tag="6" value="103"/>
+<TagChange entity="252" tag="2458" value="0"/>
+<TagChange entity="253" tag="1458" value="0"/>
+<TagChange entity="253" tag="49" value="5"/>
+<TagChange entity="253" tag="2840" value="0"/>
+<TagChange entity="253" tag="1437" value="0"/>
+<TagChange entity="253" tag="1464" value="0"/>
+<TagChange entity="253" tag="1556" value="0"/>
+<TagChange entity="253" tag="1437" value="1"/>
+<TagChange entity="253" tag="1464" value="1"/>
+<TagChange entity="253" tag="2840" value="1"/>
+</Block>
+<TagChange entity="253" tag="48" value="0"/>
+<Block entity="47" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="27" ts="2024-12-01T09:11:33.606660+08:00"/>
+<Block entity="48" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2024-12-01T09:11:33.606660+08:00"/>
+<Block entity="48" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2024-12-01T09:11:33.606660+08:00"/>
+<TagChange entity="5" tag="358" value="2"/>
+<Block entity="5" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="14" ts="2024-12-01T09:11:33.606660+08:00"/>
+<Block entity="6" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="14" ts="2024-12-01T09:11:33.606660+08:00"/>
+</Block>
+<SendOption option="1" subOption="-1" target="0" position="1" ts="2024-12-01T09:11:34.408191+08:00"/>
+<Block entity="252" type="7" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2024-12-01T09:11:34.840190+08:00">
+<TagChange entity="5" tag="269" value="1"/>
+<TagChange entity="5" tag="317" value="1"/>
+<TagChange entity="252" tag="261" value="1"/>
+<TagChange entity="252" tag="263" value="0"/>
+<TagChange entity="252" tag="1556" value="0"/>
+<TagChange entity="252" tag="1556" value="1"/>
+<TagChange entity="252" tag="49" value="1"/>
+<TagChange entity="252" tag="263" value="1"/>
+<Block entity="252" type="3" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2024-12-01T09:11:34.840190+08:00"/>
+<Block entity="47" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="40" ts="2024-12-01T09:11:34.840190+08:00"/>
+<Block entity="474" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2024-12-01T09:11:34.840190+08:00">
+<TagChange entity="474" tag="49" value="5"/>
+<HideEntity entity="474" zone="5" ts="2024-12-01T09:11:34.840190+08:00"/>
+</Block>
+<Block entity="47" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="9" ts="2024-12-01T09:11:34.840190+08:00"/>
+<Block entity="47" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="7" ts="2024-12-01T09:11:34.840190+08:00"/>
+<TagChange entity="252" tag="48" value="1"/>
+<Block entity="48" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2024-12-01T09:11:34.840190+08:00"/>
+<Block entity="48" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2024-12-01T09:11:34.840190+08:00"/>
+<TagChange entity="5" tag="266" value="1"/>
+<TagChange entity="5" tag="358" value="3"/>
+<Block entity="5" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="14" ts="2024-12-01T09:11:34.840190+08:00"/>
+<Block entity="6" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="14" ts="2024-12-01T09:11:34.840190+08:00"/>
+</Block>
+<MetaData meta="21" data="0" infoCount="0"/>
+<TagChange entity="4" tag="19" value="12"/>
+<Block entity="47" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="33" ts="2024-12-01T09:11:42.820153+08:00">
+<TagChange entity="252" tag="1556" value="0"/>
+<TagChange entity="252" tag="1556" value="1"/>
+</Block>
+<Block entity="47" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="40" ts="2024-12-01T09:11:42.820153+08:00"/>
+<Block entity="48" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="2" ts="2024-12-01T09:11:42.820153+08:00">
+<TagChange entity="48" tag="18" value="48"/>
+<TagChange entity="48" tag="49" value="4"/>
+<HideEntity entity="48" zone="4" ts="2024-12-01T09:11:42.820153+08:00"/>
+</Block>
+<Block entity="5" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2024-12-01T09:11:42.820153+08:00">
+<TagChange entity="4" tag="198" value="16"/>
+</Block>
+<Block entity="5" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2024-12-01T09:11:42.820153+08:00"/>
+<Block entity="6" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2024-12-01T09:11:42.820153+08:00"/>
+<Block entity="47" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" triggerKeyword="2882" ts="2024-12-01T09:11:42.820153+08:00">
+<TagChange entity="4" tag="1458" value="1"/>
+<TagChange entity="4" tag="6" value="0"/>
+<TagChange entity="4" tag="6" value="115"/>
+</Block>
+<Block entity="47" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="29" ts="2024-12-01T09:11:42.820153+08:00"/>
+<Block entity="47" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="41" ts="2024-12-01T09:11:42.820153+08:00"/>
+<Block entity="242" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2024-12-01T09:11:42.820153+08:00"/>
+<Block entity="458" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2024-12-01T09:11:42.820153+08:00">
+<SubSpell spellPrefabGuid="Coins_ImpactOnly_FX:636e6c2d37fdf2945b2232ef7ba20145" source="458" targetCount="1" ts="2024-12-01T09:11:42.820153+08:00">
+<SubSpellTarget index="0" entity="458"/>
+<TagChange entity="458" tag="48" value="10"/>
+</SubSpell>
+</Block>
+<Block entity="47" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="22" ts="2024-12-01T09:11:42.820153+08:00"/>
+<Block entity="47" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="35" ts="2024-12-01T09:11:42.820153+08:00">
+<FullEntity id="489">
+<Tag tag="49" value="6"/>
+<Tag tag="50" value="2"/>
+<Tag tag="53" value="489"/>
+</FullEntity>
+<ShowEntity entity="489" cardID="Bacon_TagTransferPlayerE">
+<Tag tag="50" value="2"/>
+<Tag tag="202" value="6"/>
+<Tag tag="40" value="5"/>
+<Tag tag="49" value="6"/>
+<Tag tag="53" value="489"/>
+<Tag tag="313" value="47"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1068" value="0"/>
+<Tag tag="1284" value="57980"/>
+<Tag tag="2860" value="1"/>
+<Tag tag="3090" value="3245"/>
+</ShowEntity>
+<TagChange entity="489" tag="49" value="1"/>
+<TagChange entity="489" tag="1494" value="6"/>
+<TagChange entity="489" tag="26" value="3"/>
+<TagChange entity="489" tag="1377" value="1"/>
+</Block>
+<Block entity="47" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="41" ts="2024-12-01T09:11:42.820153+08:00"/>
+<TagChange entity="4" tag="19" value="16"/>
+<Block entity="5" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2024-12-01T09:11:42.820153+08:00">
+<TagChange entity="252" tag="261" value="0"/>
+<TagChange entity="5" tag="266" value="0"/>
+<TagChange entity="4" tag="198" value="13"/>
+</Block>
+<Block entity="6" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2024-12-01T09:11:42.820153+08:00"/>
+<TagChange entity="4" tag="19" value="13"/>
+<Block entity="4" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2024-12-01T09:11:42.820153+08:00">
+<TagChange entity="5" tag="7" value="40"/>
+<TagChange entity="5" tag="23" value="0"/>
+<TagChange entity="6" tag="23" value="1"/>
+<TagChange entity="4" tag="20" value="2"/>
+<TagChange entity="6" tag="20" value="1"/>
+<TagChange entity="4" tag="198" value="6"/>
+</Block>
+<TagChange entity="4" tag="19" value="6"/>
+<Block entity="6" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2024-12-01T09:11:42.820153+08:00">
+<TagChange entity="4" tag="198" value="17"/>
+</Block>
+<Block entity="47" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2024-12-01T09:11:42.820153+08:00">
+<TagChange entity="4" tag="6" value="2"/>
+<MetaData meta="20" data="3000" infoCount="1">
+<Info index="0" entity="47"/>
+</MetaData>
+<TagChange entity="254" tag="1458" value="0"/>
+<TagChange entity="258" tag="263" value="2"/>
+<TagChange entity="256" tag="263" value="1"/>
+<TagChange entity="254" tag="263" value="0"/>
+<TagChange entity="254" tag="49" value="5"/>
+<TagChange entity="254" tag="2840" value="0"/>
+<TagChange entity="254" tag="48" value="0"/>
+<TagChange entity="254" tag="47" value="0"/>
+<TagChange entity="254" tag="45" value="0"/>
+<TagChange entity="254" tag="218" value="0"/>
+<TagChange entity="254" tag="227" value="0"/>
+<TagChange entity="254" tag="1429" value="0"/>
+<TagChange entity="254" tag="1456" value="0"/>
+<TagChange entity="254" tag="1556" value="0"/>
+<TagChange entity="254" tag="48" value="1"/>
+<TagChange entity="254" tag="47" value="3"/>
+<TagChange entity="254" tag="45" value="1"/>
+<TagChange entity="254" tag="218" value="1"/>
+<TagChange entity="254" tag="1429" value="70150"/>
+<TagChange entity="254" tag="1456" value="1"/>
+<TagChange entity="254" tag="2840" value="1"/>
+<TagChange entity="256" tag="1458" value="0"/>
+<TagChange entity="258" tag="263" value="1"/>
+<TagChange entity="256" tag="263" value="0"/>
+<TagChange entity="256" tag="49" value="5"/>
+<TagChange entity="256" tag="2840" value="0"/>
+<TagChange entity="256" tag="48" value="0"/>
+<TagChange entity="256" tag="47" value="0"/>
+<TagChange entity="256" tag="45" value="0"/>
+<TagChange entity="256" tag="218" value="0"/>
+<TagChange entity="256" tag="227" value="0"/>
+<TagChange entity="256" tag="1429" value="0"/>
+<TagChange entity="256" tag="1456" value="0"/>
+<TagChange entity="256" tag="1556" value="0"/>
+<TagChange entity="256" tag="48" value="1"/>
+<TagChange entity="256" tag="47" value="3"/>
+<TagChange entity="256" tag="45" value="1"/>
+<TagChange entity="256" tag="218" value="1"/>
+<TagChange entity="256" tag="1429" value="98502"/>
+<TagChange entity="256" tag="1456" value="1"/>
+<TagChange entity="256" tag="2840" value="1"/>
+<TagChange entity="258" tag="1458" value="0"/>
+<TagChange entity="258" tag="263" value="0"/>
+<TagChange entity="258" tag="49" value="5"/>
+<TagChange entity="258" tag="2840" value="0"/>
+<TagChange entity="258" tag="48" value="0"/>
+<TagChange entity="258" tag="227" value="0"/>
+<TagChange entity="258" tag="1556" value="0"/>
+<TagChange entity="258" tag="1635" value="0"/>
+<TagChange entity="258" tag="48" value="1"/>
+<TagChange entity="258" tag="1635" value="9"/>
+<TagChange entity="258" tag="2840" value="1"/>
+<TagChange entity="241" tag="1458" value="0"/>
+<TagChange entity="241" tag="49" value="5"/>
+<TagChange entity="241" tag="2840" value="0"/>
+<TagChange entity="241" tag="48" value="0"/>
+<TagChange entity="241" tag="1437" value="0"/>
+<TagChange entity="241" tag="1438" value="0"/>
+<TagChange entity="241" tag="1556" value="0"/>
+<TagChange entity="241" tag="48" value="1"/>
+<TagChange entity="241" tag="1437" value="1"/>
+<TagChange entity="241" tag="1438" value="2"/>
+<TagChange entity="241" tag="2840" value="1"/>
+<TagChange entity="242" tag="1458" value="0"/>
+<TagChange entity="242" tag="49" value="5"/>
+<TagChange entity="242" tag="2840" value="0"/>
+<TagChange entity="242" tag="3" value="0"/>
+<TagChange entity="242" tag="1437" value="0"/>
+<TagChange entity="242" tag="1438" value="0"/>
+<TagChange entity="242" tag="1556" value="0"/>
+<TagChange entity="242" tag="3" value="10"/>
+<TagChange entity="242" tag="1437" value="1"/>
+<TagChange entity="242" tag="1438" value="1"/>
+<TagChange entity="242" tag="2840" value="1"/>
+<TagChange entity="243" tag="1458" value="0"/>
+<TagChange entity="243" tag="49" value="5"/>
+<TagChange entity="243" tag="2840" value="0"/>
+<TagChange entity="243" tag="1437" value="0"/>
+<TagChange entity="243" tag="1464" value="0"/>
+<TagChange entity="243" tag="1556" value="0"/>
+<TagChange entity="243" tag="1437" value="1"/>
+<TagChange entity="243" tag="1464" value="2"/>
+<TagChange entity="243" tag="2840" value="1"/>
+<TagChange entity="244" tag="1458" value="0"/>
+<TagChange entity="244" tag="49" value="5"/>
+<TagChange entity="244" tag="2840" value="0"/>
+<TagChange entity="244" tag="48" value="0"/>
+<TagChange entity="244" tag="1437" value="0"/>
+<TagChange entity="244" tag="1438" value="0"/>
+<TagChange entity="244" tag="1556" value="0"/>
+<TagChange entity="244" tag="48" value="5"/>
+<TagChange entity="244" tag="1437" value="1"/>
+<TagChange entity="244" tag="1438" value="3"/>
+<TagChange entity="244" tag="2840" value="1"/>
+<TagChange entity="255" tag="1458" value="0"/>
+<TagChange entity="255" tag="49" value="5"/>
+<TagChange entity="255" tag="2840" value="0"/>
+<TagChange entity="255" tag="1437" value="0"/>
+<TagChange entity="255" tag="1464" value="0"/>
+<TagChange entity="255" tag="1556" value="0"/>
+<TagChange entity="255" tag="1437" value="1"/>
+<TagChange entity="255" tag="1464" value="1"/>
+<TagChange entity="255" tag="2840" value="1"/>
+<TagChange entity="257" tag="1458" value="0"/>
+<TagChange entity="257" tag="49" value="5"/>
+<TagChange entity="257" tag="2840" value="0"/>
+<TagChange entity="257" tag="1437" value="0"/>
+<TagChange entity="257" tag="1464" value="0"/>
+<TagChange entity="257" tag="1556" value="0"/>
+<TagChange entity="257" tag="1437" value="1"/>
+<TagChange entity="257" tag="1464" value="1"/>
+<TagChange entity="257" tag="2840" value="1"/>
+<TagChange entity="262" tag="49" value="5"/>
+<TagChange entity="262" tag="2840" value="0"/>
+<TagChange entity="262" tag="1437" value="0"/>
+<TagChange entity="262" tag="1464" value="0"/>
+<TagChange entity="262" tag="1556" value="0"/>
+<TagChange entity="262" tag="1437" value="1"/>
+<TagChange entity="262" tag="1464" value="1"/>
+<TagChange entity="262" tag="2840" value="1"/>
+<TagChange entity="4" tag="1467" value="0"/>
+<FullEntity id="510" cardID="BG20_HERO_101">
+<Tag tag="50" value="2"/>
+<Tag tag="202" value="3"/>
+<Tag tag="30" value="6"/>
+<Tag tag="45" value="30"/>
+<Tag tag="49" value="6"/>
+<Tag tag="53" value="510"/>
+<Tag tag="292" value="8"/>
+<Tag tag="313" value="4"/>
+<Tag tag="380" value="70957"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1377" value="1"/>
+<Tag tag="1491" value="1"/>
+<Tag tag="1494" value="6"/>
+<Tag tag="2130" value="77851"/>
+<Tag tag="2210" value="1"/>
+<Tag tag="2348" value="76"/>
+<Tag tag="2840" value="1"/>
+<Tag tag="2954" value="10"/>
+<Tag tag="3085" value="30"/>
+<Tag tag="3206" value="5"/>
+</FullEntity>
+<TagChange entity="510" tag="3048" value="1"/>
+<FullEntity id="511" cardID="BG20_HERO_101p">
+<Tag tag="50" value="2"/>
+<Tag tag="202" value="10"/>
+<Tag tag="49" value="6"/>
+<Tag tag="53" value="511"/>
+<Tag tag="262" value="458"/>
+<Tag tag="313" value="4"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="2376" value="70956"/>
+<Tag tag="2840" value="1"/>
+</FullEntity>
+<FullEntity id="512" cardID="BG30_Trinket_1st">
+<Tag tag="50" value="2"/>
+<Tag tag="202" value="44"/>
+<Tag tag="49" value="6"/>
+<Tag tag="53" value="512"/>
+<Tag tag="313" value="4"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1635" value="11"/>
+<Tag tag="2921" value="1"/>
+<Tag tag="3169" value="1"/>
+<Tag tag="3565" value="1"/>
+<Tag tag="3639" value="1"/>
+<Tag tag="3705" value="1"/>
+<Tag tag="3738" value="5"/>
+</FullEntity>
+<FullEntity id="513" cardID="BG30_Trinket_2nd">
+<Tag tag="50" value="2"/>
+<Tag tag="202" value="44"/>
+<Tag tag="49" value="6"/>
+<Tag tag="53" value="513"/>
+<Tag tag="313" value="4"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1635" value="12"/>
+<Tag tag="2921" value="2"/>
+<Tag tag="3565" value="1"/>
+<Tag tag="3639" value="1"/>
+<Tag tag="3705" value="1"/>
+<Tag tag="3738" value="8"/>
+</FullEntity>
+<FullEntity id="514">
+<Tag tag="49" value="6"/>
+<Tag tag="50" value="2"/>
+<Tag tag="53" value="514"/>
+</FullEntity>
+<FullEntity id="515">
+<Tag tag="49" value="6"/>
+<Tag tag="50" value="2"/>
+<Tag tag="53" value="515"/>
+</FullEntity>
+<TagChange entity="252" tag="1556" value="0"/>
+<TagChange entity="252" tag="1556" value="1"/>
+<FullEntity id="516" cardID="BG26_529">
+<Tag tag="50" value="2"/>
+<Tag tag="202" value="4"/>
+<Tag tag="479" value="1"/>
+<Tag tag="47" value="1"/>
+<Tag tag="45" value="1"/>
+<Tag tag="49" value="6"/>
+<Tag tag="53" value="516"/>
+<Tag tag="313" value="47"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1284" value="57980"/>
+<Tag tag="1429" value="101115"/>
+<Tag tag="1591" value="1"/>
+<Tag tag="2840" value="1"/>
+<Tag tag="2882" value="1"/>
+<Tag tag="3046" value="1"/>
+<Tag tag="3085" value="1"/>
+</FullEntity>
+<TagChange entity="516" tag="2" value="2"/>
+<FullEntity id="517">
+<Tag tag="49" value="6"/>
+<Tag tag="50" value="2"/>
+<Tag tag="53" value="517"/>
+</FullEntity>
+<ShowEntity entity="517" cardID="BG20_HERO_101pe2">
+<Tag tag="50" value="2"/>
+<Tag tag="202" value="6"/>
+<Tag tag="40" value="516"/>
+<Tag tag="49" value="6"/>
+<Tag tag="53" value="517"/>
+<Tag tag="313" value="516"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1068" value="0"/>
+<Tag tag="1284" value="101114"/>
+<Tag tag="3224" value="1"/>
+</ShowEntity>
+<TagChange entity="517" tag="49" value="1"/>
+<TagChange entity="517" tag="313" value="97"/>
+<TagChange entity="517" tag="1284" value="70957"/>
+<TagChange entity="517" tag="2" value="2"/>
+<TagChange entity="517" tag="3" value="2"/>
+<TagChange entity="517" tag="4" value="1"/>
+<TagChange entity="517" tag="5" value="1"/>
+<TagChange entity="517" tag="1565" value="472"/>
+<TagChange entity="516" tag="45" value="2"/>
+<TagChange entity="516" tag="47" value="2"/>
+<TagChange entity="262" tag="48" value="0"/>
+<TagChange entity="257" tag="48" value="0"/>
+<TagChange entity="255" tag="48" value="0"/>
+<TagChange entity="516" tag="18" value="97"/>
+<TagChange entity="516" tag="1565" value="407"/>
+<TagChange entity="517" tag="50" value="10"/>
+<FullEntity id="518" cardID="BGS_061">
+<Tag tag="50" value="2"/>
+<Tag tag="202" value="4"/>
+<Tag tag="479" value="3"/>
+<Tag tag="47" value="3"/>
+<Tag tag="45" value="1"/>
+<Tag tag="49" value="6"/>
+<Tag tag="53" value="518"/>
+<Tag tag="217" value="1"/>
+<Tag tag="313" value="47"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1284" value="57980"/>
+<Tag tag="1429" value="62262"/>
+<Tag tag="1596" value="1"/>
+<Tag tag="2840" value="1"/>
+<Tag tag="3085" value="1"/>
+</FullEntity>
+<TagChange entity="518" tag="18" value="253"/>
+<TagChange entity="518" tag="1565" value="252"/>
+<TagChange entity="252" tag="1556" value="0"/>
+<TagChange entity="252" tag="1556" value="1"/>
+<MetaData meta="19" data="1500" infoCount="1">
+<Info index="0" entity="47"/>
+</MetaData>
+<MetaData meta="20" data="1500" infoCount="1">
+<Info index="0" entity="47"/>
+</MetaData>
+</Block>
+<TagChange entity="4" tag="19" value="17"/>
+<Block entity="6" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2024-12-01T09:11:43.004387+08:00">
+<TagChange entity="4" tag="198" value="9"/>
+</Block>
+<TagChange entity="4" tag="19" value="9"/>
+<Block entity="6" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2024-12-01T09:11:43.004387+08:00">
+<TagChange entity="4" tag="198" value="10"/>
+</Block>
+<Block entity="47" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2024-12-01T09:11:43.004387+08:00">
+<TagChange entity="5" tag="2989" value="2"/>
+<TagChange entity="6" tag="2989" value="6"/>
+<FullEntity id="585" cardID="BG20_HERO_101">
+<Tag tag="50" value="10"/>
+<Tag tag="202" value="3"/>
+<Tag tag="45" value="30"/>
+<Tag tag="49" value="1"/>
+<Tag tag="53" value="585"/>
+<Tag tag="292" value="8"/>
+<Tag tag="313" value="47"/>
+<Tag tag="380" value="70957"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1284" value="57980"/>
+<Tag tag="1491" value="1"/>
+<Tag tag="2130" value="77851"/>
+<Tag tag="2840" value="1"/>
+<Tag tag="2954" value="10"/>
+<Tag tag="3085" value="30"/>
+<Tag tag="3206" value="5"/>
+</FullEntity>
+<TagChange entity="585" tag="1377" value="1"/>
+<TagChange entity="585" tag="1494" value="6"/>
+<TagChange entity="585" tag="30" value="6"/>
+<TagChange entity="585" tag="2348" value="76"/>
+<TagChange entity="585" tag="1565" value="510"/>
+<TagChange entity="585" tag="262" value="46"/>
+<TagChange entity="46" tag="1458" value="0"/>
+<HideEntity entity="46" zone="6" ts="2024-12-01T09:11:43.004387+08:00"/>
+<TagChange entity="46" tag="49" value="6"/>
+<ShowEntity entity="46" cardID="TB_BaconShopBob_SKIN_AC">
+<Tag tag="50" value="10"/>
+<Tag tag="202" value="3"/>
+<Tag tag="45" value="60"/>
+<Tag tag="49" value="6"/>
+<Tag tag="53" value="46"/>
+<Tag tag="262" value="28"/>
+<Tag tag="271" value="3"/>
+<Tag tag="313" value="4"/>
+<Tag tag="402" value="1"/>
+<Tag tag="410" value="1"/>
+<Tag tag="682" value="1"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1068" value="0"/>
+<Tag tag="2039" value="57110"/>
+<Tag tag="2049" value="1"/>
+<Tag tag="2840" value="1"/>
+<Tag tag="3085" value="60"/>
+</ShowEntity>
+<TagChange entity="6" tag="27" value="585"/>
+<TagChange entity="585" tag="3048" value="1"/>
+<HideEntity entity="511" zone="6" ts="2024-12-01T09:11:43.004387+08:00"/>
+<TagChange entity="511" tag="50" value="10"/>
+<ShowEntity entity="511" cardID="BG20_HERO_101p">
+<Tag tag="50" value="10"/>
+<Tag tag="202" value="10"/>
+<Tag tag="49" value="1"/>
+<Tag tag="53" value="511"/>
+<Tag tag="262" value="458"/>
+<Tag tag="313" value="4"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1068" value="0"/>
+<Tag tag="2376" value="70956"/>
+<Tag tag="2840" value="1"/>
+</ShowEntity>
+<HideEntity entity="512" zone="6" ts="2024-12-01T09:11:43.004387+08:00"/>
+<TagChange entity="512" tag="50" value="10"/>
+<ShowEntity entity="512" cardID="BG30_Trinket_1st">
+<Tag tag="50" value="10"/>
+<Tag tag="202" value="44"/>
+<Tag tag="49" value="1"/>
+<Tag tag="53" value="512"/>
+<Tag tag="313" value="4"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1068" value="0"/>
+<Tag tag="1635" value="11"/>
+<Tag tag="2921" value="1"/>
+<Tag tag="3169" value="1"/>
+<Tag tag="3565" value="1"/>
+<Tag tag="3639" value="1"/>
+<Tag tag="3705" value="1"/>
+<Tag tag="3738" value="5"/>
+</ShowEntity>
+<HideEntity entity="513" zone="6" ts="2024-12-01T09:11:43.004387+08:00"/>
+<TagChange entity="513" tag="50" value="10"/>
+<ShowEntity entity="513" cardID="BG30_Trinket_2nd">
+<Tag tag="50" value="10"/>
+<Tag tag="202" value="44"/>
+<Tag tag="49" value="1"/>
+<Tag tag="53" value="513"/>
+<Tag tag="313" value="4"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1068" value="0"/>
+<Tag tag="1635" value="12"/>
+<Tag tag="2921" value="2"/>
+<Tag tag="3565" value="1"/>
+<Tag tag="3639" value="1"/>
+<Tag tag="3705" value="1"/>
+<Tag tag="3738" value="8"/>
+</ShowEntity>
+<FullEntity id="586">
+<Tag tag="49" value="1"/>
+<Tag tag="50" value="10"/>
+<Tag tag="53" value="586"/>
+</FullEntity>
+<FullEntity id="587">
+<Tag tag="49" value="1"/>
+<Tag tag="50" value="10"/>
+<Tag tag="53" value="587"/>
+</FullEntity>
+<ShowEntity entity="586" cardID="BG29_813e">
+<Tag tag="50" value="10"/>
+<Tag tag="202" value="6"/>
+<Tag tag="40" value="6"/>
+<Tag tag="49" value="1"/>
+<Tag tag="53" value="586"/>
+<Tag tag="313" value="47"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1068" value="0"/>
+<Tag tag="1284" value="57980"/>
+<Tag tag="1565" value="514"/>
+<Tag tag="2860" value="1"/>
+<Tag tag="3669" value="1"/>
+</ShowEntity>
+<ShowEntity entity="587" cardID="Bacon_TagTransferPlayerE">
+<Tag tag="50" value="10"/>
+<Tag tag="202" value="6"/>
+<Tag tag="26" value="3"/>
+<Tag tag="40" value="6"/>
+<Tag tag="49" value="1"/>
+<Tag tag="53" value="587"/>
+<Tag tag="313" value="47"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1068" value="0"/>
+<Tag tag="1284" value="57980"/>
+<Tag tag="1377" value="1"/>
+<Tag tag="1494" value="6"/>
+<Tag tag="1565" value="515"/>
+<Tag tag="2245" value="3"/>
+<Tag tag="2336" value="2"/>
+<Tag tag="2860" value="1"/>
+<Tag tag="3090" value="3245"/>
+<Tag tag="3669" value="1"/>
+</ShowEntity>
+<TagChange entity="6" tag="1494" value="6"/>
+<TagChange entity="6" tag="26" value="3"/>
+<TagChange entity="6" tag="1377" value="1"/>
+<FullEntity id="588" cardID="BG26_529">
+<Tag tag="50" value="10"/>
+<Tag tag="202" value="4"/>
+<Tag tag="1196" value="1"/>
+<Tag tag="479" value="1"/>
+<Tag tag="47" value="1"/>
+<Tag tag="45" value="1"/>
+<Tag tag="49" value="1"/>
+<Tag tag="53" value="588"/>
+<Tag tag="263" value="1"/>
+<Tag tag="313" value="47"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1254" value="47"/>
+<Tag tag="1284" value="57980"/>
+<Tag tag="1429" value="101115"/>
+<Tag tag="1591" value="1"/>
+<Tag tag="2840" value="1"/>
+<Tag tag="2882" value="1"/>
+<Tag tag="3046" value="1"/>
+<Tag tag="3085" value="1"/>
+</FullEntity>
+<TagChange entity="588" tag="2" value="2"/>
+<FullEntity id="589">
+<Tag tag="49" value="6"/>
+<Tag tag="50" value="10"/>
+<Tag tag="53" value="589"/>
+</FullEntity>
+<ShowEntity entity="589" cardID="BG20_HERO_101pe2">
+<Tag tag="50" value="10"/>
+<Tag tag="202" value="6"/>
+<Tag tag="40" value="588"/>
+<Tag tag="49" value="6"/>
+<Tag tag="53" value="589"/>
+<Tag tag="313" value="588"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1068" value="0"/>
+<Tag tag="1284" value="101114"/>
+<Tag tag="3224" value="1"/>
+</ShowEntity>
+<TagChange entity="589" tag="49" value="1"/>
+<TagChange entity="589" tag="313" value="97"/>
+<TagChange entity="589" tag="1284" value="70957"/>
+<TagChange entity="589" tag="2" value="2"/>
+<TagChange entity="589" tag="3" value="2"/>
+<TagChange entity="589" tag="4" value="1"/>
+<TagChange entity="589" tag="5" value="1"/>
+<TagChange entity="589" tag="1565" value="517"/>
+<TagChange entity="588" tag="45" value="2"/>
+<TagChange entity="588" tag="47" value="2"/>
+<TagChange entity="588" tag="18" value="97"/>
+<TagChange entity="588" tag="1565" value="516"/>
+<TagChange entity="252" tag="1556" value="0"/>
+<TagChange entity="252" tag="1556" value="1"/>
+<TagChange entity="246" tag="1556" value="0"/>
+<TagChange entity="246" tag="1556" value="1"/>
+<TagChange entity="247" tag="1556" value="0"/>
+<TagChange entity="247" tag="1556" value="1"/>
+<TagChange entity="218" tag="1556" value="0"/>
+<TagChange entity="218" tag="1556" value="1"/>
+<TagChange entity="489" tag="1556" value="0"/>
+<TagChange entity="489" tag="1556" value="1"/>
+<TagChange entity="5" tag="1556" value="0"/>
+<TagChange entity="5" tag="1556" value="1"/>
+<TagChange entity="588" tag="1556" value="0"/>
+<TagChange entity="588" tag="1556" value="1"/>
+<TagChange entity="512" tag="1556" value="0"/>
+<TagChange entity="512" tag="1556" value="1"/>
+<TagChange entity="513" tag="1556" value="0"/>
+<TagChange entity="513" tag="1556" value="1"/>
+<TagChange entity="586" tag="1556" value="0"/>
+<TagChange entity="586" tag="1556" value="1"/>
+<TagChange entity="587" tag="1556" value="0"/>
+<TagChange entity="587" tag="1556" value="1"/>
+<TagChange entity="6" tag="1556" value="0"/>
+<TagChange entity="6" tag="1556" value="1"/>
+<TagChange entity="4" tag="2264" value="1"/>
+<MetaData meta="19" data="1500" infoCount="1">
+<Info index="0" entity="47"/>
+</MetaData>
+<MetaData meta="20" data="1500" infoCount="1">
+<Info index="0" entity="47"/>
+</MetaData>
+</Block>
+<Block entity="47" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="40" ts="2024-12-01T09:11:43.203395+08:00">
+<FullEntity id="590">
+<Tag tag="49" value="6"/>
+<Tag tag="50" value="2"/>
+<Tag tag="53" value="590"/>
+</FullEntity>
+<TagChange entity="590" tag="49" value="1"/>
+</Block>
+<TagChange entity="4" tag="19" value="10"/>
+<Block entity="6" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2024-12-01T09:11:43.203395+08:00">
+<TagChange entity="4" tag="198" value="12"/>
+</Block>
+<Block entity="4" type="6" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2024-12-01T09:11:43.203395+08:00">
+<Block entity="47" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="37" ts="2024-12-01T09:11:43.203395+08:00">
+<FullEntity id="628" cardID="BGS_061">
+<Tag tag="50" value="2"/>
+<Tag tag="202" value="4"/>
+<Tag tag="479" value="3"/>
+<Tag tag="47" value="3"/>
+<Tag tag="45" value="1"/>
+<Tag tag="49" value="6"/>
+<Tag tag="53" value="628"/>
+<Tag tag="217" value="1"/>
+<Tag tag="313" value="47"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1284" value="57980"/>
+<Tag tag="1429" value="62262"/>
+<Tag tag="1596" value="1"/>
+<Tag tag="2840" value="1"/>
+<Tag tag="3085" value="1"/>
+</FullEntity>
+<TagChange entity="628" tag="44" value="2"/>
+<TagChange entity="628" tag="18" value="588"/>
+<TagChange entity="628" tag="1565" value="252"/>
+<TagChange entity="628" tag="44" value="0"/>
+<TagChange entity="628" tag="1493" value="1"/>
+</Block>
+<TagChange entity="5" tag="368" value="1"/>
+<TagChange entity="4" tag="369" value="1"/>
+<TagChange entity="252" tag="263" value="0"/>
+<TagChange entity="252" tag="49" value="4"/>
+<TagChange entity="5" tag="398" value="1"/>
+<TagChange entity="5" tag="412" value="1"/>
+<TagChange entity="518" tag="2483" value="1"/>
+<TagChange entity="5" tag="2186" value="1"/>
+<TagChange entity="252" tag="44" value="0"/>
+<Block entity="47" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="37" ts="2024-12-01T09:11:43.203395+08:00">
+<FullEntity id="629">
+<Tag tag="49" value="6"/>
+<Tag tag="50" value="10"/>
+<Tag tag="53" value="629"/>
+</FullEntity>
+<FullEntity id="630">
+<Tag tag="49" value="6"/>
+<Tag tag="50" value="10"/>
+<Tag tag="53" value="630"/>
+</FullEntity>
+<TagChange entity="630" tag="49" value="1"/>
+</Block>
+<TagChange entity="6" tag="368" value="1"/>
+<TagChange entity="4" tag="369" value="2"/>
+<TagChange entity="588" tag="1458" value="0"/>
+<TagChange entity="588" tag="263" value="0"/>
+<TagChange entity="588" tag="49" value="4"/>
+<TagChange entity="6" tag="398" value="1"/>
+<TagChange entity="6" tag="412" value="1"/>
+<TagChange entity="6" tag="2186" value="1"/>
+<HideEntity entity="589" zone="1" ts="2024-12-01T09:11:43.203395+08:00"/>
+<TagChange entity="589" tag="49" value="5"/>
+<TagChange entity="588" tag="44" value="0"/>
+</Block>
+<TagChange entity="588" tag="45" value="1"/>
+<TagChange entity="588" tag="47" value="1"/>
+<Block entity="252" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" triggerKeyword="217" ts="2024-12-01T09:11:43.203395+08:00">
+<SubSpell spellPrefabGuid="ReuseFX_Water_OverrideSpawn_Hop_Super:9884a977a6337fb48b4c8038b98a7a5a" source="252" targetCount="0" ts="2024-12-01T09:11:43.203395+08:00">
+<FullEntity id="631" cardID="BGS_061t">
+<Tag tag="50" value="2"/>
+<Tag tag="202" value="4"/>
+<Tag tag="1196" value="1"/>
+<Tag tag="479" value="1"/>
+<Tag tag="47" value="1"/>
+<Tag tag="45" value="1"/>
+<Tag tag="49" value="1"/>
+<Tag tag="53" value="631"/>
+<Tag tag="263" value="1"/>
+<Tag tag="313" value="252"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1254" value="252"/>
+<Tag tag="1284" value="61061"/>
+<Tag tag="1429" value="62215"/>
+<Tag tag="2840" value="1"/>
+<Tag tag="3085" value="1"/>
+<Tag tag="3850" value="1"/>
+</FullEntity>
+<Block entity="47" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="40" ts="2024-12-01T09:11:43.203395+08:00"/>
+<Block entity="631" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2024-12-01T09:11:43.203395+08:00">
+<SubSpell spellPrefabGuid="Bacon_Impact_Physical_Shout_Super:b86c16d6cdd6eab479f56188d66a6e18" source="631" targetCount="1" ts="2024-12-01T09:11:43.203395+08:00">
+<SubSpellTarget index="0" entity="631"/>
+</SubSpell>
+<TagChange entity="4" tag="1424" value="0"/>
+<TagChange entity="4" tag="1424" value="1"/>
+</Block>
+</SubSpell>
+</Block>
+<MetaData meta="20" data="200" infoCount="1">
+<Info index="0" entity="252"/>
+</MetaData>
+<Block entity="590" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="1" ts="2024-12-01T09:11:43.203395+08:00">
+<TagChange entity="590" tag="49" value="4"/>
+</Block>
+<Block entity="47" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="14" ts="2024-12-01T09:11:43.203395+08:00">
+<TagChange entity="4" tag="1424" value="0"/>
+<TagChange entity="77" tag="47" value="1"/>
+<TagChange entity="4" tag="6" value="0"/>
+<TagChange entity="4" tag="6" value="120"/>
+<MetaData meta="20" data="4400" infoCount="1">
+<Info index="0" entity="47"/>
+</MetaData>
+<SubSpell spellPrefabGuid="Bacon_EndRound_BuffHeroAttack_Super:f82ca36d0e2b0cd43a93ff481e08061a" source="77" targetCount="1" ts="2024-12-01T09:11:43.203395+08:00">
+<SubSpellTarget index="0" entity="631"/>
+<TagChange entity="77" tag="47" value="2"/>
+</SubSpell>
+<Block entity="77" type="1" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2024-12-01T09:11:43.203395+08:00">
+<TagChange entity="4" tag="39" value="77"/>
+<TagChange entity="4" tag="37" value="585"/>
+<TagChange entity="77" tag="38" value="1"/>
+<MetaData meta="20" data="1200" infoCount="1">
+<Info index="0" entity="77"/>
+</MetaData>
+<TagChange entity="585" tag="36" value="1"/>
+<TagChange entity="585" tag="318" value="2"/>
+<TagChange entity="585" tag="318" value="0"/>
+<TagChange entity="585" tag="318" value="2"/>
+<TagChange entity="585" tag="318" value="0"/>
+<MetaData meta="1" data="2" infoCount="1">
+<Info index="0" entity="585"/>
+</MetaData>
+<TagChange entity="585" tag="292" value="6"/>
+<TagChange entity="585" tag="18" value="77"/>
+<Block entity="47" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="18" ts="2024-12-01T09:11:43.203395+08:00"/>
+<Block entity="47" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="19" ts="2024-12-01T09:11:43.203395+08:00"/>
+<TagChange entity="4" tag="39" value="0"/>
+<TagChange entity="4" tag="37" value="0"/>
+<TagChange entity="77" tag="38" value="0"/>
+<TagChange entity="585" tag="36" value="0"/>
+</Block>
+<MetaData meta="19" data="1000" infoCount="1">
+<Info index="0" entity="47"/>
+</MetaData>
+<MetaData meta="20" data="1000" infoCount="1">
+<Info index="0" entity="47"/>
+</MetaData>
+<MetaData meta="20" data="500" infoCount="1">
+<Info index="0" entity="47"/>
+</MetaData>
+<TagChange entity="77" tag="47" value="0"/>
+<TagChange entity="4" tag="1424" value="1"/>
+</Block>
+<Block entity="47" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="21" ts="2024-12-01T09:11:43.203395+08:00"/>
+<Block entity="47" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="28" ts="2024-12-01T09:11:43.203395+08:00"/>
+<Block entity="47" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2024-12-01T09:11:43.220388+08:00">
+<TagChange entity="631" tag="263" value="0"/>
+<TagChange entity="631" tag="49" value="5"/>
+<TagChange entity="586" tag="49" value="5"/>
+<HideEntity entity="586" zone="5" ts="2024-12-01T09:11:43.220388+08:00"/>
+<TagChange entity="587" tag="49" value="5"/>
+<HideEntity entity="587" zone="5" ts="2024-12-01T09:11:43.220388+08:00"/>
+<TagChange entity="512" tag="49" value="5"/>
+<TagChange entity="513" tag="49" value="5"/>
+<TagChange entity="518" tag="49" value="1"/>
+<TagChange entity="518" tag="263" value="1"/>
+<TagChange entity="628" tag="49" value="5"/>
+<TagChange entity="233" tag="49" value="5"/>
+<TagChange entity="260" tag="49" value="5"/>
+<TagChange entity="261" tag="49" value="5"/>
+<TagChange entity="466" tag="49" value="5"/>
+<TagChange entity="48" tag="49" value="5"/>
+<TagChange entity="252" tag="49" value="5"/>
+<TagChange entity="590" tag="49" value="5"/>
+<TagChange entity="588" tag="49" value="5"/>
+<TagChange entity="510" tag="49" value="5"/>
+<TagChange entity="514" tag="49" value="5"/>
+<TagChange entity="515" tag="49" value="5"/>
+<TagChange entity="516" tag="49" value="5"/>
+<HideEntity entity="517" zone="1" ts="2024-12-01T09:11:43.220388+08:00"/>
+<TagChange entity="517" tag="49" value="5"/>
+<TagChange entity="4" tag="6" value="1"/>
+<TagChange entity="46" tag="49" value="1"/>
+<TagChange entity="46" tag="262" value="585"/>
+<TagChange entity="585" tag="1458" value="0"/>
+<TagChange entity="585" tag="49" value="5"/>
+<TagChange entity="585" tag="2840" value="0"/>
+<TagChange entity="585" tag="30" value="0"/>
+<TagChange entity="585" tag="45" value="0"/>
+<TagChange entity="585" tag="262" value="0"/>
+<TagChange entity="585" tag="292" value="0"/>
+<TagChange entity="585" tag="380" value="0"/>
+<TagChange entity="585" tag="1377" value="0"/>
+<TagChange entity="585" tag="1491" value="0"/>
+<TagChange entity="585" tag="1493" value="0"/>
+<TagChange entity="585" tag="1494" value="0"/>
+<TagChange entity="585" tag="1556" value="0"/>
+<TagChange entity="585" tag="1565" value="0"/>
+<TagChange entity="585" tag="2130" value="0"/>
+<TagChange entity="585" tag="2348" value="0"/>
+<TagChange entity="585" tag="3048" value="0"/>
+<TagChange entity="585" tag="45" value="30"/>
+<TagChange entity="585" tag="292" value="8"/>
+<TagChange entity="585" tag="380" value="70957"/>
+<TagChange entity="585" tag="1491" value="1"/>
+<TagChange entity="585" tag="2130" value="77851"/>
+<TagChange entity="585" tag="2840" value="1"/>
+<TagChange entity="585" tag="410" value="1"/>
+<TagChange entity="6" tag="27" value="46"/>
+<TagChange entity="511" tag="1458" value="0"/>
+<TagChange entity="511" tag="49" value="5"/>
+<TagChange entity="511" tag="2840" value="0"/>
+<TagChange entity="511" tag="48" value="0"/>
+<TagChange entity="511" tag="262" value="0"/>
+<TagChange entity="511" tag="1493" value="0"/>
+<TagChange entity="511" tag="1556" value="0"/>
+<TagChange entity="511" tag="2376" value="0"/>
+<TagChange entity="511" tag="48" value="2"/>
+<TagChange entity="511" tag="2376" value="70956"/>
+<TagChange entity="511" tag="2840" value="1"/>
+<FullEntity id="651" cardID="TB_BaconShop_8p_Reroll_Button">
+<Tag tag="50" value="2"/>
+<Tag tag="202" value="12"/>
+<Tag tag="49" value="1"/>
+<Tag tag="53" value="651"/>
+<Tag tag="313" value="47"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1284" value="57980"/>
+<Tag tag="2840" value="1"/>
+</FullEntity>
+<FullEntity id="652" cardID="TB_BaconShopLockAll_Button">
+<Tag tag="50" value="2"/>
+<Tag tag="202" value="12"/>
+<Tag tag="49" value="1"/>
+<Tag tag="53" value="652"/>
+<Tag tag="313" value="47"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1270" value="1"/>
+<Tag tag="1284" value="57980"/>
+<Tag tag="2840" value="1"/>
+</FullEntity>
+<FullEntity id="653" cardID="TB_BaconShop_DragSell">
+<Tag tag="50" value="2"/>
+<Tag tag="202" value="22"/>
+<Tag tag="49" value="1"/>
+<Tag tag="53" value="653"/>
+<Tag tag="313" value="47"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1284" value="57980"/>
+<Tag tag="2840" value="1"/>
+</FullEntity>
+<FullEntity id="654" cardID="TB_BaconShopTechUp02_Button">
+<Tag tag="50" value="2"/>
+<Tag tag="202" value="12"/>
+<Tag tag="49" value="1"/>
+<Tag tag="53" value="654"/>
+<Tag tag="313" value="47"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1284" value="57980"/>
+<Tag tag="2840" value="1"/>
+</FullEntity>
+<MetaData meta="19" data="1500" infoCount="1">
+<Info index="0" entity="47"/>
+</MetaData>
+<TagChange entity="518" tag="227" value="1"/>
+<TagChange entity="518" tag="1458" value="0"/>
+<TagChange entity="4" tag="19" value="12"/>
+</Block>
+<Block entity="5" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2024-12-01T09:11:43.220388+08:00"/>
+<Block entity="6" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2024-12-01T09:11:43.220388+08:00">
+<TagChange entity="4" tag="198" value="16"/>
+</Block>
+<Block entity="6" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2024-12-01T09:11:43.220388+08:00"/>
+<Block entity="652" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2024-12-01T09:11:43.220388+08:00"/>
+<TagChange entity="116" tag="292" value="12"/>
+<TagChange entity="101" tag="292" value="6"/>
+<TagChange entity="161" tag="292" value="11"/>
+<TagChange entity="4" tag="19" value="16"/>
+<Block entity="5" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2024-12-01T09:11:43.286386+08:00"/>
+<Block entity="6" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2024-12-01T09:11:43.286386+08:00">
+<TagChange entity="4" tag="198" value="13"/>
+</Block>
+<TagChange entity="77" tag="1373" value="4"/>
+<TagChange entity="116" tag="1373" value="5"/>
+<TagChange entity="161" tag="1373" value="6"/>
+<TagChange entity="5" tag="1360" value="3"/>
+<TagChange entity="4" tag="19" value="13"/>
+<Block entity="4" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2024-12-01T09:11:43.386393+08:00">
+<TagChange entity="6" tag="23" value="0"/>
+<TagChange entity="5" tag="23" value="1"/>
+<TagChange entity="4" tag="20" value="3"/>
+<TagChange entity="5" tag="20" value="2"/>
+<TagChange entity="4" tag="198" value="6"/>
+</Block>
+<TagChange entity="4" tag="19" value="6"/>
+<Block entity="5" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2024-12-01T09:11:43.386393+08:00">
+<TagChange entity="5" tag="26" value="4"/>
+<TagChange entity="5" tag="25" value="0"/>
+<TagChange entity="5" tag="269" value="0"/>
+<TagChange entity="5" tag="317" value="0"/>
+<TagChange entity="5" tag="358" value="0"/>
+<TagChange entity="4" tag="198" value="17"/>
+<TagChange entity="5" tag="398" value="0"/>
+<TagChange entity="6" tag="398" value="0"/>
+<TagChange entity="5" tag="368" value="0"/>
+<TagChange entity="6" tag="368" value="0"/>
+<TagChange entity="6" tag="417" value="0"/>
+<TagChange entity="4" tag="369" value="0"/>
+</Block>
+<TagChange entity="189" tag="1373" value="2"/>
+<TagChange entity="146" tag="1373" value="3"/>
+<TagChange entity="4" tag="19" value="17"/>
+<Block entity="47" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2024-12-01T09:11:43.436412+08:00"/>
+<Block entity="47" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="2" ts="2024-12-01T09:11:43.436412+08:00">
+<TagChange entity="77" tag="1360" value="3"/>
+<TagChange entity="116" tag="1373" value="4"/>
+<TagChange entity="77" tag="1373" value="5"/>
+<TagChange entity="5" tag="2989" value="0"/>
+<TagChange entity="6" tag="2989" value="0"/>
+<FullEntity id="707" cardID="TB_BaconShop_UpdateDmgCap">
+<Tag tag="50" value="2"/>
+<Tag tag="202" value="5"/>
+<Tag tag="49" value="6"/>
+<Tag tag="53" value="707"/>
+<Tag tag="313" value="47"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1200" value="1"/>
+<Tag tag="1284" value="57980"/>
+</FullEntity>
+<TagChange entity="707" tag="49" value="1"/>
+<MetaData meta="7" data="0" infoCount="1">
+<Info index="0" entity="707"/>
+</MetaData>
+<Block entity="707" type="3" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2024-12-01T09:11:43.486402+08:00"/>
+<TagChange entity="707" tag="1458" value="0"/>
+<TagChange entity="707" tag="49" value="4"/>
+</Block>
+<Block entity="47" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="29" ts="2024-12-01T09:11:43.486402+08:00"/>
+<Block entity="47" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="35" ts="2024-12-01T09:11:43.486402+08:00"/>
+<Block entity="47" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2024-12-01T09:11:43.486402+08:00">
+<FullEntity id="708">
+<Tag tag="49" value="6"/>
+<Tag tag="50" value="2"/>
+<Tag tag="53" value="708"/>
+</FullEntity>
+<ShowEntity entity="708" cardID="TB_BaconShop_3ofKindChecke">
+<Tag tag="50" value="2"/>
+<Tag tag="202" value="6"/>
+<Tag tag="40" value="5"/>
+<Tag tag="49" value="6"/>
+<Tag tag="53" value="708"/>
+<Tag tag="313" value="47"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1068" value="0"/>
+<Tag tag="1284" value="57980"/>
+</ShowEntity>
+<TagChange entity="708" tag="49" value="1"/>
+<TagChange entity="4" tag="1467" value="1"/>
+<SubSpell spellPrefabGuid="Bacon_MinionSwap_OverrideSpawnIn_Super:69498edad9bb7594e89a3b5e0e41f026" source="47" targetCount="0" ts="2024-12-01T09:11:43.486402+08:00">
+<FullEntity id="709" cardID="BGS_004">
+<Tag tag="50" value="2"/>
+<Tag tag="202" value="4"/>
+<Tag tag="479" value="1"/>
+<Tag tag="47" value="1"/>
+<Tag tag="45" value="4"/>
+<Tag tag="49" value="6"/>
+<Tag tag="53" value="709"/>
+<Tag tag="313" value="47"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1284" value="57980"/>
+<Tag tag="1429" value="59679"/>
+<Tag tag="1593" value="1"/>
+<Tag tag="2840" value="1"/>
+<Tag tag="3085" value="4"/>
+</FullEntity>
+<FullEntity id="710" cardID="BG29_814">
+<Tag tag="50" value="2"/>
+<Tag tag="202" value="4"/>
+<Tag tag="479" value="2"/>
+<Tag tag="47" value="2"/>
+<Tag tag="45" value="1"/>
+<Tag tag="49" value="6"/>
+<Tag tag="53" value="710"/>
+<Tag tag="313" value="47"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1284" value="57980"/>
+<Tag tag="1429" value="108875"/>
+<Tag tag="1500" value="1"/>
+<Tag tag="1531" value="1"/>
+<Tag tag="1591" value="1"/>
+<Tag tag="2840" value="1"/>
+<Tag tag="3085" value="1"/>
+</FullEntity>
+<FullEntity id="711" cardID="BG29_888">
+<Tag tag="50" value="2"/>
+<Tag tag="202" value="4"/>
+<Tag tag="479" value="1"/>
+<Tag tag="47" value="1"/>
+<Tag tag="45" value="4"/>
+<Tag tag="49" value="6"/>
+<Tag tag="53" value="711"/>
+<Tag tag="313" value="47"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1284" value="57980"/>
+<Tag tag="1429" value="113347"/>
+<Tag tag="1591" value="1"/>
+<Tag tag="2840" value="1"/>
+<Tag tag="3085" value="4"/>
+</FullEntity>
+<FullEntity id="712" cardID="BGS_004">
+<Tag tag="50" value="10"/>
+<Tag tag="202" value="4"/>
+<Tag tag="1196" value="1"/>
+<Tag tag="479" value="1"/>
+<Tag tag="47" value="1"/>
+<Tag tag="45" value="4"/>
+<Tag tag="49" value="1"/>
+<Tag tag="53" value="712"/>
+<Tag tag="263" value="1"/>
+<Tag tag="313" value="47"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1254" value="47"/>
+<Tag tag="1284" value="57980"/>
+<Tag tag="1429" value="59679"/>
+<Tag tag="1593" value="1"/>
+<Tag tag="2840" value="1"/>
+<Tag tag="3085" value="4"/>
+</FullEntity>
+<FullEntity id="713" cardID="TB_BaconShop_DragBuy">
+<Tag tag="50" value="2"/>
+<Tag tag="202" value="22"/>
+<Tag tag="49" value="1"/>
+<Tag tag="53" value="713"/>
+<Tag tag="313" value="47"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1284" value="57980"/>
+<Tag tag="2840" value="1"/>
+</FullEntity>
+<TagChange entity="712" tag="2458" value="1"/>
+<TagChange entity="654" tag="48" value="4"/>
+<TagChange entity="713" tag="48" value="3"/>
+<TagChange entity="712" tag="227" value="1"/>
+<TagChange entity="709" tag="49" value="5"/>
+<TagChange entity="709" tag="2840" value="0"/>
+<TagChange entity="709" tag="48" value="0"/>
+<TagChange entity="709" tag="47" value="0"/>
+<TagChange entity="709" tag="45" value="0"/>
+<TagChange entity="709" tag="32" value="0"/>
+<TagChange entity="709" tag="1429" value="0"/>
+<TagChange entity="709" tag="1456" value="0"/>
+<TagChange entity="709" tag="1458" value="0"/>
+<TagChange entity="709" tag="1556" value="0"/>
+<TagChange entity="709" tag="48" value="1"/>
+<TagChange entity="709" tag="47" value="1"/>
+<TagChange entity="709" tag="45" value="4"/>
+<TagChange entity="709" tag="32" value="1"/>
+<TagChange entity="709" tag="1429" value="59679"/>
+<TagChange entity="709" tag="1456" value="1"/>
+<TagChange entity="709" tag="2840" value="1"/>
+<FullEntity id="714" cardID="BG29_814">
+<Tag tag="50" value="10"/>
+<Tag tag="202" value="4"/>
+<Tag tag="1196" value="1"/>
+<Tag tag="479" value="2"/>
+<Tag tag="47" value="2"/>
+<Tag tag="45" value="1"/>
+<Tag tag="49" value="1"/>
+<Tag tag="53" value="714"/>
+<Tag tag="263" value="2"/>
+<Tag tag="313" value="47"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1254" value="47"/>
+<Tag tag="1284" value="57980"/>
+<Tag tag="1429" value="108875"/>
+<Tag tag="1500" value="1"/>
+<Tag tag="1531" value="1"/>
+<Tag tag="1591" value="1"/>
+<Tag tag="2840" value="1"/>
+<Tag tag="3085" value="1"/>
+</FullEntity>
+<FullEntity id="715" cardID="TB_BaconShop_DragBuy">
+<Tag tag="50" value="2"/>
+<Tag tag="202" value="22"/>
+<Tag tag="49" value="1"/>
+<Tag tag="53" value="715"/>
+<Tag tag="313" value="47"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1284" value="57980"/>
+<Tag tag="2840" value="1"/>
+</FullEntity>
+<TagChange entity="714" tag="2458" value="1"/>
+<TagChange entity="715" tag="48" value="3"/>
+<TagChange entity="714" tag="227" value="1"/>
+<TagChange entity="710" tag="49" value="5"/>
+<TagChange entity="710" tag="2840" value="0"/>
+<TagChange entity="710" tag="48" value="0"/>
+<TagChange entity="710" tag="47" value="0"/>
+<TagChange entity="710" tag="45" value="0"/>
+<TagChange entity="710" tag="32" value="0"/>
+<TagChange entity="710" tag="1429" value="0"/>
+<TagChange entity="710" tag="1456" value="0"/>
+<TagChange entity="710" tag="1458" value="0"/>
+<TagChange entity="710" tag="1531" value="0"/>
+<TagChange entity="710" tag="1556" value="0"/>
+<TagChange entity="710" tag="48" value="1"/>
+<TagChange entity="710" tag="47" value="2"/>
+<TagChange entity="710" tag="45" value="1"/>
+<TagChange entity="710" tag="32" value="1"/>
+<TagChange entity="710" tag="1429" value="108875"/>
+<TagChange entity="710" tag="1456" value="1"/>
+<TagChange entity="710" tag="1531" value="1"/>
+<TagChange entity="710" tag="2840" value="1"/>
+<FullEntity id="716" cardID="BG29_888">
+<Tag tag="50" value="10"/>
+<Tag tag="202" value="4"/>
+<Tag tag="1196" value="1"/>
+<Tag tag="479" value="1"/>
+<Tag tag="47" value="1"/>
+<Tag tag="45" value="4"/>
+<Tag tag="49" value="1"/>
+<Tag tag="53" value="716"/>
+<Tag tag="263" value="3"/>
+<Tag tag="313" value="47"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1254" value="47"/>
+<Tag tag="1284" value="57980"/>
+<Tag tag="1429" value="113347"/>
+<Tag tag="1591" value="1"/>
+<Tag tag="2840" value="1"/>
+<Tag tag="3085" value="4"/>
+</FullEntity>
+<FullEntity id="717" cardID="TB_BaconShop_DragBuy">
+<Tag tag="50" value="2"/>
+<Tag tag="202" value="22"/>
+<Tag tag="49" value="1"/>
+<Tag tag="53" value="717"/>
+<Tag tag="313" value="47"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1284" value="57980"/>
+<Tag tag="2840" value="1"/>
+</FullEntity>
+<TagChange entity="716" tag="2458" value="1"/>
+<TagChange entity="717" tag="48" value="3"/>
+<TagChange entity="716" tag="227" value="1"/>
+<TagChange entity="711" tag="49" value="5"/>
+<TagChange entity="711" tag="2840" value="0"/>
+<TagChange entity="711" tag="48" value="0"/>
+<TagChange entity="711" tag="47" value="0"/>
+<TagChange entity="711" tag="45" value="0"/>
+<TagChange entity="711" tag="32" value="0"/>
+<TagChange entity="711" tag="1429" value="0"/>
+<TagChange entity="711" tag="1456" value="0"/>
+<TagChange entity="711" tag="1458" value="0"/>
+<TagChange entity="711" tag="1556" value="0"/>
+<TagChange entity="711" tag="48" value="1"/>
+<TagChange entity="711" tag="47" value="1"/>
+<TagChange entity="711" tag="45" value="4"/>
+<TagChange entity="711" tag="32" value="1"/>
+<TagChange entity="711" tag="1429" value="113347"/>
+<TagChange entity="711" tag="1456" value="1"/>
+<TagChange entity="711" tag="2840" value="1"/>
+<FullEntity id="718" cardID="BG28_512">
+<Tag tag="50" value="2"/>
+<Tag tag="202" value="42"/>
+<Tag tag="49" value="6"/>
+<Tag tag="53" value="718"/>
+<Tag tag="313" value="47"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1284" value="57980"/>
+<Tag tag="1635" value="9"/>
+<Tag tag="2840" value="1"/>
+<Tag tag="3081" value="1"/>
+</FullEntity>
+<FullEntity id="719" cardID="BG28_512">
+<Tag tag="50" value="10"/>
+<Tag tag="202" value="42"/>
+<Tag tag="49" value="1"/>
+<Tag tag="53" value="719"/>
+<Tag tag="263" value="4"/>
+<Tag tag="313" value="47"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1284" value="57980"/>
+<Tag tag="1635" value="9"/>
+<Tag tag="2840" value="1"/>
+<Tag tag="3081" value="1"/>
+</FullEntity>
+<TagChange entity="718" tag="49" value="5"/>
+<TagChange entity="718" tag="2840" value="0"/>
+<TagChange entity="718" tag="48" value="0"/>
+<TagChange entity="718" tag="1458" value="0"/>
+<TagChange entity="718" tag="1556" value="0"/>
+<TagChange entity="718" tag="1635" value="0"/>
+<TagChange entity="718" tag="48" value="2"/>
+<TagChange entity="718" tag="1635" value="9"/>
+<TagChange entity="718" tag="2840" value="1"/>
+</SubSpell>
+<TagChange entity="4" tag="1458" value="0"/>
+<Block entity="651" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2024-12-01T09:11:43.486402+08:00"/>
+<TagChange entity="4" tag="6" value="0"/>
+<TagChange entity="4" tag="6" value="113"/>
+</Block>
+<Block entity="217" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" triggerKeyword="2882" ts="2024-12-01T09:11:43.486402+08:00"/>
+<Block entity="246" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2024-12-01T09:11:43.486402+08:00">
+<TagChange entity="246" tag="3738" value="4"/>
+<TagChange entity="246" tag="2" value="4"/>
+<FullEntity id="720" cardID="TB_BaconShop_DragBuy_Spell">
+<Tag tag="50" value="2"/>
+<Tag tag="202" value="22"/>
+<Tag tag="49" value="1"/>
+<Tag tag="53" value="720"/>
+<Tag tag="313" value="47"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1284" value="57980"/>
+<Tag tag="2840" value="1"/>
+</FullEntity>
+<TagChange entity="719" tag="2458" value="1"/>
+<TagChange entity="720" tag="48" value="2"/>
+</Block>
+<Block entity="247" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2024-12-01T09:11:43.486402+08:00">
+<TagChange entity="247" tag="3738" value="7"/>
+<TagChange entity="247" tag="2" value="7"/>
+</Block>
+<Block entity="5" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2024-12-01T09:11:43.486402+08:00">
+<TagChange entity="4" tag="198" value="9"/>
+</Block>
+<Block entity="47" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="7" ts="2024-12-01T09:11:43.486402+08:00"/>
+<TagChange entity="77" tag="1373" value="4"/>
+<TagChange entity="116" tag="1373" value="5"/>
+<TagChange entity="146" tag="1373" value="2"/>
+<TagChange entity="189" tag="1373" value="3"/>
+<TagChange entity="116" tag="1373" value="4"/>
+<TagChange entity="77" tag="1373" value="5"/>
+<TagChange entity="189" tag="1373" value="2"/>
+<TagChange entity="146" tag="1373" value="3"/>
+<TagChange entity="146" tag="1373" value="2"/>
+<TagChange entity="189" tag="1373" value="3"/>
+<TagChange entity="77" tag="1373" value="4"/>
+<TagChange entity="116" tag="1373" value="5"/>
+<TagChange entity="4" tag="19" value="9"/>
+<Block entity="5" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2024-12-01T09:11:43.670394+08:00">
+<TagChange entity="4" tag="198" value="10"/>
+</Block>
+<Block entity="47" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="4" ts="2024-12-01T09:11:43.670394+08:00">
+<FullEntity id="792" cardID="TB_BaconShop_CheckTriples">
+<Tag tag="50" value="2"/>
+<Tag tag="202" value="5"/>
+<Tag tag="49" value="6"/>
+<Tag tag="53" value="792"/>
+<Tag tag="313" value="47"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1200" value="1"/>
+<Tag tag="1284" value="57980"/>
+</FullEntity>
+<TagChange entity="792" tag="49" value="1"/>
+<MetaData meta="7" data="0" infoCount="1">
+<Info index="0" entity="792"/>
+</MetaData>
+<Block entity="792" type="3" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2024-12-01T09:11:43.670394+08:00"/>
+<TagChange entity="792" tag="49" value="4"/>
+</Block>
+<TagChange entity="4" tag="19" value="10"/>
+<Block entity="5" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2024-12-01T09:11:43.670394+08:00">
+<TagChange entity="4" tag="198" value="12"/>
+</Block>
+<TagChange entity="146" tag="1377" value="2"/>
+<TagChange entity="116" tag="1377" value="2"/>
+<TagChange entity="131" tag="1377" value="2"/>
+<TagChange entity="161" tag="1377" value="2"/>
+<TagChange entity="101" tag="1377" value="2"/>
+<TagChange entity="176" tag="1377" value="2"/>
+<TagChange entity="188" tag="955" value="1"/>
+<TagChange entity="188" tag="2" value="3"/>
+<TagChange entity="189" tag="292" value="13"/>
+<SendOption option="5" subOption="-1" target="0" position="0" ts="2024-12-01T09:12:20.312252+08:00"/>
+<Block entity="654" type="7" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2024-12-01T09:12:20.591243+08:00">
+<TagChange entity="5" tag="25" value="4"/>
+<TagChange entity="5" tag="418" value="7"/>
+<Block entity="654" type="3" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2024-12-01T09:12:20.591243+08:00">
+<TagChange entity="5" tag="1377" value="2"/>
+<TagChange entity="77" tag="1377" value="2"/>
+<TagChange entity="654" tag="1437" value="0"/>
+<SubSpell spellPrefabGuid="Holy_Targeted_Healing_ImpactOnly_FX:98a6ddb5b34da2a419a16dcab9a2ef2c" source="654" targetCount="1" ts="2024-12-01T09:12:20.591243+08:00">
+<SubSpellTarget index="0" entity="654"/>
+</SubSpell>
+<TagChange entity="654" tag="1458" value="0"/>
+<TagChange entity="654" tag="49" value="6"/>
+<FullEntity id="819" cardID="TB_BaconShopTechUp03_Button">
+<Tag tag="50" value="2"/>
+<Tag tag="202" value="12"/>
+<Tag tag="49" value="1"/>
+<Tag tag="53" value="819"/>
+<Tag tag="313" value="654"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1284" value="59561"/>
+<Tag tag="2840" value="1"/>
+</FullEntity>
+<TagChange entity="4" tag="6" value="0"/>
+<TagChange entity="4" tag="6" value="101"/>
+<TagChange entity="654" tag="1493" value="1"/>
+</Block>
+<TagChange entity="654" tag="48" value="5"/>
+<Block entity="708" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2024-12-01T09:12:20.591243+08:00"/>
+<Block entity="708" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2024-12-01T09:12:20.591243+08:00"/>
+<TagChange entity="5" tag="358" value="1"/>
+<Block entity="5" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="14" ts="2024-12-01T09:12:20.591243+08:00"/>
+<Block entity="6" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="14" ts="2024-12-01T09:12:20.591243+08:00"/>
+</Block>
+<MetaData meta="21" data="0" infoCount="0"/>
+<TagChange entity="4" tag="19" value="12"/>
+<Block entity="47" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="33" ts="2024-12-01T09:12:40.167250+08:00">
+<TagChange entity="518" tag="1556" value="0"/>
+<TagChange entity="518" tag="1556" value="1"/>
+</Block>
+<Block entity="47" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="40" ts="2024-12-01T09:12:40.167250+08:00"/>
+<Block entity="708" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="2" ts="2024-12-01T09:12:40.167250+08:00">
+<TagChange entity="708" tag="18" value="708"/>
+<TagChange entity="708" tag="49" value="4"/>
+<HideEntity entity="708" zone="4" ts="2024-12-01T09:12:40.167250+08:00"/>
+</Block>
+<Block entity="47" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" triggerKeyword="2882" ts="2024-12-01T09:12:40.167250+08:00">
+<TagChange entity="4" tag="1458" value="1"/>
+<TagChange entity="4" tag="6" value="0"/>
+<TagChange entity="4" tag="6" value="117"/>
+</Block>
+<Block entity="47" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="29" ts="2024-12-01T09:12:40.167250+08:00">
+<TagChange entity="518" tag="2483" value="0"/>
+</Block>
+<Block entity="47" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="41" ts="2024-12-01T09:12:40.167250+08:00"/>
+<Block entity="458" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2024-12-01T09:12:40.167250+08:00">
+<SubSpell spellPrefabGuid="Coins_ImpactOnly_FX:636e6c2d37fdf2945b2232ef7ba20145" source="458" targetCount="1" ts="2024-12-01T09:12:40.167250+08:00">
+<SubSpellTarget index="0" entity="458"/>
+<TagChange entity="458" tag="48" value="9"/>
+</SubSpell>
+</Block>
+<Block entity="5" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2024-12-01T09:12:40.167250+08:00">
+<TagChange entity="4" tag="198" value="16"/>
+</Block>
+<Block entity="5" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2024-12-01T09:12:40.167250+08:00"/>
+<Block entity="6" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2024-12-01T09:12:40.167250+08:00"/>
+<Block entity="652" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2024-12-01T09:12:40.167250+08:00"/>
+<Block entity="47" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="22" ts="2024-12-01T09:12:40.167250+08:00"/>
+<Block entity="47" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="35" ts="2024-12-01T09:12:40.167250+08:00">
+<TagChange entity="489" tag="26" value="4"/>
+<TagChange entity="489" tag="1377" value="2"/>
+</Block>
+<Block entity="47" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="41" ts="2024-12-01T09:12:40.167250+08:00"/>
+<TagChange entity="4" tag="19" value="16"/>
+<Block entity="5" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2024-12-01T09:12:40.167250+08:00">
+<TagChange entity="4" tag="198" value="13"/>
+</Block>
+<Block entity="6" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2024-12-01T09:12:40.167250+08:00"/>
+<TagChange entity="4" tag="19" value="13"/>
+<Block entity="4" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2024-12-01T09:12:40.167250+08:00">
+<TagChange entity="5" tag="7" value="50"/>
+<TagChange entity="5" tag="23" value="0"/>
+<TagChange entity="6" tag="23" value="1"/>
+<TagChange entity="4" tag="20" value="4"/>
+<TagChange entity="6" tag="20" value="2"/>
+<TagChange entity="4" tag="198" value="6"/>
+</Block>
+<Block entity="47" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2024-12-01T09:12:40.167250+08:00">
+<TagChange entity="4" tag="6" value="2"/>
+<MetaData meta="20" data="3000" infoCount="1">
+<Info index="0" entity="47"/>
+</MetaData>
+<TagChange entity="712" tag="1458" value="0"/>
+<TagChange entity="719" tag="263" value="3"/>
+<TagChange entity="716" tag="263" value="2"/>
+<TagChange entity="714" tag="263" value="1"/>
+<TagChange entity="712" tag="263" value="0"/>
+<TagChange entity="712" tag="49" value="5"/>
+<TagChange entity="712" tag="2840" value="0"/>
+<TagChange entity="712" tag="48" value="0"/>
+<TagChange entity="712" tag="47" value="0"/>
+<TagChange entity="712" tag="45" value="0"/>
+<TagChange entity="712" tag="32" value="0"/>
+<TagChange entity="712" tag="227" value="0"/>
+<TagChange entity="712" tag="1429" value="0"/>
+<TagChange entity="712" tag="1456" value="0"/>
+<TagChange entity="712" tag="1556" value="0"/>
+<TagChange entity="712" tag="48" value="1"/>
+<TagChange entity="712" tag="47" value="1"/>
+<TagChange entity="712" tag="45" value="4"/>
+<TagChange entity="712" tag="32" value="1"/>
+<TagChange entity="712" tag="1429" value="59679"/>
+<TagChange entity="712" tag="1456" value="1"/>
+<TagChange entity="712" tag="2840" value="1"/>
+<TagChange entity="714" tag="1458" value="0"/>
+<TagChange entity="719" tag="263" value="2"/>
+<TagChange entity="716" tag="263" value="1"/>
+<TagChange entity="714" tag="263" value="0"/>
+<TagChange entity="714" tag="49" value="5"/>
+<TagChange entity="714" tag="2840" value="0"/>
+<TagChange entity="714" tag="48" value="0"/>
+<TagChange entity="714" tag="47" value="0"/>
+<TagChange entity="714" tag="45" value="0"/>
+<TagChange entity="714" tag="32" value="0"/>
+<TagChange entity="714" tag="227" value="0"/>
+<TagChange entity="714" tag="1429" value="0"/>
+<TagChange entity="714" tag="1456" value="0"/>
+<TagChange entity="714" tag="1531" value="0"/>
+<TagChange entity="714" tag="1556" value="0"/>
+<TagChange entity="714" tag="48" value="1"/>
+<TagChange entity="714" tag="47" value="2"/>
+<TagChange entity="714" tag="45" value="1"/>
+<TagChange entity="714" tag="32" value="1"/>
+<TagChange entity="714" tag="1429" value="108875"/>
+<TagChange entity="714" tag="1456" value="1"/>
+<TagChange entity="714" tag="1531" value="1"/>
+<TagChange entity="714" tag="2840" value="1"/>
+<TagChange entity="716" tag="1458" value="0"/>
+<TagChange entity="719" tag="263" value="1"/>
+<TagChange entity="716" tag="263" value="0"/>
+<TagChange entity="716" tag="49" value="5"/>
+<TagChange entity="716" tag="2840" value="0"/>
+<TagChange entity="716" tag="48" value="0"/>
+<TagChange entity="716" tag="47" value="0"/>
+<TagChange entity="716" tag="45" value="0"/>
+<TagChange entity="716" tag="32" value="0"/>
+<TagChange entity="716" tag="227" value="0"/>
+<TagChange entity="716" tag="1429" value="0"/>
+<TagChange entity="716" tag="1456" value="0"/>
+<TagChange entity="716" tag="1556" value="0"/>
+<TagChange entity="716" tag="48" value="1"/>
+<TagChange entity="716" tag="47" value="1"/>
+<TagChange entity="716" tag="45" value="4"/>
+<TagChange entity="716" tag="32" value="1"/>
+<TagChange entity="716" tag="1429" value="113347"/>
+<TagChange entity="716" tag="1456" value="1"/>
+<TagChange entity="716" tag="2840" value="1"/>
+<TagChange entity="719" tag="1458" value="0"/>
+<TagChange entity="719" tag="263" value="0"/>
+<TagChange entity="719" tag="49" value="5"/>
+<TagChange entity="719" tag="2840" value="0"/>
+<TagChange entity="719" tag="48" value="0"/>
+<TagChange entity="719" tag="1556" value="0"/>
+<TagChange entity="719" tag="1635" value="0"/>
+<TagChange entity="719" tag="48" value="2"/>
+<TagChange entity="719" tag="1635" value="9"/>
+<TagChange entity="719" tag="2840" value="1"/>
+<TagChange entity="651" tag="1458" value="0"/>
+<TagChange entity="651" tag="49" value="5"/>
+<TagChange entity="651" tag="2840" value="0"/>
+<TagChange entity="651" tag="48" value="0"/>
+<TagChange entity="651" tag="1437" value="0"/>
+<TagChange entity="651" tag="1438" value="0"/>
+<TagChange entity="651" tag="1556" value="0"/>
+<TagChange entity="651" tag="48" value="1"/>
+<TagChange entity="651" tag="1437" value="1"/>
+<TagChange entity="651" tag="1438" value="2"/>
+<TagChange entity="651" tag="2840" value="1"/>
+<TagChange entity="652" tag="1458" value="0"/>
+<TagChange entity="652" tag="49" value="5"/>
+<TagChange entity="652" tag="2840" value="0"/>
+<TagChange entity="652" tag="3" value="0"/>
+<TagChange entity="652" tag="1437" value="0"/>
+<TagChange entity="652" tag="1438" value="0"/>
+<TagChange entity="652" tag="1556" value="0"/>
+<TagChange entity="652" tag="3" value="10"/>
+<TagChange entity="652" tag="1437" value="1"/>
+<TagChange entity="652" tag="1438" value="1"/>
+<TagChange entity="652" tag="2840" value="1"/>
+<TagChange entity="653" tag="1458" value="0"/>
+<TagChange entity="653" tag="49" value="5"/>
+<TagChange entity="653" tag="2840" value="0"/>
+<TagChange entity="653" tag="1437" value="0"/>
+<TagChange entity="653" tag="1464" value="0"/>
+<TagChange entity="653" tag="1556" value="0"/>
+<TagChange entity="653" tag="1437" value="1"/>
+<TagChange entity="653" tag="1464" value="2"/>
+<TagChange entity="653" tag="2840" value="1"/>
+<TagChange entity="713" tag="1458" value="0"/>
+<TagChange entity="713" tag="49" value="5"/>
+<TagChange entity="713" tag="2840" value="0"/>
+<TagChange entity="713" tag="1437" value="0"/>
+<TagChange entity="713" tag="1464" value="0"/>
+<TagChange entity="713" tag="1556" value="0"/>
+<TagChange entity="713" tag="1437" value="1"/>
+<TagChange entity="713" tag="1464" value="1"/>
+<TagChange entity="713" tag="2840" value="1"/>
+<TagChange entity="715" tag="1458" value="0"/>
+<TagChange entity="715" tag="49" value="5"/>
+<TagChange entity="715" tag="2840" value="0"/>
+<TagChange entity="715" tag="1437" value="0"/>
+<TagChange entity="715" tag="1464" value="0"/>
+<TagChange entity="715" tag="1556" value="0"/>
+<TagChange entity="715" tag="1437" value="1"/>
+<TagChange entity="715" tag="1464" value="1"/>
+<TagChange entity="715" tag="2840" value="1"/>
+<TagChange entity="717" tag="1458" value="0"/>
+<TagChange entity="717" tag="49" value="5"/>
+<TagChange entity="717" tag="2840" value="0"/>
+<TagChange entity="717" tag="1437" value="0"/>
+<TagChange entity="717" tag="1464" value="0"/>
+<TagChange entity="717" tag="1556" value="0"/>
+<TagChange entity="717" tag="1437" value="1"/>
+<TagChange entity="717" tag="1464" value="1"/>
+<TagChange entity="717" tag="2840" value="1"/>
+<TagChange entity="720" tag="49" value="5"/>
+<TagChange entity="720" tag="2840" value="0"/>
+<TagChange entity="720" tag="1437" value="0"/>
+<TagChange entity="720" tag="1464" value="0"/>
+<TagChange entity="720" tag="1556" value="0"/>
+<TagChange entity="720" tag="1437" value="1"/>
+<TagChange entity="720" tag="1464" value="1"/>
+<TagChange entity="720" tag="2840" value="1"/>
+<TagChange entity="819" tag="49" value="5"/>
+<TagChange entity="819" tag="2840" value="0"/>
+<TagChange entity="819" tag="48" value="0"/>
+<TagChange entity="819" tag="1437" value="0"/>
+<TagChange entity="819" tag="1438" value="0"/>
+<TagChange entity="819" tag="1556" value="0"/>
+<TagChange entity="819" tag="48" value="7"/>
+<TagChange entity="819" tag="1437" value="1"/>
+<TagChange entity="819" tag="1438" value="3"/>
+<TagChange entity="819" tag="2840" value="1"/>
+<TagChange entity="4" tag="1467" value="0"/>
+<FullEntity id="833" cardID="TB_BaconShop_HERO_90">
+<Tag tag="50" value="2"/>
+<Tag tag="202" value="3"/>
+<Tag tag="30" value="3"/>
+<Tag tag="45" value="30"/>
+<Tag tag="49" value="6"/>
+<Tag tag="53" value="833"/>
+<Tag tag="292" value="10"/>
+<Tag tag="313" value="4"/>
+<Tag tag="380" value="64481"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1377" value="2"/>
+<Tag tag="1491" value="1"/>
+<Tag tag="1494" value="6"/>
+<Tag tag="2130" value="77829"/>
+<Tag tag="2210" value="1"/>
+<Tag tag="2263" value="2"/>
+<Tag tag="2348" value="40"/>
+<Tag tag="2840" value="1"/>
+<Tag tag="3085" value="30"/>
+<Tag tag="3190" value="100"/>
+<Tag tag="3206" value="8"/>
+</FullEntity>
+<TagChange entity="833" tag="3048" value="1"/>
+<FullEntity id="834" cardID="TB_BaconShop_HP_101">
+<Tag tag="50" value="2"/>
+<Tag tag="202" value="10"/>
+<Tag tag="49" value="6"/>
+<Tag tag="53" value="834"/>
+<Tag tag="262" value="458"/>
+<Tag tag="313" value="4"/>
+<Tag tag="684" value="1"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="2376" value="64480"/>
+</FullEntity>
+<FullEntity id="835" cardID="BG30_Trinket_1st">
+<Tag tag="50" value="2"/>
+<Tag tag="202" value="44"/>
+<Tag tag="49" value="6"/>
+<Tag tag="53" value="835"/>
+<Tag tag="313" value="4"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1635" value="11"/>
+<Tag tag="2921" value="1"/>
+<Tag tag="3169" value="1"/>
+<Tag tag="3565" value="1"/>
+<Tag tag="3639" value="1"/>
+<Tag tag="3705" value="1"/>
+<Tag tag="3738" value="4"/>
+</FullEntity>
+<FullEntity id="836" cardID="BG30_Trinket_2nd">
+<Tag tag="50" value="2"/>
+<Tag tag="202" value="44"/>
+<Tag tag="49" value="6"/>
+<Tag tag="53" value="836"/>
+<Tag tag="313" value="4"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1635" value="12"/>
+<Tag tag="2921" value="2"/>
+<Tag tag="3565" value="1"/>
+<Tag tag="3639" value="1"/>
+<Tag tag="3705" value="1"/>
+<Tag tag="3738" value="7"/>
+</FullEntity>
+<FullEntity id="837">
+<Tag tag="49" value="6"/>
+<Tag tag="50" value="2"/>
+<Tag tag="53" value="837"/>
+</FullEntity>
+<FullEntity id="838">
+<Tag tag="49" value="6"/>
+<Tag tag="50" value="2"/>
+<Tag tag="53" value="838"/>
+</FullEntity>
+<TagChange entity="518" tag="1556" value="0"/>
+<TagChange entity="518" tag="1556" value="1"/>
+<FullEntity id="839" cardID="BGS_061">
+<Tag tag="50" value="2"/>
+<Tag tag="202" value="4"/>
+<Tag tag="479" value="3"/>
+<Tag tag="47" value="3"/>
+<Tag tag="45" value="1"/>
+<Tag tag="49" value="6"/>
+<Tag tag="53" value="839"/>
+<Tag tag="217" value="1"/>
+<Tag tag="313" value="47"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1284" value="57980"/>
+<Tag tag="1429" value="62262"/>
+<Tag tag="1596" value="1"/>
+<Tag tag="2840" value="1"/>
+<Tag tag="3085" value="1"/>
+</FullEntity>
+<TagChange entity="720" tag="48" value="0"/>
+<TagChange entity="717" tag="48" value="0"/>
+<TagChange entity="715" tag="48" value="0"/>
+<TagChange entity="713" tag="48" value="0"/>
+<TagChange entity="839" tag="18" value="365"/>
+<TagChange entity="839" tag="1565" value="534"/>
+<FullEntity id="840" cardID="BGS_061">
+<Tag tag="50" value="2"/>
+<Tag tag="202" value="4"/>
+<Tag tag="479" value="3"/>
+<Tag tag="47" value="3"/>
+<Tag tag="45" value="1"/>
+<Tag tag="49" value="6"/>
+<Tag tag="53" value="840"/>
+<Tag tag="217" value="1"/>
+<Tag tag="313" value="47"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1284" value="57980"/>
+<Tag tag="1429" value="62262"/>
+<Tag tag="1596" value="1"/>
+<Tag tag="2840" value="1"/>
+<Tag tag="3085" value="1"/>
+</FullEntity>
+<TagChange entity="840" tag="18" value="253"/>
+<TagChange entity="840" tag="1565" value="518"/>
+<TagChange entity="518" tag="1556" value="0"/>
+<TagChange entity="518" tag="1556" value="1"/>
+<MetaData meta="19" data="1500" infoCount="1">
+<Info index="0" entity="47"/>
+</MetaData>
+<MetaData meta="20" data="1500" infoCount="1">
+<Info index="0" entity="47"/>
+</MetaData>
+</Block>
+<TagChange entity="4" tag="19" value="6"/>
+<Block entity="6" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2024-12-01T09:12:40.351477+08:00">
+<TagChange entity="4" tag="198" value="17"/>
+</Block>
+<TagChange entity="4" tag="19" value="17"/>
+<Block entity="6" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2024-12-01T09:12:40.351477+08:00">
+<TagChange entity="4" tag="198" value="9"/>
+</Block>
+<Block entity="47" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2024-12-01T09:12:40.351477+08:00">
+<TagChange entity="5" tag="2989" value="2"/>
+<TagChange entity="6" tag="2989" value="3"/>
+<FullEntity id="910" cardID="TB_BaconShop_HERO_90">
+<Tag tag="50" value="10"/>
+<Tag tag="202" value="3"/>
+<Tag tag="45" value="30"/>
+<Tag tag="49" value="1"/>
+<Tag tag="53" value="910"/>
+<Tag tag="292" value="10"/>
+<Tag tag="313" value="47"/>
+<Tag tag="380" value="64481"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1284" value="57980"/>
+<Tag tag="1491" value="1"/>
+<Tag tag="2130" value="77829"/>
+<Tag tag="2840" value="1"/>
+<Tag tag="3085" value="30"/>
+<Tag tag="3190" value="100"/>
+<Tag tag="3206" value="8"/>
+</FullEntity>
+<TagChange entity="910" tag="1377" value="2"/>
+<TagChange entity="910" tag="1494" value="6"/>
+<TagChange entity="910" tag="30" value="3"/>
+<TagChange entity="910" tag="2348" value="40"/>
+<TagChange entity="910" tag="1565" value="833"/>
+<TagChange entity="910" tag="262" value="46"/>
+<TagChange entity="46" tag="49" value="6"/>
+<TagChange entity="6" tag="27" value="910"/>
+<TagChange entity="910" tag="3048" value="1"/>
+<HideEntity entity="834" zone="6" ts="2024-12-01T09:12:40.351477+08:00"/>
+<TagChange entity="834" tag="50" value="10"/>
+<ShowEntity entity="834" cardID="TB_BaconShop_HP_101">
+<Tag tag="50" value="10"/>
+<Tag tag="202" value="10"/>
+<Tag tag="49" value="1"/>
+<Tag tag="53" value="834"/>
+<Tag tag="262" value="458"/>
+<Tag tag="313" value="4"/>
+<Tag tag="684" value="1"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1068" value="0"/>
+<Tag tag="2376" value="64480"/>
+</ShowEntity>
+<Block entity="834" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="3" ts="2024-12-01T09:12:40.351477+08:00"/>
+<HideEntity entity="835" zone="6" ts="2024-12-01T09:12:40.351477+08:00"/>
+<TagChange entity="835" tag="50" value="10"/>
+<ShowEntity entity="835" cardID="BG30_Trinket_1st">
+<Tag tag="50" value="10"/>
+<Tag tag="202" value="44"/>
+<Tag tag="49" value="1"/>
+<Tag tag="53" value="835"/>
+<Tag tag="313" value="4"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1068" value="0"/>
+<Tag tag="1635" value="11"/>
+<Tag tag="2921" value="1"/>
+<Tag tag="3169" value="1"/>
+<Tag tag="3565" value="1"/>
+<Tag tag="3639" value="1"/>
+<Tag tag="3705" value="1"/>
+<Tag tag="3738" value="4"/>
+</ShowEntity>
+<HideEntity entity="836" zone="6" ts="2024-12-01T09:12:40.351477+08:00"/>
+<TagChange entity="836" tag="50" value="10"/>
+<ShowEntity entity="836" cardID="BG30_Trinket_2nd">
+<Tag tag="50" value="10"/>
+<Tag tag="202" value="44"/>
+<Tag tag="49" value="1"/>
+<Tag tag="53" value="836"/>
+<Tag tag="313" value="4"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1068" value="0"/>
+<Tag tag="1635" value="12"/>
+<Tag tag="2921" value="2"/>
+<Tag tag="3565" value="1"/>
+<Tag tag="3639" value="1"/>
+<Tag tag="3705" value="1"/>
+<Tag tag="3738" value="7"/>
+</ShowEntity>
+<FullEntity id="911">
+<Tag tag="49" value="1"/>
+<Tag tag="50" value="10"/>
+<Tag tag="53" value="911"/>
+</FullEntity>
+<FullEntity id="912">
+<Tag tag="49" value="1"/>
+<Tag tag="50" value="10"/>
+<Tag tag="53" value="912"/>
+</FullEntity>
+<ShowEntity entity="911" cardID="BG29_813e">
+<Tag tag="50" value="10"/>
+<Tag tag="202" value="6"/>
+<Tag tag="40" value="6"/>
+<Tag tag="49" value="1"/>
+<Tag tag="53" value="911"/>
+<Tag tag="313" value="47"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1068" value="0"/>
+<Tag tag="1284" value="57980"/>
+<Tag tag="1565" value="837"/>
+<Tag tag="2860" value="1"/>
+<Tag tag="3669" value="1"/>
+</ShowEntity>
+<ShowEntity entity="912" cardID="Bacon_TagTransferPlayerE">
+<Tag tag="50" value="10"/>
+<Tag tag="202" value="6"/>
+<Tag tag="26" value="4"/>
+<Tag tag="40" value="6"/>
+<Tag tag="49" value="1"/>
+<Tag tag="53" value="912"/>
+<Tag tag="313" value="47"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1068" value="0"/>
+<Tag tag="1284" value="57980"/>
+<Tag tag="1377" value="2"/>
+<Tag tag="1494" value="6"/>
+<Tag tag="1565" value="838"/>
+<Tag tag="2245" value="5"/>
+<Tag tag="2336" value="1"/>
+<Tag tag="2860" value="1"/>
+<Tag tag="3088" value="1"/>
+<Tag tag="3090" value="3245"/>
+<Tag tag="3669" value="1"/>
+<Tag tag="3685" value="1"/>
+</ShowEntity>
+<TagChange entity="6" tag="26" value="4"/>
+<TagChange entity="6" tag="1377" value="2"/>
+<FullEntity id="913" cardID="BGS_061">
+<Tag tag="50" value="10"/>
+<Tag tag="202" value="4"/>
+<Tag tag="1196" value="1"/>
+<Tag tag="479" value="3"/>
+<Tag tag="47" value="3"/>
+<Tag tag="45" value="1"/>
+<Tag tag="49" value="1"/>
+<Tag tag="53" value="913"/>
+<Tag tag="217" value="1"/>
+<Tag tag="263" value="1"/>
+<Tag tag="313" value="47"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1254" value="47"/>
+<Tag tag="1284" value="57980"/>
+<Tag tag="1429" value="62262"/>
+<Tag tag="1596" value="1"/>
+<Tag tag="2840" value="1"/>
+<Tag tag="3085" value="1"/>
+</FullEntity>
+<TagChange entity="913" tag="18" value="365"/>
+<TagChange entity="913" tag="1565" value="839"/>
+<TagChange entity="518" tag="1556" value="0"/>
+<TagChange entity="518" tag="1556" value="1"/>
+<TagChange entity="246" tag="1556" value="0"/>
+<TagChange entity="246" tag="1556" value="1"/>
+<TagChange entity="247" tag="1556" value="0"/>
+<TagChange entity="247" tag="1556" value="1"/>
+<TagChange entity="218" tag="1556" value="0"/>
+<TagChange entity="218" tag="1556" value="1"/>
+<TagChange entity="489" tag="1556" value="0"/>
+<TagChange entity="489" tag="1556" value="1"/>
+<TagChange entity="5" tag="1556" value="0"/>
+<TagChange entity="5" tag="1556" value="1"/>
+<TagChange entity="913" tag="1556" value="0"/>
+<TagChange entity="913" tag="1556" value="1"/>
+<TagChange entity="835" tag="1556" value="0"/>
+<TagChange entity="835" tag="1556" value="1"/>
+<TagChange entity="836" tag="1556" value="0"/>
+<TagChange entity="836" tag="1556" value="1"/>
+<TagChange entity="911" tag="1556" value="0"/>
+<TagChange entity="911" tag="1556" value="1"/>
+<TagChange entity="912" tag="1556" value="0"/>
+<TagChange entity="912" tag="1556" value="1"/>
+<TagChange entity="6" tag="1556" value="0"/>
+<TagChange entity="6" tag="1556" value="1"/>
+<TagChange entity="4" tag="2264" value="0"/>
+<TagChange entity="4" tag="2264" value="1"/>
+<MetaData meta="19" data="1500" infoCount="1">
+<Info index="0" entity="47"/>
+</MetaData>
+<MetaData meta="20" data="1500" infoCount="1">
+<Info index="0" entity="47"/>
+</MetaData>
+</Block>
+<Block entity="47" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="40" ts="2024-12-01T09:12:40.467487+08:00">
+<FullEntity id="914">
+<Tag tag="49" value="6"/>
+<Tag tag="50" value="2"/>
+<Tag tag="53" value="914"/>
+</FullEntity>
+<TagChange entity="914" tag="49" value="1"/>
+</Block>
+<TagChange entity="4" tag="19" value="9"/>
+<Block entity="6" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2024-12-01T09:12:40.467487+08:00">
+<TagChange entity="4" tag="198" value="10"/>
+</Block>
+<Block entity="4" type="6" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2024-12-01T09:12:40.467487+08:00">
+<Block entity="47" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="37" ts="2024-12-01T09:12:40.467487+08:00">
+<FullEntity id="953" cardID="BGS_061">
+<Tag tag="50" value="2"/>
+<Tag tag="202" value="4"/>
+<Tag tag="479" value="3"/>
+<Tag tag="47" value="3"/>
+<Tag tag="45" value="1"/>
+<Tag tag="49" value="6"/>
+<Tag tag="53" value="953"/>
+<Tag tag="217" value="1"/>
+<Tag tag="313" value="47"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1284" value="57980"/>
+<Tag tag="1429" value="62262"/>
+<Tag tag="1596" value="1"/>
+<Tag tag="2840" value="1"/>
+<Tag tag="3085" value="1"/>
+</FullEntity>
+<TagChange entity="953" tag="44" value="3"/>
+<TagChange entity="953" tag="18" value="913"/>
+<TagChange entity="953" tag="1565" value="518"/>
+<TagChange entity="953" tag="44" value="0"/>
+<TagChange entity="953" tag="1493" value="1"/>
+</Block>
+<TagChange entity="5" tag="368" value="1"/>
+<TagChange entity="4" tag="369" value="1"/>
+<TagChange entity="518" tag="263" value="0"/>
+<TagChange entity="518" tag="49" value="4"/>
+<TagChange entity="5" tag="398" value="1"/>
+<TagChange entity="5" tag="412" value="2"/>
+<TagChange entity="840" tag="2483" value="1"/>
+<TagChange entity="5" tag="2186" value="2"/>
+<TagChange entity="518" tag="44" value="0"/>
+<Block entity="47" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="37" ts="2024-12-01T09:12:40.467487+08:00">
+<FullEntity id="954">
+<Tag tag="49" value="6"/>
+<Tag tag="50" value="10"/>
+<Tag tag="53" value="954"/>
+</FullEntity>
+</Block>
+<TagChange entity="6" tag="368" value="1"/>
+<TagChange entity="4" tag="369" value="2"/>
+<TagChange entity="913" tag="1458" value="0"/>
+<TagChange entity="913" tag="263" value="0"/>
+<TagChange entity="913" tag="49" value="4"/>
+<TagChange entity="6" tag="398" value="1"/>
+<TagChange entity="6" tag="412" value="2"/>
+<TagChange entity="6" tag="2186" value="2"/>
+<TagChange entity="913" tag="44" value="0"/>
+</Block>
+<Block entity="518" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" triggerKeyword="217" ts="2024-12-01T09:12:40.467487+08:00">
+<SubSpell spellPrefabGuid="ReuseFX_Water_OverrideSpawn_Hop_Super:9884a977a6337fb48b4c8038b98a7a5a" source="518" targetCount="0" ts="2024-12-01T09:12:40.467487+08:00">
+<FullEntity id="955" cardID="BGS_061t">
+<Tag tag="50" value="2"/>
+<Tag tag="202" value="4"/>
+<Tag tag="1196" value="1"/>
+<Tag tag="479" value="1"/>
+<Tag tag="47" value="1"/>
+<Tag tag="45" value="1"/>
+<Tag tag="49" value="1"/>
+<Tag tag="53" value="955"/>
+<Tag tag="263" value="1"/>
+<Tag tag="313" value="518"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1254" value="518"/>
+<Tag tag="1284" value="61061"/>
+<Tag tag="1429" value="62215"/>
+<Tag tag="2840" value="1"/>
+<Tag tag="3085" value="1"/>
+<Tag tag="3850" value="1"/>
+</FullEntity>
+<Block entity="47" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="40" ts="2024-12-01T09:12:40.467487+08:00"/>
+<Block entity="955" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2024-12-01T09:12:40.467487+08:00">
+<SubSpell spellPrefabGuid="Bacon_Impact_Physical_Shout_Super:b86c16d6cdd6eab479f56188d66a6e18" source="955" targetCount="1" ts="2024-12-01T09:12:40.467487+08:00">
+<SubSpellTarget index="0" entity="955"/>
+</SubSpell>
+<TagChange entity="4" tag="1424" value="0"/>
+<TagChange entity="4" tag="1424" value="1"/>
+</Block>
+</SubSpell>
+</Block>
+<MetaData meta="20" data="200" infoCount="1">
+<Info index="0" entity="518"/>
+</MetaData>
+<Block entity="913" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" triggerKeyword="217" ts="2024-12-01T09:12:40.467487+08:00">
+<SubSpell spellPrefabGuid="ReuseFX_Water_OverrideSpawn_Hop_Super:9884a977a6337fb48b4c8038b98a7a5a" source="913" targetCount="0" ts="2024-12-01T09:12:40.467487+08:00">
+<FullEntity id="956" cardID="BGS_061t">
+<Tag tag="50" value="10"/>
+<Tag tag="202" value="4"/>
+<Tag tag="1196" value="1"/>
+<Tag tag="479" value="1"/>
+<Tag tag="47" value="1"/>
+<Tag tag="45" value="1"/>
+<Tag tag="49" value="1"/>
+<Tag tag="53" value="956"/>
+<Tag tag="263" value="1"/>
+<Tag tag="313" value="913"/>
+<Tag tag="1037" value="10"/>
+<Tag tag="1254" value="913"/>
+<Tag tag="1284" value="61061"/>
+<Tag tag="1429" value="62215"/>
+<Tag tag="2840" value="1"/>
+<Tag tag="3085" value="1"/>
+<Tag tag="3850" value="1"/>
+</FullEntity>
+<Block entity="47" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="40" ts="2024-12-01T09:12:40.467487+08:00"/>
+<Block entity="956" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2024-12-01T09:12:40.467487+08:00">
+<SubSpell spellPrefabGuid="Bacon_Impact_Physical_Shout_Super:b86c16d6cdd6eab479f56188d66a6e18" source="956" targetCount="1" ts="2024-12-01T09:12:40.467487+08:00">
+<SubSpellTarget index="0" entity="956"/>
+</SubSpell>
+<TagChange entity="4" tag="1424" value="0"/>
+<Block entity="4" type="6" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2024-12-01T09:12:40.467487+08:00">
+<Block entity="47" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="37" ts="2024-12-01T09:12:40.467487+08:00"/>
+<TagChange entity="5" tag="368" value="2"/>
+<TagChange entity="4" tag="369" value="3"/>
+<TagChange entity="955" tag="1458" value="0"/>
+<TagChange entity="955" tag="263" value="0"/>
+<TagChange entity="955" tag="49" value="4"/>
+<TagChange entity="5" tag="398" value="2"/>
+<TagChange entity="5" tag="412" value="3"/>
+<TagChange entity="5" tag="2186" value="3"/>
+<TagChange entity="955" tag="44" value="0"/>
+<Block entity="47" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="37" ts="2024-12-01T09:12:40.467487+08:00"/>
+<TagChange entity="6" tag="368" value="2"/>
+<TagChange entity="4" tag="369" value="4"/>
+<TagChange entity="956" tag="1458" value="0"/>
+<TagChange entity="956" tag="263" value="0"/>
+<TagChange entity="956" tag="49" value="4"/>
+<TagChange entity="6" tag="398" value="2"/>
+<TagChange entity="6" tag="412" value="3"/>
+<TagChange entity="6" tag="2186" value="3"/>
+<TagChange entity="956" tag="44" value="0"/>
+</Block>
+<TagChange entity="4" tag="1424" value="1"/>
+</Block>
+</SubSpell>
+</Block>
+<MetaData meta="20" data="200" infoCount="1">
+<Info index="0" entity="913"/>
+</MetaData>
+<Block entity="914" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="1" ts="2024-12-01T09:12:40.467487+08:00">
+<TagChange entity="914" tag="49" value="4"/>
+</Block>
+<Block entity="47" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="14" ts="2024-12-01T09:12:40.467487+08:00"/>
+<Block entity="47" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="21" ts="2024-12-01T09:12:40.467487+08:00"/>
+<Block entity="47" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="28" ts="2024-12-01T09:12:40.467487+08:00"/>
+<Block entity="47" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2024-12-01T09:12:40.484490+08:00">
+<TagChange entity="911" tag="49" value="5"/>
+<HideEntity entity="911" zone="5" ts="2024-12-01T09:12:40.484490+08:00"/>
+<TagChange entity="912" tag="49" value="5"/>
+<HideEntity entity="912" zone="5" ts="2024-12-01T09:12:40.484490+08:00"/>
+<TagChange entity="835" tag="49" value="5"/>
+<TagChange entity="836" tag="49" value="5"/>
+<TagChange entity="840" tag="49" value="1"/>
+<TagChange entity="840" tag="263" value="1"/>
+<TagChange entity="953" tag="49" value="5"/>
+<TagChange entity="707" tag="49" value="5"/>
+<TagChange entity="792" tag="49" value="5"/>
+<TagChange entity="708" tag="49" value="5"/>
+<TagChange entity="518" tag="49" value="5"/>
+<TagChange entity="955" tag="49" value="5"/>
+<TagChange entity="914" tag="49" value="5"/>
+<TagChange entity="913" tag="49" value="5"/>
+<TagChange entity="956" tag="49" value="5"/>
+<TagChange entity="833" tag="49" value="5"/>
+<TagChange entity="837" tag="49" value="5"/>
+<TagChange entity="838" tag="49" value="5"/>
+<TagChange entity="839" tag="49" value="5"/>
+<TagChange entity="4" tag="6" value="1"/>
+<TagChange entity="46" tag="49" value="1"/>
+<TagChange entity="46" tag="262" value="910"/>
+<TagChange entity="910" tag="1458" value="0"/>
+<TagChange entity="910" tag="49" value="5"/>
+<TagChange entity="910" tag="2840" value="0"/>
+<TagChange entity="910" tag="30" value="0"/>
+<TagChange entity="910" tag="45" value="0"/>
+<TagChange entity="910" tag="262" value="0"/>
+<TagChange entity="910" tag="292" value="0"/>
+<TagChange entity="910" tag="380" value="0"/>
+<TagChange entity="910" tag="1377" value="0"/>
+<TagChange entity="910" tag="1491" value="0"/>
+<TagChange entity="910" tag="1493" value="0"/>
+<TagChange entity="910" tag="1494" value="0"/>
+<TagChange entity="910" tag="1556" value="0"/>
+<TagChange entity="910" tag="1565" value="0"/>
+<TagChange entity="910" tag="2130" value="0"/>
+<TagChange entity="910" tag="2348" value="0"/>
+<TagChange entity="910" tag="3048" value="0"/>
+<TagChange entity="910" tag="45" value="30"/>
+<TagChange entity="910" tag="292" value="10"/>
+<TagChange entity="910" tag="380" value="64481"/>
+<TagChange entity="910" tag="1491" value="1"/>
+<TagChange entity="910" tag="2130" value="77829"/>
+<TagChange entity="910" tag="2840" value="1"/>
+<TagChange entity="910" tag="410" value="1"/>
+<TagChange entity="6" tag="27" value="46"/>
+<TagChange entity="834" tag="1458" value="0"/>
+<TagChange entity="834" tag="49" value="5"/>
+<TagChange entity="834" tag="262" value="0"/>
+<TagChange entity="834" tag="1493" value="0"/>
+<TagChange entity="834" tag="1556" value="0"/>
+<TagChange entity="834" tag="2376" value="0"/>
+<TagChange entity="834" tag="2376" value="64480"/>
+<FullEntity id="981" cardID="TB_BaconShop_8p_Reroll_Button">
+<Tag tag="50" value="2"/>
+<Tag tag="202" value="12"/>
+<Tag tag="49" value="1"/>
+<Tag tag="53" value="981"/>
+<Tag tag="313" value="47"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1284" value="57980"/>
+<Tag tag="2840" value="1"/>
+</FullEntity>
+<FullEntity id="982" cardID="TB_BaconShopLockAll_Button">
+<Tag tag="50" value="2"/>
+<Tag tag="202" value="12"/>
+<Tag tag="49" value="1"/>
+<Tag tag="53" value="982"/>
+<Tag tag="313" value="47"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1270" value="1"/>
+<Tag tag="1284" value="57980"/>
+<Tag tag="2840" value="1"/>
+</FullEntity>
+<FullEntity id="983" cardID="TB_BaconShop_DragSell">
+<Tag tag="50" value="2"/>
+<Tag tag="202" value="22"/>
+<Tag tag="49" value="1"/>
+<Tag tag="53" value="983"/>
+<Tag tag="313" value="47"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1284" value="57980"/>
+<Tag tag="2840" value="1"/>
+</FullEntity>
+<FullEntity id="984" cardID="TB_BaconShopTechUp03_Button">
+<Tag tag="50" value="2"/>
+<Tag tag="202" value="12"/>
+<Tag tag="49" value="1"/>
+<Tag tag="53" value="984"/>
+<Tag tag="313" value="47"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1284" value="57980"/>
+<Tag tag="2840" value="1"/>
+</FullEntity>
+<MetaData meta="19" data="1500" infoCount="1">
+<Info index="0" entity="47"/>
+</MetaData>
+<TagChange entity="840" tag="227" value="1"/>
+<TagChange entity="840" tag="1458" value="0"/>
+<TagChange entity="4" tag="19" value="12"/>
+</Block>
+<Block entity="5" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2024-12-01T09:12:40.484490+08:00"/>
+<Block entity="6" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2024-12-01T09:12:40.484490+08:00">
+<TagChange entity="4" tag="198" value="16"/>
+</Block>
+<Block entity="6" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2024-12-01T09:12:40.484490+08:00"/>
+<Block entity="982" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2024-12-01T09:12:40.484490+08:00"/>
+<TagChange entity="101" tag="292" value="2"/>
+<TagChange entity="131" tag="292" value="12"/>
+<TagChange entity="4" tag="19" value="16"/>
+<Block entity="5" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2024-12-01T09:12:40.533690+08:00"/>
+<Block entity="6" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2024-12-01T09:12:40.533690+08:00">
+<TagChange entity="4" tag="198" value="13"/>
+</Block>
+<TagChange entity="146" tag="1373" value="1"/>
+<TagChange entity="189" tag="1373" value="2"/>
+<TagChange entity="77" tag="1373" value="3"/>
+<TagChange entity="116" tag="1373" value="4"/>
+<TagChange entity="131" tag="1373" value="5"/>
+<TagChange entity="5" tag="1360" value="1"/>
+<TagChange entity="4" tag="19" value="13"/>
+<Block entity="4" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2024-12-01T09:12:40.750803+08:00">
+<TagChange entity="6" tag="23" value="0"/>
+<TagChange entity="5" tag="23" value="1"/>
+<TagChange entity="4" tag="20" value="5"/>
+<TagChange entity="5" tag="20" value="3"/>
+<TagChange entity="4" tag="198" value="6"/>
+</Block>
+<TagChange entity="4" tag="19" value="6"/>
+<Block entity="5" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2024-12-01T09:12:40.750803+08:00">
+<TagChange entity="5" tag="26" value="5"/>
+<TagChange entity="5" tag="25" value="0"/>
+<TagChange entity="5" tag="358" value="0"/>
+<TagChange entity="4" tag="198" value="17"/>
+<TagChange entity="5" tag="398" value="0"/>
+<TagChange entity="6" tag="398" value="0"/>
+<TagChange entity="5" tag="368" value="0"/>
+<TagChange entity="6" tag="368" value="0"/>
+<TagChange entity="5" tag="417" value="0"/>
+<TagChange entity="6" tag="417" value="0"/>
+<TagChange entity="4" tag="369" value="0"/>
+</Block>
+<TagChange entity="116" tag="1373" value="3"/>
+<TagChange entity="77" tag="1373" value="4"/>
+<TagChange entity="131" tag="1373" value="4"/>
+<TagChange entity="77" tag="1373" value="5"/>
+<TagChange entity="4" tag="19" value="17"/>
+<Block entity="47" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2024-12-01T09:12:40.833801+08:00"/>
+<Block entity="47" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="2" ts="2024-12-01T09:12:40.833801+08:00">
+<TagChange entity="77" tag="1360" value="1"/>
+<TagChange entity="131" tag="1373" value="3"/>
+<TagChange entity="116" tag="1373" value="4"/>
+<TagChange entity="5" tag="2989" value="0"/>
+<TagChange entity="6" tag="2989" value="0"/>
+<FullEntity id="1043" cardID="TB_BaconShop_UpdateDmgCap">
+<Tag tag="50" value="2"/>
+<Tag tag="202" value="5"/>
+<Tag tag="49" value="6"/>
+<Tag tag="53" value="1043"/>
+<Tag tag="313" value="47"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1200" value="1"/>
+<Tag tag="1284" value="57980"/>
+</FullEntity>
+<TagChange entity="1043" tag="49" value="1"/>
+<MetaData meta="7" data="0" infoCount="1">
+<Info index="0" entity="1043"/>
+</MetaData>
+<Block entity="1043" type="3" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2024-12-01T09:12:40.883791+08:00"/>
+<TagChange entity="1043" tag="1458" value="0"/>
+<TagChange entity="1043" tag="49" value="4"/>
+</Block>
+<Block entity="47" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="29" ts="2024-12-01T09:12:40.883791+08:00"/>
+<Block entity="47" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="35" ts="2024-12-01T09:12:40.883791+08:00"/>
+<Block entity="47" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2024-12-01T09:12:40.883791+08:00">
+<FullEntity id="1044">
+<Tag tag="49" value="6"/>
+<Tag tag="50" value="2"/>
+<Tag tag="53" value="1044"/>
+</FullEntity>
+<ShowEntity entity="1044" cardID="TB_BaconShop_3ofKindChecke">
+<Tag tag="50" value="2"/>
+<Tag tag="202" value="6"/>
+<Tag tag="40" value="5"/>
+<Tag tag="49" value="6"/>
+<Tag tag="53" value="1044"/>
+<Tag tag="313" value="47"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1068" value="0"/>
+<Tag tag="1284" value="57980"/>
+</ShowEntity>
+<TagChange entity="1044" tag="49" value="1"/>
+<TagChange entity="4" tag="1467" value="1"/>
+<SubSpell spellPrefabGuid="Bacon_MinionSwap_OverrideSpawnIn_Super:69498edad9bb7594e89a3b5e0e41f026" source="47" targetCount="0" ts="2024-12-01T09:12:40.883791+08:00">
+<FullEntity id="1045" cardID="BG26_174">
+<Tag tag="50" value="2"/>
+<Tag tag="202" value="4"/>
+<Tag tag="479" value="3"/>
+<Tag tag="47" value="3"/>
+<Tag tag="45" value="1"/>
+<Tag tag="49" value="6"/>
+<Tag tag="53" value="1045"/>
+<Tag tag="313" value="47"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1284" value="57980"/>
+<Tag tag="1429" value="100950"/>
+<Tag tag="1593" value="1"/>
+<Tag tag="2840" value="1"/>
+<Tag tag="3085" value="1"/>
+</FullEntity>
+<FullEntity id="1046" cardID="BG30_103">
+<Tag tag="50" value="2"/>
+<Tag tag="202" value="4"/>
+<Tag tag="479" value="2"/>
+<Tag tag="47" value="2"/>
+<Tag tag="45" value="2"/>
+<Tag tag="49" value="6"/>
+<Tag tag="53" value="1046"/>
+<Tag tag="313" value="47"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1284" value="57980"/>
+<Tag tag="1429" value="113129"/>
+<Tag tag="2840" value="1"/>
+<Tag tag="3085" value="2"/>
+</FullEntity>
+<FullEntity id="1047" cardID="BG20_301">
+<Tag tag="50" value="2"/>
+<Tag tag="202" value="4"/>
+<Tag tag="479" value="1"/>
+<Tag tag="47" value="1"/>
+<Tag tag="45" value="2"/>
+<Tag tag="49" value="6"/>
+<Tag tag="53" value="1047"/>
+<Tag tag="313" value="47"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1284" value="57980"/>
+<Tag tag="1429" value="70148"/>
+<Tag tag="1845" value="1"/>
+<Tag tag="2840" value="1"/>
+<Tag tag="3085" value="2"/>
+</FullEntity>
+<FullEntity id="1048" cardID="BGS_004">
+<Tag tag="50" value="2"/>
+<Tag tag="202" value="4"/>
+<Tag tag="479" value="1"/>
+<Tag tag="47" value="1"/>
+<Tag tag="45" value="4"/>
+<Tag tag="49" value="6"/>
+<Tag tag="53" value="1048"/>
+<Tag tag="313" value="47"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1284" value="57980"/>
+<Tag tag="1429" value="59679"/>
+<Tag tag="1593" value="1"/>
+<Tag tag="2840" value="1"/>
+<Tag tag="3085" value="4"/>
+</FullEntity>
+<FullEntity id="1049" cardID="BG26_174">
+<Tag tag="50" value="10"/>
+<Tag tag="202" value="4"/>
+<Tag tag="1196" value="1"/>
+<Tag tag="479" value="3"/>
+<Tag tag="47" value="3"/>
+<Tag tag="45" value="1"/>
+<Tag tag="49" value="1"/>
+<Tag tag="53" value="1049"/>
+<Tag tag="263" value="1"/>
+<Tag tag="313" value="47"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1254" value="47"/>
+<Tag tag="1284" value="57980"/>
+<Tag tag="1429" value="100950"/>
+<Tag tag="1593" value="1"/>
+<Tag tag="2840" value="1"/>
+<Tag tag="3085" value="1"/>
+</FullEntity>
+<FullEntity id="1050" cardID="TB_BaconShop_DragBuy">
+<Tag tag="50" value="2"/>
+<Tag tag="202" value="22"/>
+<Tag tag="49" value="1"/>
+<Tag tag="53" value="1050"/>
+<Tag tag="313" value="47"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1284" value="57980"/>
+<Tag tag="2840" value="1"/>
+</FullEntity>
+<TagChange entity="1049" tag="2458" value="1"/>
+<TagChange entity="984" tag="48" value="6"/>
+<TagChange entity="1050" tag="48" value="3"/>
+<TagChange entity="1049" tag="227" value="1"/>
+<TagChange entity="1045" tag="49" value="5"/>
+<TagChange entity="1045" tag="2840" value="0"/>
+<TagChange entity="1045" tag="48" value="0"/>
+<TagChange entity="1045" tag="47" value="0"/>
+<TagChange entity="1045" tag="45" value="0"/>
+<TagChange entity="1045" tag="32" value="0"/>
+<TagChange entity="1045" tag="1429" value="0"/>
+<TagChange entity="1045" tag="1456" value="0"/>
+<TagChange entity="1045" tag="1458" value="0"/>
+<TagChange entity="1045" tag="1556" value="0"/>
+<TagChange entity="1045" tag="48" value="2"/>
+<TagChange entity="1045" tag="47" value="3"/>
+<TagChange entity="1045" tag="45" value="1"/>
+<TagChange entity="1045" tag="32" value="1"/>
+<TagChange entity="1045" tag="1429" value="100950"/>
+<TagChange entity="1045" tag="1456" value="1"/>
+<TagChange entity="1045" tag="2840" value="1"/>
+<FullEntity id="1051" cardID="BG30_103">
+<Tag tag="50" value="10"/>
+<Tag tag="202" value="4"/>
+<Tag tag="1196" value="1"/>
+<Tag tag="479" value="2"/>
+<Tag tag="47" value="2"/>
+<Tag tag="45" value="2"/>
+<Tag tag="49" value="1"/>
+<Tag tag="53" value="1051"/>
+<Tag tag="263" value="2"/>
+<Tag tag="313" value="47"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1254" value="47"/>
+<Tag tag="1284" value="57980"/>
+<Tag tag="1429" value="113129"/>
+<Tag tag="2840" value="1"/>
+<Tag tag="3085" value="2"/>
+</FullEntity>
+<FullEntity id="1052" cardID="TB_BaconShop_DragBuy">
+<Tag tag="50" value="2"/>
+<Tag tag="202" value="22"/>
+<Tag tag="49" value="1"/>
+<Tag tag="53" value="1052"/>
+<Tag tag="313" value="47"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1284" value="57980"/>
+<Tag tag="2840" value="1"/>
+</FullEntity>
+<TagChange entity="1051" tag="2458" value="1"/>
+<TagChange entity="1052" tag="48" value="3"/>
+<TagChange entity="1051" tag="227" value="1"/>
+<TagChange entity="1046" tag="49" value="5"/>
+<TagChange entity="1046" tag="2840" value="0"/>
+<TagChange entity="1046" tag="47" value="0"/>
+<TagChange entity="1046" tag="45" value="0"/>
+<TagChange entity="1046" tag="32" value="0"/>
+<TagChange entity="1046" tag="1429" value="0"/>
+<TagChange entity="1046" tag="1456" value="0"/>
+<TagChange entity="1046" tag="1458" value="0"/>
+<TagChange entity="1046" tag="1556" value="0"/>
+<TagChange entity="1046" tag="47" value="2"/>
+<TagChange entity="1046" tag="45" value="2"/>
+<TagChange entity="1046" tag="32" value="1"/>
+<TagChange entity="1046" tag="1429" value="113129"/>
+<TagChange entity="1046" tag="1456" value="1"/>
+<TagChange entity="1046" tag="2840" value="1"/>
+<FullEntity id="1053" cardID="BG20_301">
+<Tag tag="50" value="10"/>
+<Tag tag="202" value="4"/>
+<Tag tag="1196" value="1"/>
+<Tag tag="479" value="1"/>
+<Tag tag="47" value="1"/>
+<Tag tag="45" value="2"/>
+<Tag tag="49" value="1"/>
+<Tag tag="53" value="1053"/>
+<Tag tag="263" value="3"/>
+<Tag tag="313" value="47"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1254" value="47"/>
+<Tag tag="1284" value="57980"/>
+<Tag tag="1429" value="70148"/>
+<Tag tag="1845" value="1"/>
+<Tag tag="2840" value="1"/>
+<Tag tag="3085" value="2"/>
+</FullEntity>
+<FullEntity id="1054" cardID="TB_BaconShop_DragBuy">
+<Tag tag="50" value="2"/>
+<Tag tag="202" value="22"/>
+<Tag tag="49" value="1"/>
+<Tag tag="53" value="1054"/>
+<Tag tag="313" value="47"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1284" value="57980"/>
+<Tag tag="2840" value="1"/>
+</FullEntity>
+<TagChange entity="1053" tag="2458" value="1"/>
+<TagChange entity="1054" tag="48" value="3"/>
+<TagChange entity="1053" tag="227" value="1"/>
+<TagChange entity="1047" tag="49" value="5"/>
+<TagChange entity="1047" tag="2840" value="0"/>
+<TagChange entity="1047" tag="48" value="0"/>
+<TagChange entity="1047" tag="47" value="0"/>
+<TagChange entity="1047" tag="45" value="0"/>
+<TagChange entity="1047" tag="1429" value="0"/>
+<TagChange entity="1047" tag="1456" value="0"/>
+<TagChange entity="1047" tag="1458" value="0"/>
+<TagChange entity="1047" tag="1556" value="0"/>
+<TagChange entity="1047" tag="48" value="3"/>
+<TagChange entity="1047" tag="47" value="1"/>
+<TagChange entity="1047" tag="45" value="2"/>
+<TagChange entity="1047" tag="1429" value="70148"/>
+<TagChange entity="1047" tag="1456" value="1"/>
+<TagChange entity="1047" tag="2840" value="1"/>
+<FullEntity id="1055" cardID="BGS_004">
+<Tag tag="50" value="10"/>
+<Tag tag="202" value="4"/>
+<Tag tag="1196" value="1"/>
+<Tag tag="479" value="1"/>
+<Tag tag="47" value="1"/>
+<Tag tag="45" value="4"/>
+<Tag tag="49" value="1"/>
+<Tag tag="53" value="1055"/>
+<Tag tag="263" value="4"/>
+<Tag tag="313" value="47"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1254" value="47"/>
+<Tag tag="1284" value="57980"/>
+<Tag tag="1429" value="59679"/>
+<Tag tag="1593" value="1"/>
+<Tag tag="2840" value="1"/>
+<Tag tag="3085" value="4"/>
+</FullEntity>
+<FullEntity id="1056" cardID="TB_BaconShop_DragBuy">
+<Tag tag="50" value="2"/>
+<Tag tag="202" value="22"/>
+<Tag tag="49" value="1"/>
+<Tag tag="53" value="1056"/>
+<Tag tag="313" value="47"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1284" value="57980"/>
+<Tag tag="2840" value="1"/>
+</FullEntity>
+<TagChange entity="1055" tag="2458" value="1"/>
+<TagChange entity="1056" tag="48" value="3"/>
+<TagChange entity="1055" tag="227" value="1"/>
+<TagChange entity="1048" tag="49" value="5"/>
+<TagChange entity="1048" tag="2840" value="0"/>
+<TagChange entity="1048" tag="48" value="0"/>
+<TagChange entity="1048" tag="47" value="0"/>
+<TagChange entity="1048" tag="45" value="0"/>
+<TagChange entity="1048" tag="32" value="0"/>
+<TagChange entity="1048" tag="1429" value="0"/>
+<TagChange entity="1048" tag="1456" value="0"/>
+<TagChange entity="1048" tag="1458" value="0"/>
+<TagChange entity="1048" tag="1556" value="0"/>
+<TagChange entity="1048" tag="48" value="1"/>
+<TagChange entity="1048" tag="47" value="1"/>
+<TagChange entity="1048" tag="45" value="4"/>
+<TagChange entity="1048" tag="32" value="1"/>
+<TagChange entity="1048" tag="1429" value="59679"/>
+<TagChange entity="1048" tag="1456" value="1"/>
+<TagChange entity="1048" tag="2840" value="1"/>
+<FullEntity id="1057" cardID="EBG_Spell_014">
+<Tag tag="50" value="2"/>
+<Tag tag="202" value="42"/>
+<Tag tag="49" value="6"/>
+<Tag tag="53" value="1057"/>
+<Tag tag="313" value="47"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1284" value="57980"/>
+<Tag tag="1635" value="9"/>
+<Tag tag="2840" value="1"/>
+<Tag tag="3081" value="1"/>
+</FullEntity>
+<FullEntity id="1058" cardID="EBG_Spell_014">
+<Tag tag="50" value="10"/>
+<Tag tag="202" value="42"/>
+<Tag tag="49" value="1"/>
+<Tag tag="53" value="1058"/>
+<Tag tag="263" value="5"/>
+<Tag tag="313" value="47"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1284" value="57980"/>
+<Tag tag="1635" value="9"/>
+<Tag tag="2840" value="1"/>
+<Tag tag="3081" value="1"/>
+</FullEntity>
+<TagChange entity="1057" tag="49" value="5"/>
+<TagChange entity="1057" tag="2840" value="0"/>
+<TagChange entity="1057" tag="48" value="0"/>
+<TagChange entity="1057" tag="1458" value="0"/>
+<TagChange entity="1057" tag="1556" value="0"/>
+<TagChange entity="1057" tag="1635" value="0"/>
+<TagChange entity="1057" tag="48" value="1"/>
+<TagChange entity="1057" tag="1635" value="9"/>
+<TagChange entity="1057" tag="2840" value="1"/>
+</SubSpell>
+<TagChange entity="4" tag="1458" value="0"/>
+<Block entity="981" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2024-12-01T09:12:40.883791+08:00"/>
+<TagChange entity="4" tag="6" value="0"/>
+<TagChange entity="4" tag="6" value="112"/>
+</Block>
+<Block entity="217" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" triggerKeyword="2882" ts="2024-12-01T09:12:40.883791+08:00"/>
+<Block entity="246" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2024-12-01T09:12:40.883791+08:00">
+<TagChange entity="246" tag="3738" value="3"/>
+<TagChange entity="246" tag="2" value="3"/>
+<FullEntity id="1059" cardID="TB_BaconShop_DragBuy_Spell">
+<Tag tag="50" value="2"/>
+<Tag tag="202" value="22"/>
+<Tag tag="49" value="1"/>
+<Tag tag="53" value="1059"/>
+<Tag tag="313" value="47"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1284" value="57980"/>
+<Tag tag="2840" value="1"/>
+</FullEntity>
+<TagChange entity="1058" tag="2458" value="1"/>
+<TagChange entity="1059" tag="48" value="1"/>
+</Block>
+<Block entity="247" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2024-12-01T09:12:40.883791+08:00">
+<TagChange entity="247" tag="3738" value="6"/>
+<TagChange entity="247" tag="2" value="6"/>
+</Block>
+<Block entity="5" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2024-12-01T09:12:40.883791+08:00">
+<TagChange entity="4" tag="198" value="9"/>
+</Block>
+<Block entity="47" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="7" ts="2024-12-01T09:12:40.883791+08:00"/>
+<TagChange entity="116" tag="1373" value="3"/>
+<TagChange entity="77" tag="1373" value="4"/>
+<TagChange entity="131" tag="1373" value="5"/>
+<TagChange entity="131" tag="1373" value="3"/>
+<TagChange entity="116" tag="1373" value="5"/>
+<TagChange entity="116" tag="1373" value="3"/>
+<TagChange entity="131" tag="1373" value="4"/>
+<TagChange entity="77" tag="1373" value="5"/>
+<TagChange entity="77" tag="1373" value="4"/>
+<TagChange entity="131" tag="1373" value="5"/>
+<TagChange entity="4" tag="19" value="9"/>
+<Block entity="5" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2024-12-01T09:12:41.033798+08:00">
+<TagChange entity="4" tag="198" value="10"/>
+</Block>
+<Block entity="47" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="4" ts="2024-12-01T09:12:41.033798+08:00">
+<FullEntity id="1147" cardID="TB_BaconShop_CheckTriples">
+<Tag tag="50" value="2"/>
+<Tag tag="202" value="5"/>
+<Tag tag="49" value="6"/>
+<Tag tag="53" value="1147"/>
+<Tag tag="313" value="47"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1200" value="1"/>
+<Tag tag="1284" value="57980"/>
+</FullEntity>
+<TagChange entity="1147" tag="49" value="1"/>
+<MetaData meta="7" data="0" infoCount="1">
+<Info index="0" entity="1147"/>
+</MetaData>
+<Block entity="1147" type="3" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2024-12-01T09:12:41.033798+08:00"/>
+<TagChange entity="1147" tag="49" value="4"/>
+</Block>
+<TagChange entity="4" tag="19" value="10"/>
+<Block entity="5" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2024-12-01T09:12:41.033798+08:00">
+<TagChange entity="4" tag="198" value="12"/>
+</Block>
+<TagChange entity="146" tag="292" value="11"/>
+<TagChange entity="188" tag="2" value="2"/>
+<TagChange entity="189" tag="292" value="12"/>
+<SendOption option="1" subOption="-1" target="0" position="1" ts="2024-12-01T09:13:14.840347+08:00"/>
+<Block entity="840" type="12" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2024-12-01T09:13:15.039346+08:00"/>
+<Block entity="1044" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2024-12-01T09:13:15.039346+08:00"/>
+<Block entity="1044" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2024-12-01T09:13:15.039346+08:00"/>
+<TagChange entity="5" tag="358" value="1"/>
+<Block entity="5" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="14" ts="2024-12-01T09:13:15.039346+08:00"/>
+<Block entity="6" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="14" ts="2024-12-01T09:13:15.039346+08:00"/>
+<TagChange entity="131" tag="292" value="10"/>
+<SendOption option="1" subOption="-1" target="0" position="1" ts="2024-12-01T09:13:15.690345+08:00"/>
+<TagChange entity="188" tag="2" value="1"/>
+<Block entity="840" type="12" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2024-12-01T09:13:15.938456+08:00"/>
+<Block entity="1044" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2024-12-01T09:13:15.938456+08:00"/>
+<Block entity="1044" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2024-12-01T09:13:15.938456+08:00"/>
+<TagChange entity="5" tag="358" value="2"/>
+<Block entity="5" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="14" ts="2024-12-01T09:13:15.938456+08:00"/>
+<Block entity="6" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="14" ts="2024-12-01T09:13:15.938456+08:00"/>
+<SendOption option="4" subOption="-1" target="840" position="0" ts="2024-12-01T09:13:29.701891+08:00"/>
+<Block entity="983" type="7" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" target="840" ts="2024-12-01T09:13:29.983890+08:00">
+<TagChange entity="983" tag="267" value="840"/>
+<Block entity="983" type="3" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" target="840" ts="2024-12-01T09:13:29.983890+08:00">
+<TagChange entity="5" tag="295" value="1"/>
+<SubSpell spellPrefabGuid="Bacon_Sell_AE_CoinThrow_Super:88d61d6d44a248f4a9612501772a9752" source="46" targetCount="1" ts="2024-12-01T09:13:29.983890+08:00">
+<SubSpellTarget index="0" entity="77"/>
+</SubSpell>
+<TagChange entity="840" tag="263" value="0"/>
+<TagChange entity="840" tag="49" value="6"/>
+<TagChange entity="4" tag="6" value="107"/>
+<TagChange entity="840" tag="1493" value="1"/>
+</Block>
+<Block entity="1044" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2024-12-01T09:13:29.983890+08:00"/>
+<Block entity="1044" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2024-12-01T09:13:29.983890+08:00"/>
+<TagChange entity="5" tag="358" value="3"/>
+<Block entity="5" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="14" ts="2024-12-01T09:13:29.983890+08:00"/>
+<Block entity="6" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="14" ts="2024-12-01T09:13:29.983890+08:00"/>
+</Block>
+<SendOption option="3" subOption="-1" target="0" position="0" ts="2024-12-01T09:13:30.351897+08:00"/>
+<Block entity="984" type="7" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2024-12-01T09:13:30.566885+08:00">
+<TagChange entity="5" tag="295" value="0"/>
+<TagChange entity="5" tag="25" value="5"/>
+<TagChange entity="5" tag="418" value="13"/>
+<Block entity="984" type="3" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2024-12-01T09:13:30.566885+08:00">
+<TagChange entity="5" tag="1377" value="3"/>
+<TagChange entity="77" tag="1377" value="3"/>
+<TagChange entity="984" tag="1437" value="0"/>
+<SubSpell spellPrefabGuid="Holy_Targeted_Healing_ImpactOnly_FX:98a6ddb5b34da2a419a16dcab9a2ef2c" source="984" targetCount="1" ts="2024-12-01T09:13:30.566885+08:00">
+<SubSpellTarget index="0" entity="984"/>
+</SubSpell>
+<TagChange entity="984" tag="1458" value="0"/>
+<TagChange entity="984" tag="49" value="6"/>
+<FullEntity id="1212" cardID="TB_BaconShopTechUp04_Button">
+<Tag tag="50" value="2"/>
+<Tag tag="202" value="12"/>
+<Tag tag="49" value="1"/>
+<Tag tag="53" value="1212"/>
+<Tag tag="313" value="984"/>
+<Tag tag="1037" value="2"/>
+<Tag tag="1284" value="59562"/>
+<Tag tag="2840" value="1"/>
+</FullEntity>
+<Block entity="1212" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2024-12-01T09:13:30.566885+08:00"/>
+<TagChange entity="4" tag="6" value="0"/>
+<TagChange entity="4" tag="6" value="101"/>
+<TagChange entity="984" tag="1493" value="1"/>
+</Block>
+<TagChange entity="984" tag="48" value="7"/>
+<Block entity="1044" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2024-12-01T09:13:30.566885+08:00"/>
+<Block entity="1044" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2024-12-01T09:13:30.566885+08:00"/>
+<TagChange entity="5" tag="358" value="4"/>
+<Block entity="5" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="14" ts="2024-12-01T09:13:30.566885+08:00"/>
+<Block entity="6" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="14" ts="2024-12-01T09:13:30.566885+08:00"/>
+</Block>
+<TagChange entity="5" tag="17" value="8"/>
+<Block entity="4" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2024-12-01T09:13:39.831193+08:00">
+<TagChange entity="77" tag="292" value="0"/>
+<TagChange entity="77" tag="44" value="30"/>
+<TagChange entity="116" tag="1373" value="1"/>
+<TagChange entity="161" tag="1373" value="3"/>
+<TagChange entity="146" tag="1373" value="4"/>
+<TagChange entity="176" tag="1373" value="5"/>
+<TagChange entity="131" tag="1373" value="6"/>
+<TagChange entity="101" tag="1373" value="7"/>
+<TagChange entity="77" tag="1373" value="8"/>
+</Block>
+<Block entity="4" type="6" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2024-12-01T09:13:39.964191+08:00">
+<Block entity="47" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="24" ts="2024-12-01T09:13:39.964191+08:00"/>
+<TagChange entity="77" tag="49" value="4"/>
+<TagChange entity="5" tag="17" value="3"/>
+</Block>
+<Block entity="4" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2024-12-01T09:13:39.964191+08:00"/>
+<Block entity="4" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="0" ts="2024-12-01T09:13:39.980216+08:00"/>
+<TagChange entity="5" tag="17" value="5"/>
+<TagChange entity="6" tag="17" value="4"/>
+<TagChange entity="4" tag="198" value="14"/>
+<TagChange entity="4" tag="19" value="14"/>
+<Block entity="4" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" ts="2024-12-01T09:13:39.980216+08:00">
+<TagChange entity="4" tag="198" value="15"/>
+</Block>
+<TagChange entity="4" tag="19" value="15"/>
+<TagChange entity="4" tag="204" value="3"/>
+<Block entity="47" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="16" ts="2024-12-01T09:13:39.980216+08:00"/>
+<Block entity="47" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="23" ts="2024-12-01T09:13:39.980216+08:00"/>
+<Block entity="47" type="5" effectCardId="System.Collections.Generic.List`1[System.String]" effectIndex="25" ts="2024-12-01T09:13:39.980216+08:00"/>
+</Game>
+</HSReplay>
